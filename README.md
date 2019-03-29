@@ -22,6 +22,7 @@
 * [Medical AI Times](https://aitimes.media/)
 * Medical Press [Obstetrics & gynaecology news](https://medicalxpress.com/obstetrics-gynaecology-news/) ＋ メールニュース(マイページから設定)
 * Medical Tribune [女性疾患・周産期](https://medical-tribune.co.jp/news/2019/dept_gynecology/) ＋ メールニュース(マイページから設定)
+* NEJM メールニュース
 * ObG Project [NEWS](https://www.obgproject.com/category/alerts/), [Grand Rounds](https://www.obgproject.com/category/grand-rounds/), [OB](https://www.obgproject.com/category/ob/), [Twiiter](https://twitter.com/TheObGProject)
 * RCOG [Facebook](https://www.facebook.com/pg/RCObsGyn/posts/)
 * Wiley OBGYN [Twiiter](https://twitter.com/WileyOBGYN)
