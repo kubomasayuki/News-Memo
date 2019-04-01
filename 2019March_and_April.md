@@ -1,4 +1,5 @@
 ### April 1, 2019 のメモ
+* [断続的に上昇する臍帯動脈ドプラPI値とIUGRに相関はなかった (American Journal Obstetrics & Gynecology MFM)](https://www.sciencedirect.com/science/article/pii/S2589933319300072)
 * [2つの5mm大のポートで行う腹腔鏡下子宮摘出術は患者の年齢や子宮の大きさによっては安全に行える (SAGE Journals)](https://journals.sagepub.com/doi/10.1177/1553350619827693)
 
 ### March 31, 2019 のメモ
