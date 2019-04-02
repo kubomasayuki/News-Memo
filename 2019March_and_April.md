@@ -1,5 +1,5 @@
 ### April 2, 2019 のメモ
-* [妊娠後期の仰臥位での睡眠は子宮への血流の減少し、死産の確率が増加 (The Conversation)](https://theconversation.com/mega-study-confirms-pregnant-women-can-reduce-risk-of-stillbirth-by-sleeping-on-their-side-114601)
+* [妊娠後期の仰臥位での睡眠は子宮への血流の減少し、死産の確率が増加 (THE CONVERSATION)](https://theconversation.com/mega-study-confirms-pregnant-women-can-reduce-risk-of-stillbirth-by-sleeping-on-their-side-114601)
 
 ### April 1, 2019 のメモ
 * [断続的に上昇する臍帯動脈ドプラPI値とIUGRに相関はなかった (American Journal Obstetrics & Gynecology MFM)](https://www.sciencedirect.com/science/article/pii/S2589933319300072)
