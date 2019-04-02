@@ -1,4 +1,5 @@
 ### April 2, 2019 のメモ
+* [学習データの収集を人力で行うには限界があるが、現在は専門家の判断が必要な医療データのアノテーションツールの学習、実現が望まれる (Ledge.ai)](https://ledge.ai/gengo-ai-basis-tech/) ([英語版 (Gengo)](https://gengo.ai/articles/a-look-into-the-global-text-analytics-supply-chain-an-interview-with-carl-hoffman-charly-walther/))
 * [妊娠後期の仰臥位での睡眠は子宮への血流の減少し、死産の確率が増加 (THE CONVERSATION)](https://theconversation.com/mega-study-confirms-pregnant-women-can-reduce-risk-of-stillbirth-by-sleeping-on-their-side-114601)
 
 ### April 1, 2019 のメモ
