@@ -1,4 +1,5 @@
 ### April 3, 2019 のメモ
+* [心臓専門医向けCME単位付き教育用シミュレーションアプリ (mHealth Watch)](http://mhealthwatch.jp/global/news20190401) ([原文](https://www.mobihealthnews.com/content/level-exs-latest-mobile-game-challenges-cardiologists-skills-cme-credits))
 * [遅延クランプは死亡、および小児期の神経学的有害転帰が有意に減少した (JAMA Network)](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2729476)
 
 ### April 2, 2019 のメモ
