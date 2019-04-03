@@ -1,4 +1,5 @@
 ### April 3, 2019 のメモ
+* [LOX-indexから新生児低酸素性虚血性脳症を早期診断、発見 (国立精神・神経医療研究センター)](https://www.ncnp.go.jp/press/release.html?no=441)
 * [母体血成分から胎児心不全を予測 (国立循環器病研究センター)](http://www.ncvc.go.jp/pr/release/181107_press.html)
 * [心臓専門医向けCME単位付き教育用シミュレーションアプリ (mHealth Watch)](http://mhealthwatch.jp/global/news20190401) ([原文](https://www.mobihealthnews.com/content/level-exs-latest-mobile-game-challenges-cardiologists-skills-cme-credits))
 * [遅延クランプは死亡、および小児期の神経学的有害転帰が有意に減少した (JAMA Network)](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2729476)
