@@ -1,3 +1,7 @@
+### April 5, 2019 のメモ
+* [Apple Watchの心電図・不整脈検出機能が欧州と香港でも解禁 (Tech Crunch)](https://jp.techcrunch.com/2019/03/29/2019-03-27-apple-watch-ecg-capabilities-arrive-for-users-across-europe-and-hong-kong/) ([原文](https://techcrunch.com/2019/03/27/apple-watch-ecg-capabilities-arrive-for-users-across-europe-and-hong-kong/))
+* [kaggleの新コンペは音のアノテーション付加 (kaggle)](https://www.kaggle.com/c/freesound-audio-tagging-2019/)
+
 ### April 3, 2019 のメモ
 * [LOX-indexから新生児低酸素性虚血性脳症を早期診断、発見 (国立精神・神経医療研究センター)](https://www.ncnp.go.jp/press/release.html?no=441)
 * [母体血成分から胎児心不全を予測 (国立循環器病研究センター)](http://www.ncvc.go.jp/pr/release/181107_press.html)
