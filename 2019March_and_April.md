@@ -1,3 +1,6 @@
+### April 8, 2019 のメモ
+* [妊娠高血圧腎症の治療は児の高血圧の予防につながる (Medical Xpress)](https://medicalxpress.com/news/2019-04-preeclampsia-treatment-mothers-benefits-offspring.html)
+
 ### April 7, 2019 のメモ
 * [フリーのFHR解析ソフト (ANS Lab Tools)](https://anslabtools.univ-st-etienne.fr/en/index.html)
 * [HPVを接種した話 (kbcfireの日記)](https://kbcfire.hatenablog.com/entry/2019/04/07/103647)
