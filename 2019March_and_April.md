@@ -1,5 +1,6 @@
 ### April 7, 2019 のメモ
 * [フリーのFHR解析ソフト (ANS Lab Tools)](https://anslabtools.univ-st-etienne.fr/en/index.html)
+* [HPVを接種した話 (kbcfireの日記)](https://kbcfire.hatenablog.com/entry/2019/04/07/103647)
 
 ### April 5, 2019 のメモ
 * [Apple Watchの心電図・不整脈検出機能が欧州と香港でも解禁 (Tech Crunch)](https://jp.techcrunch.com/2019/03/29/2019-03-27-apple-watch-ecg-capabilities-arrive-for-users-across-europe-and-hong-kong/) ([原文](https://techcrunch.com/2019/03/27/apple-watch-ecg-capabilities-arrive-for-users-across-europe-and-hong-kong/))
