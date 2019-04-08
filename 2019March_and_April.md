@@ -1,6 +1,6 @@
 ### April 8, 2019 のメモ
 * [妊娠高血圧腎症の治療は児の高血圧の予防につながる (Science Daily)](https://www.sciencedaily.com/releases/2019/04/190406125630.htm)
-* [Google Colaboratoryで、TVMと主要深層学習フレームワークを使う方法のまとめ (stakemura - Qiita)]https://qiita.com/stakemura/items/1761be70a06fa8ee853f
+* [Google Colaboratoryで、TVMと主要深層学習フレームワークを使う方法のまとめ (stakemura - Qiita)](https://qiita.com/stakemura/items/1761be70a06fa8ee853f)
 
 ### April 7, 2019 のメモ
 * [フリーのFHR解析ソフト (ANS Lab Tools)](https://anslabtools.univ-st-etienne.fr/en/index.html)
