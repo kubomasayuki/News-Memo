@@ -1,6 +1,7 @@
 ### April 11, 2019 のメモ
 * [医療データのクレンジングサービスをリリース (PR TIMES)](https://prtimes.jp/main/html/rd/p/000000005.000011087.html)
 * [ただ振動するだけのウェアラブルデバイス (engadget 日本版)](https://japanese.engadget.com/2019/01/10/doppel/)
+* [da Vinciによる子宮移植手術を受けた女性が健常な男児を出産 (Daily Mail Online)](https://www.dailymail.co.uk/health/article-6902543/Swedish-woman-gives-birth-healthy-boy-womb-transplant.html)
 
 ### April 8, 2019 のメモ
 * [妊娠高血圧腎症の治療は児の高血圧の予防につながる (Science Daily)](https://www.sciencedaily.com/releases/2019/04/190406125630.htm)
