@@ -1,5 +1,7 @@
 ### April 12, 2019 のメモ
 * [子宮内膜症を発見するスマートタンポンの開発費1億円超を調達 (Tech Crunch)](https://jp.techcrunch.com/2019/04/02/2019-04-01-a-startup-trying-to-detect-endometriosis-through-smart-tampons-just-landed-9-million-in-series-a-funding/)
+* [4/10 中医協総会(周産期) 分娩を扱う施設の減少、ハイリスク妊産婦の増加に対応するための周産期母子センターや制度の整備について (メディ・ウォッチ)](https://www.medwatch.jp/?p=25876)
+* [医薬品系スマホアプリはプライバシーのリスクが高い (m3.com)](https://www.m3.com/open/thesis/article/20219/)
 
 ### April 11, 2019 のメモ
 * [医療データのクレンジングサービスをリリース (PR TIMES)](https://prtimes.jp/main/html/rd/p/000000005.000011087.html)
