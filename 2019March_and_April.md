@@ -1,3 +1,6 @@
+### April 12, 2019 のメモ
+* [子宮内膜症を発見するスマートタンポンの開発費1億円超を調達 (Tech Crunch)](https://jp.techcrunch.com/2019/04/02/2019-04-01-a-startup-trying-to-detect-endometriosis-through-smart-tampons-just-landed-9-million-in-series-a-funding/)
+
 ### April 11, 2019 のメモ
 * [医療データのクレンジングサービスをリリース (PR TIMES)](https://prtimes.jp/main/html/rd/p/000000005.000011087.html)
 * [ただ振動するだけのウェアラブルデバイス (engadget 日本版)](https://japanese.engadget.com/2019/01/10/doppel/)
