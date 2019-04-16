@@ -1,3 +1,6 @@
+### April 16, 2019 のメモ
+* [高精度産科超音波用シミュレータ (VitraMed)](https://w3.virtamed.com/ultrasound)
+
 ### April 15, 2019 のメモ
 * [臨床現場が欲しいAIと実際のAIのギャップ (Twitter)](https://twitter.com/ayako700/status/1116654349986385921)
 
