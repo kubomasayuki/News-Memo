@@ -1,3 +1,6 @@
+### April 17, 2019 のメモ
+* [アノテーションツール比較 (syu-yusa - Qiita)](https://qiita.com/shu-yusa/items/d19ea57e3cf9c4dbdce2)
+
 ### April 16, 2019 のメモ
 * [高精度産科超音波用シミュレータ (VitraMed)](https://w3.virtamed.com/ultrasound)
 
