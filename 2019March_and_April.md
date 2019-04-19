@@ -1,3 +1,6 @@
+### April 19, 2019 のメモ
+* [30分後の血糖値低下を予測するデバイス、AIアルゴリズムを開発 (Med IT Tech)](https://medit.tech/ai-for-hypoglycemia-prediction/)
+
 ### April 17, 2019 のメモ
 * [アノテーションツール比較 (syu-yusa - Qiita)](https://qiita.com/shu-yusa/items/d19ea57e3cf9c4dbdce2)
 
