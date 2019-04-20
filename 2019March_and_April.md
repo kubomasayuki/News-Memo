@@ -1,5 +1,5 @@
 ### April 20, 2019 のメモ
-* [麻酔を自動制御するロボットの臨床試験開始 (ニュースイッチ)](https://newswitch.jp/p/17299)
+* [患者の血圧や脳波から麻酔を自動制御するロボットの臨床試験開始 (ニュースイッチ)](https://newswitch.jp/p/17299)
 
 ### April 19, 2019 のメモ
 * [30分後の血糖値低下を予測するデバイス、AIアルゴリズムを開発 (Med IT Tech)](https://medit.tech/ai-for-hypoglycemia-prediction/)
