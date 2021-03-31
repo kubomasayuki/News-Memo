@@ -57,3 +57,10 @@
 * [産後の子宮の自力収縮を促すループ構造を持つ子宮バルーンタンポナーデ。 (Alydia Health)](https://www.alydiahealth.com/jada)
 * [臍帯血中のカドミウム濃度と児の喘息とアレルギーのリスクが上昇。 (Medical Xpress)](https://medicalxpress.com/news/2020-09-exposure-cadmium-womb-linked-childhood.html)
 * [周産期医療の広場 (日本産科婦人科学会サステイナブル産婦人科医療体制確立委員会)](http://shusanki.org/index.html)
+
+[August 2020](2008.md)
+* [胎児・新生児向けウェアラブルバイタルモニタ装置の開発とその臨床評価。 (KAKEN)](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-25289121/)
+* [アカゲザルにおいて、人と同様の出産時の骨盤と児頭の共変動を確認。 (京都大学)](http://www.kyoto-u.ac.jp/ja/research/research_results/2020/200818_1.html)
+* [牛乳由来の栄養より母乳由来の栄養の方が未熟児の予後を改善。 (University of Missouri)](https://news.missouri.edu/2020/got-milk-human-milk-based-fortifiers-improve-health-outcomes-for-the-smallest-premature-babies/) ([記事](https://www.neonatologytoday.net/newsletters/nt-jul20.pdf))
+* [分娩、出産、産後ケア。 (Mayo Clinic)](https://www.mayoclinic.org/healthy-lifestyle/labor-and-delivery/basics/labor-and-delivery/hlv-20049465)
+* [生後数時間の採取血液から胎児の脳損傷を診断。 (Imperial College London)](https://www.imperial.ac.uk/news/200975/blood-test-could-diagnose-baby-brain/)
