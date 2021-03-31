@@ -26,3 +26,10 @@
 * [顧問助産師派遣サービス。 (With Midwife)](https://withmidwife.jp/komonmw/)
 * [胎児手術向けテーピング。 (WYSS Institute)](https://wyss.harvard.edu/news/tough-yet-flexible-treatment-for-babies-in-the-womb/)
 * [HPV感染症、子宮頸がん予防の啓蒙サイト。 (みんパピ！)](https://minpapi.jp/)
+
+[November 2020](2011.md)
+* [遅延臍帯結紮に関する見解の更新。 (ACOG Committee Opinion 814)](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/12/delayed-umbilical-cord-clamping-after-birth)
+* [新生児の脳性麻痺などの兆候を見つける為のウェアラブルカフ。 (Imperial College London)](https://www.imperial.ac.uk/news/209073/new-non-invasive-technology-could-spot-early/)
+* [WHOの分娩ケアガイドの評価。 (Birth)](https://onlinelibrary.wiley.com/doi/10.1111/birt.12511)
+* [大きな赤ちゃんを産むと乳がんリスクが上昇。 (QLife Pro)](http://www.qlifepro.com/news/20120802/lays-out-a-big-baby-that-breast-cancer-risk-more-than-doubled.html)
+* [11月17日は世界早産児デー。 (EFCNI、The European Foundation for the Care of Newborn Infants)](https://www.efcni.org/activities/campaigns/wpd/)
