@@ -16,3 +16,13 @@
 * [リンパ節転移した子宮頸がんは子宮全摘出術では生存率が改善しない。 (English Journal of Cancer)](https://www.ejcancer.com/article/S0959-8049(20)31326-5/abstract)
 * [帝王切開時の麻酔。 (YouTube)](https://www.youtube.com/watch?v=1gjnzzOmP28)
 * [日常使用で早産につながる陣痛をモニタするデバイス。 (Bloomlife)](https://bloomlife.com/)
+
+[December 2020](2012.md)
+* [自宅で乳がんをチェックできるデバイス。(MAMMOECHO、Sony first flight)](https://first-flight.sony.com/pj/mammoecho)
+* [肩甲難産は早くて3～4分、遅くても15～20分で脳障害の可能性がある。 (contemporary OBGYN)](https://www.contemporaryobgyn.net/view/protocols-for-high-risk-pregnancies-7th-edition)
+* [父親の健康状態と流産の関係性。 (ESHRE)](https://www.eshre.eu/Press-Room/Press-releases-2020/Health-fathers-risk-pregnancy-loss)
+* [胎児心電図モニタ。 (mindchild)](http://www.mindchild.com/)
+* [カテゴリII(3段階中？)の酸素投与で胎児心拍パターンに変化なし。 (AJOG)](https://www.ajog.org/article/S0002-9378(20)30662-1/fulltext)
+* [顧問助産師派遣サービス。 (With Midwife)](https://withmidwife.jp/komonmw/)
+* [胎児手術向けテーピング。 (WYSS Institute)](https://wyss.harvard.edu/news/tough-yet-flexible-treatment-for-babies-in-the-womb/)
+* [HPV感染症、子宮頸がん予防の啓蒙サイト。 (みんパピ！)](https://minpapi.jp/)
