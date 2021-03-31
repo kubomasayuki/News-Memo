@@ -7,3 +7,12 @@
 * [成人病胎児期起源説(DOHaD、ドーハッド)に関する学会。 (日本DOHaD学会)](http://square.umin.ac.jp/Jp-DOHaD/index.html)
 * [DOHaDの現状(2019時点)と課題。 (日本産婦人科医会)](http://www.jaog.or.jp/wp/wp-content/uploads/2019/03/eae26d5cc26a44d86d0f83c00b76b8c4.pdf)
 * [妊活の管理だけでなく、過去の類似症例を参考にできる妊活アプリ。 (ninpath)](https://ninpath.com/)
+
+[January 2021](2101.md)
+* [光による概日リズムの乱れは早産につながる可能性。 (Lehigh University)](https://www2.lehigh.edu/news/muzhe-yang-light-pollution-linked-to-preterm-birth-increase)
+* [静脈血栓塞栓症(VTE)のリスクと処置。 (Minds ガイドラインライブラリ)](https://minds.jcqhc.or.jp/n/cq/D0003256)
+* [前置胎盤に予防的にバルーン留置した群はしない群より出血量が少なかった。 (International Journal of Gynecology)](https://obgyn.onlinelibrary.wiley.com/doi/10.1002/ijgo.13589)
+* [途上国に周産期医療を届けるNGO。 (特定非営利活動法人母と子の医療を世界に届ける会)](https://igpc.jp/)
+* [リンパ節転移した子宮頸がんは子宮全摘出術では生存率が改善しない。 (English Journal of Cancer)](https://www.ejcancer.com/article/S0959-8049(20)31326-5/abstract)
+* [帝王切開時の麻酔。 (YouTube)](https://www.youtube.com/watch?v=1gjnzzOmP28)
+* [日常使用で早産につながる陣痛をモニタするデバイス。 (Bloomlife)](https://bloomlife.com/)
