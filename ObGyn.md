@@ -84,3 +84,8 @@
 * [非侵襲胎児酸素飽和度モニタ (カリフォルニア大デービス校)](https://www.ucdavis.edu/news/noninvasive-fetal-oxygen-monitor-could-make-safer-deliveries)
 * [患者が自宅からも48時間の連続監視が可能なベルトレスのモニタリング製品。 (Philips)](https://www.usa.philips.com/healthcare/product/HC866488/avalon-beltless-fetal-monitoring-solution) ([FDAの緊急ガイドラインによりCOVID-19に伴いAvalon CLとともに認可](https://www.medgadget.com/2020/06/philips-fetal-monitor-to-help-during-covid-distancing.html))
 * [推定胎児体重のパーセンタイルを計算するソフトウェア。 (Bioinformatics and Computational Biology Unit of the Wayne State University School of Medicine Perinatal Initiative)](https://bioinformaticsprb.med.wayne.edu/software/) ([PublishされたPaper](https://www.ajog.org/article/S0002-9378(20)30144-7/fulltext))
+
+[May 2020](2005.md)
+* [妊娠中の高血圧は胎児の心臓の形(一部の真腔の大きさや肥厚)を変える可能性がある。 (AHA News)](https://www.heart.org/en/news/2020/04/30/pregnant-womans-high-blood-pressure-can-change-shape-of-babys-heart)
+* [Novii 外測胎児監視デバイスの臨床研究。 (Clinical Trials)](https://clinicaltrials.gov/ct2/show/NCT03156608)
+* [国際助産師デー。(国際助産師連盟)](https://www.internationalmidwives.org/icm-events/international-day-of-the-midwife-2020.html)
