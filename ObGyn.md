@@ -104,18 +104,5 @@
 [February 2020](2002.md)
 
 [January 2020](2001.md)
-* [\[ObGyn\]](ObGyn.md) [現代の分娩シミュレーション用マネキン (AJOG)](https://www.ajog.org/article/S0002-9378(19)30907-X/fulltext)
-
-January 14, 2020
-* [AIを使い、指先穿刺なしにECGから低グルコースを検出 (University of Warwick)](https://warwick.ac.uk/newsandevents/pressreleases/artificial_intelligence_ai/)
-
-January 11, 2020
-* [たばこのがん罹患リスクについて (CDC)](https://www.cdc.gov/cancer/tobacco/index.htm)
-
-January 7, 2020
-* [臨床研究の信頼性確保のためのモニタリング (AMED)](https://www.mextnw.hosp.tohoku.ac.jp/handouts/002/wp/rm)
-
-January 6, 2020
-* [アプリでSIDSのリスクを減らす？ (Rutgers Today)](https://news.rutgers.edu/just-had-baby-new-app-helps-keep-them-safe/20191213)
-* [\[ObGyn\]](ObGyn.md) [大気汚染の長期曝露で妊娠高血圧リスク増 (NIH)](https://www.nih.gov/news-events/news-releases/pregnancy-hypertension-risk-increased-traffic-related-air-pollution)
-* [慈恵大学病院、新外来棟をオープン (m3)](https://www.m3.com/news/iryoishin/719133)
+* [現代の分娩シミュレーション用マネキン (AJOG)](https://www.ajog.org/article/S0002-9378(19)30907-X/fulltext)
+* [大気汚染の長期曝露で妊娠高血圧リスク増 (NIH)](https://www.nih.gov/news-events/news-releases/pregnancy-hypertension-risk-increased-traffic-related-air-pollution)
