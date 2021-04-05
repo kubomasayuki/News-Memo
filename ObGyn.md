@@ -94,3 +94,9 @@
 * [HD画質、5mm径のディスポ式ラパロ。 (PR Newswire)](https://www.prnewswire.com/news-releases/fda-clears-new-disposable-fog-free-articulating-5mm-laparoscope-301040004.html)
 * [在宅向けCTGモニター。 (mHealth Watch)](http://mhealthwatch.jp/global/news20200417) ([Clinical.gov](https://clinicaltrials.gov/ct2/show/NCT03504189), [510k](https://www.nuvocares.com/assets/downloads/K191401.510kSummary.Final_Sent001.pdf))
 * [帝王切開で生まれた女児は肥満、2型糖尿病のリスクが高い。 (MedPage Today)](https://www.medpagetoday.com/endocrinology/diabetes/85940)
+
+[March 2020](2003.md)
+* [双胎児の早産は周産期死亡リスクが増加 (MedPage Today)](https://www.medpagetoday.com/obgyn/pregnancy/85326)
+* [タダラフィルの経母体投与で胎児心不全の治療が可能となるか (国立循環器病研究センター)](http://www.ncvc.go.jp/pr/release/20200302_press.html)
+* [出産1～2日前の黄砂飛来で常位胎盤早期剥離が増加 (東邦大学)](https://www.toho-u.ac.jp/press/2019_index/20191108-1034.html)
+* [オンライン妊婦健診 (北海道大学)](https://www.hokudaibyouin-sanka.com/%E3%80%90%E8%87%A8%E6%99%82%E5%AF%BE%E5%BF%9C%E3%80%91%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E8%A8%BA%E7%99%82/)
