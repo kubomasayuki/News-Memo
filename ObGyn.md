@@ -100,3 +100,22 @@
 * [タダラフィルの経母体投与で胎児心不全の治療が可能となるか (国立循環器病研究センター)](http://www.ncvc.go.jp/pr/release/20200302_press.html)
 * [出産1～2日前の黄砂飛来で常位胎盤早期剥離が増加 (東邦大学)](https://www.toho-u.ac.jp/press/2019_index/20191108-1034.html)
 * [オンライン妊婦健診 (北海道大学)](https://www.hokudaibyouin-sanka.com/%E3%80%90%E8%87%A8%E6%99%82%E5%AF%BE%E5%BF%9C%E3%80%91%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E8%A8%BA%E7%99%82/)
+
+[February 2020](2002.md)
+
+January 16, 2019
+* [\[ObGyn\]](ObGyn.md) [現代の分娩シミュレーション用マネキン (AJOG)](https://www.ajog.org/article/S0002-9378(19)30907-X/fulltext)
+
+January 14, 2020
+* [AIを使い、指先穿刺なしにECGから低グルコースを検出 (University of Warwick)](https://warwick.ac.uk/newsandevents/pressreleases/artificial_intelligence_ai/)
+
+January 11, 2020
+* [たばこのがん罹患リスクについて (CDC)](https://www.cdc.gov/cancer/tobacco/index.htm)
+
+January 7, 2020
+* [臨床研究の信頼性確保のためのモニタリング (AMED)](https://www.mextnw.hosp.tohoku.ac.jp/handouts/002/wp/rm)
+
+January 6, 2020
+* [アプリでSIDSのリスクを減らす？ (Rutgers Today)](https://news.rutgers.edu/just-had-baby-new-app-helps-keep-them-safe/20191213)
+* [\[ObGyn\]](ObGyn.md) [大気汚染の長期曝露で妊娠高血圧リスク増 (NIH)](https://www.nih.gov/news-events/news-releases/pregnancy-hypertension-risk-increased-traffic-related-air-pollution)
+* [慈恵大学病院、新外来棟をオープン (m3)](https://www.m3.com/news/iryoishin/719133)
