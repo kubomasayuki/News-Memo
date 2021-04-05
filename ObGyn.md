@@ -106,3 +106,8 @@
 [January 2020](2001.md)
 * [現代の分娩シミュレーション用マネキン (AJOG)](https://www.ajog.org/article/S0002-9378(19)30907-X/fulltext)
 * [大気汚染の長期曝露で妊娠高血圧リスク増 (NIH)](https://www.nih.gov/news-events/news-releases/pregnancy-hypertension-risk-increased-traffic-related-air-pollution)
+
+[December 2019](1912.md)
+* [帝王切開後の膣播種はエビデンスが乏しいため、代わりに母乳育児を推奨 (Mayo Clinic)](https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/expert-answers/vaginal-seeding/faq-20380881)
+* [精神刺激薬であるコーヒー、ニコチン、アンフェタミンの服用は胎児の脳に精神刺激のホットスポットを作る可能性がある (Medical Xpress)](https://medicalxpress.com/news/2019-12-coffee-nicotine-amphetamines-hot-fetal.html)
+* [産婦人科向け電子カルテ発売開始 (CLIPLA)](https://clipla.jp/news/2019/12/05/20191205/)
