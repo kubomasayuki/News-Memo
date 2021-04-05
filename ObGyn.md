@@ -89,3 +89,8 @@
 * [妊娠中の高血圧は胎児の心臓の形(一部の真腔の大きさや肥厚)を変える可能性がある。 (AHA News)](https://www.heart.org/en/news/2020/04/30/pregnant-womans-high-blood-pressure-can-change-shape-of-babys-heart)
 * [Novii 外測胎児監視デバイスの臨床研究。 (Clinical Trials)](https://clinicaltrials.gov/ct2/show/NCT03156608)
 * [国際助産師デー。(国際助産師連盟)](https://www.internationalmidwives.org/icm-events/international-day-of-the-midwife-2020.html)
+
+[April 2020](2004.md)
+* [HD画質、5mm径のディスポ式ラパロ。 (PR Newswire)](https://www.prnewswire.com/news-releases/fda-clears-new-disposable-fog-free-articulating-5mm-laparoscope-301040004.html)
+* [在宅向けCTGモニター。 (mHealth Watch)](http://mhealthwatch.jp/global/news20200417) ([Clinical.gov](https://clinicaltrials.gov/ct2/show/NCT03504189), [510k](https://www.nuvocares.com/assets/downloads/K191401.510kSummary.Final_Sent001.pdf))
+* [帝王切開で生まれた女児は肥満、2型糖尿病のリスクが高い。 (MedPage Today)](https://www.medpagetoday.com/endocrinology/diabetes/85940)
