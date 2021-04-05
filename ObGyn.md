@@ -1,5 +1,5 @@
 [April 2021](2104.md)
-* 
+* [妊娠中のアルコール曝露を自己申告の代わりに胎便中のバイオマーカーで特定。 (Case Western Reserve University)](https://case.edu/medicine/admission/about/newsroom/our-latest-news/meconium-may-provide-clues-fetal-alcohol-exposure-forecast-behavioral-issues-later-childhood) ([論文](https://www.sciencedirect.com/science/article/abs/pii/S0376871620306025))
 
 [March 2021](2103.md)
 * [妊娠中の家電やカーペットに使用される難燃剤(PBDE)の曝露により早産リスク増。 (NYU Langone Health)](https://nyulangone.org/news/exposure-flame-retardants-early-pregnancy-linked-premature-birth) ([論文](https://www.degruyter.com/document/doi/10.1515/jpm-2020-0349/html))
