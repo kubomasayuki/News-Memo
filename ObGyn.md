@@ -103,7 +103,7 @@
 
 [February 2020](2002.md)
 
-January 16, 2019
+[January 2020](2001.md)
 * [\[ObGyn\]](ObGyn.md) [現代の分娩シミュレーション用マネキン (AJOG)](https://www.ajog.org/article/S0002-9378(19)30907-X/fulltext)
 
 January 14, 2020
