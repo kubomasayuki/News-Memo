@@ -128,3 +128,9 @@
 * [肥満患者において、妊娠前に胃バイパス手術による減量を行った方が先天性欠損症リスクを軽減 (MEDPAGE TODAY)](https://www.medpagetoday.com/primarycare/obesity/82738)
 * [身体的または精神的ストレス下において男児が有意に減少 (Eurek Alert)](https://eurekalert.org/pub_releases/2019-10/cuim-sdp101119.php)
 * [子宮内デバイスが卵巣がんの予防に (CPR News)](https://www.cpr.org/2019/09/11/cu-study-finds-link-between-iuds-and-lower-risk-of-ovarian-cancer/)
+
+[September 2019](1909.md)
+* [汚染された大気の影響は胎盤まで達することが判明 (INTERNATIONAL CONGRESS 2018)](https://erscongress.org/about-ers-2018/media-centre/press-releases/143-press-releases/612-soot-pollution-placenta.html)
+* [病院とクリニックが妊婦の情報をウェブで共有 (やごと周産期ネットワーク)](https://www.nagoya2.jrc.or.jp/shusanki/yagotosyuusankinetworksystemnitsuite/)
+* [妊婦検診のロボット化 (INOWA)](https://www.inowamed.com/blank-2)
+* [非侵襲FECG、FMCGの系統的レビュー (BMC Pregnancy and Childbirth)](https://doi.org/10.1186/s12884-019-2357-9)
