@@ -112,3 +112,9 @@
 * [帝王切開後の膣播種はエビデンスが乏しいため、代わりに母乳育児を推奨 (Mayo Clinic)](https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/expert-answers/vaginal-seeding/faq-20380881)
 * [精神刺激薬であるコーヒー、ニコチン、アンフェタミンの服用は胎児の脳に精神刺激のホットスポットを作る可能性がある (Medical Xpress)](https://medicalxpress.com/news/2019-12-coffee-nicotine-amphetamines-hot-fetal.html)
 * [産婦人科向け電子カルテ発売開始 (CLIPLA)](https://clipla.jp/news/2019/12/05/20191205/)
+
+[November 2019](1911.md)
+* [産婦人科,小児科,医療×ICTの最新文献をシェア (KPJ)](https://kpjournal.jp/)
+* [妊娠27週以前の周産期管理実践の為のフレームワーク(2019) (British Association of Perinatal Medicine)](https://www.bapm.org/resources/80-perinatal-management-of-extreme-preterm-birth-before-27-weeks-of-gestation-2019)
+* [黄砂飛来の数日後に常位胎盤早期剥離が増加 (東邦大学)](https://www.toho-u.ac.jp/press/2019_index/20191108-1034.html)
+* [子宮収縮から体外受精の結果を予測 (Eindhoven University of Technology)](https://www.tue.nl/en/news/news-overview/measurement-of-uterine-contractions-could-predict-the-outcome-of-in-vitro-fertilization/)
