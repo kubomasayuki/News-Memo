@@ -137,3 +137,11 @@
 * [病院とクリニックが妊婦の情報をウェブで共有 (やごと周産期ネットワーク)](https://www.nagoya2.jrc.or.jp/shusanki/yagotosyuusankinetworksystemnitsuite/)
 * [妊婦検診のロボット化 (INOWA)](https://www.inowamed.com/blank-2)
 * [非侵襲FECG、FMCGの系統的レビュー (BMC Pregnancy and Childbirth)](https://doi.org/10.1186/s12884-019-2357-9)
+
+[August 2019](1908.md)
+* [カナダ産婦人科学会が骨盤位に対するガイドラインを発表 (Lamaze)](https://www.lamaze.org/Connecting-the-Dots/Post/canadas-obstetricians-release-updated-breech-guidelines-informed-consent-is-key) (原文 [No.384-Management of Breech Presentation at Term](https://www.sciencedirect.com/science/article/abs/pii/S1701216318310405))
+* [血小板数が少ないことが新生児の脳性麻痺の原因となる可能性がある (MedicalXpress)](https://medicalxpress.com/news/2019-08-tiny-blood-cells-cerebral-palsy.html)
+* [CTG解析ツールおよびMATLABソースコード (CTG OAS)](http://www.ctganalysis.com/)
+* [1st Signal Processing and Monitoring (SPaM) in Labour Workshop](http://users.ox.ac.uk/~ndog0178/program.htm)  
+* [2nd Signal Processing and Monitoring (SPaM) in Labour Workshop](http://users.ox.ac.uk/~ndog0178/CTGchallenge2017.htm)
+
