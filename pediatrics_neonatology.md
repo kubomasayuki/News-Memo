@@ -7,3 +7,6 @@
 [March 2021](2103.md)
 * [子供を繰り返し怒ったり、身体的/精神的な暴力を振るうことは、子供の脳を委縮させる。 (University of Montreal)](https://nouvelles.umontreal.ca/en/article/2021/03/22/does-harsh-parenting-lead-to-smaller-brains/) (過去の調査：[February 14, 2021 体罰や育児放棄が発達指数(DQ)の低下と相関。](2102.md))
 * [生後6ヶ月以内の乳児の泣き声からの発達分析。 (Universitat Wurzburg)](https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/aus-der-melodie-waechst-die-sprache/)
+
+[February 2021](2102.md)
+* [体罰や育児放棄が発達指数(DQ)の低下と相関。 (Science Daily)](https://www.sciencedaily.com/releases/2021/02/210205192202.htm) ([原文](https://jaacap.org/article/S0890-8567(20)30163-5/fulltext))
