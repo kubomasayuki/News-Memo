@@ -10,3 +10,6 @@
 
 [February 2021](2102.md)
 * [体罰や育児放棄が発達指数(DQ)の低下と相関。 (Science Daily)](https://www.sciencedaily.com/releases/2021/02/210205192202.htm) ([原文](https://jaacap.org/article/S0890-8567(20)30163-5/fulltext))
+
+[January 2021](2101.md)
+* [受動喫煙は子供の虫歯リスク上昇。 (BMJ)](https://www.bmj.com/content/351/bmj.h5397)
