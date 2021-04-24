@@ -151,3 +151,10 @@
 * [妊娠中の片頭痛は妊娠合併症、周産期転帰や新生児予後の悪化をもたらす (NEUROSCIENCE News)](https://neurosciencenews.com/migraine-pregnancy-14341/)  
 * [HPVワクチンが感染と異形成の双方を抑制 (CareNet)](https://www.carenet.com/news/journal/carenet/48301) [原文(Lancet)](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)30298-3/fulltext)  
 * [Apple Watchが不整脈の検出に続き、月経周期トラッキング市場に参入 (Medical AI Times)](https://aitimes.media/2019/06/26/3027/?13570)
+
+[June 2019](1906.md)
+* [低出生体重児の成長記録をアプリで支援 (神奈川県立こども医療センター 豊島先生 - Facebook)](https://facebook.com/groups/216328698412028?view=permalink&id=2543085279069680)
+* [帝王切開後の経膣分娩(VBAC)の成功率は高いが、依然として避ける医師が多い (The Conversation)](https://theconversation.com/number-of-women-steered-towards-repeat-caesareans-is-much-higher-than-necessary-118140)  
+* [排卵周期をイヤホンとAIでトラッキング (TECHABLE)](https://techable.jp/archives/100676)  
+* [EllaviバルーンタンポナーデがEUクリアランス賞を受賞 (medgadget)](https://www.medgadget.com/2019/06/ellavi-a-cheap-uterine-balloon-tamponade-for-menstrual-bleeding-wins-eu-clearance.html)
+* [世界最小 245グラムで生まれた女児 退院 (時事ドットコムニュース)](https://www.jiji.com/jc/article?k=20190531038674a&g=afp)  
