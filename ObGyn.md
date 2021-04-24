@@ -158,3 +158,10 @@
 * [排卵周期をイヤホンとAIでトラッキング (TECHABLE)](https://techable.jp/archives/100676)  
 * [EllaviバルーンタンポナーデがEUクリアランス賞を受賞 (medgadget)](https://www.medgadget.com/2019/06/ellavi-a-cheap-uterine-balloon-tamponade-for-menstrual-bleeding-wins-eu-clearance.html)
 * [世界最小 245グラムで生まれた女児 退院 (AFPニュース)](https://www.afpbb.com/articles/fp/3227532)
+
+[May 2019](1905.md)
+* [妊産婦の緊急搬送をIoTでサポートする緊急搬送補助システムの実証事業を開始 (NTT docomo)](https://www.nttdocomo.co.jp/info/notice/chugoku/page/190416_00.html)
+* [オバマケアを導入した州では低出生体重や早産が改善した (CareNet)](https://www.carenet.com/news/journal/carenet/47994) ([JAMA Networkのジャーナル原文](https://jamanetwork.com/journals/jama/article-abstract/2731179))
+* [妊娠時の男性の高齢化も妊娠糖尿病・早産や小児がん・自閉症のリスク因子になりうる (MATURITAS)](https://www.maturitas.org/article/S0378-5122(19)30134-3/fulltext)
+* [妊娠関連死の5人に3人は予防可能 (CDC)](https://www.cdc.gov/vitalsigns/maternal-deaths/)
+* [産後出血(PPH)のシミュレーション (montgomerycollege - YouTube)](https://www.youtube.com/watch?v=MxKiGP17C24)
