@@ -13,3 +13,6 @@
 
 [January 2021](2101.md)
 * [受動喫煙は子供の虫歯リスク上昇。 (BMJ)](https://www.bmj.com/content/351/bmj.h5397)
+
+[December 2020](2012.md)
+* [父親との接点が多い子供は落ち着きがあり、問題行動が少ない。 (Rutgers University)](https://www.rutgers.edu/news/engaged-dads-can-reduce-adolescent-behavioral-problems-improve-well-being)
