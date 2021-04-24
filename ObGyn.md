@@ -145,3 +145,9 @@
 * [1st Signal Processing and Monitoring (SPaM) in Labour Workshop](http://users.ox.ac.uk/~ndog0178/program.htm)  
 * [2nd Signal Processing and Monitoring (SPaM) in Labour Workshop](http://users.ox.ac.uk/~ndog0178/CTGchallenge2017.htm)
 
+[July 2019](1907.md)
+* [sonicaid team 3シリーズ (Huntleigh Healthcare)](https://www.huntleigh.healthcare/store/obstetric-monitoring/sonicaid-fetal-monitoring/fetal-monitors/sonicaid-team-3-series)
+* [モバイルコルポスコープ (Mobile ODT)](https://www.mobileodt.com/products/eva-colpo/)  
+* [妊娠中の片頭痛は妊娠合併症、周産期転帰や新生児予後の悪化をもたらす (NEUROSCIENCE News)](https://neurosciencenews.com/migraine-pregnancy-14341/)  
+* [HPVワクチンが感染と異形成の双方を抑制 (CareNet)](https://www.carenet.com/news/journal/carenet/48301) [原文(Lancet)](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)30298-3/fulltext)  
+* [Apple Watchが不整脈の検出に続き、月経周期トラッキング市場に参入 (Medical AI Times)](https://aitimes.media/2019/06/26/3027/?13570)
