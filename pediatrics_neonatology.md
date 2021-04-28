@@ -1,4 +1,5 @@
 [April 2021](2104.md)
+* [家庭内暴力、いじめ、児童虐待の有無はテロメアの長さと相関があり、幼少期時点で老化が始まっている可能性。 (Duke University)](https://moffittcaspi.trinity.duke.edu/exposure-violence-during-childhood-associated-telomere-erosion-5-10-years-age-longitudinal-study) ([論文](https://www.nature.com/articles/mp201232))
 * [男性の育児休暇取得に積極的な企業。 (corocn - Twitter)](https://twitter.com/corocn/status/1386297878314852359) ([github](https://github.com/corocn/paternity-leave-in-japan))
 * [周産期母子医療センターネットワークデータベース解析報告。 (NPO法人新生児臨床研究ネットワーク)](http://plaza.umin.ac.jp/nrndata/)
 * [保育器内に設置するプログラマブルな治療用ベッドは、早産児の脳の酸素レベルの安定に役立つ可能性。 (University of British Columbia)](https://www.med.ubc.ca/news/therapeutic-bed-can-help-keep-preterm-newborns-brain-oxygen-levels-stable/) ([論文](https://journals.lww.com/painrpts/Fulltext/2021/02000/Cerebral_hemodynamic_response_to_a_therapeutic_bed.3.aspx))
