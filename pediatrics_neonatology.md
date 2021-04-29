@@ -1,4 +1,5 @@
 [April 2021](2104.md)
+* [9～10歳の子供の脳認知機能の発達に関する研究。 (ABCD Study)](https://abcdstudy.org/)
 * [家庭内暴力、いじめ、児童虐待の有無はテロメアの長さと相関があり、幼少期時点で老化が始まっている可能性。 (Duke University)](https://moffittcaspi.trinity.duke.edu/exposure-violence-during-childhood-associated-telomere-erosion-5-10-years-age-longitudinal-study) ([論文](https://www.nature.com/articles/mp201232))
 * [男性の育児休暇取得に積極的な企業。 (corocn - Twitter)](https://twitter.com/corocn/status/1386297878314852359) ([github](https://github.com/corocn/paternity-leave-in-japan))
 * [周産期母子医療センターネットワークデータベース解析報告。 (NPO法人新生児臨床研究ネットワーク)](http://plaza.umin.ac.jp/nrndata/)
