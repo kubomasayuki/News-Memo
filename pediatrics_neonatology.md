@@ -40,3 +40,7 @@
 [April 2020](2004.md)
 * [少量の母乳でも乳児の腸内のウイルスからの保護に効果あり。 (Science Daily)](https://www.sciencedaily.com/releases/2020/04/200415110452.htm)
 * [0歳児は両親のハグでリラックスする。 (Cell Press)](https://www.cell.com/iscience/fulltext/S2589-0042(20)30180-2)
+
+[March 2020](2003.md)
+* [介入研究による実証実験で赤ちゃん虐待半減に成功 (東京医科歯科大学)](http://www.tmd.ac.jp/archive-tmdu/kouhou/20200302_2.pdf)
+* [横浜国大と横浜市大、新生児用バイタルセンサーを共同開発 (横浜市立大学)](https://www.yokohama-cu.ac.jp/news/2019/202001ito.html)
