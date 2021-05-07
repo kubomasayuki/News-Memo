@@ -60,4 +60,4 @@
 [September 2019](1909.md)
 
 [August 2019](1908.md)
-* [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [3週間の早産で1学年上がった児は発達の遅れのリスクが3倍高い (Science Daily)](https://www.sciencedaily.com/releases/2019/08/190813180830.htm)
+* [3週間の早産で1学年上がった児は発達の遅れのリスクが3倍高い (Science Daily)](https://www.sciencedaily.com/releases/2019/08/190813180830.htm)
