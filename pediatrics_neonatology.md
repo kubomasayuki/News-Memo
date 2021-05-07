@@ -25,3 +25,9 @@
 
 [October 2020](2010.md)
 * [カナダにおける小児コホート研究。 (CHILD study)](https://childstudy.ca/)
+
+[September 2020](2009.md)
+
+[August 2020](2008.md)
+* [アイトラッキングシステムを用いた乳児の視覚認知の評価。 (Medical Xpress)](https://medicalxpress.com/news/2020-08-infrared-eye-tracking-infant-behavior.html)
+
