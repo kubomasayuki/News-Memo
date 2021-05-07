@@ -50,3 +50,14 @@
 
 [January 2020](2001.md)
 * [アプリでSIDSのリスクを減らす？ (Rutgers Today)](https://news.rutgers.edu/just-had-baby-new-app-helps-keep-them-safe/20191213)
+
+[December 2019](1912.md)
+
+[November 2019](1911.md)
+
+[October 2019](1910.md)
+
+[September 2019](1909.md)
+
+[August 2019](1908.md)
+* [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [3週間の早産で1学年上がった児は発達の遅れのリスクが3倍高い (Science Daily)](https://www.sciencedaily.com/releases/2019/08/190813180830.htm)
