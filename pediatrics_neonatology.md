@@ -47,3 +47,6 @@
 
 [February 2020](2002.md)
 * [赤ちゃんの言語教育にParenteseが効果があった (VOA)](https://learningenglish.voanews.com/a/study-speaking-parentese-helps-baby-s-language-learning/4764116.html)
+
+[January 2020](2001.md)
+* [アプリでSIDSのリスクを減らす？ (Rutgers Today)](https://news.rutgers.edu/just-had-baby-new-app-helps-keep-them-safe/20191213)
