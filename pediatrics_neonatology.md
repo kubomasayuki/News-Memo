@@ -44,3 +44,6 @@
 [March 2020](2003.md)
 * [介入研究による実証実験で赤ちゃん虐待半減に成功 (東京医科歯科大学)](http://www.tmd.ac.jp/archive-tmdu/kouhou/20200302_2.pdf)
 * [横浜国大と横浜市大、新生児用バイタルセンサーを共同開発 (横浜市立大学)](https://www.yokohama-cu.ac.jp/news/2019/202001ito.html)
+
+[February 2020](2002.md)
+* [赤ちゃんの言語教育にParenteseが効果があった (VOA)](https://learningenglish.voanews.com/a/study-speaking-parentese-helps-baby-s-language-learning/4764116.html)
