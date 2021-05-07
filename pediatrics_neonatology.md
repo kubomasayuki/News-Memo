@@ -31,3 +31,12 @@
 [August 2020](2008.md)
 * [アイトラッキングシステムを用いた乳児の視覚認知の評価。 (Medical Xpress)](https://medicalxpress.com/news/2020-08-infrared-eye-tracking-infant-behavior.html)
 
+[July 2020](2007.md)
+
+[June 2020](2006.md)
+
+[May 2020](2005.md)
+
+[April 2020](2004.md)
+* [少量の母乳でも乳児の腸内のウイルスからの保護に効果あり。 (Science Daily)](https://www.sciencedaily.com/releases/2020/04/200415110452.htm)
+* [0歳児は両親のハグでリラックスする。 (Cell Press)](https://www.cell.com/iscience/fulltext/S2589-0042(20)30180-2)
