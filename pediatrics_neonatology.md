@@ -1,5 +1,5 @@
 [May 2021](2105.md)
-[胎児期(子宮内)、乳児期(経母乳)の抗生物質の曝露によりアレルギーの免疫応答に関する腸内細菌を損傷する。 (Rutgers University)](https://www.rutgers.edu/news/infant-antibiotic-exposure-can-affect-future-immune-responses-toward-allergies) ([論文](https://mbio.asm.org/content/12/1/e03335-20))
+* [胎児期(子宮内)、乳児期(経母乳)の抗生物質の曝露によりアレルギーの免疫応答に関する腸内細菌を損傷する。 (Rutgers University)](https://www.rutgers.edu/news/infant-antibiotic-exposure-can-affect-future-immune-responses-toward-allergies) ([論文](https://mbio.asm.org/content/12/1/e03335-20))
 
 [April 2021](2104.md)
 * [9～10歳の子供の脳認知機能の発達に関する研究。 (ABCD Study)](https://abcdstudy.org/)
