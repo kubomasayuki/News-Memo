@@ -1,3 +1,7 @@
+[May 2021](2105.md)
+* [胎児治療に関する正確な情報を提供し、臨床応用を推進する研究グループ。 (日本胎児治療グループ)](https://fetusjapan.jp/)
+* [胎児期(子宮内)、乳児期(経母乳)の抗生物質の曝露によりアレルギーの免疫応答に関する腸内細菌を損傷する。 (Rutgers University)](https://www.rutgers.edu/news/infant-antibiotic-exposure-can-affect-future-immune-responses-toward-allergies) ([論文](https://mbio.asm.org/content/12/1/e03335-20))
+
 [April 2021](2104.md)
 * [不妊検査等助成。 (東京都福祉保健局)](https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/kosodate/josei/funinkensa/index.html)
 * [NIPT等の出生前検査に関する専門委員会。 (厚生労働省)](https://www.mhlw.go.jp/stf/shingi/other-kodomo_145015_00008.html)
