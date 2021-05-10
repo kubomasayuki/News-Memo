@@ -64,3 +64,6 @@
 
 [August 2019](1908.md)
 * [3週間の早産で1学年上がった児は発達の遅れのリスクが3倍高い (Science Daily)](https://www.sciencedaily.com/releases/2019/08/190813180830.htm)
+
+[July 2019](1907.md)
+* [おむつが濡れたらスマホに通知するシステム (CNET Japan)](https://japan.cnet.com/article/35140225/)
