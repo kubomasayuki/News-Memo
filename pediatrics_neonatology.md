@@ -76,3 +76,6 @@
 
 [May 2019](1905.md)
 * [紙とスマホアプリで子供の耳の感染を85％見つけた (Science Daily)](https://www.sciencedaily.com/releases/2019/05/190515144022.htm) ([YouTube](https://www.youtube.com/watch?v=R7PstymnGZg))
+
+[April 2019](1904.md)
+* [LOX-indexから新生児低酸素性虚血性脳症を早期診断、発見 (国立精神・神経医療研究センター)](https://www.ncnp.go.jp/press/release.html?no=441)  
