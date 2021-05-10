@@ -158,7 +158,6 @@
 * [Apple Watchが不整脈の検出に続き、月経周期トラッキング市場に参入 (Medical AI Times)](https://aitimes.media/2019/06/26/3027/?13570)
 
 [June 2019](1906.md)
-* [低出生体重児の成長記録をアプリで支援 (神奈川県立こども医療センター 豊島先生 - Facebook)](https://facebook.com/groups/216328698412028?view=permalink&id=2543085279069680)
 * [帝王切開後の経膣分娩(VBAC)の成功率は高いが、依然として避ける医師が多い (The Conversation)](https://theconversation.com/number-of-women-steered-towards-repeat-caesareans-is-much-higher-than-necessary-118140)  
 * [排卵周期をイヤホンとAIでトラッキング (TECHABLE)](https://techable.jp/archives/100676)  
 * [EllaviバルーンタンポナーデがEUクリアランス賞を受賞 (medgadget)](https://www.medgadget.com/2019/06/ellavi-a-cheap-uterine-balloon-tamponade-for-menstrual-bleeding-wins-eu-clearance.html)
