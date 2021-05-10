@@ -67,3 +67,9 @@
 
 [July 2019](1907.md)
 * [おむつが濡れたらスマホに通知するシステム (CNET Japan)](https://japan.cnet.com/article/35140225/)
+
+[June 2019](1906.md)
+* [低出生体重児の成長記録をアプリで支援 (神奈川県立こども医療センター 豊島先生 - Facebook)](https://facebook.com/groups/216328698412028?view=permalink&id=2543085279069680)
+* [赤ちゃんの泣き声の意味をAIで聞き分けることが可能に (IEEE)](https://ieeexplore.ieee.org/document/8657383)  
+* [造影剤使用直後でも授乳制限は不要 (日本医学放射線学会)](http://www.radiology.jp/member_info/safty/20190528_01.html)  
+* [少子化が進んでも国内ベビー用品・関連サービス市場は右肩上がり (矢野経済研究所)](https://www.yano.co.jp/press-release/show/press_id/2083)
