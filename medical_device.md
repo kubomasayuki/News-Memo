@@ -3,6 +3,7 @@
 
 [April 2021](2104.md)
 * [日本のIoT医療機器はサイバー攻撃に非常に弱い。 (Med IT Tech)](https://medit.tech/jmari-report-about-cyber-security-management-for-medical/) ([報告書](https://www.jmari.med.or.jp/download/RP077.pdf))
+* [厚生労働省、最先端のプログラム医療機器(SaMD:Software as a Medical Device)の早期実用化を促進する為の相談窓口を設置。 (PMDA)](https://www.pmda.go.jp/review-services/f2f-pre/strategies/0011.html)
 
 [March 2021](2103.md)
 
