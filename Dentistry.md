@@ -1,4 +1,5 @@
 [May 2021](2105.md)
+* [歯科検診の受診行動は個人よりも歯科医院の違いによる。 (東京医科歯科大学)](https://www.tmd.ac.jp/topics_detail/id=54694) ([論文](https://www.mdpi.com/1660-4601/18/6/2816))
 
 [April 2021](2104.md)
 
