@@ -4,6 +4,7 @@
 * [妊娠中のアルコール曝露を自己申告の代わりに胎便中のバイオマーカーで特定。 (Case Western Reserve University)](https://case.edu/medicine/admission/about/newsroom/our-latest-news/meconium-may-provide-clues-fetal-alcohol-exposure-forecast-behavioral-issues-later-childhood) ([論文](https://www.sciencedirect.com/science/article/abs/pii/S0376871620306025))
 
 [March 2021](2103.md)
+* アルコール依存のセルフチェック。 ([久里浜式 男性版](https://kurihama.hosp.go.jp/hospital/screening/kast-m.html)、[久里浜式 女性版](https://kurihama.hosp.go.jp/hospital/screening/kast-f.html)、[CAGE Questionaire](https://kurihama.hosp.go.jp/hospital/screening/cage.html)、[AUDIT(WHO推奨)](https://auditscreen.org/check-your-drinking/))
 
 [February 2021](2102.md)
 
