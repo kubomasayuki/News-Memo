@@ -17,6 +17,7 @@
 [October 2020](2010.md)
 
 [September 2020](2009.md)
+* [歯科用アマルガム(に含まれる水銀)について (日本歯科保存学会)](https://www.ousda.jp/cmsdesigner/data/entry/saisin_news/saisin_news.03922.00000002.pdf)
 
 [August 2020](2008.md)
 
