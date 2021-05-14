@@ -32,4 +32,4 @@
 [April 2020](2004.md)
 
 [March 2020](2003.md)
-* [\[sleep_habit\]](sleep_habit.md) [昼間に眠気を感じる高齢者は3年後の糖尿病、癌発症リスクが3倍高い (American Academy of Neurology)](https://www.aan.com/PressRoom/Home/PressRelease/3776)
+* [昼間に眠気を感じる高齢者は3年後の糖尿病、癌発症リスクが3倍高い (American Academy of Neurology)](https://www.aan.com/PressRoom/Home/PressRelease/3776)
