@@ -24,6 +24,7 @@
 * [Apple Watchの心電図機能が解禁。クラスII医療機器でも管理医療機器営業管理者の配置は不要。 (ケータイWatch)](https://k-tai.watch.impress.co.jp/docs/news/1276663.html)
 
 [August 2020](2008.md)
+* [医療機器へのサイバー攻撃対策にAIを活用。 (Medical AI Times)](https://aitimes.media/2020/08/31/5921/?6598)
 
 [July 2020](2007.md)
 
