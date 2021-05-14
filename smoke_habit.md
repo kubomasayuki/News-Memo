@@ -9,6 +9,7 @@
 [February 2021](2102.md)
 
 [January 2021](2101.md)
+* [受動喫煙は子供の虫歯リスク上昇。 (BMJ)](https://www.bmj.com/content/351/bmj.h5397)
 
 [December 2020](2012.md)
 
