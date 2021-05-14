@@ -40,3 +40,19 @@
 
 [December 2019](1912.md)
 * [災害避難時の仮設環境は、睡眠時の体温調節と質に影響する (Science Daily)](https://www.sciencedaily.com/releases/2019/11/191113101838.htm)
+
+[November 2019](1911.md)
+
+[October 2019](1910.md)
+
+[September 2019](1909.md)
+
+[August 2019](1908.md)
+
+[July 2019](1907.md)
+
+[June 2019](1906.md)
+
+[May 2019](1905.md)
+
+[April 2019](1904.md)
