@@ -22,6 +22,7 @@
 [August 2020](2008.md)
 
 [July 2020](2007.md)
+* [喫煙率の社会格差はむしろ拡がっている。 (東京大学)](https://www.m.u-tokyo.ac.jp/news/admin/release_20200627.pdf)
 
 [June 2020](2006.md)
 
