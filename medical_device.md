@@ -50,6 +50,7 @@
 * [30％軽量化した電子聴診器 (medgadget)](https://www.medgadget.com/2019/11/eko-releases-new-core-digital-stethoscope-offerings.html)
 
 [October 2019](1910.md)
+* [食事による脈波パターンの変化を利用して糖質代謝状態を推定するデバイス (京セラ)](https://www.kyocera.co.jp/news/2019/1008_apbc.html)
 
 [September 2019](1909.md)
 
