@@ -21,6 +21,7 @@
 [October 2020](2010.md)
 
 [September 2020](2009.md)
+* [Apple Watchの心電図機能が解禁。クラスII医療機器でも管理医療機器営業管理者の配置は不要。 (ケータイWatch)](https://k-tai.watch.impress.co.jp/docs/news/1276663.html)
 
 [August 2020](2008.md)
 
