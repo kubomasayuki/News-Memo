@@ -22,6 +22,7 @@
 [August 2020](2008.md)
 
 [July 2020](2007.md)
+* [歯周病の既往で癌リスク上昇。 (Medical Xpress)](https://medicalxpress.com/news/2020-07-flossing-ties-gum-disease-higher.html)
 
 [June 2020](2006.md)
 
