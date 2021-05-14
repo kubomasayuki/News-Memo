@@ -40,6 +40,7 @@
 [June 2020](2006.md)
 
 [May 2020](2005.md)
+* [低体温療法の脳保護効果を解明。 (愛知医大)](https://www.aichi-med-u.ac.jp/files/soumu/2020topics01.pdf) ([論文](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-020-01831-3))
 
 [April 2020](2004.md)
 * [少量の母乳でも乳児の腸内のウイルスからの保護に効果あり。 (Science Daily)](https://www.sciencedaily.com/releases/2020/04/200415110452.htm)
