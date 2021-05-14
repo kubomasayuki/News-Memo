@@ -2,6 +2,7 @@
 * [医療機器のプログラムについて。 (厚生労働省)](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000179749_00004.html) ([プログラムの医療機器該当性に関するガイドライン](https://www.mhlw.go.jp/content/11120000/000764274.pdf))
 
 [April 2021](2104.md)
+* [日本のIoT医療機器はサイバー攻撃に非常に弱い。 (Med IT Tech)](https://medit.tech/jmari-report-about-cyber-security-management-for-medical/) ([報告書](https://www.jmari.med.or.jp/download/RP077.pdf))
 
 [March 2021](2103.md)
 
