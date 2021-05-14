@@ -2,6 +2,7 @@
 * [子どもの受動喫煙の健康上のリスクについて。 (Dr. KIDの子育て相談室)](https://ameblo.jp/doctor-kid/entry-12669973060.html)
 
 [April 2021](2104.md)
+* [タバコに曝露した子供は呼吸器系疾患による医療費が増大。 (University of Cincinnati)](https://www.uc.edu/news/articles/2021/03/uc-study-finds-that-tobacco-smoke-exposed-children-utilize-emergency-and-urgent-care-services.html) ([論文](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247179))
 
 [March 2021](2103.md)
 
