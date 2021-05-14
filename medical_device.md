@@ -6,6 +6,7 @@
 * [厚生労働省、最先端のプログラム医療機器(SaMD:Software as a Medical Device)の早期実用化を促進する為の相談窓口を設置。 (PMDA)](https://www.pmda.go.jp/review-services/f2f-pre/strategies/0011.html)
 
 [March 2021](2103.md)
+* [医療機器開発支援ハンドブック。(令和3年3月版) (経済産業省)](https://www.med-device.jp/repository/handbook_202103.pdf)
 
 [February 2021](2102.md)
 
