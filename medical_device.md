@@ -1,4 +1,5 @@
 [May 2021](2105.md)
+* [医療機器のプログラムについて。 (厚生労働省)](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000179749_00004.html) ([プログラムの医療機器該当性に関するガイドライン](https://www.mhlw.go.jp/content/11120000/000764274.pdf))
 
 [April 2021](2104.md)
 
