@@ -57,6 +57,7 @@
 [August 2019](1908.md)
 
 [July 2019](1907.md)
+* [おむつが濡れたらスマホに通知するシステム (CNET Japan)](https://japan.cnet.com/article/35140225/)
 
 [June 2019](1906.md)
 
