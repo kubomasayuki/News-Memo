@@ -42,6 +42,7 @@
 [November 2019](1911.md)
 
 [October 2019](1910.md)
+* [歯周病と高血圧に相関あり (AJC.com)](https://www.ajc.com/news/world/people-with-gum-disease-more-likely-have-high-blood-pressure-study-says/ZkFNFbmlaZ7aEKJxIms15J/)
 
 [September 2019](1909.md)
 
