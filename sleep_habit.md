@@ -20,3 +20,16 @@
 [September 2020](2009.md)
 * [2歳半まではREM睡眠中に脳の構築を行い、それ以降は維持と修復を行っている。 (Medical Xpress)](https://medicalxpress.com/news/2020-09-primary-role-brain-maintenance-early.html)
 * [睡眠不足に陥るとイライラが増幅。 (米国睡眠医学会)](https://www.sleepmeeting.org/study-finds-that-sleep-restriction-amplifies-anger/)
+
+[August 2020](2008.md)
+
+[July 2020](2007.md)
+
+[June 2020](2006.md)
+
+[May 2020](2005.md)
+
+[April 2020](2004.md)
+
+[March 2020](2003.md)
+* [\[sleep_habit\]](sleep_habit.md) [昼間に眠気を感じる高齢者は3年後の糖尿病、癌発症リスクが3倍高い (American Academy of Neurology)](https://www.aan.com/PressRoom/Home/PressRelease/3776)
