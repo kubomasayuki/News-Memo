@@ -10,6 +10,7 @@
 
 [February 2021](2102.md)
 * [医療機器開発支援ハンドブック。 (経済産業省)](https://www.med-device.jp/repository/c949c741c8e77fa444829a60f9eb2c3c55da9ead.pdf) (更新：[March 31, 2021 医療機器開発支援ハンドブック(令和3年3月版)](2103.md))
+* [医療機器による褥瘡防止の為のガイドライン(の位置付けのもの)。 (日本褥瘡学会)](http://www.jspu.org/jpn/info/pdf/bestpractice_.pdf)
 
 [January 2021](2101.md)
 
