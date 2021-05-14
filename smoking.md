@@ -35,6 +35,7 @@
 [February 2020](2002.md)
 
 [January 2020](2001.md)
+* [タバコは消火後も有害物質を放出している (米国国立標準技術研究所)](https://www.nist.gov/news-events/news/2020/01/butt-emissions-study-finds-even-extinguished-cigarettes-give-toxins)
 
 [December 2019](1912.md)
 
