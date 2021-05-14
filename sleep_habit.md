@@ -33,3 +33,10 @@
 
 [March 2020](2003.md)
 * [昼間に眠気を感じる高齢者は3年後の糖尿病、癌発症リスクが3倍高い (American Academy of Neurology)](https://www.aan.com/PressRoom/Home/PressRelease/3776)
+
+[February 2020](2002.md)
+
+[January 2020](2001.md)
+
+[December 2019](1912.md)
+* [災害避難時の仮設環境は、睡眠時の体温調節と質に影響する (Science Daily)](https://www.sciencedaily.com/releases/2019/11/191113101838.htm)
