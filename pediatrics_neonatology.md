@@ -1,4 +1,5 @@
 [May 2021](2105.md)
+* [子どもの受動喫煙の健康上のリスクについて。 (Dr. KIDの子育て相談室)](https://ameblo.jp/doctor-kid/entry-12669973060.html)
 * [胎児期(子宮内)、乳児期(経母乳)の抗生物質の曝露によりアレルギーの免疫応答に関する腸内細菌を損傷する。 (Rutgers University)](https://www.rutgers.edu/news/infant-antibiotic-exposure-can-affect-future-immune-responses-toward-allergies) ([論文](https://mbio.asm.org/content/12/1/e03335-20))
 
 [April 2021](2104.md)
