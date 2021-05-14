@@ -30,6 +30,7 @@
 [July 2020](2007.md)
 
 [June 2020](2006.md)
+* [患者が自宅からも48時間の連続監視が可能なベルトレスのモニタリング製品。 (Philips)](https://www.usa.philips.com/healthcare/product/HC866488/avalon-beltless-fetal-monitoring-solution) ([FDAの緊急ガイドラインによりCOVID-19に伴いAvalon CLとともに認可](https://www.medgadget.com/2020/06/philips-fetal-monitor-to-help-during-covid-distancing.html))
 
 [May 2020](2005.md)
 
