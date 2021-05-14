@@ -25,3 +25,12 @@
 
 [May 2020](2005.md)
 * [アルコールボトルへの警告ラベル表示はアルコール総売上減少につながる。 (University of Victoria)](https://www.uvic.ca/research/centres/cisur/projects/active/projects/northern-territories-alcohol-study.php)
+
+[April 2020](2004.md)
+
+[March 2020](2003.md)
+
+[February 2020](2002.md)
+
+[January 2020](2001.md)
+* [少量の飲酒でもガンのリスクは増加 (Science Daily)](https://www.sciencedaily.com/releases/2019/12/191209182002.htm)
