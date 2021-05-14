@@ -47,6 +47,7 @@
 [December 2019](1912.md)
 
 [November 2019](1911.md)
+* [30％軽量化した電子聴診器 (medgadget)](https://www.medgadget.com/2019/11/eko-releases-new-core-digital-stethoscope-offerings.html)
 
 [October 2019](1910.md)
 
