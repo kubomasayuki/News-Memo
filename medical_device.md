@@ -58,6 +58,8 @@
 
 [July 2019](1907.md)
 * [おむつが濡れたらスマホに通知するシステム (CNET Japan)](https://japan.cnet.com/article/35140225/)
+* [医療機器としてのAI対応ソフトウェアの製造者が直面している特許保護の難問 (MedCityNews)](https://medcitynews.com/2019/06/patent-protection-and-ai-and-medical-devices/)  
+* [医療機器としてのソフトウェア(SaMD)における人工知能と機械学習 (FDA)](https://www.fda.gov/medical-devices/digital-health/software-medical-device-samd)  
 
 [June 2019](1906.md)
 
