@@ -25,6 +25,7 @@
 
 [August 2020](2008.md)
 * [医療機器へのサイバー攻撃対策にAIを活用。 (Medical AI Times)](https://aitimes.media/2020/08/31/5921/?6598)
+* [胎児・新生児向けウェアラブルバイタルモニタ装置の開発とその臨床評価。 (KAKEN)](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-25289121/)
 
 [July 2020](2007.md)
 
