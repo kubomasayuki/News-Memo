@@ -27,6 +27,7 @@
 [June 2020](2006.md)
 
 [May 2020](2005.md)
+* [ワインを飲む時、どのタイミングで歯を磨くべきか。 (HealthDay)](https://consumer.healthday.com/general-health-information-16/misc-alcohol-news-13/turning-to-wine-during-lockdown-here-s-how-to-protect-your-teeth-752744.html)
 
 [April 2020](2004.md)
 
