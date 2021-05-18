@@ -1,5 +1,6 @@
 [May 2021](2105.md)
 * [帝王切開で産まれた子の腸内細菌数は生後4ヶ月では経膣分娩の子と比べて少ないが、3～5歳ではほとんど同じになる。 (University of Gothenburg)](https://www.gu.se/en/news/gut-microbiota-in-cesarean-born-babies-catches-up) ([論文](https://www.cell.com/cell-host-microbe/fulltext/S1931-3128(21)00100-1))
+* [帝王切開で産まれた子の方が1歳、3歳時点で(特定の)アレルギーを発症しやすい。 (University of Alberta、CHILD Cohort Study)](https://childstudy.ca/2021/04/20/food-allergy-gut-ethnicity/) ([論文](https://www.gastrojournal.org/article/S0016-5085(21)00523-0/fulltext))
 * [子どもの受動喫煙の健康上のリスクについて。 (Dr. KIDの子育て相談室)](https://ameblo.jp/doctor-kid/entry-12669973060.html)
 * [胎児期(子宮内)、乳児期(経母乳)の抗生物質の曝露によりアレルギーの免疫応答に関する腸内細菌を損傷する。 (Rutgers University)](https://www.rutgers.edu/news/infant-antibiotic-exposure-can-affect-future-immune-responses-toward-allergies) ([論文](https://mbio.asm.org/content/12/1/e03335-20))
 
