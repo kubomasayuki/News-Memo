@@ -1,5 +1,5 @@
 [May 2021](2105.md)
-* [妊娠中の抗酸化サプリメント(ビタミンC)は胎児低酸素症の予防になる。 (University of Cambridge)](https://www.cam.ac.uk/research/news/simple-treatment-during-pregnancy-can-protect-baby-from-memory-problems-in-later-life-study-in-rats)
+* [妊娠中の抗酸化サプリメント(ビタミンC)は胎児低酸素症の予防になる。 (University of Cambridge)](https://www.cam.ac.uk/research/news/simple-treatment-during-pregnancy-can-protect-baby-from-memory-problems-in-later-life-study-in-rats) ([論文](https://faseb.onlinelibrary.wiley.com/doi/full/10.1096/fj.202002557RR))
 * [(天然由来で野菜にも含まれる)硝酸塩の(過剰？)摂取で早産のリスク。 (University of Illinois at Chicago)](https://today.uic.edu/largest-ever-study-to-look-at-maternal-nitrate-consumption-and-birth-outcomes) ([関連論文](https://www.sciencedirect.com/science/article/abs/pii/S0013935116308738))
 * [胎児治療に関する正確な情報を提供し、臨床応用を推進する研究グループ。 (日本胎児治療グループ)](https://fetusjapan.jp/)
 * [胎児期(子宮内)、乳児期(経母乳)の抗生物質の曝露によりアレルギーの免疫応答に関する腸内細菌を損傷する。 (Rutgers University)](https://www.rutgers.edu/news/infant-antibiotic-exposure-can-affect-future-immune-responses-toward-allergies) ([論文](https://mbio.asm.org/content/12/1/e03335-20))
