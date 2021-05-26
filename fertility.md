@@ -40,6 +40,7 @@
 [December 2019](1912.md)
 
 [November 2019](1911.md)
+* [子宮収縮から体外受精の結果を予測 (Eindhoven University of Technology)](https://www.tue.nl/en/news/news-overview/measurement-of-uterine-contractions-could-predict-the-outcome-of-in-vitro-fertilization/)
 
 [October 2019](1910.md)
 
