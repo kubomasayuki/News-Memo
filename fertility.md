@@ -3,6 +3,7 @@
 * [男性は2060年以降、生殖能力をほとんどまたはまったく持たない可能性。 (Conversation)](https://theconversation.com/male-fertility-how-everyday-chemicals-are-destroying-sperm-counts-in-humans-and-animals-158097) ([反対の意見の論文](https://www.tandfonline.com/doi/full/10.1080/14647273.2021.1917778))
 
 [April 2021](2104.md)
+* [不妊検査等助成。 (東京都福祉保健局)](https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/kosodate/josei/funinkensa/index.html)
 
 [March 2021](2103.md)
 
