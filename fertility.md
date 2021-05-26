@@ -52,6 +52,7 @@
 [July 2019](1907.md)
 
 [June 2019](1906.md)
+* [排卵周期をイヤホンとAIでトラッキング (TECHABLE)](https://techable.jp/archives/100676)  
 
 [May 2019](1905.md)
 
