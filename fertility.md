@@ -23,6 +23,7 @@
 [August 2020](2008.md)
 
 [July 2020](2007.md)
+* [帝王切開で出産すると将来妊娠する可能性が低下。 (PennStateHealth)](https://pennstatehealthnews.org/2020/07/women-who-deliver-by-c-section-are-less-likely-to-conceive-subsequent-children/)
 
 [June 2020](2006.md)
 
