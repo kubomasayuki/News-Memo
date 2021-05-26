@@ -29,6 +29,7 @@
 * [父親との接点が多い子供は落ち着きがあり、問題行動が少ない。 (Rutgers University)](https://www.rutgers.edu/news/engaged-dads-can-reduce-adolescent-behavioral-problems-improve-well-being)
 
 [November 2020](2011.md)
+* [新生児の脳性麻痺などの兆候を見つける為のウェアラブルカフ。 (Imperial College London)](https://www.imperial.ac.uk/news/209073/new-non-invasive-technology-could-spot-early/)
 * [2歳時点での硬膜下血腫の有無で健康状態に差はない。 (University of North Carolina Health Care)](https://news.unchealthcare.org/2020/10/children-with-asymptomatic-brain-bleeds-as-newborns-show-normal-brain-development-at-age-2/)
 
 [October 2020](2010.md)
