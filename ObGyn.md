@@ -122,7 +122,6 @@
 * [産婦人科,小児科,医療×ICTの最新文献をシェア (KPJ)](https://kpjournal.jp/)
 * [妊娠27週以前の周産期管理実践の為のフレームワーク(2019) (British Association of Perinatal Medicine)](https://www.bapm.org/resources/80-perinatal-management-of-extreme-preterm-birth-before-27-weeks-of-gestation-2019)
 * [黄砂飛来の数日後に常位胎盤早期剥離が増加 (東邦大学)](https://www.toho-u.ac.jp/press/2019_index/20191108-1034.html)
-* [子宮収縮から体外受精の結果を予測 (Eindhoven University of Technology)](https://www.tue.nl/en/news/news-overview/measurement-of-uterine-contractions-could-predict-the-outcome-of-in-vitro-fertilization/)
 
 [October 2019](1910.md)
 * [妊娠中の大気汚染曝露が乳児期のHRV減少と相関あり (Gulf News)](https://gulfnews.com/lifestyle/heres-what-happens-to-infants-born-to-mothers-breathing-polluted-air-1.1572420178181)
