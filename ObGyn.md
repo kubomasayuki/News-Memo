@@ -18,7 +18,6 @@
 [February 2021](2102.md)
 * [成人病胎児期起源説(DOHaD、ドーハッド)に関する学会。 (日本DOHaD学会)](http://square.umin.ac.jp/Jp-DOHaD/index.html)
 * [DOHaDの現状(2019時点)と課題。 (日本産婦人科医会)](http://www.jaog.or.jp/wp/wp-content/uploads/2019/03/eae26d5cc26a44d86d0f83c00b76b8c4.pdf)
-* [妊活の管理だけでなく、過去の類似症例を参考にできる妊活アプリ。 (ninpath)](https://ninpath.com/)
 
 [January 2021](2101.md)
 * [光による概日リズムの乱れは早産につながる可能性。 (Lehigh University)](https://www2.lehigh.edu/news/muzhe-yang-light-pollution-linked-to-preterm-birth-increase)
