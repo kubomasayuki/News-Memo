@@ -43,6 +43,7 @@
 * [子宮収縮から体外受精の結果を予測 (Eindhoven University of Technology)](https://www.tue.nl/en/news/news-overview/measurement-of-uterine-contractions-could-predict-the-outcome-of-in-vitro-fertilization/)
 
 [October 2019](1910.md)
+* [身体的または精神的ストレス下において男児が有意に減少 (Eurek Alert)](https://eurekalert.org/pub_releases/2019-10/cuim-sdp101119.php)
 
 [September 2019](1909.md)
 
