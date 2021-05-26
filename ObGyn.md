@@ -78,7 +78,6 @@
 * [Apgarスコアは早産児に対しても有用。 (ケアネット)](https://www.carenet.com/news/journal/carenet/50460)
 * [ロックダウンの影響で切迫早産が減少。 (Newsweek日本版)](https://www.newsweekjapan.jp/stories/woman/2020/07/post-419.php)
 * [妊娠中の早食いで妊娠糖尿病発症のリスク増。 (ケアネット)](https://www.carenet.com/news/general/hdnj/50238) ([論文](https://www.mdpi.com/2072-6643/12/5/1296)、[エコチル調査](http://www.env.go.jp/chemi/ceh/index.html))
-* [帝王切開で出産すると将来妊娠する可能性が低下。 (PennStateHealth)](https://pennstatehealthnews.org/2020/07/women-who-deliver-by-c-section-are-less-likely-to-conceive-subsequent-children/)
 * [分娩中の腰痛を緩和する為の無菌水(注射用水？)注射は安全で効果がある。 (The University of Queensland)](https://www.uq.edu.au/news/article/2020/07/water-injections-relieve-back-pain-labour-no-longer-midwifery-voodoo%E2%80%99)
 * [早産を早期予測する診断装置を開発する大学発スタートアップが420million CHFを調達。 (BRIDGE)](https://thebridge.jp/2020/07/pregnolia-raises-chf-42-million-to-advance-detection-of-premature-births-pickupnews) ([プレスリリース](https://www.venturekick.ch/Pregnolia-raises-CHF-42-million-to-advance-detection-of-premature-births))
 * [ゴリラ(ヒト以外の霊長類)の母体、および胎仔死亡の予防の為の鉗子による介入は有用。 (Green Journal)](https://journals.lww.com/greenjournal/Abstract/2020/07000/Operative_Vaginal_Birth_of_a_Critically_Endangered.28.aspx)
