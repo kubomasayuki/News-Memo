@@ -53,7 +53,6 @@
 * [分娩誘発が成功するかどうかを予測するシミュレータ。 (Green Journal)](https://journals.lww.com/greenjournal/Abstract/2020/10000/Externally_Validated_Prediction_Model_of_Vaginal.12.aspx) ([アプリ](https://d5xbbxaa8t16z.cloudfront.net/mnow/content/obstetricriskcalculator/index.html)、過去の調査：[March 31, 2019 超音波に基づいて分娩モード(経腟分娩の確率)を％で予測するアプリ](2004.md))
 * [分娩時の硬膜外麻酔が自閉症の原因となる科学的根拠はない。 (産科婦人科学会、アメリカ麻酔科学会、小児麻酔学会、アメリカ産科婦人科学会、母体胎児医学会の共同声明)](https://www.asahq.org/about-asa/newsroom/news-releases/2020/10/labor-epidurals-and-autism-joint-statement)
 * [質の高いモニタリング、適切な出産前ケア、熟練した助産師がいれば防げた死産が毎年200万人。新型コロナで更に増加の恐れ。 (Unicef)](https://www.unicef.or.jp/news/2020/0214.html)
-* [授乳中の母親の砂糖入り飲料摂取は子供の認知発達機能の低下につながる可能性。 (Medical Xpress)](https://medicalxpress.com/news/2020-10-sugary-beverages-consumed-breastfeeding-affect.html)
 * [成人より動きが速い胎児の心臓の4D可視化を実現。 (King's College London)](https://www.kcl.ac.uk/news/new-method-developed-by-researchers-for-in-utero-4d-blood-flow-visualization-of-baby-hearts-paves-the-way-for-better-diagnosis-of-congenital-heart-disease)
 
 [September 2020](2009.md)
