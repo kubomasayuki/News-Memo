@@ -1,6 +1,7 @@
 [May 2021](2105.md)
 * [小児期の虐待は精子のDNAメチル化と相関。 (Nature)](https://www.nature.com/articles/s41398-018-0252-1)
 * [男性は2060年以降、生殖能力をほとんどまたはまったく持たない可能性。 (Conversation)](https://theconversation.com/male-fertility-how-everyday-chemicals-are-destroying-sperm-counts-in-humans-and-animals-158097) ([反対の意見の論文](https://www.tandfonline.com/doi/full/10.1080/14647273.2021.1917778))
+* [排卵周期をトラッキングするデバイス。 (AvaWorld)](https://www.avawomen.com/) (過去の調査：[June 10, 2019 排卵周期をイヤホンとAIでトラッキング。](1906.md))
 
 [April 2021](2104.md)
 * [不妊検査等助成。 (東京都福祉保健局)](https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/kosodate/josei/funinkensa/index.html)
