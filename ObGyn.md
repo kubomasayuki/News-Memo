@@ -40,7 +40,6 @@
 
 [November 2020](2011.md)
 * [遅延臍帯結紮に関する見解の更新。 (ACOG Committee Opinion 814)](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/12/delayed-umbilical-cord-clamping-after-birth)
-* [新生児の脳性麻痺などの兆候を見つける為のウェアラブルカフ。 (Imperial College London)](https://www.imperial.ac.uk/news/209073/new-non-invasive-technology-could-spot-early/)
 * [WHOの分娩ケアガイドの評価。 (Birth)](https://onlinelibrary.wiley.com/doi/10.1111/birt.12511)
 * [大きな赤ちゃんを産むと乳がんリスクが上昇。 (QLife Pro)](http://www.qlifepro.com/news/20120802/lays-out-a-big-baby-that-breast-cancer-risk-more-than-doubled.html)
 * [重度の吐き気と嘔吐のある妊婦に抗てんかん薬を与えると症状が緩和。 (University of Buffalo)](http://www.buffalo.edu/news/releases/2020/11/007.html)
