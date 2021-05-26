@@ -5,7 +5,6 @@
 * [胎児期(子宮内)、乳児期(経母乳)の抗生物質の曝露によりアレルギーの免疫応答に関する腸内細菌を損傷する。 (Rutgers University)](https://www.rutgers.edu/news/infant-antibiotic-exposure-can-affect-future-immune-responses-toward-allergies) ([論文](https://mbio.asm.org/content/12/1/e03335-20))
 
 [April 2021](2104.md)
-* [不妊検査等助成。 (東京都福祉保健局)](https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/kosodate/josei/funinkensa/index.html)
 * [NIPT等の出生前検査に関する専門委員会。 (厚生労働省)](https://www.mhlw.go.jp/stf/shingi/other-kodomo_145015_00008.html)
 * [不育症の研究、治療。 (Fuiku-Labo)](http://fuiku.jp/index.html)
 * [妊娠中のアルコール曝露を自己申告の代わりに胎便中のバイオマーカーで特定。 (Case Western Reserve University)](https://case.edu/medicine/admission/about/newsroom/our-latest-news/meconium-may-provide-clues-fetal-alcohol-exposure-forecast-behavioral-issues-later-childhood) ([論文](https://www.sciencedirect.com/science/article/abs/pii/S0376871620306025))
