@@ -1,4 +1,5 @@
 [May 2021](2105.md)
+* [歯の本数や健康状態は生活の質、障害の発症、死亡と相関がある。 (University College London、東京医科歯科大学)](https://www.ucl.ac.uk/news/2021/may/tooth-loss-may-affect-ability-carry-out-everyday-tasks) ([論文](https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.17021))
 * [歯科検診の受診行動は個人よりも歯科医院の違いによる。 (東京医科歯科大学)](https://www.tmd.ac.jp/topics_detail/id=54694) ([論文](https://www.mdpi.com/1660-4601/18/6/2816))
 
 [April 2021](2104.md)
