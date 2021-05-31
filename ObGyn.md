@@ -20,7 +20,7 @@
 * [DOHaDの現状(2019時点)と課題。 (日本産婦人科医会)](http://www.jaog.or.jp/wp/wp-content/uploads/2019/03/eae26d5cc26a44d86d0f83c00b76b8c4.pdf)
 
 [January 2021](2101.md)
-* [光による概日リズムの乱れは早産につながる可能性。 (Lehigh University)](https://www2.lehigh.edu/news/muzhe-yang-light-pollution-linked-to-preterm-birth-increase)
+* [光による概日リズムの乱れは早産につながる可能性。 (Lehigh University)](https://www2.lehigh.edu/news/muzhe-yang-light-pollution-linked-to-preterm-birth-increase) ([論文](https://onlinelibrary.wiley.com/doi/epdf/10.1002/soej.12477))
 * [静脈血栓塞栓症(VTE)のリスクと処置。 (Minds ガイドラインライブラリ)](https://minds.jcqhc.or.jp/n/cq/D0003256)
 * [前置胎盤に予防的にバルーン留置した群はしない群より出血量が少なかった。 (International Journal of Gynecology)](https://obgyn.onlinelibrary.wiley.com/doi/10.1002/ijgo.13589)
 * [途上国に周産期医療を届けるNGO。 (特定非営利活動法人母と子の医療を世界に届ける会)](https://igpc.jp/)
