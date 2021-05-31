@@ -10,7 +10,7 @@
 * [舌を鍛えて睡眠時無呼吸症候群を予防する医療機器がFDA承認。 (Gizmodo)](https://gizmodo.com/fda-clears-tongue-stimulator-you-use-during-the-day-to-1846214174)
 
 [January 2021](2101.md)
-* [光による概日リズムの乱れは早産につながる可能性。 (Lehigh University)](https://www2.lehigh.edu/news/muzhe-yang-light-pollution-linked-to-preterm-birth-increase)
+* [光による概日リズムの乱れは早産につながる可能性。 (Lehigh University)](https://www2.lehigh.edu/news/muzhe-yang-light-pollution-linked-to-preterm-birth-increase) ([論文](https://onlinelibrary.wiley.com/doi/epdf/10.1002/soej.12477))
 
 [December 2020](2012.md)
 * [ジャンクフード(栄養価が低くカフェインやエネルギー密度が高い食事)と睡眠障害の関係が明らかに。 (University of Queensland)](https://www.uq.edu.au/news/article/2020/12/junk-food-linked-sleep-problems-teens)
