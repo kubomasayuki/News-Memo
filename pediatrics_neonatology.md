@@ -1,4 +1,5 @@
 [\[June 2021\]](2106.md)
+* [赤ちゃんのうつぶせ寝、SIDS対策デバイス。 (MonBaby)](https://monbaby.jp/)
 * [脳は5歳までの育ち方で決まる。 (Virginia Tech)](https://vtx.vt.edu/videos/k/2021/05/1_cklhatrd.html) ([論文](https://direct.mit.edu/jocn/article/33/6/1197/98115/Randomized-Manipulation-of-Early-Cognitive))
 * [胎便は妊娠中に何に曝露したかを明らかにし、生後1年のアレルギー感作を予測するのに役立つ。 (The University of Brithsh Columbia)](https://news.ubc.ca/2021/04/29/a-babys-first-poop-can-help-predict-risk-of-developing-allergies/) ([論文](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00076-8)、過去の調査 [May 18, 2021 帝王切開で産まれた子の方が1歳、3歳時点で(特定の)アレルギーを発症しやすい。 (University of Alberta、CHILD Cohort Study)](2105.md))
 
