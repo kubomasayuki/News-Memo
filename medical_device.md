@@ -1,4 +1,5 @@
 [\[June 2021\]](2106.md)
+* [ライトタッチ現象を利用した転倒防止デバイス。 (横浜国立大学)](https://www.ynu.ac.jp/hus/koho/26269/34_26269_1_1_210421114129.pdf) ([論文](https://www.nature.com/articles/s41598-021-85687-4))
 
 [\[May 2021\]](2105.md)
 * [医療機器のプログラムについて。 (厚生労働省)](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000179749_00004.html) ([プログラムの医療機器該当性に関するガイドライン](https://www.mhlw.go.jp/content/11120000/000764274.pdf))
