@@ -1,3 +1,6 @@
+[June 2021](2106.md)
+* [薬物の血液胎盤関門の通過しやすさにも概日リズムが存在する。 (Medical Xpress)](https://medicalxpress.com/news/2021-04-circadian-clock-mouse-placenta.html) ([論文](https://journals.biologists.com/dev/article-abstract/148/8/dev197673/256558/The-trophoblast-clock-controls-transport-across))
+
 [May 2021](2105.md)
 * [妊娠中の抗酸化サプリメント(ビタミンC)は胎児低酸素症の予防になる。 (University of Cambridge)](https://www.cam.ac.uk/research/news/simple-treatment-during-pregnancy-can-protect-baby-from-memory-problems-in-later-life-study-in-rats) ([論文](https://faseb.onlinelibrary.wiley.com/doi/full/10.1096/fj.202002557RR))
 * [(天然由来で野菜にも含まれる)硝酸塩の(過剰？)摂取で早産のリスク。 (University of Illinois at Chicago)](https://today.uic.edu/largest-ever-study-to-look-at-maternal-nitrate-consumption-and-birth-outcomes) ([関連論文](https://www.sciencedirect.com/science/article/abs/pii/S0013935116308738))
