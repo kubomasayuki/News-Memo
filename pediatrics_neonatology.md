@@ -1,5 +1,5 @@
 [June 2021](2106.md)
-* [脳は5歳までの育ち方で決まる。 (Virginia Tech)](https://vtx.vt.edu/videos/k/2021/05/1_cklhatrd.html)
+* [脳は5歳までの育ち方で決まる。 (Virginia Tech)](https://vtx.vt.edu/videos/k/2021/05/1_cklhatrd.html) ([論文](https://direct.mit.edu/jocn/article/33/6/1197/98115/Randomized-Manipulation-of-Early-Cognitive))
 
 [May 2021](2105.md)
 * [簡易組み立て式授乳ブース。 (株式会社MISTRAL)](https://mistral-corp.jp/product/miruru/m-feature/)
