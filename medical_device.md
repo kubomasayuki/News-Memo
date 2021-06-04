@@ -1,4 +1,5 @@
 [\[June 2021\]](2106.md)
+* [赤ちゃんのうつぶせ寝、SIDS対策デバイス。 (MonBaby)](https://monbaby.jp/)
 * [ライトタッチ現象を利用した転倒防止デバイス。 (横浜国立大学)](https://www.ynu.ac.jp/hus/koho/26269/34_26269_1_1_210421114129.pdf) ([論文](https://www.nature.com/articles/s41598-021-85687-4))
 
 [\[May 2021\]](2105.md)
