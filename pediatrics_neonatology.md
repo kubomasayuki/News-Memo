@@ -1,3 +1,6 @@
+[June 2021](2106.md)
+* [脳は5歳までの育ち方で決まる。 (Virginia Tech)](https://vtx.vt.edu/videos/k/2021/05/1_cklhatrd.html)
+
 [May 2021](2105.md)
 * [簡易組み立て式授乳ブース。 (株式会社MISTRAL)](https://mistral-corp.jp/product/miruru/m-feature/)
 * [入院中の子どもへの物語の読み聞かせはストレスを軽減させる。 (PNAS)](https://www.pnas.org/content/118/22/e2018409118)
