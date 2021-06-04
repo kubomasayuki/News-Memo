@@ -1,4 +1,4 @@
-[\[June 2021\]](2105.md)
+[\[June 2021\]](2106.md)
 
 [\[May 2021\]](2105.md)
 * [深い睡眠時間が短いと認知機能が低下する。 (Flinders University)](https://news.flinders.edu.au/blog/2021/05/30/warning-on-sleep-change-in-older-men/) ([論文](https://onlinelibrary.wiley.com/doi/10.1111/jsr.13370))
