@@ -1,4 +1,5 @@
 [\[June 2021\]](2106.md)
+* [ヴィーガン食で育った子供はLDLコレステロールのレベルが低いが、ビタミンB12が欠乏しており、骨の弱さは成長後にも影響する。 (University College London)](https://www.ucl.ac.uk/child-health/news/2021/jun/vegan-diets-children-may-bring-heart-benefits-pose-growth-risks) ([論文](https://academic.oup.com/ajcn/article/113/6/1565/6178918))
 * [赤ちゃんのうつぶせ寝、SIDS対策デバイス。 (MonBaby)](https://monbaby.jp/)
 * [脳は5歳までの育ち方で決まる。 (Virginia Tech)](https://vtx.vt.edu/videos/k/2021/05/1_cklhatrd.html) ([論文](https://direct.mit.edu/jocn/article/33/6/1197/98115/Randomized-Manipulation-of-Early-Cognitive))
 * [胎便は妊娠中に何に曝露したかを明らかにし、生後1年のアレルギー感作を予測するのに役立つ。 (The University of Brithsh Columbia)](https://news.ubc.ca/2021/04/29/a-babys-first-poop-can-help-predict-risk-of-developing-allergies/) ([論文](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00076-8)、過去の調査 [May 18, 2021 帝王切開で産まれた子の方が1歳、3歳時点で(特定の)アレルギーを発症しやすい。 (University of Alberta、CHILD Cohort Study)](2105.md))
