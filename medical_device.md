@@ -1,4 +1,5 @@
 [\[June 2021\]](2106.md)
+* [新しい吸引分娩デバイス。 (日本BD)](https://www.bdj.co.jp/showcase/201410-sc-04.html)
 * [電気を使わないインファントウォーマー。 (Boston Children's Hospital)](https://www.childrenshospital.org/centers-and-services/programs/f-_-n/global-health/projects/rwanda) ([論文](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(21)00122-X/fulltext))
 * [赤ちゃんのうつぶせ寝、SIDS対策デバイス。 (MonBaby)](https://monbaby.jp/)
 * [ライトタッチ現象を利用した転倒防止デバイス。 (横浜国立大学)](https://www.ynu.ac.jp/hus/koho/26269/34_26269_1_1_210421114129.pdf) ([論文](https://www.nature.com/articles/s41598-021-85687-4))
