@@ -1,4 +1,6 @@
 [\[June 2021\]](2106.md)
+* [3D超音波シミュレータ。 (CAE Healthcare)](https://vimeo.com/413238009)
+* [AR超音波シミュレータ。 (CAE Healthcare)](https://vimeo.com/420817738)
 * [新しい吸引分娩デバイス。 (日本BD)](https://www.bdj.co.jp/showcase/201410-sc-04.html)
 * [薬物の血液胎盤関門の通過しやすさにも概日リズムが存在する。 (Medical Xpress)](https://medicalxpress.com/news/2021-04-circadian-clock-mouse-placenta.html) ([論文](https://journals.biologists.com/dev/article-abstract/148/8/dev197673/256558/The-trophoblast-clock-controls-transport-across))
 
