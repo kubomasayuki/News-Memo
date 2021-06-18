@@ -2,10 +2,10 @@
 
 [\[May 2021\]](2105.md)
 * [深い睡眠時間が短いと認知機能が低下する。 (Flinders University)](https://news.flinders.edu.au/blog/2021/05/30/warning-on-sleep-change-in-older-men/) ([論文](https://onlinelibrary.wiley.com/doi/10.1111/jsr.13370))
+* [10歳未満の小児の睡眠時無呼吸症無呼吸症を発症し青年期まで解消しない子どもは高血圧のリスクが高い。 (American Heart Association)](https://www.heart.org/en/news/2021/05/21/kids-with-sleep-apnea-into-teen-years-could-develop-high-blood-pressure)
 
 [\[April 2021\]](2104.md)
 * [不眠症スクリーニングツールのメタ分析。 (Journal of Psychosomatic Research)](https://www.sciencedirect.com/science/article/abs/pii/S0022399916303324)
-* [10歳未満の小児の睡眠時無呼吸症無呼吸症を発症し青年期まで解消しない子どもは高血圧のリスクが高い。 (American Heart Association)](https://www.heart.org/en/news/2021/05/21/kids-with-sleep-apnea-into-teen-years-could-develop-high-blood-pressure)
 
 [\[March 2021\]](2103.md)
 
