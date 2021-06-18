@@ -1,4 +1,5 @@
 [\[June 2021\]](2106.md)
+* [外部電源なしで動作する極薄シート型生体センサ。 (Med IT Tech)](https://medit.tech/micro-sheet-osaka-univ-and-ostria/) ([論文](https://www.nature.com/articles/s41467-021-22663-6))
 * [新しい吸引分娩デバイス。 (日本BD)](https://www.bdj.co.jp/showcase/201410-sc-04.html)
 * [電気を使わないインファントウォーマー。 (Boston Children's Hospital)](https://www.childrenshospital.org/centers-and-services/programs/f-_-n/global-health/projects/rwanda) ([論文](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(21)00122-X/fulltext))
 * [赤ちゃんのうつぶせ寝、SIDS対策デバイス。 (MonBaby)](https://monbaby.jp/)
