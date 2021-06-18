@@ -44,7 +44,9 @@
 [\[July 2020\]](2007.md)
 
 [\[June 2020\]](2006.md)
+* [非侵襲胎児酸素飽和度モニタ (カリフォルニア大デービス校)](https://www.ucdavis.edu/news/noninvasive-fetal-oxygen-monitor-could-make-safer-deliveries) ([論文](https://www.ajog.org/article/S0002-9378(19)31484-X/fulltext))
 * [患者が自宅からも48時間の連続監視が可能なベルトレスのモニタリング製品。 (Philips)](https://www.usa.philips.com/healthcare/product/HC866488/avalon-beltless-fetal-monitoring-solution) ([FDAの緊急ガイドラインによりCOVID-19に伴いAvalon CLとともに認可](https://www.medgadget.com/2020/06/philips-fetal-monitor-to-help-during-covid-distancing.html))
+* [スマートフォンとiOSアプリを使用したポータブル超音波エコー。 (Butterfly Network)](https://www.butterflynetwork.com/index.html)
 
 [\[May 2020\]](2005.md)
 * [Novii 外測胎児監視デバイスの臨床研究。 (Clinical Trials)](https://clinicaltrials.gov/ct2/show/NCT03156608)
