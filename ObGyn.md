@@ -77,7 +77,6 @@
 * [アカゲザルにおいて、人と同様の出産時の骨盤と児頭の共変動を確認。 (京都大学)](http://www.kyoto-u.ac.jp/ja/research/research_results/2020/200818_1.html)
 * [牛乳由来の栄養より母乳由来の栄養の方が未熟児の予後を改善。 (University of Missouri)](https://news.missouri.edu/2020/got-milk-human-milk-based-fortifiers-improve-health-outcomes-for-the-smallest-premature-babies/) ([記事](https://www.neonatologytoday.net/newsletters/nt-jul20.pdf))
 * [分娩、出産、産後ケア。 (Mayo Clinic)](https://www.mayoclinic.org/healthy-lifestyle/labor-and-delivery/basics/labor-and-delivery/hlv-20049465)
-* [生後数時間の採取血液から胎児の脳損傷を診断。 (Imperial College London)](https://www.imperial.ac.uk/news/200975/blood-test-could-diagnose-baby-brain/)
 
 [\[July 2020\]](2007.md)
 * [Apgarスコアは早産児に対しても有用。 (ケアネット)](https://www.carenet.com/news/journal/carenet/50460)
