@@ -26,6 +26,8 @@
 * [日常使用で早産につながる陣痛をモニタするデバイス。 (Bloomlife)](https://bloomlife.com/)
 
 [\[December 2020\]](2012.md)
+* [自宅で乳がんをチェックできるデバイス。(MAMMOECHO、Sony first flight)](https://first-flight.sony.com/pj/mammoecho)
+* [胎児心電図モニタ。 (mindchild)](http://www.mindchild.com/)
 
 [\[November 2020\]](2011.md)
 
