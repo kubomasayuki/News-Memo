@@ -54,8 +54,7 @@
 [\[October 2020\]](2010.md)
 * [母体安全への提言 2019。 (日本産婦人科医会)](https://www.jaog.or.jp/wp/wp-content/uploads/2020/09/botai_2019.pdf)
 * [帝王切開時の静脈血栓塞栓症予防のための推奨事項。 (SMFM、AJOG)](https://www.ajog.org/article/S0002-9378(20)30518-4/fulltext)
-* [吸引により子宮収縮を促すバルーンタンポナーデ。 (Green Journal)](https://journals.lww.com/greenjournal/Fulltext/2020/11000/Intrauterine_Vacuum_Induced_Hemorrhage_Control.4.aspx) ([製品ページ](https://www.alydiahealth.com/jada)、過去の調査：[September 4, 2020 産後の子宮の自力収縮を促すループ構造を持つ子宮バルーンタンポナーデ](2009.md))
-* [スポンジ状のタンポナーデ。 (Green Journal)](https://journals.lww.com/greenjournal/Fulltext/2020/11000/Management_of_Postpartum_Hemorrhage_With_a.3.aspx) ([製品ページ](https://www.obstetrx.com/solution))
+* [スポンジ状のタンポナーデ。 (Green Journal)](https://journals.lww.com/greenjournal/Fulltext/2020/11000/Management_of_Postpartum_Hemorrhage_With_a.3.aspx) ([製品ページ](https://www.obstetrx.com/solution)、過去の調査：[September 4, 2020 吸引により子宮収縮を促すバルーンタンポナーデ。](2009.md))
 * [分娩誘発が成功するかどうかを予測するシミュレータ。 (Green Journal)](https://journals.lww.com/greenjournal/Abstract/2020/10000/Externally_Validated_Prediction_Model_of_Vaginal.12.aspx) ([アプリ](https://d5xbbxaa8t16z.cloudfront.net/mnow/content/obstetricriskcalculator/index.html)、過去の調査：[March 31, 2019 超音波に基づいて分娩モード(経腟分娩の確率)を％で予測するアプリ](2004.md))
 * [分娩時の硬膜外麻酔が自閉症の原因となる科学的根拠はない。 (産科婦人科学会、アメリカ麻酔科学会、小児麻酔学会、アメリカ産科婦人科学会、母体胎児医学会の共同声明)](https://www.asahq.org/about-asa/newsroom/news-releases/2020/10/labor-epidurals-and-autism-joint-statement)
 * [質の高いモニタリング、適切な出産前ケア、熟練した助産師がいれば防げた死産が毎年200万人。新型コロナで更に増加の恐れ。 (Unicef)](https://www.unicef.or.jp/news/2020/0214.html)
@@ -69,7 +68,7 @@
 * [妊娠糖尿病の母親から産まれた子供はエピジェネティックな年齢が実年齢より高い。 (Rutgers University)](https://www.rutgers.edu/news/gestational-diabetes-may-accelerate-childs-biological-age)
 * [アプガースコア5分値から10分値のスコアの上昇と新生児死亡率の低下に相関あり。 (ObgProject)](https://www.obgproject.com/2020/08/20/can-apgar-scores-help-predict-neonatal-mortality-for-preterm-infants-at-different-gestational-ages/) ([Journal](https://www.nejm.org/doi/full/10.1056/NEJMoa1915075))
 * [STRIDER RCTの結果、シルデナフィルの投与は重症FGRを改善しない。 (ObgProject)](https://www.obgproject.com/2020/06/26/strider-rct-results-sildenafil-for-fetal-growth-restriction/) ([Journal](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2767243))
-* [産後の子宮の自力収縮を促すループ構造を持つ子宮バルーンタンポナーデ。 (Alydia Health)](https://www.alydiahealth.com/jada)
+* [吸引により子宮収縮を促すバルーンタンポナーデ。 (Green Journal)](https://journals.lww.com/greenjournal/Fulltext/2020/11000/Intrauterine_Vacuum_Induced_Hemorrhage_Control.4.aspx) ([製品ページ](https://www.alydiahealth.com/jada))
 * [臍帯血中のカドミウム濃度と児の喘息とアレルギーのリスクが上昇。 (Medical Xpress)](https://medicalxpress.com/news/2020-09-exposure-cadmium-womb-linked-childhood.html)
 * [周産期医療の広場 (日本産科婦人科学会サステイナブル産婦人科医療体制確立委員会)](http://shusanki.org/index.html)
 
