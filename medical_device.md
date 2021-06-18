@@ -77,7 +77,7 @@
 * [スタンフォード大とバークレー大がそれぞれ産み出した伸縮性のあるワイヤレスバイタルセンサー](https://jp.techcrunch.com/2019/08/20/2019-08-16-flexible-stick-on-sensors-could-wirelessly-monitor-your-sweat-and-pulse/)
 
 [\[July 2019\]](1907.md)
-* [おむつが濡れたらスマホに通知するシステム (CNET Japan)](https://japan.cnet.com/article/35140225/)
+* [おむつが濡れたらスマホに通知するシステム (CNET Japan)](https://japan.cnet.com/article/35140225/) ([製品ページ](https://www.pampers.com/en-us/lumi))
 * [医療機器としてのAI対応ソフトウェアの製造者が直面している特許保護の難問 (MedCityNews)](https://medcitynews.com/2019/06/patent-protection-and-ai-and-medical-devices/)  
 * [医療機器としてのソフトウェア(SaMD)における人工知能と機械学習 (FDA)](https://www.fda.gov/medical-devices/digital-health/software-medical-device-samd)  
 
