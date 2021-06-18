@@ -11,6 +11,9 @@
 * [5皿分の野菜(350g、1皿＝1SV＝1サービング)と200gの果物を食べよう。 (一般社団法人 ファイブ・ア・デイ協会)](https://www.5aday.net/)
 
 [\[March 2021\]](2103.md)
+* [「トランス脂肪酸を含まない」マーガリンはLDLコレステロールを減らす。 (Mayo Clinic)](https://newsnetwork.mayoclinic.org/discussion/consumer-health-butter-margarine-and-your-heart/)
+* [きのこ摂取により乳がん発症リスクは有意に低下し、他のがんの発症リスクも低下する可能性。 (ケアネット)](https://www.carenet.com/news/general/carenet/51905) ([論文](https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmab015/6174025))
+* [温かい食べ物の方が食事の満足度(満腹度)が高いので、補完的な食事が減る。 (Rutgers University Camden)](https://news.camden.rutgers.edu/2021/02/consumers-buy-more-food-when-they-order-cold-meals-and-drinks/) ([ジャーナル記事](https://www.sciencedirect.com/science/article/abs/pii/S0195666320316913))
 
 [\[February 2021\]](2102.md)
 
