@@ -42,6 +42,8 @@
 [\[May 2020\]](2005.md)
 
 [\[April 2020\]](2004.md)
+* [フィルターでろ過したコーヒーを1日1～4杯飲む人が最も健康。 (Medical Xpress)](https://medicalxpress.com/news/2020-04-healthiest-coffee-science.html)
+* [少量の母乳でも乳児の腸内のウイルスからの保護に効果あり。 (Science Daily)](https://www.sciencedaily.com/releases/2020/04/200415110452.htm)
 
 [\[March 2020\]](2003.md)
 
