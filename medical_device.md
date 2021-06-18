@@ -30,6 +30,7 @@
 * [胎児心電図モニタ。 (mindchild)](http://www.mindchild.com/)
 
 [\[November 2020\]](2011.md)
+* [新生児の脳性麻痺などの兆候を見つける為のウェアラブルカフ。 (Imperial College London)](https://www.imperial.ac.uk/news/209073/new-non-invasive-technology-could-spot-early/)
 
 [\[October 2020\]](2010.md)
 
