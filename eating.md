@@ -50,6 +50,8 @@
 * [食物繊維摂取量が多いほど、循環器疾患による死亡リスクが低い (国立がん研究センター)](https://epi.ncc.go.jp/jphc/outcome/8484.html)
 
 [\[February 2020\]](2002.md)
+* [中年以上の日常的な糖質摂取は脂質異常症発症リスクが上昇 (Tufts Now)](https://now.tufts.edu/news-releases/sugary-drinks-sour-choice-adults-trying-maintain-normal-cholesterol-levels)
+* [ジャンクフードは依存性や健康上の問題だけでなく記憶力低下も (Daily Mail)](https://www.dailymail.co.uk/health/article-8016945/)
 
 [\[January 2020\]](2001.md)
 
