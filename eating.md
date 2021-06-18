@@ -31,6 +31,7 @@
 [\[September 2020\]](2009.md)
 
 [\[August 2020\]](2008.md)
+* [牛乳由来の栄養より母乳由来の栄養の方が未熟児の予後を改善。 (University of Missouri)](https://news.missouri.edu/2020/got-milk-human-milk-based-fortifiers-improve-health-outcomes-for-the-smallest-premature-babies/) ([記事](https://www.neonatologytoday.net/newsletters/nt-jul20.pdf))
 
 [\[July 2020\]](2007.md)
 
