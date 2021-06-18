@@ -5,7 +5,10 @@
 * [ライトタッチ現象を利用した転倒防止デバイス。 (横浜国立大学)](https://www.ynu.ac.jp/hus/koho/26269/34_26269_1_1_210421114129.pdf) ([論文](https://www.nature.com/articles/s41598-021-85687-4))
 
 [\[May 2021\]](2105.md)
+* [咀嚼計。 (SHARP)](https://jp.sharp/business/bitescan/)
+* [排卵周期をトラッキングするデバイス。 (AvaWorld)](https://www.avawomen.com/) (過去の調査：[June 10, 2019 排卵周期をイヤホンとAIでトラッキング。](1906.md))
 * [医療機器のプログラムについて。 (厚生労働省)](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000179749_00004.html) ([プログラムの医療機器該当性に関するガイドライン](https://www.mhlw.go.jp/content/11120000/000764274.pdf))
+* [折り畳みスマホを指に挟んで血圧を計測するパテント。 (CNET Japan)](https://japan.cnet.com/article/35168694/) ([公開特許の情報](https://nl.letsgodigital.org/uploads/2021/04/samsung-galaxy-z-fold.pdf))
 
 [\[April 2021\]](2104.md)
 * [日本のIoT医療機器はサイバー攻撃に非常に弱い。 (Med IT Tech)](https://medit.tech/jmari-report-about-cyber-security-management-for-medical/) ([報告書](https://www.jmari.med.or.jp/download/RP077.pdf))
