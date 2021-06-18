@@ -34,6 +34,8 @@
 * [牛乳由来の栄養より母乳由来の栄養の方が未熟児の予後を改善。 (University of Missouri)](https://news.missouri.edu/2020/got-milk-human-milk-based-fortifiers-improve-health-outcomes-for-the-smallest-premature-babies/) ([記事](https://www.neonatologytoday.net/newsletters/nt-jul20.pdf))
 
 [\[July 2020\]](2007.md)
+* [食前のレモン果汁摂取で食後の血糖値上昇を抑制。 (ポッカサッポロ)](https://www.pokkasapporo-fb.jp/company/news/release/200716_01.html)
+* [妊娠中の早食いで妊娠糖尿病発症のリスク増。 (ケアネット)](https://www.carenet.com/news/general/hdnj/50238) ([論文](https://www.mdpi.com/2072-6643/12/5/1296)、[エコチル調査](http://www.env.go.jp/chemi/ceh/index.html))
 
 [\[June 2020\]](2006.md)
 
