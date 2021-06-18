@@ -74,6 +74,7 @@
 [\[September 2019\]](1909.md)
 
 [\[August 2019\]](1908.md)
+* [スタンフォード大とバークレー大がそれぞれ産み出した伸縮性のあるワイヤレスバイタルセンサー](https://jp.techcrunch.com/2019/08/20/2019-08-16-flexible-stick-on-sensors-could-wirelessly-monitor-your-sweat-and-pulse/)
 
 [\[July 2019\]](1907.md)
 * [おむつが濡れたらスマホに通知するシステム (CNET Japan)](https://japan.cnet.com/article/35140225/)
