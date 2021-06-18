@@ -5,6 +5,7 @@
 
 [\[April 2021\]](2104.md)
 * [不眠症スクリーニングツールのメタ分析。 (Journal of Psychosomatic Research)](https://www.sciencedirect.com/science/article/abs/pii/S0022399916303324)
+* [10歳未満の小児の睡眠時無呼吸症無呼吸症を発症し青年期まで解消しない子どもは高血圧のリスクが高い。 (American Heart Association)](https://www.heart.org/en/news/2021/05/21/kids-with-sleep-apnea-into-teen-years-could-develop-high-blood-pressure)
 
 [\[March 2021\]](2103.md)
 
