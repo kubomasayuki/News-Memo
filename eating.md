@@ -3,6 +3,8 @@
 * [ヴィーガン食で育った子供はLDLコレステロールのレベルが低いが、ビタミンB12が欠乏しており、骨の弱さは成長後にも影響する。 (University College London)](https://www.ucl.ac.uk/child-health/news/2021/jun/vegan-diets-children-may-bring-heart-benefits-pose-growth-risks) ([論文](https://academic.oup.com/ajcn/article/113/6/1565/6178918))
 
 [\[May 2021\]](2105.md)
+* [夜食を後ろめたいと思う人は、夜食翌日に仕事のパフォーマンスが低下する。 (North Carolina State University)](https://news.ncsu.edu/2021/04/unhealthy-eating-work/) ([論文](https://doi.apa.org/doiLanding?doi=10.1037%2Fapl0000890))
+* [咀嚼計。 (SHARP)](https://jp.sharp/business/bitescan/)
 
 [\[April 2021\]](2104.md)
 
