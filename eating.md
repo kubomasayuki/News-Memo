@@ -20,6 +20,7 @@
 [\[January 2021\]](2101.md)
 
 [\[December 2020\]](2012.md)
+* [ジャンクフード(栄養価が低くカフェインやエネルギー密度が高い食事)と睡眠障害の関係が明らかに。 (University of Queensland)](https://www.uq.edu.au/news/article/2020/12/junk-food-linked-sleep-problems-teens)
 
 [\[November 2020\]](2011.md)
 
