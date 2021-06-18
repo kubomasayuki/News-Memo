@@ -13,6 +13,7 @@
 [\[January 2021\]](2101.md)
 
 [\[December 2020\]](2012.md)
+* [夜型人間は不安が大きく、衝動的な傾向があり、カフェイン、アルコール、たばこの摂取量が増加。 (University of Surrey)](https://www.surrey.ac.uk/news/young-people-who-go-bed-later-drink-and-smoke-more-due-their-impulsivity)
 
 [\[November 2020\]](2011.md)
 
