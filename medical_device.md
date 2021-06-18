@@ -23,6 +23,7 @@
 * [医療機器による褥瘡防止の為のガイドライン(の位置付けのもの)。 (日本褥瘡学会)](http://www.jspu.org/jpn/info/pdf/bestpractice_.pdf)
 
 [\[January 2021\]](2101.md)
+* [日常使用で早産につながる陣痛をモニタするデバイス。 (Bloomlife)](https://bloomlife.com/)
 
 [\[December 2020\]](2012.md)
 
