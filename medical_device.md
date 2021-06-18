@@ -86,6 +86,7 @@
 * [Medtronic製インスリンポンプがサイバーセキュリティリスクにより回収 (FDA)](https://www.fda.gov/news-events/press-announcements/fda-warns-patients-and-health-care-providers-about-potential-cybersecurity-concerns-certain)
 
 [\[June 2019\]](1906.md)
+* [排卵周期をイヤホンとAIでトラッキング (TECHABLE)](https://techable.jp/archives/100676)  
 
 [\[May 2019\]](1905.md)
 
