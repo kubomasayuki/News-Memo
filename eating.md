@@ -46,6 +46,8 @@
 * [少量の母乳でも乳児の腸内のウイルスからの保護に効果あり。 (Science Daily)](https://www.sciencedaily.com/releases/2020/04/200415110452.htm)
 
 [\[March 2020\]](2003.md)
+* [肥満と関係なく糖質の多い食事は寿命を短くする可能性 (Cell Metabolism)](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(20)30075-9)
+* [食物繊維摂取量が多いほど、循環器疾患による死亡リスクが低い (国立がん研究センター)](https://epi.ncc.go.jp/jphc/outcome/8484.html)
 
 [\[February 2020\]](2002.md)
 
