@@ -7,6 +7,8 @@
 * [咀嚼計。 (SHARP)](https://jp.sharp/business/bitescan/)
 
 [\[April 2021\]](2104.md)
+* [「コーヒーを飲むと健康になる」ではなく、「コーヒーを飲めないと健康上の問題の可能性」？ (University of South Australia)](https://www.unisa.edu.au/Media-Centre/Releases/2021/espresso-latte-or-decaf--genetic-code-drives-your-desire-for-coffee/) ([論文](https://academic.oup.com/ajcn/advance-article-abstract/doi/10.1093/ajcn/nqab014/6169154))
+* [5皿分の野菜(350g、1皿＝1SV＝1サービング)と200gの果物を食べよう。 (一般社団法人 ファイブ・ア・デイ協会)](https://www.5aday.net/)
 
 [\[March 2021\]](2103.md)
 
