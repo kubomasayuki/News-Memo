@@ -26,6 +26,7 @@
 * [肉を食べないと骨折リスクが上昇。 (University of Oxford)](https://www.ceu.ox.ac.uk/news/results-show-higher-fracture-risks-for-vegans-vegetarians-and-pescatarians-than-meat-eaters) ([論文](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-020-01815-3))
 
 [\[October 2020\]](2010.md)
+* [授乳中の母親の砂糖入り飲料摂取は子供の認知発達機能の低下につながる可能性。 (Medical Xpress)](https://medicalxpress.com/news/2020-10-sugary-beverages-consumed-breastfeeding-affect.html)
 
 [\[September 2020\]](2009.md)
 
