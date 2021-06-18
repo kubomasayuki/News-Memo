@@ -49,6 +49,7 @@
 * [スマートフォンとiOSアプリを使用したポータブル超音波エコー。 (Butterfly Network)](https://www.butterflynetwork.com/index.html)
 
 [\[May 2020\]](2005.md)
+* [多機能ウェアラブルデバイス化コンタクトレンズのFDA承認に向け2021年に臨床試験開始か？ (QLife Pro)](http://www.qlifepro.com/news/20200507/smart-contact-lens.html) ([論文](https://advances.sciencemag.org/content/6/17/eaba3252))
 * [Novii 外測胎児監視デバイスの臨床研究。 (Clinical Trials)](https://clinicaltrials.gov/ct2/show/NCT03156608)
 
 [\[April 2020\]](2004.md)
