@@ -59,6 +59,7 @@
 [\[March 2020\]](2003.md)
 
 [\[February 2020\]](2002.md)
+* [ポータブルMRIがFDA承認取得 (Medgadget)](https://www.medgadget.com/2020/02/worlds-first-portable-mri-cleared-by-fda.html)
 
 [\[January 2020\]](2001.md)
 
