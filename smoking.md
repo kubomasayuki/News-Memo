@@ -14,6 +14,7 @@
 * [受動喫煙は子供の虫歯リスク上昇。 (BMJ)](https://www.bmj.com/content/351/bmj.h5397)
 
 [\[December 2020\]](2012.md)
+* [夜型人間は不安が大きく、衝動的な傾向があり、カフェイン、アルコール、たばこの摂取量が増加。 (University of Surrey)](https://www.surrey.ac.uk/news/young-people-who-go-bed-later-drink-and-smoke-more-due-their-impulsivity)
 
 [\[November 2020\]](2011.md)
 
