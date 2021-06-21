@@ -1,4 +1,5 @@
 [\[June 2021\]](2106.md)
+* 摂取カロリーと健康長寿の関係([1](https://www.aging-regulation.jp/topics/topics-04.html)、[2](https://www.aging-regulation.jp/topics/topics-05.html)、[3](https://www.aging-regulation.jp/topics/topics-06.html))。 (東京都健康長寿医療センター)
 * [透明の飲み物に比べてピンク色の食用色素を加えた飲み物の方が運動パフォーマンスが向上した。 (University of Westminster)](https://www.westminster.ac.uk/news/pink-drinks-can-help-you-run-faster-and-further-study-finds) ([論文](https://www.frontiersin.org/articles/10.3389/fnut.2021.678105/full))
 * [ヴィーガン食で育った子供はLDLコレステロールのレベルが低いが、ビタミンB12が欠乏しており、骨の弱さは成長後にも影響する。 (University College London)](https://www.ucl.ac.uk/child-health/news/2021/jun/vegan-diets-children-may-bring-heart-benefits-pose-growth-risks) ([論文](https://academic.oup.com/ajcn/article/113/6/1565/6178918))
 
