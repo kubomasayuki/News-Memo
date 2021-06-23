@@ -1,4 +1,5 @@
 [\[June 2021\]](2106.md)
+* [胎盤の酸素動態を監視するデバイス。 (NICHD)](https://www.nih.gov/news-events/news-releases/prototype-device-may-diagnose-common-pregnancy-complications-monitoring-placental-oxygen) ([論文](https://www.osapublishing.org/boe/fulltext.cfm?uri=boe-12-7-4119))
 * [3D超音波シミュレータ。 (CAE Healthcare)](https://vimeo.com/413238009)
 * [AR超音波シミュレータ。 (CAE Healthcare)](https://vimeo.com/420817738)
 * [新しい吸引分娩デバイス。 (日本BD)](https://www.bdj.co.jp/showcase/201410-sc-04.html)
