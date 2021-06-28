@@ -1,3 +1,5 @@
+[\[Dentistry\]](Dentistry.md) [\[drinking\]](drinking.md) [\[eating\]](eating.md) [\[fertility\]](fertility.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
+
 [\[June 2021\]](2106.md)
 * [HPVの感染と早産に相関。 (University of Gothenburg)](https://www.gu.se/en/news/infection-with-human-papillomavirus-linked-to-higher-risk-of-preterm-birth) ([論文](https://doi.org/10.1371/journal.pmed.1003641))
 * [スウェーデン発の産科データベース Milou。 (Medexa)](https://www.medexa.se/en/milouenglish/)
@@ -188,3 +190,5 @@
 * [臍帯血中タンパク質(ハプトグロビン)なしで産まれた早産児の脳性麻痺や死亡リスクが高いことから、これがバイオマーカーとして使える可能性がある (MedicalXpress)](https://medicalxpress.com/news/2019-03-protein-cord-blood-death-cerebral.html)  
 * [高濃度すぎる酸素療法は逆効果 (AJOG)](https://www.ajog.org/article/S0002-9378(19)30438-7/abstract)  
 * [超音波に基づいて分娩モード(経腟分娩の確率)を％で予測するアプリ(詳細不明) (AJOG)](https://www.ajog.org/article/S0002-9378(19)30497-1/fulltext)
+
+[\[Dentistry\]](Dentistry.md) [\[drinking\]](drinking.md) [\[eating\]](eating.md) [\[fertility\]](fertility.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
