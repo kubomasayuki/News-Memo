@@ -1,5 +1,6 @@
 [\[June 2021\]](2106.md)
 * [入院できない新生児向けの安価で簡単な黄疸の迅速テスト。 (Monash University)](https://www.monash.edu/news/articles/monash-develops-quick,-cheap-test-to-detect-jaundice-in-infants) ([論文](https://pubs.rsc.org/en/content/articlelanding/2020/LC/C9LC00939F))
+* [極低出生体重児の男児は正常な体重で産まれた男児よりも生物学的老化が進むのが速い。 (McMaster University)](https://brighterworld.mcmaster.ca/articles/preemie-boys-age-faster-as-men-study-shows/) ([論文](https://doi.org/10.1542/peds.2020-001230))
 * [電気を使わないインファントウォーマー。 (Boston Children's Hospital)](https://www.childrenshospital.org/centers-and-services/programs/f-_-n/global-health/projects/rwanda) ([論文](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(21)00122-X/fulltext))
 * [ヴィーガン食で育った子供はLDLコレステロールのレベルが低いが、ビタミンB12が欠乏しており、骨の弱さは成長後にも影響する。 (University College London)](https://www.ucl.ac.uk/child-health/news/2021/jun/vegan-diets-children-may-bring-heart-benefits-pose-growth-risks) ([論文](https://academic.oup.com/ajcn/article/113/6/1565/6178918))
 * [赤ちゃんのうつぶせ寝、SIDS対策デバイス。 (MonBaby)](https://monbaby.jp/)
