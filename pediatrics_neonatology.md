@@ -2,6 +2,7 @@
 * [入院できない新生児向けの安価で簡単な黄疸の迅速テスト。 (Monash University)](https://www.monash.edu/news/articles/monash-develops-quick,-cheap-test-to-detect-jaundice-in-infants) ([論文](https://pubs.rsc.org/en/content/articlelanding/2020/LC/C9LC00939F))
 * [極低出生体重児の男児は正常な体重で産まれた男児よりも生物学的老化が進むのが速い。 (McMaster University)](https://brighterworld.mcmaster.ca/articles/preemie-boys-age-faster-as-men-study-shows/) ([論文](https://doi.org/10.1542/peds.2020-001230))
 * [インドやガーナ等アフリカ諸国の高次医療施設で実施されたNICU入院児に対するカンガルーケアは児の生存率を25％改善した。 (NEJM)](https://www.nejm.org/doi/full/10.1056/NEJMoa2026486)
+* [食卓に提供する野菜が増えると子供の野菜消費量も増える。 (Pennsylvania State University)](https://news.psu.edu/story/562019/2019/04/15/research/bigger-portions-lead-preschoolers-eating-more-over-time) ([論文](http://dx.doi.org/10.1016/j.appet.2021.105250))
 * [電気を使わないインファントウォーマー。 (Boston Children's Hospital)](https://www.childrenshospital.org/centers-and-services/programs/f-_-n/global-health/projects/rwanda) ([論文](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(21)00122-X/fulltext))
 * [ヴィーガン食で育った子供はLDLコレステロールのレベルが低いが、ビタミンB12が欠乏しており、骨の弱さは成長後にも影響する。 (University College London)](https://www.ucl.ac.uk/child-health/news/2021/jun/vegan-diets-children-may-bring-heart-benefits-pose-growth-risks) ([論文](https://academic.oup.com/ajcn/article/113/6/1565/6178918))
 * [赤ちゃんのうつぶせ寝、SIDS対策デバイス。 (MonBaby)](https://monbaby.jp/)
