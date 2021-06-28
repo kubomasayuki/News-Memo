@@ -1,4 +1,5 @@
 [\[June 2021\]](2106.md)
+* [HPVの感染と早産に相関。 (University of Gothenburg)](https://www.gu.se/en/news/infection-with-human-papillomavirus-linked-to-higher-risk-of-preterm-birth) ([論文](https://doi.org/10.1371/journal.pmed.1003641))
 * [スウェーデン発の産科データベース Milou。 (Medexa)](https://www.medexa.se/en/milouenglish/)
 * [胎盤の酸素動態を監視するデバイス。 (NICHD)](https://www.nih.gov/news-events/news-releases/prototype-device-may-diagnose-common-pregnancy-complications-monitoring-placental-oxygen) ([論文](https://www.osapublishing.org/boe/fulltext.cfm?uri=boe-12-7-4119))
 * [3D超音波シミュレータ。 (CAE Healthcare)](https://vimeo.com/413238009)
