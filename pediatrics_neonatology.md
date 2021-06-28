@@ -1,3 +1,5 @@
+[\[Dentistry\]](Dentistry.md) [\[drinking\]](drinking.md) [\[eating\]](eating.md) [\[fertility\]](fertility.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
+
 [\[June 2021\]](2106.md)
 * [入院できない新生児向けの安価で簡単な黄疸の迅速テスト。 (Monash University)](https://www.monash.edu/news/articles/monash-develops-quick,-cheap-test-to-detect-jaundice-in-infants) ([論文](https://pubs.rsc.org/en/content/articlelanding/2020/LC/C9LC00939F))
 * [極低出生体重児の男児は正常な体重で産まれた男児よりも生物学的老化が進むのが速い。 (McMaster University)](https://brighterworld.mcmaster.ca/articles/preemie-boys-age-faster-as-men-study-shows/) ([論文](https://doi.org/10.1542/peds.2020-001230))
@@ -101,3 +103,5 @@
 
 [\[April 2019\]](1904.md)
 * [LOX-indexから新生児低酸素性虚血性脳症を早期診断、発見 (国立精神・神経医療研究センター)](https://www.ncnp.go.jp/press/release.html?no=441)  
+
+[\[Dentistry\]](Dentistry.md) [\[drinking\]](drinking.md) [\[eating\]](eating.md) [\[fertility\]](fertility.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
