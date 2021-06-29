@@ -1,4 +1,4 @@
-[\[Dentistry\]](Dentistry.md) [\[drinking\]](drinking.md) [\[eating\]](eating.md) [\[fertility\]](fertility.md) \[medical_device\] [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
+[\[Dentistry\]](Dentistry.md) [\[drinking\]](drinking.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) \[medical_device\] [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
 
 [\[June 2021\]](2106.md)
 * [胎盤の酸素動態を監視するデバイス。 (NICHD)](https://www.nih.gov/news-events/news-releases/prototype-device-may-diagnose-common-pregnancy-complications-monitoring-placental-oxygen) ([論文](https://www.osapublishing.org/boe/fulltext.cfm?uri=boe-12-7-4119))
@@ -99,4 +99,4 @@
 * [遠隔医療のためのカメラ付き、アタッチメント交換型診断支援デバイス (TytoCare.com)](https://www.tytocare.com/)
 * [着るだけで心電図を計測できるスマートウェアを開発 (国立研究開発法人新エネルギー・産業技術総合開発機構)](https://www.nedo.go.jp/news/press/AA5_101107.html) ([論文](https://www.nature.com/articles/s41598-019-42027-x))
 
-[\[Dentistry\]](Dentistry.md) [\[drinking\]](drinking.md) [\[eating\]](eating.md) [\[fertility\]](fertility.md) \[medical_device\] [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
+[\[Dentistry\]](Dentistry.md) [\[drinking\]](drinking.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) \[medical_device\] [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
