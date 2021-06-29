@@ -1,6 +1,7 @@
 [\[Dentistry\]](Dentistry.md) [\[drinking\]](drinking.md) \[eating\] [\[fertility\]](fertility.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
 
 [\[June 2021\]](2106.md)
+* [人工甘味料は腸内細菌を有毒化する可能性。 (Anglia Ruskin University)](https://aru.ac.uk/news/study-shows-potential-dangers-of-sweeteners) ([論文](https://www.mdpi.com/1422-0067/22/10/5228))
 * [食卓に提供する野菜が増えると子供の野菜消費量も増える。 (Pennsylvania State University)](https://news.psu.edu/story/562019/2019/04/15/research/bigger-portions-lead-preschoolers-eating-more-over-time) ([論文](http://dx.doi.org/10.1016/j.appet.2021.105250))
 * [イラスト型の食生活指針。 (MyPlate、米国農務省)](https://www.myplate.gov/)
 * 摂取カロリーと健康長寿の関係([1](https://www.aging-regulation.jp/topics/topics-04.html)、[2](https://www.aging-regulation.jp/topics/topics-05.html)、[3](https://www.aging-regulation.jp/topics/topics-06.html))。 (東京都健康長寿医療センター)
