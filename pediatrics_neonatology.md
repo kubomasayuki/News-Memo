@@ -1,4 +1,4 @@
-[\[Dentistry\]](Dentistry.md) [\[drinking\]](drinking.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
+[\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
 
 [\[June 2021\]](2106.md)
 * [入院できない新生児向けの安価で簡単な黄疸の迅速テスト。 (Monash University)](https://www.monash.edu/news/articles/monash-develops-quick,-cheap-test-to-detect-jaundice-in-infants) ([論文](https://pubs.rsc.org/en/content/articlelanding/2020/LC/C9LC00939F))
@@ -104,4 +104,4 @@
 [\[April 2019\]](1904.md)
 * [LOX-indexから新生児低酸素性虚血性脳症を早期診断、発見 (国立精神・神経医療研究センター)](https://www.ncnp.go.jp/press/release.html?no=441)  
 
-[\[Dentistry\]](Dentistry.md) [\[drinking\]](drinking.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
+[\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
