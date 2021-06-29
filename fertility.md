@@ -1,4 +1,4 @@
-[\[Dentistry\]](Dentistry.md) [\[drinking\]](drinking.md) [\[eating\]](eating.md) \[fertility\] [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
+[\[Dentistry\]](Dentistry.md) [\[drinking\]](drinking.md) [\[diet\]](diet.md) \[fertility\] [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
 
 [\[June 2021\]](2106.md)
 
@@ -63,4 +63,4 @@
 
 [\[April 2019\]](1904.md)
 
-[\[Dentistry\]](Dentistry.md) [\[drinking\]](drinking.md) [\[eating\]](eating.md) \[fertility\] [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
+[\[Dentistry\]](Dentistry.md) [\[drinking\]](drinking.md) [\[diet\]](diet.md) \[fertility\] [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
