@@ -94,6 +94,8 @@
 * [排卵周期をイヤホンとAIでトラッキング (TECHABLE)](https://techable.jp/archives/100676)  
 
 [\[May 2019\]](1905.md)
+* [世界初、外科用の手術器具を効率的に取り出すためのツールとしての対話型自販機 (Business Wire)](https://www.businesswire.com/news/home/20190514005179/en/)
+* [ノイズリダクションや無線通信にも対応したデジタル聴診器を開発 (CNET Japan)](https://japan.cnet.com/article/35136717/)
 
 [\[April 2019\]](1904.md)
 * [遠隔医療のためのカメラ付き、アタッチメント交換型診断支援デバイス (TytoCare.com)](https://www.tytocare.com/)
