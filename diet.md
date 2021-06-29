@@ -1,4 +1,4 @@
-[\[Dentistry\]](Dentistry.md) [\[drinking\]](drinking.md) \[eating\] [\[fertility\]](fertility.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
+[\[Dentistry\]](Dentistry.md) [\[drinking\]](drinking.md) \[diet\] [\[fertility\]](fertility.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
 
 [\[June 2021\]](2106.md)
 * [人工甘味料は腸内細菌を有毒化する可能性。 (Anglia Ruskin University)](https://aru.ac.uk/news/study-shows-potential-dangers-of-sweeteners) ([論文](https://www.mdpi.com/1422-0067/22/10/5228))
