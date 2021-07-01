@@ -1,6 +1,7 @@
 [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) \[sleeping\] [\[smoking\]](smoking.md)
 
 [\[July 2021\]](2107.md)
+* [睡眠不足でも十分なワークアウトをすることで心疾患やがんのリスクを減らせる。 (The Conversation)](https://theconversation.com/poor-sleep-is-really-bad-for-your-health-but-we-found-exercise-can-offset-some-of-these-harms-163270) ([論文](https://bjsm.bmj.com/content/early/2021/05/25/bjsports-2021-104046))
 
 [\[June 2021\]](2106.md)
 
