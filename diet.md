@@ -1,6 +1,7 @@
 [\[Dentistry\]](Dentistry.md) \[diet\] [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
 
 [\[July 2021\]](2107.md)
+* [時間制限食は糖尿病に関連する高血圧を軽減する可能性。 (University of Kentucky)](https://med.uky.edu/news/uk-study-finds-time-restricted-eating-may-reduce-diabetes-related-hypertension) ([論文](https://www.pnas.org/content/118/25/e2015873118)、[断続的断食 (Wikipedia)](https://ja.wikipedia.org/wiki/%E6%96%AD%E7%B6%9A%E7%9A%84%E6%96%AD%E9%A3%9F))
 
 [\[June 2021\]](2106.md)
 * [人工甘味料は腸内細菌を有毒化する可能性。 (Anglia Ruskin University)](https://aru.ac.uk/news/study-shows-potential-dangers-of-sweeteners) ([論文](https://www.mdpi.com/1422-0067/22/10/5228))
