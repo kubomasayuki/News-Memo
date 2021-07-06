@@ -1,6 +1,7 @@
 [\[Dentistry\]](Dentistry.md) \[diet\] [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
 
 [\[July 2021\]](2107.md)
+* [デカフェやインスタントを含むすべてのコーヒーは肝疾患のリスク減。 (University of Southampton)](https://www.southampton.ac.uk/news/2021/06/coffee-reduced-liver-disease.page) ([論文](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-10991-7))
 * [赤身肉を食べると大腸でアルキル化(細胞の遺伝子変異)が起こり、変異した遺伝子に癌ドライバーが含まれるので、食べすぎはよくない。 (EurekAlert)](https://www.eurekalert.org/pub_releases/2021-06/aafc-rmc061521.php) ([論文](https://cancerdiscovery.aacrjournals.org/content/early/2021/06/11/2159-8290.CD-20-1656))
 * [時間制限食は糖尿病に関連する高血圧を軽減する可能性。 (University of Kentucky)](https://med.uky.edu/news/uk-study-finds-time-restricted-eating-may-reduce-diabetes-related-hypertension) ([論文](https://www.pnas.org/content/118/25/e2015873118)、[断続的断食 (Wikipedia)](https://ja.wikipedia.org/wiki/%E6%96%AD%E7%B6%9A%E7%9A%84%E6%96%AD%E9%A3%9F))
 
