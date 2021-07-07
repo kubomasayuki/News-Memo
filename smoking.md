@@ -1,6 +1,7 @@
 [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) \[smoking\]
 
 [\[July 2021\]](2107.md)
+* [認知症の14%は喫煙が因子と推定。 (WHO, June 2014)](https://apps.who.int/iris/bitstream/handle/10665/128041/WHO_NMH_PND_CIC_TKS_14.1_eng.pdf)
 
 [\[June 2021\]](2106.md)
 
