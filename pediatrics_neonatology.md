@@ -1,6 +1,7 @@
 [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
 
 [\[July 2021\]](2107.md)
+* [早産児のCPAPは強制換気よりもNICU入室期間を改善した。 (EurekAlert)](https://www.eurekalert.org/pub_releases/2021-07/vumc-cir070721.php) ([論文](https://jamanetwork.com/journals/jamapediatrics/article-abstract/2781675))
 
 [\[June 2021\]](2106.md)
 * [入院できない新生児向けの安価で簡単な黄疸の迅速テスト。 (Monash University)](https://www.monash.edu/news/articles/monash-develops-quick,-cheap-test-to-detect-jaundice-in-infants) ([論文](https://pubs.rsc.org/en/content/articlelanding/2020/LC/C9LC00939F))
