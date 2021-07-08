@@ -1,6 +1,7 @@
 [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) \[medical_device\] [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
 
 [\[July 2021\]](2107.md)
+* [指先穿刺せず汗で計測する血糖センサ。 (UCSD)](https://ucsdnews.ucsd.edu/pressrelease/personalized-sweat-sensor-reliably-monitors-blood-glucose-without-finger-pricks) ([論文](https://pubs.acs.org/doi/10.1021/acssensors.1c00139))
 
 [\[June 2021\]](2106.md)
 * [胎盤の酸素動態を監視するデバイス。 (NICHD)](https://www.nih.gov/news-events/news-releases/prototype-device-may-diagnose-common-pregnancy-complications-monitoring-placental-oxygen) ([論文](https://www.osapublishing.org/boe/fulltext.cfm?uri=boe-12-7-4119))
