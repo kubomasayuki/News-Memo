@@ -1,6 +1,7 @@
 [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) \[sleeping\] [\[smoking\]](smoking.md)
 
 [\[July 2021\]](2107.md)
+* [睡眠前の照明の違いが睡眠時の体温とエネルギー代謝に影響。 (筑波大学、山形大学)](https://www.tsukuba.ac.jp/journal/pdf/p202106291602.pdf) ([論文](https://www.nature.com/articles/s41598-021-91828-6))
 * [幼少期からの睡眠負債の蓄積が成人後の日常的な眠気につながる？ (The Conversation)](https://theconversation.com/why-do-kids-hate-going-to-sleep-while-adults-usually-love-it-160703) (※ソース不明)
 * [1980年代米国における睡眠時間と死亡に関する大規模疫学調査。 (JAMA Psyciatry)](https://pubmed.ncbi.nlm.nih.gov/11825133/)
 * [睡眠不足でも十分なワークアウトをすることで心疾患やがんのリスクを減らせる。 (The Conversation)](https://theconversation.com/poor-sleep-is-really-bad-for-your-health-but-we-found-exercise-can-offset-some-of-these-harms-163270) ([論文](https://bjsm.bmj.com/content/early/2021/05/25/bjsports-2021-104046))
