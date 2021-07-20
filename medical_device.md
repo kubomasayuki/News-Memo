@@ -1,6 +1,7 @@
 [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) \[medical_device\] [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
 
 [\[July 2021\]](2107.md)
+* [リングエコー撮像法を用いた無痛の乳がん検査装置が販売開始。 (Lily MedTech)](https://www.lilymedtech.com/wp-content/uploads/2021/05/20210510.pdf?fbclid=IwAR204xM_4sCubpGzRlNM_Vft3MQH6_rLIjUJpBF7jjlhoHaeN-eq2mALFy0)
 * [指先穿刺せず汗で計測する血糖センサ。 (UCSD)](https://ucsdnews.ucsd.edu/pressrelease/personalized-sweat-sensor-reliably-monitors-blood-glucose-without-finger-pricks) ([論文](https://pubs.acs.org/doi/10.1021/acssensors.1c00139))
 
 [\[June 2021\]](2106.md)
