@@ -1,6 +1,7 @@
 [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
 
 [\[July 2021\]](2107.md)
+* [Sensitiveな子育ては、子供が生涯にかかる経済的コストを下げる。 (University of Rochester Medical Center)](https://www.urmc.rochester.edu/news/story/return-on-investment-sensitive-parenting-in-childhood-creates-13-fold-cost-savings) ([論文](https://acamh.onlinelibrary.wiley.com/doi/10.1111/jcpp.13461))
 * [一時保育マッチングサービス。 (mitete)](https://mitete.jp/)
 * [FGRが疑われる重度SGA児は入学時の発達転帰がよくない。 (MedPage Today)](https://www.medpagetoday.com/obgyn/pregnancy/93548) ([論文](https://jamanetwork.com/journals/jama/article-abstract/2781857))
 * [早産児のCPAPは強制換気よりもNICU入室期間を改善した。 (EurekAlert)](https://www.eurekalert.org/pub_releases/2021-07/vumc-cir070721.php) ([論文](https://jamanetwork.com/journals/jamapediatrics/article-abstract/2781675))
