@@ -2,6 +2,7 @@
 
 [\[July 2021\]](2107.md)
 * [ランチの時間が長い学生は野菜や果物を多く摂る傾向。 (University of Illinois Urbana-Champaign)](https://aces.illinois.edu/news/kids-eat-more-fruit-and-vegetables-longer-seated-lunch-time)
+* [コーヒーの過剰摂取は認知症リスク上昇の可能性。 (University of South Australia)](https://www.unisa.edu.au/media-centre/Releases/2021/excess-coffee-a-bitter-brew-for-brain-health/) ([論文](https://www.tandfonline.com/doi/full/10.1080/1028415X.2021.1945858))
 * [肉と栄養素を調整した肉代替品はメタボローム解析的に同じではない(どちらが優れているということではない)。 (Duke University)](https://today.duke.edu/2021/07/metabolomics-lab%E2%80%99s-analysis-finds-near-meat-and-meat-not-nutritionally-equivalent) ([論文](https://www.nature.com/articles/s41598-021-93100-3))
 * [発酵食品は腸内細菌叢を変化させ、炎症性タンパク質のレベルを低下させる。 (Stanford University)](https://med.stanford.edu/news/all-news/2021/07/fermented-food-diet-increases-microbiome-diversity-lowers-inflammation) ([論文](https://www.cell.com/cell/fulltext/S0092-8674(21)00754-6))
 * [デカフェやインスタントを含むすべてのコーヒーは肝疾患のリスク減。 (University of Southampton)](https://www.southampton.ac.uk/news/2021/06/coffee-reduced-liver-disease.page) ([論文](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-021-10991-7))
