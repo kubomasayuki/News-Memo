@@ -1,6 +1,7 @@
 [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
 
 [\[July 2021\]](2107.md)
+* [母乳育児は、生後のごく短い期間だけでも3歳時点の血圧低下と結びつく。 (American Heart Association, CHILD study)](https://www.ahajournals.org/doi/10.1161/JAHA.120.019067)
 * [Sensitiveな子育ては、子供が生涯にかかる経済的コストを下げる。 (University of Rochester Medical Center)](https://www.urmc.rochester.edu/news/story/return-on-investment-sensitive-parenting-in-childhood-creates-13-fold-cost-savings) ([論文](https://acamh.onlinelibrary.wiley.com/doi/10.1111/jcpp.13461))
 * [一時保育マッチングサービス。 (mitete)](https://mitete.jp/)
 * [FGRが疑われる重度SGA児は入学時の発達転帰がよくない。 (MedPage Today)](https://www.medpagetoday.com/obgyn/pregnancy/93548) ([論文](https://jamanetwork.com/journals/jama/article-abstract/2781857))
