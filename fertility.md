@@ -1,6 +1,7 @@
 [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) \[fertility\] [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
 
 [\[July 2021\]](2107.md)
+* [AIにより細胞生検なしで人工授精した胚の染色体異常を検査。 (ESHRE)](https://www.eshre.eu/ESHRE2021/Media/2021-Press-releases/Bori)
 
 [\[June 2021\]](2106.md)
 
