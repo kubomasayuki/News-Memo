@@ -1,4 +1,4 @@
-[\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
+[\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
 
 [\[July 2021\]](2107.md)
 * [リングエコー撮像法を用いた無痛の乳がん検査装置が販売開始。 (Lily MedTech)](https://www.lilymedtech.com/wp-content/uploads/2021/05/20210510.pdf?fbclid=IwAR204xM_4sCubpGzRlNM_Vft3MQH6_rLIjUJpBF7jjlhoHaeN-eq2mALFy0) (過去の調査：[December 27, 2020 自宅で乳がんをチェックできるデバイス。(MAMMOECHO、Sony first flight)](2012.md))
@@ -196,4 +196,4 @@
 * [高濃度すぎる酸素療法は逆効果 (AJOG)](https://www.ajog.org/article/S0002-9378(19)30438-7/abstract)  
 * [超音波に基づいて分娩モード(経腟分娩の確率)を％で予測するアプリ(詳細不明) (AJOG)](https://www.ajog.org/article/S0002-9378(19)30497-1/fulltext)
 
-[\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
+[\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
