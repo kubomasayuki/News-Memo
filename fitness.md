@@ -52,6 +52,7 @@
 [\[November 2019\]](1911.md)
 
 [\[October 2019\]](1910.md)
+* [ランニング効率を高めるためのもう1つの腱 (science alert)](https://www.sciencealert.com/a-simple-jogging-hack-could-allow-you-to-run-longer-and-faster-than-ever-before)
 
 [\[September 2019\]](1909.md)
 
