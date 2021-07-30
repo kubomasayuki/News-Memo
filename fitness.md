@@ -22,6 +22,7 @@
 [\[December 2020\]](2012.md)
 
 [\[November 2020\]](2011.md)
+* [ウェアラブルセンサと機械学習でアスリートの故障を予測。 (Vanderbilt University)](https://engineering.vanderbilt.edu/news/2020/wearable-sensor-algorithms-powered-by-machine-learning-could-be-key-to-preventing-runners-injuries/)
 
 [\[October 2020\]](2010.md)
 
