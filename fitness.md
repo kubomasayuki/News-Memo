@@ -35,6 +35,7 @@
 [\[June 2020\]](2006.md)
 
 [\[May 2020\]](2005.md)
+* [太ももの筋力が弱い過体重や肥満の人は高血圧になりやすい。 (Healthday News)](http://www.healthday.com/hdlite/pb/pb_article.htm?CID=19EEB8AB&NFID=P&articleId=756480)
 
 [\[April 2020\]](2004.md)
 
