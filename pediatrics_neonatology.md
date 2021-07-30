@@ -1,4 +1,4 @@
-[\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
+[\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
 
 [\[July 2021\]](2107.md)
 * [母乳育児は、生後のごく短い期間だけでも3歳時点の血圧低下と結びつく。 (American Heart Association, CHILD study)](https://www.ahajournals.org/doi/10.1161/JAHA.120.019067)
@@ -111,4 +111,4 @@
 [\[April 2019\]](1904.md)
 * [LOX-indexから新生児低酸素性虚血性脳症を早期診断、発見 (国立精神・神経医療研究センター)](https://www.ncnp.go.jp/press/release.html?no=441)  
 
-[\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
+[\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
