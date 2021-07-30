@@ -89,6 +89,7 @@
 
 [\[July 2019\]](1907.md)
 * [おむつが濡れたらスマホに通知するシステム (CNET Japan)](https://japan.cnet.com/article/35140225/) ([製品ページ](https://www.pampers.com/en-us/lumi))
+* [歩くことでウェアラブル機器に電力を供給できるエナジーハーべスティングシステムの開発 (NEW ATLAS)](https://newatlas.com/knee-motion-energy-harvesting/60634/) ([論文](https://aip.scitation.org/doi/abs/10.1063/1.5098962))
 * [医療機器としてのAI対応ソフトウェアの製造者が直面している特許保護の難問 (MedCityNews)](https://medcitynews.com/2019/06/patent-protection-and-ai-and-medical-devices/)  
 * [医療機器としてのソフトウェア(SaMD)における人工知能と機械学習 (FDA)](https://www.fda.gov/medical-devices/digital-health/software-medical-device-samd)  
 * [病院の麻酔器と人工呼吸器に遠隔操作可能な脆弱性 (TechCrunch)](https://jp.techcrunch.com/2019/07/10/2019-07-09-flaws-anesthesia-respiratory-devices-tampering/)
