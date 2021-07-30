@@ -76,6 +76,7 @@
 
 [\[October 2019\]](1910.md)
 * [食事による脈波パターンの変化を利用して糖質代謝状態を推定するデバイス (京セラ)](https://www.kyocera.co.jp/news/2019/1008_apbc.html)
+* [日本の学校給食は子供たちの栄養バランスに貢献する世界でも珍しいシステム (Channel News Asia)](https://www.channelnewsasia.com/news/asia/japan-children-nutrition-obesity-health-unicef-list-12000780)
 * [甘いものは適量を活動期に (名古屋大学)](http://www.nagoya-u.ac.jp/about-nu/public-relations/researchinfo/upload_images/20190912_agr1.pdf)
 
 [\[September 2019\]](1909.md)
