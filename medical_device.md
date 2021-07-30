@@ -40,6 +40,7 @@
 
 [\[November 2020\]](2011.md)
 * [新生児の脳性麻痺などの兆候を見つける為のウェアラブルカフ。 (Imperial College London)](https://www.imperial.ac.uk/news/209073/new-non-invasive-technology-could-spot-early/)
+* [ウェアラブルセンサと機械学習でアスリートの故障を予測。 (Vanderbilt University)](https://engineering.vanderbilt.edu/news/2020/wearable-sensor-algorithms-powered-by-machine-learning-could-be-key-to-preventing-runners-injuries/)
 
 [\[October 2020\]](2010.md)
 
