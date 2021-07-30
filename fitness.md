@@ -5,6 +5,7 @@
 * [Power Breatheで1日5分呼吸筋を鍛えると血圧が下がる。 (Science Daily)](https://www.sciencedaily.com/releases/2021/06/210630135033.htm) ([論文](https://www.ahajournals.org/doi/10.1161/JAHA.121.020980))
 
 [\[June 2021\]](2106.md)
+* [透明の飲み物に比べてピンク色の食用色素を加えた飲み物の方が運動パフォーマンスが向上した。 (University of Westminster)](https://www.westminster.ac.uk/news/pink-drinks-can-help-you-run-faster-and-further-study-finds) ([論文](https://www.frontiersin.org/articles/10.3389/fnut.2021.678105/full))
 
 [\[May 2021\]](2105.md)
 
