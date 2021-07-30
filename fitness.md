@@ -36,6 +36,8 @@
 
 [\[May 2020\]](2005.md)
 * [太ももの筋力が弱い過体重や肥満の人は高血圧になりやすい。 (Healthday News)](http://www.healthday.com/hdlite/pb/pb_article.htm?CID=19EEB8AB&NFID=P&articleId=756480)
+* [心肺機能の評価を追加すると健康予測の精度が向上。 (Elsevier)](https://www.elsevier.com/about/press-releases/research-and-journals/cardiorespiratory-fitness-assessment-improves-accuracy-of-health-predictions)
+* [運動の頻度に関わらず、長時間の座位はがん罹患リスク増か？ (国立がん研究センター)](https://epi.ncc.go.jp/jphc/outcome/8485.html)
 
 [\[April 2020\]](2004.md)
 
