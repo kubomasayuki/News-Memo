@@ -1,4 +1,4 @@
-[\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) \[medical_device\] [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
+[\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) \[medical_device\] [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
 
 [\[July 2021\]](2107.md)
 * [リングエコー撮像法を用いた無痛の乳がん検査装置が販売開始。 (Lily MedTech)](https://www.lilymedtech.com/wp-content/uploads/2021/05/20210510.pdf?fbclid=IwAR204xM_4sCubpGzRlNM_Vft3MQH6_rLIjUJpBF7jjlhoHaeN-eq2mALFy0) (過去の調査：[December 27, 2020 自宅で乳がんをチェックできるデバイス。(MAMMOECHO、Sony first flight)](2012.md))
@@ -105,4 +105,4 @@
 * [遠隔医療のためのカメラ付き、アタッチメント交換型診断支援デバイス (TytoCare.com)](https://www.tytocare.com/)
 * [着るだけで心電図を計測できるスマートウェアを開発 (国立研究開発法人新エネルギー・産業技術総合開発機構)](https://www.nedo.go.jp/news/press/AA5_101107.html) ([論文](https://www.nature.com/articles/s41598-019-42027-x))
 
-[\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) \[medical_device\] [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
+[\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) \[medical_device\] [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
