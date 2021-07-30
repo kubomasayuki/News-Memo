@@ -8,6 +8,7 @@
 * [透明の飲み物に比べてピンク色の食用色素を加えた飲み物の方が運動パフォーマンスが向上した。 (University of Westminster)](https://www.westminster.ac.uk/news/pink-drinks-can-help-you-run-faster-and-further-study-finds) ([論文](https://www.frontiersin.org/articles/10.3389/fnut.2021.678105/full))
 
 [\[May 2021\]](2105.md)
+* [中高年のテレビ視聴(非刺激的で座りがちな行動)は認知症を促進する。 (American Heart Association)](https://newsroom.heart.org/news/moderate-to-high-tv-viewing-in-midlife-linked-to-later-cognitive-and-brain-health-decline)
 
 [\[April 2021\]](2104.md)
 
