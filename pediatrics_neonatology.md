@@ -61,7 +61,7 @@
 
 [\[August 2020\]](2008.md)
 * [胎児・新生児向けウェアラブルバイタルモニタ装置の開発とその臨床評価。 (KAKEN)](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-25289121/)
-* [アイトラッキングシステムを用いた乳児の視覚認知の評価。 (Medical Xpress)](https://medicalxpress.com/news/2020-08-infrared-eye-tracking-infant-behavior.html)
+* [アイトラッキングシステムを用いた乳児の視覚認知の評価。 (Beckman Institute for Advanced Science and Technology)](https://beckman.illinois.edu/about/news/article/2020/08/14/using-infrared-eye-tracking-to-study-infant-behavior) ([論文](https://www.sciencedirect.com/science/article/abs/pii/S0892036219301370))
 * [生後数時間の採取血液から新生児の脳損傷を診断。 (Imperial College London)](https://www.imperial.ac.uk/news/200975/blood-test-could-diagnose-baby-brain/)
 
 [\[July 2020\]](2007.md)
