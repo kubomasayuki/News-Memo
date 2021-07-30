@@ -11,6 +11,7 @@
 * [中高年のテレビ視聴(非刺激的で座りがちな行動)は認知症を促進する。 (American Heart Association)](https://newsroom.heart.org/news/moderate-to-high-tv-viewing-in-midlife-linked-to-later-cognitive-and-brain-health-decline)
 
 [\[April 2021\]](2104.md)
+* [ラグビーのピッチ上で唾液から脳震盪の有無を判断する。 (Rugby World)](https://www.rugbyworld.com/news/saliva-test-94-accurate-in-head-injury-study-123235) ([論文](https://bjsm.bmj.com/content/early/2021/02/09/bjsports-2020-103274)、[University of Birmingham](https://www.birmingham.ac.uk/news/latest/2021/03/rugby-concussion-saliva-test-research.aspx))
 
 [\[March 2021\]](2103.md)
 
