@@ -2,6 +2,7 @@
 
 [\[July 2021\]](2107.md)
 * [理由は明らかになっていないが、水泳は脳の認知機能を改善(または認知症を予防)する。 (The Conversation)](https://theconversation.com/swimming-gives-your-brain-a-boost-but-scientists-dont-know-yet-why-its-better-than-other-aerobic-activities-164297)
+* [Power Breatheで1日5分呼吸筋を鍛えると血圧が下がる。 (Science Daily)](https://www.sciencedaily.com/releases/2021/06/210630135033.htm) ([論文](https://www.ahajournals.org/doi/10.1161/JAHA.121.020980))
 
 [\[June 2021\]](2106.md)
 
