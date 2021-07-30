@@ -57,6 +57,7 @@
 [\[September 2019\]](1909.md)
 
 [\[August 2019\]](1908.md)
+* [ハーバード大がランニングが楽になるショーツを開発 (CNet Japan)](https://japan.cnet.com/article/35141573/)
 
 [\[July 2019\]](1907.md)
 
