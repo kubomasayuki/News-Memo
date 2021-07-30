@@ -1,6 +1,7 @@
 [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) \[fitness\] [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
 
 [\[July 2021\]](2107.md)
+* [理由は明らかになっていないが、水泳は脳の認知機能を改善(または認知症を予防)する。 (The Conversation)](https://theconversation.com/swimming-gives-your-brain-a-boost-but-scientists-dont-know-yet-why-its-better-than-other-aerobic-activities-164297)
 
 [\[June 2021\]](2106.md)
 
