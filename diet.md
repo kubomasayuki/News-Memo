@@ -2,6 +2,7 @@
 
 [\[July 2021\]](2107.md)
 * [ω-6を含む高脂肪食が肥満や糖尿病による慢性疼痛を引き起こしている。 (Medical Xpress)](https://medicalxpress.com/news/2021-06-western-high-fat-diet-chronic-pain.html) ([論文](https://www.nature.com/articles/s42255-021-00410-x))
+* [光と食事による刺激が体内時計をコントロールしている。 (早稲田ウィークリー)](https://www.waseda.jp/inst/weekly/feature/2017/11/13/37090/)
 * [ランチの時間が長い学生は野菜や果物を多く摂る傾向。 (University of Illinois Urbana-Champaign)](https://aces.illinois.edu/news/kids-eat-more-fruit-and-vegetables-longer-seated-lunch-time)
 * [コーヒーの過剰摂取は認知症リスク上昇の可能性。 (University of South Australia)](https://www.unisa.edu.au/media-centre/Releases/2021/excess-coffee-a-bitter-brew-for-brain-health/) ([論文](https://www.tandfonline.com/doi/full/10.1080/1028415X.2021.1945858))
 * [肉と栄養素を調整した肉代替品はメタボローム解析的に同じではない(どちらが優れているということではない)。 (Duke University)](https://today.duke.edu/2021/07/metabolomics-lab%E2%80%99s-analysis-finds-near-meat-and-meat-not-nutritionally-equivalent) ([論文](https://www.nature.com/articles/s41598-021-93100-3))
