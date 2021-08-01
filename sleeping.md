@@ -1,4 +1,4 @@
-[\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) \[sleeping\] [\[smoking\]](smoking.md)
+[\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) \[sleeping\] [\[smoking\]](smoking.md)
 
 [\[July 2021\]](2107.md)
 * [睡眠前の照明の違いが睡眠時の体温とエネルギー代謝に影響。 (筑波大学、山形大学)](https://www.tsukuba.ac.jp/journal/pdf/p202106291602.pdf) ([論文](https://www.nature.com/articles/s41598-021-91828-6))
@@ -71,4 +71,4 @@
 
 [\[April 2019\]](1904.md)
 
-[\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) \[sleeping\] [\[smoking\]](smoking.md)
+[\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) \[sleeping\] [\[smoking\]](smoking.md)
