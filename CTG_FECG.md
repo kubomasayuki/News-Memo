@@ -1,38 +1,83 @@
 \[CTG_FECG\] [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
 
 [\[August 2021\]](2108.md)
-* [市販(非処方)の鎮痛薬を使った妊婦は使わなかった妊婦より児のアウトカムが悪い。 (Eurek Alert)](https://www.eurekalert.org/news-releases/829987)
 
 [\[July 2021\]](2107.md)
-* [リングエコー撮像法を用いた無痛の乳がん検査装置が販売開始。 (Lily MedTech)](https://www.lilymedtech.com/wp-content/uploads/2021/05/20210510.pdf?fbclid=IwAR204xM_4sCubpGzRlNM_Vft3MQH6_rLIjUJpBF7jjlhoHaeN-eq2mALFy0) (過去の調査：[December 27, 2020 自宅で乳がんをチェックできるデバイス。(MAMMOECHO、Sony first flight)](2012.md))
-* [スマホでかかりつけ助産師に産前・産後の相談。 (nicomama)](https://nico-mama.jp/)
-* [妊娠中のDHAサプリメントの摂取は早産を減らす。 (University of Kansas)](https://news.ku.edu/2016/10/11/nutritional-supplement-could-prevent-thousands-early-preterm-births) ([論文](https://doi.org/10.1016/j.plefa.2016.08.007)、[最新の論文](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(21)00185-1/fulltext))
 
 [\[June 2021\]](2106.md)
-* [HPVの感染と早産に相関。 (University of Gothenburg)](https://www.gu.se/en/news/infection-with-human-papillomavirus-linked-to-higher-risk-of-preterm-birth) ([論文](https://doi.org/10.1371/journal.pmed.1003641))
-* [スウェーデン発の産科データベース Milou。 (Medexa)](https://www.medexa.se/en/milouenglish/)
-* [胎盤の酸素動態を監視するデバイス。 (NICHD)](https://www.nih.gov/news-events/news-releases/prototype-device-may-diagnose-common-pregnancy-complications-monitoring-placental-oxygen) ([論文](https://www.osapublishing.org/boe/fulltext.cfm?uri=boe-12-7-4119))
-* [3D超音波シミュレータ。 (CAE Healthcare)](https://vimeo.com/413238009)
-* [AR超音波シミュレータ。 (CAE Healthcare)](https://vimeo.com/420817738)
-* [新しい吸引分娩デバイス。 (日本BD)](https://www.bdj.co.jp/showcase/201410-sc-04.html)
-* [薬物の血液胎盤関門の通過しやすさにも概日リズムが存在する。 (Medical Xpress)](https://medicalxpress.com/news/2021-04-circadian-clock-mouse-placenta.html) ([論文](https://journals.biologists.com/dev/article-abstract/148/8/dev197673/256558/The-trophoblast-clock-controls-transport-across))
 
 [\[May 2021\]](2105.md)
-* [妊娠中の抗酸化サプリメント(ビタミンC)は胎児低酸素症の予防になる。 (University of Cambridge)](https://www.cam.ac.uk/research/news/simple-treatment-during-pregnancy-can-protect-baby-from-memory-problems-in-later-life-study-in-rats) ([論文](https://faseb.onlinelibrary.wiley.com/doi/full/10.1096/fj.202002557RR))
-* [(天然由来で野菜にも含まれる)硝酸塩の(過剰？)摂取で早産のリスク。 (University of Illinois at Chicago)](https://today.uic.edu/largest-ever-study-to-look-at-maternal-nitrate-consumption-and-birth-outcomes) ([関連論文](https://www.sciencedirect.com/science/article/abs/pii/S0013935116308738))
-* [胎児治療に関する正確な情報を提供し、臨床応用を推進する研究グループ。 (日本胎児治療グループ)](https://fetusjapan.jp/)
-* [胎児期(子宮内)、乳児期(経母乳)の抗生物質の曝露によりアレルギーの免疫応答に関する腸内細菌を損傷する。 (Rutgers University)](https://www.rutgers.edu/news/infant-antibiotic-exposure-can-affect-future-immune-responses-toward-allergies) ([論文](https://mbio.asm.org/content/12/1/e03335-20))
 
 [\[April 2021\]](2104.md)
-* [NIPT等の出生前検査に関する専門委員会。 (厚生労働省)](https://www.mhlw.go.jp/stf/shingi/other-kodomo_145015_00008.html)
-* [不育症の研究、治療。 (Fuiku-Labo)](http://fuiku.jp/index.html)
-* [妊娠中のアルコール曝露を自己申告の代わりに胎便中のバイオマーカーで特定。 (Case Western Reserve University)](https://case.edu/medicine/admission/about/newsroom/our-latest-news/meconium-may-provide-clues-fetal-alcohol-exposure-forecast-behavioral-issues-later-childhood) ([論文](https://www.sciencedirect.com/science/article/abs/pii/S0376871620306025))
 
 [\[March 2021\]](2103.md)
-* [妊娠中の家電やカーペットに使用される難燃剤(PBDE)の曝露により早産リスク増。 (NYU Langone Health)](https://nyulangone.org/news/exposure-flame-retardants-early-pregnancy-linked-premature-birth) ([論文](https://www.degruyter.com/document/doi/10.1515/jpm-2020-0349/html))
-* [きのこ摂取により乳がん発症リスクは有意に低下し、他のがんの発症リスクも低下する可能性。 (ケアネット)](https://www.carenet.com/news/general/carenet/51905) ([論文](https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmab015/6174025))
-* [子宮頸管に留置し、子宮収縮計測、および電気刺激により早産予防する機器。 (IEEE EMB)](https://www.embs.org/tnsre/articles/non-invasive-ring-electrode-with-a-wireless-electrical-recording-and-stimulating-system-for-monitoring-preterm-labor/)
-* [動脈管開存症(PDA)。 (聖隷浜松病院)](http://www.seirei.or.jp/hamamatsu/department/center/cardiovascular-center/PDA/index.html)
+
+[\[February 2021\]](2102.md)
+
+[\[January 2021\]](2101.md)
+* [日常使用で早産につながる陣痛をモニタするデバイス。 (Bloomlife)](https://bloomlife.com/)
+
+[\[December 2020\]](2012.md)
+* [胎児心電図モニタ。 (mindchild)](http://www.mindchild.com/)
+* [カテゴリII(3段階中？)の酸素投与で胎児心拍パターンに変化なし。 (AJOG)](https://www.ajog.org/article/S0002-9378(20)30662-1/fulltext)
+
+[\[November 2020\]](2011.md)
+
+[\[October 2020\]](2010.md)
+
+[\[September 2020\]](2009.md)
+* [CTG Challengeデータセット300症例のCTG波形 (Signal Processing and Monitoring (SPaM) in Labour Workshop)](http://users.ox.ac.uk/~ndog0178/CTGchallenge2017.pdf)
+* [コンピュータ化された胎児心拍数モニタリングのためのオックスフォードシステム。 (Acta Obstetricia et Gynecologica Scandinavica)](https://obgyn.onlinelibrary.wiley.com/doi/full/10.1111/aogs.13136) ([OxSys 1.5に関するIEEE論文(2019年のもの)](https://ieeexplore.ieee.org/document/8788528))
+* [低リスク女性にCTGを使うことはリスクの低減にはならず、逆に帝王切開率が上昇する。 (Cochrane)](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005122.pub5/full)
+
+[\[August 2020\]](2008.md)
+
+[\[July 2020\]](2007.md)
+
+[\[June 2020\]](2006.md)
+* [MATLABベースのFHR形態素解析アプリ。 (Science Direct)](https://www.sciencedirect.com/science/article/pii/S2352711018302498)
+* [患者が自宅からも48時間の連続監視が可能なベルトレスのモニタリング製品。 (Philips)](https://www.usa.philips.com/healthcare/product/HC866488/avalon-beltless-fetal-monitoring-solution) ([FDAの緊急ガイドラインによりCOVID-19に伴いAvalon CLとともに認可](https://www.medgadget.com/2020/06/philips-fetal-monitor-to-help-during-covid-distancing.html))
+
+[\[May 2020\]](2005.md)
+* [Novii 外測胎児監視デバイスの臨床研究。 (Clinical Trials)](https://clinicaltrials.gov/ct2/show/NCT03156608)
+
+[\[April 2020\]](2004.md)
+* [在宅向けCTGモニター。 (mHealth Watch)](http://mhealthwatch.jp/global/news20200417) ([Clinical.gov](https://clinicaltrials.gov/ct2/show/NCT03504189), [510k](https://www.nuvocares.com/assets/downloads/K191401.510kSummary.Final_Sent001.pdf))
+
+[\[March 2020\]](2003.md)
+
+[\[February 2020\]](2002.md)
+
+[\[January 2020\]](2001.md)
+
+[\[December 2019\]](1912.md)
+
+[\[November 2019\]](1911.md)
+
+[\[October 2019\]](1910.md)
+* [メロディがヘルスケアベンチャーアワードを受賞 (PR Times)](https://prtimes.jp/main/html/rd/p/000000008.000038603.html)
+
+[\[September 2019\]](1909.md)
+* [非侵襲FECG、FMCGの系統的レビュー (BMC Pregnancy and Childbirth)](https://doi.org/10.1186/s12884-019-2357-9)
+
+[\[August 2019\]](1908.md)
+* [CTG解析ツールおよびMATLABソースコード (CTG OAS)](http://www.ctganalysis.com/)
+* [1st Signal Processing and Monitoring (SPaM) in Labour Workshop](http://users.ox.ac.uk/~ndog0178/program.htm)  
+* [2nd Signal Processing and Monitoring (SPaM) in Labour Workshop](http://users.ox.ac.uk/~ndog0178/CTGchallenge2017.htm)
+
+[\[July 2019\]](1907.md)
+* [sonicaid team 3シリーズ (Huntleigh Healthcare)](https://www.huntleigh.healthcare/store/obstetric-monitoring/sonicaid-fetal-monitoring/fetal-monitors/sonicaid-team-3-series)
+
+[\[June 2019\]](1906.md)
+
+[\[May 2019\]](1905.md)
+
+[\[April 2019\]](1904.md)
+* [フリーのFHR解析ソフト (ANS Lab Tools)](https://anslabtools.univ-st-etienne.fr/en/index.html)  
+
+[\[April 2021\]](2104.md)
+
+[\[March 2021\]](2103.md)
 
 [\[February 2021\]](2102.md)
 * [成人病胎児期起源説(DOHaD、ドーハッド)に関する学会。 (日本DOHaD学会)](http://square.umin.ac.jp/Jp-DOHaD/index.html)
