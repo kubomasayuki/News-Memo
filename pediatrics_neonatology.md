@@ -2,6 +2,8 @@
 
 [\[August 2021\]](2108.md)
 * [低所得な家庭ほど親子のコミュニケーションが少ない。 (UC Berkeley)](https://news.berkeley.edu/2021/07/16/word-gap-when-moneys-tight-parents-talk-less-to-kids/) ([論文](https://onlinelibrary.wiley.com/doi/10.1111/desc.13151))
+* [1歳時点でバクテロイデス門(善玉菌を好む日和見菌)の割合が多いと、その後の数年について認知や言語の能力が優れている。 (University of Alberta)](https://www.ualberta.ca/folio/2021/07/species-of-gut-bacteria-linked-to-enhanced-cognition-and-language-skills-in-infant-boys.html) ([論文](https://www.tandfonline.com/doi/full/10.1080/19490976.2021.1930875))
+
 
 [\[July 2021\]](2107.md)
 * [母乳育児は、生後のごく短い期間だけでも3歳時点の血圧低下と結びつく。 (American Heart Association, CHILD study)](https://www.ahajournals.org/doi/10.1161/JAHA.120.019067)
