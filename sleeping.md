@@ -1,5 +1,8 @@
 [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) \[sleeping\] [\[smoking\]](smoking.md)
 
+[\[August 2021\]](2108.md)
+* [睡眠不足はスポーツのパフォーマンスを低下させる。 (Sleep Foundation)](https://www.sleepfoundation.org/physical-activity/athletic-performance-and-sleep)
+
 [\[July 2021\]](2107.md)
 * [睡眠前の照明の違いが睡眠時の体温とエネルギー代謝に影響。 (筑波大学、山形大学)](https://www.tsukuba.ac.jp/journal/pdf/p202106291602.pdf) ([論文](https://www.nature.com/articles/s41598-021-91828-6))
 * [幼少期からの睡眠負債の蓄積が成人後の日常的な眠気につながる？ (The Conversation)](https://theconversation.com/why-do-kids-hate-going-to-sleep-while-adults-usually-love-it-160703) (※ソース不明)
