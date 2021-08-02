@@ -1,6 +1,7 @@
 [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) \[fitness\] [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
 
 [\[August 2021\]](2108.md)
+* [睡眠不足はスポーツのパフォーマンスを低下させる。 (Sleep Foundation)](https://www.sleepfoundation.org/physical-activity/athletic-performance-and-sleep)
 * [上半身が前傾するほど故障しやすい。 (University of Colorado Denver)](https://news.ucdenver.edu/want-to-avoid-running-overuse-injuries-dont-lean-forward-so-much/) ([論文](https://www.sciencedirect.com/science/article/pii/S0167945721000658))
 
 [\[July 2021\]](2107.md)
