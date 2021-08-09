@@ -1,5 +1,8 @@
 [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) \[smoking\]
 
+[\[August 2021\]](2108.md)
+* [化学燃料やタバコの燃焼で排出されるPAHは子供の頃の自己抑制や青年期の学力の低下に結びつく。 (Columbia Center for Children’s Environmental Health)](https://www.publichealth.columbia.edu/public-health-now/news/air-pollution-exposure-linked-poor-academics-childhood) ([論文](https://www.sciencedirect.com/science/article/abs/pii/S0013935121008641))
+
 [\[July 2021\]](2107.md)
 * [膀胱鏡検査の代わりに尿中のコチニンレベルから膀胱がんの再発を予測。 (European Association of Urology)](https://eaucongress.uroweb.org/nicotine-by-product-can-predict-recurrence-of-cancer/)
 * [認知症の14%は喫煙が因子と推定。 (WHO, June 2014)](https://apps.who.int/iris/bitstream/handle/10665/128041/WHO_NMH_PND_CIC_TKS_14.1_eng.pdf)
