@@ -1,6 +1,7 @@
 [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
 
 [\[August 2021\]](2108.md)
+* [あまり考えずにできる運動は子供の語彙力向上に貢献する。 (University of Delaware)](https://www.udel.edu/udaily/2021/july/swimming-vocabulary-growth-study/) ([論文](https://pubs.asha.org/doi/10.1044/2021_JSLHR-20-00359))
 * [低所得な家庭ほど親子のコミュニケーションが少ない。 (UC Berkeley)](https://news.berkeley.edu/2021/07/16/word-gap-when-moneys-tight-parents-talk-less-to-kids/) ([論文](https://onlinelibrary.wiley.com/doi/10.1111/desc.13151))
 * [1歳時点でバクテロイデス門(善玉菌を好む日和見菌)の割合が多いと、その後の数年について認知や言語の能力が優れている。 (University of Alberta)](https://www.ualberta.ca/folio/2021/07/species-of-gut-bacteria-linked-to-enhanced-cognition-and-language-skills-in-infant-boys.html) ([論文](https://www.tandfonline.com/doi/full/10.1080/19490976.2021.1930875))
 
