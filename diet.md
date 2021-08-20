@@ -1,5 +1,7 @@
 [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) \[diet\] [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[neuroscience\]](neuroscience.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
 
+[\[August 2021\]](2108.md)
+
 [\[July 2021\]](2107.md)
 * [ω-6を含む高脂肪食が肥満や糖尿病による慢性疼痛を引き起こしている。 (Medical Xpress)](https://medicalxpress.com/news/2021-06-western-high-fat-diet-chronic-pain.html) ([論文](https://www.nature.com/articles/s42255-021-00410-x))
 * [光と食事による刺激が体内時計をコントロールしている。 (早稲田ウィークリー)](https://www.waseda.jp/inst/weekly/feature/2017/11/13/37090/)
