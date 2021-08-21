@@ -14,6 +14,7 @@
 * [認知症の14%は喫煙が因子と推定。 (WHO, June 2014)](https://apps.who.int/iris/bitstream/handle/10665/128041/WHO_NMH_PND_CIC_TKS_14.1_eng.pdf)
 
 [\[June 2021\]](2106.md)
+* [脳は5歳までの育ち方で決まる。 (Virginia Tech)](https://vtx.vt.edu/videos/k/2021/05/1_cklhatrd.html) ([論文](https://direct.mit.edu/jocn/article/33/6/1197/98115/Randomized-Manipulation-of-Early-Cognitive))
 
 [\[May 2021\]](2105.md)
 
