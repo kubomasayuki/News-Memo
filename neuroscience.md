@@ -9,6 +9,12 @@
 * [1歳時点でバクテロイデス門(善玉菌を好む日和見菌)の割合が多いと、その後の数年について認知や言語の能力が優れている。 (University of Alberta)](https://www.ualberta.ca/folio/2021/07/species-of-gut-bacteria-linked-to-enhanced-cognition-and-language-skills-in-infant-boys.html) ([論文](https://www.tandfonline.com/doi/full/10.1080/19490976.2021.1930875))
 
 [\[July 2021\]](2107.md)
+* [\[fitness\]](fitness.md) [\[neuroscience\]](neuroscience.md) [理由は明らかになっていないが、水泳は脳の認知機能を改善(または認知症を予防)する。 (The Conversation)](https://theconversation.com/swimming-gives-your-brain-a-boost-but-scientists-dont-know-yet-why-its-better-than-other-aerobic-activities-164297)
+* [子どもの歯磨き習慣は母親のメンタルヘルスを改善する。 (東北大学)](http://www.tohoku.ac.jp/en/press/tooth_brushing_children_mothers_wellbeing.html) ([論文](https://onlinelibrary.wiley.com/doi/10.1111/cdoe.12672))
+
+July 28, 2021
+* [\[diet\]](diet.md) [\[neuroscience\]](neuroscience.md) [コーヒーの過剰摂取は認知症リスク上昇の可能性。 (University of South Australia)](https://www.unisa.edu.au/media-centre/Releases/2021/excess-coffee-a-bitter-brew-for-brain-health/) ([論文](https://www.tandfonline.com/doi/full/10.1080/1028415X.2021.1945858))
+* [\[neuroscience\]](neuroscience.md) [\[smoking\]](smoking.md) [認知症の14%は喫煙が因子と推定。 (WHO, June 2014)](https://apps.who.int/iris/bitstream/handle/10665/128041/WHO_NMH_PND_CIC_TKS_14.1_eng.pdf)
 
 [\[June 2021\]](2106.md)
 
