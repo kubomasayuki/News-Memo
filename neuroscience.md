@@ -1,6 +1,7 @@
 [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) \[neuroscience\] [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
 
 [\[August 2021\]](2108.md)
+* [微小粒子状物質(PM2.5など)の曝露は認知症の進行と関連。 (University of Southern California)](https://news.usc.edu/163089/air-pollution-brain-changes-alzheimers-memory-usc-study/) ([論文](https://academic.oup.com/brain/article/143/1/289/5628036))
 
 [\[July 2021\]](2107.md)
 
