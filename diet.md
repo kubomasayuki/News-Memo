@@ -1,6 +1,7 @@
 [\[cognitive_neuroscience\]](cognitive_neuroscience.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) \[diet\] [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
 
 [\[August 2021\]](2108.md)
+* [高容量フラバノール摂取により脳血管の酸素化反応を誘導し、認知機能が改善する。 (University of Illinois at Urbana-Champaign)](https://experts.illinois.edu/en/publications/dietary-flavanols-improve-cerebral-cortical-oxygenation-and-cogni) ([論文](https://www.nature.com/articles/s41598-020-76160-9))
 
 [\[July 2021\]](2107.md)
 * [ω-6を含む高脂肪食が肥満や糖尿病による慢性疼痛を引き起こしている。 (Medical Xpress)](https://medicalxpress.com/news/2021-06-western-high-fat-diet-chronic-pain.html) ([論文](https://www.nature.com/articles/s42255-021-00410-x))
