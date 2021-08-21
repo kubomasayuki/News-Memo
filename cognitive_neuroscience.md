@@ -2,6 +2,7 @@
 
 [\[August 2021\]](2108.md)
 * [微小粒子状物質(PM2.5など)の曝露は認知症の進行と関連。 (University of Southern California)](https://news.usc.edu/163089/air-pollution-brain-changes-alzheimers-memory-usc-study/) ([論文](https://academic.oup.com/brain/article/143/1/289/5628036))
+* [高容量フラバノール摂取により脳血管の酸素化反応を誘導し、認知機能が改善する。 (University of Illinois at Urbana-Champaign)](https://experts.illinois.edu/en/publications/dietary-flavanols-improve-cerebral-cortical-oxygenation-and-cogni) ([論文](https://www.nature.com/articles/s41598-020-76160-9))
 * [あまり考えずにできる運動は子供の語彙力向上に貢献する。 (University of Delaware)](https://www.udel.edu/udaily/2021/july/swimming-vocabulary-growth-study/) ([論文](https://pubs.asha.org/doi/10.1044/2021_JSLHR-20-00359))
 * [化学燃料やタバコの燃焼で排出されるPAHは子供の頃の自己抑制や青年期の学力の低下に結びつく。 (Columbia Center for Children’s Environmental Health)](https://www.publichealth.columbia.edu/public-health-now/news/air-pollution-exposure-linked-poor-academics-childhood) ([論文](https://www.sciencedirect.com/science/article/abs/pii/S0013935121008641))
 * [学習において、手書きはタイピングや動画視聴より優れており、習得に係る時間も短い。 (Johns Hopkins University)](https://releases.jhu.edu/2021/07/23/handwriting-beats-typing-and-watching-videos-for-learning-to-read/) ([論文](https://journals.sagepub.com/doi/abs/10.1177/0956797621993111))
