@@ -1,6 +1,7 @@
 [\[cognitive_neuroscience\]](cognitive_neuroscience.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
 
 [\[August 2021\]](2108.md)
+* [母親のnc886遺伝子がDNAメチル化(遺伝子発現の抑制)していない児は成人期に血糖値が低くコレステロール値が高くなりやすい。 (Tampere University)](https://www.tuni.fi/en/news/researchers-discover-molecular-mechanism-mediates-link-between-foetal-conditions-and-later?navref=curated--list) ([論文](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-021-01132-3))
 * [市販(非処方)の鎮痛薬を使った妊婦は使わなかった妊婦より児のアウトカムが悪い。 (Eurek Alert)](https://www.eurekalert.org/news-releases/829987)
 
 [\[July 2021\]](2107.md)
