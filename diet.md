@@ -1,5 +1,8 @@
 [\[cognitive_neuroscience\]](cognitive_neuroscience.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) \[diet\] [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
 
+[\[September 2021\]](2109.md)
+* [十分な水分補給は心不全リスク減少と相関。 (European Society of Cardiology)](https://www.escardio.org/The-ESC/Press-Office/Press-releases/Drinking-sufficient-water-could-prevent-heart-failure)
+
 [\[August 2021\]](2108.md)
 * [高容量フラバノール摂取により脳血管の酸素化反応を誘導し、認知機能が改善する。 (University of Illinois at Urbana-Champaign)](https://experts.illinois.edu/en/publications/dietary-flavanols-improve-cerebral-cortical-oxygenation-and-cogni) ([論文](https://www.nature.com/articles/s41598-020-76160-9))
 
