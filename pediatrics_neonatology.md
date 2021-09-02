@@ -1,7 +1,7 @@
 [\[cognitive_neuroscience\]](cognitive_neuroscience.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
 
 [\[September 2021\]](2109.md)
-* [コンピュータビジョンによる新生児のECG計測。 (University of South Australia)](https://www.unisa.edu.au/media-centre/Releases/2021/baby-detector-software-embedded-in-digital-camera-rivals-ecg/)
+* [コンピュータビジョンによる新生児のECG計測。 (University of South Australia)](https://www.unisa.edu.au/media-centre/Releases/2021/baby-detector-software-embedded-in-digital-camera-rivals-ecg/) ([論文](https://www.mdpi.com/2313-433X/7/8/122))
 
 [\[August 2021\]](2108.md)
 * [あまり考えずにできる運動は子供の語彙力向上に貢献する。 (University of Delaware)](https://www.udel.edu/udaily/2021/july/swimming-vocabulary-growth-study/) ([論文](https://pubs.asha.org/doi/10.1044/2021_JSLHR-20-00359))
