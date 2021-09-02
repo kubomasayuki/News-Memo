@@ -1,7 +1,7 @@
 [\[cognitive_neuroscience\]](cognitive_neuroscience.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
 
 [\[September 2021\]](2109.md)
-* [日光を浴びることで早産リスクが減少。 (The University of Edinburgh)](https://www.ed.ac.uk/news/2021/sun-s-rays-can-reduce-premature-birth-risk) ([論文](https://www.frontiersin.org/articles/10.3389/frph.2021.674245/full))
+* [日光を浴びることで早産リスクが減少。 (The University of Edinburgh)](https://www.ed.ac.uk/news/2021/sun-s-rays-can-reduce-premature-birth-risk) ([論文](https://www.frontiersin.org/articles/10.3389/frph.2021.674245/full)、過去の調査：[January 29, 2021 光による概日リズムの乱れは早産につながる可能性。 (Lehigh University)](2101.md))
 
 [\[August 2021\]](2108.md)
 * [Cx43レベルを下げることで破れた卵膜が自己修復される。 (Queen Mary University of London)](https://www.qmul.ac.uk/media/news/2019/se/new-approach-to-repair-fetal-membranes-may-prevent-birth-complications.html) ([論文](https://www.nature.com/articles/s41598-019-42379-4))
