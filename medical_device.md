@@ -1,6 +1,7 @@
 [\[cognitive_neuroscience\]](cognitive_neuroscience.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) \[medical_device\] [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
 
 [\[September 2021\]](2109.md)
+* [パッチタイプの肌表面のpHセンサ。 (McGill University)](https://www.mcgill.ca/newsroom/channels/news/skin-crawling-treatment-acne-332924) ([論文](https://www.science.org/doi/10.1126/sciadv.abf5695))
 * [超音波を利用した頭蓋内圧スキャナ。 (Nisonic)](https://nisonic.com/)
 
 [\[August 2021\]](2108.md)
