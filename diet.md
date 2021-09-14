@@ -3,6 +3,7 @@
 [\[September 2021\]](2109.md)
 * [食品中の鉄分の減少などによって、鉄欠乏性貧血が増加。 (Carenet)](https://www.carenet.com/news/general/hdn/52912) ([論文](https://academic.oup.com/jn/article-abstract/151/7/1947/6218114))
 * [高脂肪食は背側迷走神経複合体のニューロンを変化させ、食欲の増進や体内時計を狂わせる。 (The Physiological Society)](https://www.physoc.org/news_article/high-fat-diets-break-the-body-clock-in-rats-and-this-might-be-the-underlying-cause-of-obesity/) ([論文](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP281838))
+* [スーパーの入口付近に野菜を置くと顧客の購買行動が健康的になる。 (University of Southampton)](https://www.southampton.ac.uk/news/2021/08/supermarket-layout-food-choices.page) ([論文](https://journals.plos.org/plosmedicine/article/comments?id=10.1371/journal.pmed.1003729))
 * [健康的な食事は10代のメンタルヘルスを改善する。 (Murdoch Children's Research Institute)](https://www.mcri.edu.au/news/healthy-diets-linked-better-mental-health-and-wellbeing) ([論文](https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/abs/does-an-inflammatory-diet-affect-mental-wellbeing-in-late-childhood-and-midlife-a-crosssectional-study/1751CA1258E6B304B44C64EA057F3853))
 * [十分な水分補給は心不全リスク減少と相関。 (European Society of Cardiology)](https://www.escardio.org/The-ESC/Press-Office/Press-releases/Drinking-sufficient-water-could-prevent-heart-failure)
 
