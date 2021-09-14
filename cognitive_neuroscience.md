@@ -1,5 +1,8 @@
 \[cognitive_neuroscience\] [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
 
+[\[September 2021\]](2109.md)
+* [母親の読み聞かせは他人よりも脳内ネットワーク強度が向上。 (金沢大学)](https://www.kanazawa-u.ac.jp/rd/94730) ([論文](https://www.sciencedirect.com/science/article/pii/S1053811921006650))
+
 [\[August 2021\]](2108.md)
 * [微小粒子状物質(PM2.5など)の曝露は認知症の進行と関連。 (University of Southern California)](https://news.usc.edu/163089/air-pollution-brain-changes-alzheimers-memory-usc-study/) ([論文](https://academic.oup.com/brain/article/143/1/289/5628036))
 * [高容量フラバノール摂取により脳血管の酸素化反応を誘導し、認知機能が改善する。 (University of Illinois at Urbana-Champaign)](https://experts.illinois.edu/en/publications/dietary-flavanols-improve-cerebral-cortical-oxygenation-and-cogni) ([論文](https://www.nature.com/articles/s41598-020-76160-9))
