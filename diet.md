@@ -1,6 +1,7 @@
 [\[cognitive_neuroscience\]](cognitive_neuroscience.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) \[diet\] [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
 
 [\[September 2021\]](2109.md)
+* [食品中の鉄分の減少などによって、鉄欠乏性貧血が増加。 (Carenet)](https://www.carenet.com/news/general/hdn/52912) ([論文](https://academic.oup.com/jn/article-abstract/151/7/1947/6218114))
 * [健康的な食事は10代のメンタルヘルスを改善する。 (Murdoch Children's Research Institute)](https://www.mcri.edu.au/news/healthy-diets-linked-better-mental-health-and-wellbeing) ([論文](https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/abs/does-an-inflammatory-diet-affect-mental-wellbeing-in-late-childhood-and-midlife-a-crosssectional-study/1751CA1258E6B304B44C64EA057F3853))
 * [十分な水分補給は心不全リスク減少と相関。 (European Society of Cardiology)](https://www.escardio.org/The-ESC/Press-Office/Press-releases/Drinking-sufficient-water-could-prevent-heart-failure)
 
