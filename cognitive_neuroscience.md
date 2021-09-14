@@ -21,6 +21,7 @@
 * [脳は5歳までの育ち方で決まる。 (Virginia Tech)](https://vtx.vt.edu/videos/k/2021/05/1_cklhatrd.html) ([論文](https://direct.mit.edu/jocn/article/33/6/1197/98115/Randomized-Manipulation-of-Early-Cognitive))
 
 [\[May 2021\]](2105.md)
+* [深い睡眠時間が短いと認知機能が低下する。 (Flinders University)](https://news.flinders.edu.au/blog/2021/05/30/warning-on-sleep-change-in-older-men/) ([論文](https://onlinelibrary.wiley.com/doi/10.1111/jsr.13370))
 
 [\[April 2021\]](2104.md)
 
