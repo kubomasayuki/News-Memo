@@ -1,6 +1,7 @@
 [\[cognitive_neuroscience\]](cognitive_neuroscience.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) \[diet\] [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
 
 [\[September 2021\]](2109.md)
+* [低Na塩(Na75％、K25％)への代替により血管イベント、全死亡率が減少。 (The George Institute)](https://www.georgeinstitute.org/media-releases/landmark-study-shows-simple-salt-swap-could-prevent-millions-of-deaths-each-year)
 * [食品中の鉄分の減少などによって、鉄欠乏性貧血が増加。 (Carenet)](https://www.carenet.com/news/general/hdn/52912) ([論文](https://academic.oup.com/jn/article-abstract/151/7/1947/6218114))
 * [高脂肪食は背側迷走神経複合体のニューロンを変化させ、食欲の増進や体内時計を狂わせる。 (The Physiological Society)](https://www.physoc.org/news_article/high-fat-diets-break-the-body-clock-in-rats-and-this-might-be-the-underlying-cause-of-obesity/) ([論文](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP281838))
 * [スーパーの入口付近に野菜を置くと顧客の購買行動が健康的になる。 (University of Southampton)](https://www.southampton.ac.uk/news/2021/08/supermarket-layout-food-choices.page) ([論文](https://journals.plos.org/plosmedicine/article/comments?id=10.1371/journal.pmed.1003729))
