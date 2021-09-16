@@ -1,4 +1,4 @@
-[\[cognitive_neuroscience\]](cognitive_neuroscience.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
+[\[cognitive_neuroscience\]](cognitive_neuroscience.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoke\]](smoke.md)
 
 [\[September 2021\]](2109.md)
 * [日光を浴びることで早産リスクが減少。 (The University of Edinburgh)](https://www.ed.ac.uk/news/2021/sun-s-rays-can-reduce-premature-birth-risk) ([論文](https://www.frontiersin.org/articles/10.3389/frph.2021.674245/full)、過去の調査：[January 29, 2021 光による概日リズムの乱れは早産につながる可能性。 (Lehigh University)](2101.md))
@@ -187,4 +187,4 @@
 * [高濃度すぎる酸素療法は逆効果 (AJOG)](https://www.ajog.org/article/S0002-9378(19)30438-7/abstract)  
 * [超音波に基づいて分娩モード(経腟分娩の確率)を％で予測するアプリ(詳細不明) (AJOG)](https://www.ajog.org/article/S0002-9378(19)30497-1/fulltext)
 
-[\[cognitive_neuroscience\]](cognitive_neuroscience.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoking\]](smoking.md)
+[\[cognitive_neuroscience\]](cognitive_neuroscience.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoke\]](smoke.md)
