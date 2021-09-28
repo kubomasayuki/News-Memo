@@ -1,5 +1,8 @@
 [\[cognitive_neuroscience\]](cognitive_neuroscience.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) \[fitness\] [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoke\]](smoke.md)
 
+[\[September 2021\]](2109.md)
+* [立っていることはインスリン感受性を向上させ、2型糖尿病や心血管疾患を発症しにくくする。 (University of Turku)](https://www.utu.fi/en/news/press-release/researchers-observed-association-between-standing-and-insulin-sensitivity) ([論文](https://www.jsams.org/article/S1440-2440(21)00204-8/fulltext))
+
 [\[August 2021\]](2108.md)
 * [あまり考えずにできる運動は子供の語彙力向上に貢献する。 (University of Delaware)](https://www.udel.edu/udaily/2021/july/swimming-vocabulary-growth-study/) ([論文](https://pubs.asha.org/doi/10.1044/2021_JSLHR-20-00359))
 * [睡眠不足はスポーツのパフォーマンスを低下させる。 (Sleep Foundation)](https://www.sleepfoundation.org/physical-activity/athletic-performance-and-sleep)
