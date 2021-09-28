@@ -1,6 +1,7 @@
 [\[cognitive_neuroscience\]](cognitive_neuroscience.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) \[diet\] [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoke\]](smoke.md)
 
 [\[September 2021\]](2109.md)
+* [人間は消化できないが腸内のバクテリアの餌となるプレバイオティクスは、睡眠の質向上させ、概日リズムを調整する。 (University of Colorado Boulder)](https://www.colorado.edu/today/2021/09/13/your-body-clock-schedule-prebiotics-may-help) ([論文](https://www.sciencedirect.com/science/article/abs/pii/S0889159121002701))
 * [低Na塩(Na75％、K25％)への代替により血管イベント、全死亡率が減少。 (The George Institute)](https://www.georgeinstitute.org/media-releases/landmark-study-shows-simple-salt-swap-could-prevent-millions-of-deaths-each-year) ([論文](https://www.nejm.org/doi/full/10.1056/NEJMoa2105675))
 * [食品中の鉄分の減少などによって、鉄欠乏性貧血が増加。 (Carenet)](https://www.carenet.com/news/general/hdn/52912) ([論文](https://academic.oup.com/jn/article-abstract/151/7/1947/6218114))
 * [高脂肪食は背側迷走神経複合体のニューロンを変化させ、食欲の増進や体内時計を狂わせる。 (The Physiological Society)](https://www.physoc.org/news_article/high-fat-diets-break-the-body-clock-in-rats-and-this-might-be-the-underlying-cause-of-obesity/) ([論文](https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP281838))
