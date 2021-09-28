@@ -1,7 +1,7 @@
 [\[cognitive_neuroscience\]](cognitive_neuroscience.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) \[sleeping\] [\[smoke\]](smoke.md)
 
 [\[September 2021\]](2109.md)
-* [人間は消化できないが腸内のバクテリアの餌となるプレバイオティクスは、睡眠の質向上させ、概日リズムを調整する。 (University of Colorado Boulder)](https://www.colorado.edu/today/2021/09/13/your-body-clock-schedule-prebiotics-may-help) ([論文](https://www.sciencedirect.com/science/article/abs/pii/S0889159121002701))
+* [人間は消化できないが腸内のバクテリアの餌となるプレバイオティクスは、睡眠の質を向上させ、概日リズムを調整する。 (University of Colorado Boulder)](https://www.colorado.edu/today/2021/09/13/your-body-clock-schedule-prebiotics-may-help) ([論文](https://www.sciencedirect.com/science/article/abs/pii/S0889159121002701))
 
 [\[August 2021\]](2108.md)
 * [睡眠不足はスポーツのパフォーマンスを低下させる。 (Sleep Foundation)](https://www.sleepfoundation.org/physical-activity/athletic-performance-and-sleep)
