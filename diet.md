@@ -2,6 +2,9 @@
 
 [\[September 2021\]](2109.md)
 * [高脂肪食や肥満は、特に高齢者で、薄毛を促進する。 (東京医科歯科大学)](https://www.tmd.ac.jp/english/press-release/20210624-1/) ([論文](https://www.nature.com/articles/s41586-021-03624-x))
+* [乳製品の摂取量が多いほど、心血管疾患のリスクが減少。 (George Institute for Global Health)](https://www.georgeinstitute.org/media-releases/sticking-to-low-fat-dairy-may-not-be-the-only-heart-healthy-option-study-shows) ([論文](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003763))
+* [少量の乳製品の摂取で乳がん発症リスク増(牛乳に含まれる性ホルモンがリスク因子か？)。 (Loma Linda University)](https://news.llu.edu/research/new-study-associates-intake-of-dairy-milk-with-greater-risk-of-breast-cancer) ([論文](https://academic.oup.com/ije/article-abstract/49/5/1526/5743492))
+* [乳製品の大量消費は前立腺がん発症リスク増。 (Mayo clinic)](https://www.eurekalert.org/news-releases/675449) ([論文](https://www.degruyter.com/document/doi/10.7556/jaoa.2019.123/html))
 * [人間は消化できないが腸内のバクテリアの餌となるプレバイオティクスは、睡眠の質を向上させ、概日リズムを調整する。 (University of Colorado Boulder)](https://www.colorado.edu/today/2021/09/13/your-body-clock-schedule-prebiotics-may-help) ([論文](https://www.sciencedirect.com/science/article/abs/pii/S0889159121002701))
 * [低Na塩(Na75％、K25％)への代替により血管イベント、全死亡率が減少。 (The George Institute)](https://www.georgeinstitute.org/media-releases/landmark-study-shows-simple-salt-swap-could-prevent-millions-of-deaths-each-year) ([論文](https://www.nejm.org/doi/full/10.1056/NEJMoa2105675))
 * [食品中の鉄分の減少などによって、鉄欠乏性貧血が増加。 (Carenet)](https://www.carenet.com/news/general/hdn/52912) ([論文](https://academic.oup.com/jn/article-abstract/151/7/1947/6218114))
