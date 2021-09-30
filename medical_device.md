@@ -1,6 +1,7 @@
 [\[cognitive_neuroscience\]](cognitive_neuroscience.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) \[medical_device\] [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoke\]](smoke.md)
 
 [\[September 2021\]](2109.md)
+* [FDA承認AI/ML医療機器。 (FDA)](https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-aiml-enabled-medical-devices)
 * [肺移植の成否をバイオセンサーで検知。 (European Lung Foundation)](https://www.eurekalert.org/news-releases/927276)
 * [パッチタイプの肌表面のpHセンサ。 (McGill University)](https://www.mcgill.ca/newsroom/channels/news/skin-crawling-treatment-acne-332924) ([論文](https://www.science.org/doi/10.1126/sciadv.abf5695))
 * [超音波を利用した頭蓋内圧スキャナ。 (Nisonic)](https://nisonic.com/)
