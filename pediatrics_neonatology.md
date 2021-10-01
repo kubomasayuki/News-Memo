@@ -1,5 +1,7 @@
 [\[cognitive_neuroscience\]](cognitive_neuroscience.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleeping\]](sleeping.md) [\[smoke\]](smoke.md)
 
+[\[October 2021\]](2110.md)
+
 [\[September 2021\]](2109.md)
 * [(豪州)30年前と比較して、超未熟児の生存率が20％増加。 (Royal Women's Hospital)](https://www.thewomens.org.au/news/funding-to-explore-premature-births-prevention) ([論文](https://bmjopen.bmj.com/content/10/9/e037507))
 * [コンピュータビジョンによる新生児のECG計測。 (University of South Australia)](https://www.unisa.edu.au/media-centre/Releases/2021/baby-detector-software-embedded-in-digital-camera-rivals-ecg/) ([論文](https://www.mdpi.com/2313-433X/7/8/122))
