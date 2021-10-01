@@ -1,5 +1,7 @@
 [\[cognitive_neuroscience\]](cognitive_neuroscience.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) \[fitness\] [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoke\]](smoke.md)
 
+[\[October 2021\]](2110.md)
+
 [\[September 2021\]](2109.md)
 * [立っていることはインスリン感受性を向上させ、2型糖尿病や心血管疾患を発症しにくくする。 (University of Turku)](https://www.utu.fi/en/news/press-release/researchers-observed-association-between-standing-and-insulin-sensitivity) ([論文](https://www.jsams.org/article/S1440-2440(21)00204-8/fulltext))
 
