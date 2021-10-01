@@ -26,6 +26,7 @@
 * [中高年のテレビ視聴(非刺激的で座りがちな行動)は認知症を促進する。 (American Heart Association)](https://newsroom.heart.org/news/moderate-to-high-tv-viewing-in-midlife-linked-to-later-cognitive-and-brain-health-decline)
 
 [\[April 2021\]](2104.md)
+* [9～10歳の子供の脳認知機能の発達に関する研究。 (ABCD Study)](https://abcdstudy.org/)
 
 [\[March 2021\]](2103.md)
 
