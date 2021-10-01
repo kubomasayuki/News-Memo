@@ -1,5 +1,8 @@
 [\[cognitive_neuroscience\]](cognitive_neuroscience.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) \[medical_device\] [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoke\]](smoke.md)
 
+[\[October 2021\]](2110.md)
+* [健康管理の為のモーションセンシングデバイス(開発キット？)。 (MIT)](https://www.csail.mit.edu/news/making-health-and-motion-sensing-devices-more-personal) ([詳細](https://groups.csail.mit.edu/hcie/files/research-projects/eit-kit/2021-UIST-eit-kit-paper.pdf))
+
 [\[September 2021\]](2109.md)
 * [FDA承認AI/ML医療機器。 (FDA)](https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-aiml-enabled-medical-devices)
 * [肺移植の成否をバイオセンサーで検知。 (European Lung Foundation)](https://www.eurekalert.org/news-releases/927276)
