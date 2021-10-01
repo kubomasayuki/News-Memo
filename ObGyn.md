@@ -1,5 +1,7 @@
 [\[cognitive_neuroscience\]](cognitive_neuroscience.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoke\]](smoke.md)
 
+[\[October 2021\]](2110.md)
+
 [\[September 2021\]](2109.md)
 * [妊娠初期に臍帯と胎盤を通る血流量の微妙な差を従来の超音波で監視することで胎盤の異常を検出。 (NIH)](https://www.nih.gov/news-events/news-releases/new-ultrasound-technique-detects-fetal-circulation-problems-placenta)
 * [日光を浴びることで早産リスクが減少。 (The University of Edinburgh)](https://www.ed.ac.uk/news/2021/sun-s-rays-can-reduce-premature-birth-risk) ([論文](https://www.frontiersin.org/articles/10.3389/frph.2021.674245/full)、過去の調査：[January 29, 2021 光による概日リズムの乱れは早産につながる可能性。 (Lehigh University)](2101.md))
