@@ -1,5 +1,7 @@
 [\[cognitive_neuroscience\]](cognitive_neuroscience.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) \[diet\] [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoke\]](smoke.md)
 
+[\[October 2021\]](2110.md)
+
 [\[September 2021\]](2109.md)
 * [高脂肪食や肥満は、特に高齢者で、薄毛を促進する。 (東京医科歯科大学)](https://www.tmd.ac.jp/english/press-release/20210624-1/) ([論文](https://www.nature.com/articles/s41586-021-03624-x))
 * [乳製品の摂取量が多いほど、心血管疾患のリスクが減少。 (George Institute for Global Health)](https://www.georgeinstitute.org/media-releases/sticking-to-low-fat-dairy-may-not-be-the-only-heart-healthy-option-study-shows) ([論文](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003763))
