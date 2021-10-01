@@ -1,5 +1,9 @@
 [\[cognitive_neuroscience\]](cognitive_neuroscience.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) \[fertility\] [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoke\]](smoke.md)
 
+[\[October 2021\]](2110.md)
+
+[\[September 2021\]](2109.md)
+
 [\[August 2021\]](2108.md)
 * [不妊治療の実態に関する調査研究(概要版)。 (厚生労働省、野村総合研究所)](https://www.mhlw.go.jp/content/000775160.pdf)
 * [不妊治療と仕事の両立サポートハンドブック。 (厚生労働省)](https://www.mhlw.go.jp/bunya/koyoukintou/pamphlet/dl/30l.pdf)
