@@ -1,5 +1,7 @@
 [\[cognitive_neuroscience\]](cognitive_neuroscience.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) \[smoke\]
 
+[\[October 2021\]](2110.md)
+
 [\[September 2021\]](2109.md)
 * [Omicsデータによると、喫煙に関連するDNAメチル化パターンは、BMIの変動について説明可能である。 (The University of Edinburgh)](https://www.ed.ac.uk/mrc-human-genetics-unit/news-and-events/latest-news/effect-of-smoking-on-body-mass-index) ([論文](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009750))
 * [タバコのメンソールフレーバー禁止で喫煙を15％減らし、喫煙関連死を5％減らせる。 (University of Michigan)](https://news.umich.edu/menthol-ban-would-save-650000-lives-in-the-next-40-years/) ([論文](https://tobaccocontrol.bmj.com/content/early/2021/09/02/tobaccocontrol-2021-056604))
