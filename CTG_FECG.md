@@ -60,6 +60,7 @@
 [\[November 2019\]](1911.md)
 
 [\[October 2019\]](1910.md)
+* [妊娠中の大気汚染曝露が乳児期のHRV減少と相関あり (Gulf News)](https://gulfnews.com/lifestyle/heres-what-happens-to-infants-born-to-mothers-breathing-polluted-air-1.1572420178181)
 * [メロディがヘルスケアベンチャーアワードを受賞 (PR Times)](https://prtimes.jp/main/html/rd/p/000000008.000038603.html)
 
 [\[September 2019\]](1909.md)
