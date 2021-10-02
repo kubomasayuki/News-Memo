@@ -1,6 +1,7 @@
 [\[cognitive_neuroscience\]](cognitive_neuroscience.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) \[fertility\] [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleeping\]](sleeping.md) [\[smoke\]](smoke.md)
 
 [\[October 2021\]](2110.md)
+* [深層学習を用いてDFI(DNAの欠損)の少ない精子を選別。 (University of Tronto)](https://www.nature.com/articles/s42003-019-0491-6)
 
 [\[September 2021\]](2109.md)
 
