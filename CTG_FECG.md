@@ -35,6 +35,7 @@
 * [低リスク女性にCTGを使うことはリスクの低減にはならず、逆に帝王切開率が上昇する。 (Cochrane)](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD005122.pub5/full)
 
 [\[August 2020\]](2008.md)
+* [胎児・新生児向けウェアラブルバイタルモニタ装置の開発とその臨床評価。 (KAKEN)](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-25289121/)
 
 [\[July 2020\]](2007.md)
 
