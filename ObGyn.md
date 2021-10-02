@@ -138,7 +138,6 @@
 * [黄砂飛来の数日後に常位胎盤早期剥離が増加 (東邦大学)](https://www.toho-u.ac.jp/press/2019_index/20191108-1034.html)
 
 [\[October 2019\]](1910.md)
-* [妊娠中の大気汚染曝露が乳児期のHRV減少と相関あり (Gulf News)](https://gulfnews.com/lifestyle/heres-what-happens-to-infants-born-to-mothers-breathing-polluted-air-1.1572420178181)
 * [胎児にも腸内細菌叢が存在する (EurekAlert)](https://eurekalert.org/pub_releases/2019-10/arh-etf102319.php)
 * [仰臥位と側臥位の血圧から妊娠高血圧腎症のリスクを検出 (Purdue University)](https://purdue.edu/newsroom/releases/2019/Q4/pregnant-women-may-soon-be-able-to-detect-their-own-risk-of-preeclampsia-with-a-smartphone.html)
 * [妊娠初期の重度のつわりが自閉症のリスクが高い可能性 (Kaiser Permanente)](https://about.kaiserpermanente.org/our-story/health-research/news/severe-morning-sickness-linked-with-higher-risk-of-autism)
