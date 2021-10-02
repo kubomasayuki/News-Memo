@@ -151,7 +151,7 @@
 
 [\[August 2019\]](1908.md)
 * [カナダ産婦人科学会が骨盤位に対するガイドラインを発表 (Lamaze)](https://www.lamaze.org/Connecting-the-Dots/Post/canadas-obstetricians-release-updated-breech-guidelines-informed-consent-is-key) (原文 [No.384-Management of Breech Presentation at Term](https://www.sciencedirect.com/science/article/abs/pii/S1701216318310405))
-* [血小板数が少ないことが新生児の脳性麻痺の原因となる可能性がある (MedicalXpress)](https://medicalxpress.com/news/2019-08-tiny-blood-cells-cerebral-palsy.html)
+* [血小板数が少ないことが新生児の脳性麻痺の原因となる可能性がある (The Walter and Eliza Hall Institute of Medical Research)](https://www.wehi.edu.au/news/research-discovery-identifies-cause-neonatal-strokes) ([論文](https://ashpublications.org/blood/article-abstract/138/10/885/476273/))
 
 [\[July 2019\]](1907.md)
 * [モバイルコルポスコープ (Mobile ODT)](https://www.mobileodt.com/products/eva-colpo/)  
