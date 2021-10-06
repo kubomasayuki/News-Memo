@@ -1,6 +1,7 @@
 [\[cognitive_neuroscience\]](cognitive_neuroscience.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[October 2021\]](2110.md)
+* [社会的孤立と悲しみに関連する子供の不安行動は、後の人生で不安障害を発症するリスクを伴う。 (University of Otago)](https://www.otago.ac.nz/news/news/otago833202.html) ([論文](http://dx.doi.org/10.1017/S0033291721002889))
 
 [\[September 2021\]](2109.md)
 * [(豪州)30年前と比較して、超未熟児の生存率が20％増加。 (Royal Women's Hospital)](https://www.thewomens.org.au/news/funding-to-explore-premature-births-prevention) ([論文](https://bmjopen.bmj.com/content/10/9/e037507))
