@@ -1,6 +1,7 @@
 [\[cognitive_neuroscience\]](cognitive_neuroscience.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[October 2021\]](2110.md)
+* [IoT対応の育児・授乳ブース (Trim)](https://mamaro.trim-inc.com/) (過去の調査：[May 27, 2021 簡易組み立て式授乳ブース。 (株式会社MISTRAL)](2105.md))
 * [社会的孤立と悲しみに関連する子供の不安行動は、後の人生で不安障害を発症するリスクを伴う。 (University of Otago)](https://www.otago.ac.nz/news/news/otago833202.html) ([論文](http://dx.doi.org/10.1017/S0033291721002889))
 * [赤血球の提供を受ける超低出生体重児は、男性ドナーよりも女性ドナー(特に年齢の高い女性)の場合に炎症のリスクが低下。 (Emory and Children’s Healthcare)](https://news.emory.edu/stories/2021/09/preterm_infants_transfusion/index.html) ([論文](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2783715))
 
