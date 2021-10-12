@@ -1,6 +1,7 @@
 [\[cognitive_neuroscience\]](cognitive_neuroscience.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) \[medical_device\] [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[October 2021\]](2110.md)
+* [日台薬事規制協力取り決めについて (公益財団法人交流協会)](https://www.koryu.or.jp/Portals/0/images/news/20131105/yakujikiji.pdf)
 * [健康管理の為のモーションセンシングデバイス(開発キット？)。 (MIT)](https://www.csail.mit.edu/news/making-health-and-motion-sensing-devices-more-personal) ([詳細](https://groups.csail.mit.edu/hcie/files/research-projects/eit-kit/2021-UIST-eit-kit-paper.pdf))
 
 [\[September 2021\]](2109.md)
