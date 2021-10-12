@@ -33,6 +33,7 @@
 * [9～10歳の子供の脳認知機能の発達に関する研究。 (ABCD Study)](https://abcdstudy.org/)
 
 [\[March 2021\]](2103.md)
+* [子供を繰り返し怒ったり、身体的/精神的な暴力を振るうことは、子供の脳を委縮させる。 (University of Montreal)](https://nouvelles.umontreal.ca/en/article/2021/03/22/does-harsh-parenting-lead-to-smaller-brains/) (過去の調査：[February 14, 2021 体罰や育児放棄が発達指数(DQ)の低下と相関。](2102.md))
 
 [\[February 2021\]](2102.md)
 
