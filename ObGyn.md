@@ -1,6 +1,7 @@
 [\[cognitive_neuroscience\]](cognitive_neuroscience.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[October 2021\]](2110.md)
+* [早期妊娠高血圧腎症の分娩期間延長に徐放性メトホルミン(糖尿病薬)が有効。 (CareNet)](https://www.carenet.com/news/journal/carenet/53189) ([論文](https://doi.org/10.1136/bmj.n2103))
 
 [\[September 2021\]](2109.md)
 * [妊娠初期に臍帯と胎盤を通る血流量の微妙な差を従来の超音波で監視することで胎盤の異常を検出。 (NIH)](https://www.nih.gov/news-events/news-releases/new-ultrasound-technique-detects-fetal-circulation-problems-placenta)
