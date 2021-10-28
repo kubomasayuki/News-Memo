@@ -1,6 +1,7 @@
 [\[cognitive_neuroscience\]](cognitive_neuroscience.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) \[smoke\]
 
 [\[October 2021\]](2110.md)
+* [メンタルヘルスの問題は喫煙者の方が一般的であり、依存度にも相関している。 (Indiana University)](https://addictions.iu.edu/news/maria-parker-study.html)
 
 [\[September 2021\]](2109.md)
 * [Omicsデータによると、喫煙に関連するDNAメチル化パターンは、BMIの変動について説明可能である。 (The University of Edinburgh)](https://www.ed.ac.uk/mrc-human-genetics-unit/news-and-events/latest-news/effect-of-smoking-on-body-mass-index) ([論文](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009750))
