@@ -1,6 +1,7 @@
 [\[cognitive_neuroscience\]](cognitive_neuroscience.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) \[diet\] [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[October 2021\]](2110.md)
+* [緑茶などに含まれるカテキンは抗酸化物質ではなく、一時的に酸化を促進させることで体の防御機能を促進させる。 (ETH Zurich)](https://ethz.ch/en/news-and-events/eth-news/news/2021/10/green-tea-catechines-promote-oxidative-stress.html)
 * [NOVA加工食品分類。 (Universidade de Sao Paulo)](https://www.cambridge.org/core/journals/public-health-nutrition/article/increasing-consumption-of-ultraprocessed-foods-and-likely-impact-on-human-health-evidence-from-brazil/C36BB4F83B90629DA15CB0A3CBEBF6FA)
 * [魚やナッツ、オリーブ油の摂取で(過剰にあると認知機能が低下すると推測されている)脳内の鉄の沈着を抑制できる？ (University of Kentucky)](https://uknow.uky.edu/research/uk-study-healthy-dietary-intake-associated-lower-brain-iron-better-cognition-older-adults) ([論文](https://www.sciencedirect.com/science/article/pii/S0197458021002104))
 * [高脂肪食ががん発生を促進。 (Natureダイジェスト)](https://www.natureasia.com/ja-jp/ndigest/v13/n6/%E9%AB%98%E8%84%82%E8%82%AA%E9%A3%9F%E3%81%8C%E5%A4%A7%E8%85%B8%E3%81%8C%E3%82%93%E3%81%AE%E7%99%BA%E7%94%9F%E7%8E%87%E3%82%92%E9%AB%98%E3%82%81%E3%82%8B%E4%BB%95%E7%B5%84%E3%81%BF/75262) ([論文](https://www.nature.com/articles/531042a))
