@@ -1,6 +1,7 @@
 [\[cognitive_neuroscience\]](cognitive_neuroscience.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[October 2021\]](2110.md)
+* [周産期科新設。 (亀田総合病院 産婦人科)](http://www.kameda.com/pr/ob_gyn/post_274.html)
 * [母体安全への提言 2020。 (日本産婦人科医会)](https://www.jaog.or.jp/wp/wp-content/uploads/2021/04/botai_2020.pdf) (過去の調査：[October 28, 2020 母体安全への提言 2019。 (日本産婦人科医会)](2010.md))
 * [早期妊娠高血圧腎症の分娩期間延長に徐放性メトホルミン(糖尿病薬)が有効。 (CareNet)](https://www.carenet.com/news/journal/carenet/53189) ([論文](https://doi.org/10.1136/bmj.n2103))
 
