@@ -1,5 +1,7 @@
 [\[cognitive_neuroscience\]](cognitive_neuroscience.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) \[diet\] [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[November 2021\]](2111.md)
+
 [\[October 2021\]](2110.md)
 * [緑茶などに含まれるカテキンは抗酸化物質ではなく、一時的に酸化を促進させることで体の防御機能を促進させる。 (ETH Zurich)](https://ethz.ch/en/news-and-events/eth-news/news/2021/10/green-tea-catechines-promote-oxidative-stress.html)
 * [NOVA加工食品分類。 (Universidade de Sao Paulo)](https://www.cambridge.org/core/journals/public-health-nutrition/article/increasing-consumption-of-ultraprocessed-foods-and-likely-impact-on-human-health-evidence-from-brazil/C36BB4F83B90629DA15CB0A3CBEBF6FA)
