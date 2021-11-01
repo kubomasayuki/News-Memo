@@ -1,5 +1,7 @@
 [\[cognitive_neuroscience\]](cognitive_neuroscience.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[November 2021\]](2111.md)
+
 [\[October 2021\]](2110.md)
 * [新生児の良質な睡眠は生後6ヶ月時点の肥満の予防と相関。 (Brigham and Women's Hospital)](https://www.eurekalert.org/news-releases/932292)
 * [IoT対応の育児・授乳ブース (Trim)](https://mamaro.trim-inc.com/) (過去の調査：[May 27, 2021 簡易組み立て式授乳ブース。 (株式会社MISTRAL)](2105.md))
