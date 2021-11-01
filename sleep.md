@@ -1,5 +1,7 @@
 [\[cognitive_neuroscience\]](cognitive_neuroscience.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) \[sleep\] [\[smoke\]](smoke.md)
 
+[\[November 2021\]](2111.md)
+
 [\[October 2021\]](2110.md)
 * [新生児の良質な睡眠は生後6ヶ月時点の肥満の予防と相関。 (Brigham and Women's Hospital)](https://www.eurekalert.org/news-releases/932292)
 * [激しい運動でも、夜型の人で、就寝2時間前までに終え、同じ時間に行う習慣があれば、きちんと眠れる。 (Concordia University)](https://www.concordia.ca/news/stories/2021/09/28/intense-workouts-before-bedtime-wont-guarantee-a-good-nights-rest-new-research-shows.html) ([論文](https://pubmed.ncbi.nlm.nih.gov/34416428/))
