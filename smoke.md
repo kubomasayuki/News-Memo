@@ -1,5 +1,7 @@
 [\[cognitive_neuroscience\]](cognitive_neuroscience.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) \[smoke\]
 
+[\[November 2021\]](2111.md)
+
 [\[October 2021\]](2110.md)
 * [メンタルヘルスの問題は喫煙者の方が一般的であり、依存度にも相関している。 (Indiana University)](https://addictions.iu.edu/news/maria-parker-study.html)
 
