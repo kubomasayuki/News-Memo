@@ -1,5 +1,7 @@
 [\[cognitive_neuroscience\]](cognitive_neuroscience.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[November 2021\]](2111.md)
+
 [\[October 2021\]](2110.md)
 * [周産期科新設。 (亀田総合病院 産婦人科)](http://www.kameda.com/pr/ob_gyn/post_274.html)
 * [母体安全への提言 2020。 (日本産婦人科医会)](https://www.jaog.or.jp/wp/wp-content/uploads/2021/04/botai_2020.pdf) (過去の調査：[October 28, 2020 母体安全への提言 2019。 (日本産婦人科医会)](2010.md))
