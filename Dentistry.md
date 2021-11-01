@@ -1,5 +1,8 @@
 [\[cognitive_neuroscience\]](cognitive_neuroscience.md) [\[CTG_FECG\]](CTG_FECG.md) \[Dentistry\] [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[November 2021\]](2111.md)
+* [ブラッシング方法。 (American Dental Association)](https://www.mouthhealthy.org/en/az-topics/b/brushing-your-teeth)
+
 [\[October 2021\]](2110.md)
 
 [\[September 2021\]](2109.md)
