@@ -1,6 +1,7 @@
 [\[cognitive_neuroscience\]](cognitive_neuroscience.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) \[sleep\] [\[smoke\]](smoke.md)
 
 [\[November 2021\]](2111.md)
+* [睡眠時間の不足や質の低下は肥満や高血圧、糖尿病、心血管疾患などのリスクを上昇させる。 (American Heart Association)](https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000000444)
 
 [\[October 2021\]](2110.md)
 * [新生児の良質な睡眠は生後6ヶ月時点の肥満の予防と相関。 (Brigham and Women's Hospital)](https://www.eurekalert.org/news-releases/932292)
