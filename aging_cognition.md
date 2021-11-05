@@ -1,6 +1,7 @@
 \[aging_cognition\] [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[November 2021\]](2111.md)
+* [唾液にも加齢の兆候あり。 (沖縄科学技術大学院大学)](https://www.oist.jp/ja/news-center/press-releases/36599)
 
 [\[October 2021\]](2110.md)
 * [魚やナッツ、オリーブ油の摂取で(過剰にあると認知機能が低下すると推測されている)脳内の鉄の沈着を抑制できる？ (University of Kentucky)](https://uknow.uky.edu/research/uk-study-healthy-dietary-intake-associated-lower-brain-iron-better-cognition-older-adults) ([論文](https://www.sciencedirect.com/science/article/pii/S0197458021002104))
