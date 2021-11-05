@@ -9,6 +9,7 @@
 * [赤血球の提供を受ける超低出生体重児は、男性ドナーよりも女性ドナー(特に年齢の高い女性)の場合に炎症のリスクが低下。 (Emory and Children’s Healthcare)](https://news.emory.edu/stories/2021/09/preterm_infants_transfusion/index.html) ([論文](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2783715))
 
 [\[September 2021\]](2109.md)
+* [母親の読み聞かせは他人よりも脳内ネットワーク強度が向上。 (金沢大学)](https://www.kanazawa-u.ac.jp/rd/94730) ([論文](https://www.sciencedirect.com/science/article/pii/S1053811921006650))
 * [(豪州)30年前と比較して、超未熟児の生存率が20％増加。 (Royal Women's Hospital)](https://www.thewomens.org.au/news/funding-to-explore-premature-births-prevention) ([論文](https://bmjopen.bmj.com/content/10/9/e037507))
 * [コンピュータビジョンによる新生児のECG計測。 (University of South Australia)](https://www.unisa.edu.au/media-centre/Releases/2021/baby-detector-software-embedded-in-digital-camera-rivals-ecg/) ([論文](https://www.mdpi.com/2313-433X/7/8/122))
 
