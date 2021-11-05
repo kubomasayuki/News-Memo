@@ -66,6 +66,7 @@
 [\[March 2020\]](2003.md)
 
 [\[February 2020\]](2002.md)
+* [ジャンクフードは依存性や健康上の問題だけでなく記憶力低下も (Daily Mail)](https://www.dailymail.co.uk/health/article-8016945/)
 
 [\[January 2020\]](2001.md)
 
