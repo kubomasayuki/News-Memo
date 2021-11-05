@@ -1,6 +1,7 @@
 [\[cognitive_neuroscience\]](cognitive_neuroscience.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[November 2021\]](2111.md)
+* [フィブリノゲン製剤の適正使用に関して。 (日本産科婦人科学会、日本産婦人科医会)](https://www.jsog.or.jp/news/pdf/20210910_FBG_shuuchi.pdf)
 
 [\[October 2021\]](2110.md)
 * [周産期科新設。 (亀田総合病院 産婦人科)](http://www.kameda.com/pr/ob_gyn/post_274.html)
