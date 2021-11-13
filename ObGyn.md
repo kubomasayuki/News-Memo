@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[November 2021\]](2111.md)
+* [母親の職種で死産リスクに違い。 (大阪医科薬科大学)](https://www.ompu.ac.jp/news/of2vmg000000g89h.html)
 * [流早産予防で使われる17-OHPCに曝露した子は発がんリスクが2倍に上昇。 (University of Texas Health Science Center)](https://www.uth.edu/news/story.htm?id=9f15d85c-254d-499b-af44-31fb94f9d4bc) ([論文](https://www.ajog.org/article/S0002-9378(21)01184-4/pdf))
 * [緊急帝王切開を予測するAI。 (大阪医科薬科大学)](https://obgyn.onlinelibrary.wiley.com/doi/full/10.1002/ijgo.13888)
 * [フィブリノゲン製剤の適正使用に関して。 (日本産科婦人科学会、日本産婦人科医会)](https://www.jsog.or.jp/news/pdf/20210910_FBG_shuuchi.pdf)
