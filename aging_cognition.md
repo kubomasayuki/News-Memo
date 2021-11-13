@@ -1,6 +1,7 @@
 \[aging_cognition\] [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[November 2021\]](2111.md)
+* [高血圧の早期発症で認知症発症リスク増。  (American Heart Association)](https://newsroom.heart.org/news/earlier-onset-of-high-blood-pressure-affects-brain-structure-may-increase-dementia-risk)
 * [唾液にも加齢の兆候あり。 (沖縄科学技術大学院大学)](https://www.oist.jp/ja/news-center/press-releases/36599)
 
 [\[October 2021\]](2110.md)
