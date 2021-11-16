@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) \[diet\] [\[drinking\]](drinking.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[November 2021\]](2111.md)
+* [抗炎症性の食事を多く摂る人は炎症性の食事を多く摂る人よりも認知症の発症が少ない。 (National and Kapodistrian University of Athens Medical School)](https://www.aan.com/PressRoom/Home/PressRelease/4935) ([論文](https://n.neurology.org/content/early/2021/11/10/WNL.0000000000012973))
 * [経口免疫療法の代替？の皮膚パッチ療法の評価。 (DBV Technologies)](https://www.medpagetoday.com/meetingcoverage/acaai/95507) ([論文](https://www.annallergy.org/article/S1081-1206(21)00627-X/fulltext)、[Clinical Trial](https://clinicaltrials.gov/ct2/show/NCT02916446)、[開発企業、製品ページ](https://www.dbv-technologies.com/pipeline/viaskin-peanut/))
 
 [\[October 2021\]](2110.md)
