@@ -1,7 +1,8 @@
-\[aging_cognition\] [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[environment\]](environment.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
+\[aging_cognition\] [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[November 2021\]](2111.md)
 * [コーヒーやお茶を飲む人は脳卒中や認知症のリスクが低い。 (天津医科大学)](https://medicalxpress.com/news/2021-11-coffee-tea-dementia.html) ([論文](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003830)、過去の調査：[July 28, 2021 コーヒーの過剰摂取は認知症リスク上昇の可能性。 (University of South Australia)](2107.md)、[April 28, 2020 フィルターでろ過したコーヒーを1日1～4杯飲む人が最も健康。 (Norwegian Institute of Public Health)](2004.md))
+* [大気汚染は脳のパフォーマンスと労働の生産性に影響を与える。 (University of Queensland)](https://www.uq.edu.au/news/article/2021/11/air-pollution-clouds-brain-performance-and-workforce-productivity) ([論文](https://www.nber.org/system/files/working_papers/w28785/w28785.pdf))
 * [抗炎症性の食事を多く摂る人は炎症性の食事を多く摂る人よりも認知症の発症が少ない。 (National and Kapodistrian University of Athens Medical School)](https://www.aan.com/PressRoom/Home/PressRelease/4935) ([論文](https://n.neurology.org/content/early/2021/11/10/WNL.0000000000012973))
 * [高血圧の早期発症で認知症発症リスク増。  (American Heart Association)](https://newsroom.heart.org/news/earlier-onset-of-high-blood-pressure-affects-brain-structure-may-increase-dementia-risk)
 * [唾液にも加齢の兆候あり。 (沖縄科学技術大学院大学)](https://www.oist.jp/ja/news-center/press-releases/36599)
@@ -91,4 +92,4 @@
 
 [\[April 2019\]](1904.md)
 
-\[aging_cognition\] [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[environment\]](environment.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
+\[aging_cognition\] [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
