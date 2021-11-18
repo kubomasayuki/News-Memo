@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) \[fitness\] [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[November 2021\]](2111.md)
+* [運動により増加した内在性カンナビノイド(大麻の成分)と腸内細菌叢によって生成される抗炎症物質に相関がある。 (University of Nottingham)](https://www.nottingham.ac.uk/news/exercise-increases-the-bodys-own-cannabis)
 
 [\[October 2021\]](2110.md)
 * [高齢女性を対象にした調査において、1日30分の家事で死亡リスクが12%減少。 (University at Buffalo)](http://www.buffalo.edu/ubnow/stories/2017/11/lamonte-aging-women-movement.html) ([論文](https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.15201))
