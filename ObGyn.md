@@ -2,6 +2,7 @@
 
 [\[November 2021\]](2111.md)
 * [妊娠中の大気汚染曝露と妊娠糖尿病発症リスクに相関。 (UC Irvine)](https://news.uci.edu/2021/10/04/uci-led-study-links-air-pollution-exposure-while-pregnant-to-higher-gestational-diabetes-risk/) ([論文](http://dx.doi.org/10.1016/j.envint.2021.106888))
+* [低所得国において、猛暑と死産に相関。 (UC SanDiego)](https://scripps.ucsd.edu/news/first-link-between-stillbirths-birth-complications-and-excessive-heat-lower-income-countries) ([論文](https://doi.org/10.1016/j.envint.2021.106902))
 * [母親の職種で死産リスクに違い。 (大阪医科薬科大学)](https://www.ompu.ac.jp/news/of2vmg000000g89h.html)
 * [流早産予防で使われる17-OHPCに曝露した子は発がんリスクが2倍に上昇。 (University of Texas Health Science Center)](https://www.uth.edu/news/story.htm?id=9f15d85c-254d-499b-af44-31fb94f9d4bc) ([論文](https://www.ajog.org/article/S0002-9378(21)01184-4/pdf))
 * [緊急帝王切開を予測するAI。 (大阪医科薬科大学)](https://obgyn.onlinelibrary.wiley.com/doi/full/10.1002/ijgo.13888)
