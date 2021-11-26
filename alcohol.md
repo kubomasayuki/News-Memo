@@ -1,7 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) \[alcohol\] [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[November 2021\]](2111.md)
-* [唯一アルコールだけが心房粗動の原因になる。 (UC San Francisco)](https://www.ucsf.edu/news/2021/11/421881/only-alcohol-not-caffeine-diet-or-lack-sleep-might-trigger-heart-rhythm)
+* [唯一アルコールだけが心房粗動の原因になる。 (UC San Francisco)](https://www.ucsf.edu/news/2021/11/421881/only-alcohol-not-caffeine-diet-or-lack-sleep-might-trigger-heart-rhythm) ([論文](http://dx.doi.org/10.1001/jamacardio.2021.5010))
 
 [\[October 2021\]](2110.md)
 
