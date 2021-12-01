@@ -1,5 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) \[diet\] [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[December 2021\]](2112.md)
+
 [\[November 2021\]](2111.md)
 * [コーヒーやお茶を飲む人は脳卒中や認知症のリスクが低い。 (天津医科大学)](https://medicalxpress.com/news/2021-11-coffee-tea-dementia.html) ([論文](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003830)、過去の調査：[July 28, 2021 コーヒーの過剰摂取は認知症リスク上昇の可能性。 (University of South Australia)](2107.md)、[April 28, 2020 フィルターでろ過したコーヒーを1日1～4杯飲む人が最も健康。 (Norwegian Institute of Public Health)](2004.md))
 * [抗炎症性の食事を多く摂る人は炎症性の食事を多く摂る人よりも認知症の発症が少ない。 (National and Kapodistrian University of Athens Medical School)](https://www.aan.com/PressRoom/Home/PressRelease/4935) ([論文](https://n.neurology.org/content/early/2021/11/10/WNL.0000000000012973))
