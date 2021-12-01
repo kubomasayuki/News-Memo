@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) \[medical_device\] [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[December 2021\]](2112.md)
+* [靴下型ベビーモニタ(医療機器でないと謳いFDA未承認)はFDAの警告を受け、販売を停止。 (Owlet)](https://owletcare.com/pages/fda-response)
+
 [\[November 2021\]](2111.md)
 
 [\[October 2021\]](2110.md)
