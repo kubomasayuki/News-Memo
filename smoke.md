@@ -1,5 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) \[smoke\]
 
+[\[December 2021\]](2112.md)
+
 [\[November 2021\]](2111.md)
 * [40歳より前に禁煙すると喫煙が原因の発がんリスクを90％軽減できる。 (American Cancer Society)](http://pressroom.cancer.org/SmokingAndCancer) ([論文](https://jamanetwork.com/journals/jamaoncology/article-abstract/2784990))
 
