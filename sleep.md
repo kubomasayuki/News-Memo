@@ -1,5 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) \[sleep\] [\[smoke\]](smoke.md)
 
+[\[December 2021\]](2112.md)
+
 [\[November 2021\]](2111.md)
 * [睡眠時間の不足や質の低下は肥満や高血圧、糖尿病、心血管疾患などのリスクを上昇させる。 (American Heart Association)](https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000000444)
 
