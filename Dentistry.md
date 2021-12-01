@@ -1,5 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) \[Dentistry\] [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[December 2021\]](2112.md)
+
 [\[November 2021\]](2111.md)
 * [肥満による炎症は破骨細胞を発達させ、歯周病リスクを発達させる。 (University at Buffalo)](http://www.buffalo.edu/news/releases/2021/11/011.html) ([論文](https://journals.sagepub.com/doi/10.1177/00220345211040729))
 * [ブラッシング方法。 (American Dental Association)](https://www.mouthhealthy.org/en/az-topics/b/brushing-your-teeth)
