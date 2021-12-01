@@ -1,5 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[December 2021\]](2112.md)
+
 [\[November 2021\]](2111.md)
 * [麻酔分娩は麻酔なしの経膣分娩よりも産後うつのリスクが高い。 (名古屋市立大学)](https://bmcpregnancychildbirth.biomedcentral.com/articles/10.1186/s12884-021-03996-y)
 * [妊娠中の大気汚染曝露と妊娠糖尿病発症リスクに相関。 (UC Irvine)](https://news.uci.edu/2021/10/04/uci-led-study-links-air-pollution-exposure-while-pregnant-to-higher-gestational-diabetes-risk/) ([論文](http://dx.doi.org/10.1016/j.envint.2021.106888))
