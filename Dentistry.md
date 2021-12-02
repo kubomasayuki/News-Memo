@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) \[Dentistry\] [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[December 2021\]](2112.md)
+* [新しい歯科治療法をシミュレートするためのバイオフィルム。 (University of Saskatchewan)](https://news.usask.ca/articles/research/2021/usask-dentistry-research-team-proves-biofilm-method-can-be-used-to-inexpensively-test-new-tooth-decay-treatments.php) ([論文](http://dx.doi.org/10.1016/j.mimet.2021.106386))
 
 [\[November 2021\]](2111.md)
 * [肥満による炎症は破骨細胞を発達させ、歯周病リスクを発達させる。 (University at Buffalo)](http://www.buffalo.edu/news/releases/2021/11/011.html) ([論文](https://journals.sagepub.com/doi/10.1177/00220345211040729))
