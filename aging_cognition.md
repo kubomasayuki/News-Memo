@@ -1,6 +1,7 @@
 \[aging_cognition\] [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[December 2021\]](2112.md)
+* [炎症スコアの高い食品が偶発的な認知症発症と相関。 (National and Kapodistrian University of Athens Medical School)](https://www.carenet.com/news/general/hdn/53429) ([論文](https://doi.org/10.1212/WNL.0000000000012973))
 * [安静時心拍数が高いと認知症リスクが上昇。 (Karolinska Institutet)](https://news.ki.se/elevated-heart-rate-linked-to-increased-risk-of-dementia) ([論文](https://doi.org/10.1002/alz.12495))
 
 [\[November 2021\]](2111.md)
