@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) \[diet\] [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[December 2021\]](2112.md)
+* [炎症スコアの高い食品が偶発的な認知症発症と相関。 (National and Kapodistrian University of Athens Medical School)](https://www.carenet.com/news/general/hdn/53429) ([論文](https://doi.org/10.1212/WNL.0000000000012973))
 * [低カフェイン消費者のカフェイン摂取は動体視力を向上させる。 (University of Waterloo)](https://uwaterloo.ca/news/media/coffee-time-caffeine-improves-reaction-moving-targets) ([論文])(https://link.springer.com/article/10.1007/s00213-021-05953-1))
 
 [\[November 2021\]](2111.md)
