@@ -1,7 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[December 2021\]](2112.md)
-* [大人が美味しそうに野菜を食べていると子供の野菜消費量が増える。 (Aston University)](https://www.aston.ac.uk/latest-news/adults-positive-facial-expressions-while-eating-vegetables-help-kids-consume-more)
+* [大人が美味しそうに野菜を食べていると子供の野菜消費量が増える。 (Aston University)](https://www.aston.ac.uk/latest-news/adults-positive-facial-expressions-while-eating-vegetables-help-kids-consume-more) ([論文](https://doi.org/10.1016/j.appet.2021.105779))
 
 [\[November 2021\]](2111.md)
 * [おむつ替え時の親の発話量が多い子ほど社会性指標が高い。 (花王)](https://www.kao.com/jp/corporate/news/rd/2020/20201019-001/)
