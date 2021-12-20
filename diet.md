@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) \[diet\] [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[December 2021\]](2112.md)
+* [カフェインの代謝が速い人はブラックコーヒーやダークチョコレートの苦みを好む？ (NorthWestern University)](https://news.northwestern.edu/stories/2021/12/why-you-drink-black-coffee-its-in-your-genes/) ([論文](http://dx.doi.org/10.1038/s41598-021-03153-7)、過去の調査：[April 28, 2021 「コーヒーを飲むと健康になる」ではなく、「コーヒーを飲めないと健康上の問題の可能性」？ (University of South Australia)](2104.md))
 * [大人が美味しそうに野菜を食べていると子供の野菜消費量が増える。 (Aston University)](https://www.aston.ac.uk/latest-news/adults-positive-facial-expressions-while-eating-vegetables-help-kids-consume-more) ([論文](https://doi.org/10.1016/j.appet.2021.105779))
 * [低カフェイン消費者のカフェイン摂取は動体視力を向上させる。 (University of Waterloo)](https://uwaterloo.ca/news/media/coffee-time-caffeine-improves-reaction-moving-targets) ([論文](https://link.springer.com/article/10.1007/s00213-021-05953-1))
 
