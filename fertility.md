@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) \[fertility\] [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[December 2021\]](2112.md)
+* [プラスチックや化石燃料の燃焼による化学汚染が男性の精子数の減少に関連している。 (Brunel University)](https://www.brunel.ac.uk/news-and-events/news/articles/Fall-in-fertility-rates-may-be-linked-to-fossil-fuels) ([論文](https://www.nature.com/articles/s41574-021-00598-8))
 
 [\[November 2021\]](2111.md)
 
