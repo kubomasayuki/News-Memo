@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[January 2022\]](2201.md)
+* [母親のグロースマインドセット(思考パターンの成長)は子供の成長につながる。 (Boston Medical Center)](https://news.harvard.edu/gazette/story/2022/01/turns-out-smarter-kids-are-made-not-born/) ([論文](https://doi.org/10.1097/dbp.0000000000000998))
+
 [\[December 2021\]](2112.md)
 * [大人が美味しそうに野菜を食べていると子供の野菜消費量が増える。 (Aston University)](https://www.aston.ac.uk/latest-news/adults-positive-facial-expressions-while-eating-vegetables-help-kids-consume-more) ([論文](https://doi.org/10.1016/j.appet.2021.105779))
 
