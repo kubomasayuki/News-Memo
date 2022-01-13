@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) \[fitness\] [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[January 2022\]](2201.md)
+* [定期的な運動は肺炎のリスクと死亡を減らす。 (University of Bristol)](http://bristol.ac.uk/news/2021/december/exercise-pneumonia.html) ([論文](https://doi.org/10.1007/s11357-021-00491-2))
+
 [\[December 2021\]](2112.md)
 
 [\[November 2021\]](2111.md)
