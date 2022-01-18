@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) \[Dentistry\] [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[January 2022\]](2201.md)
+* [歯を失う原因が、男性は人との交流、女性は野菜・果物の摂取。 (東北大学)](https://www.tohoku.ac.jp/japanese/2021/12/press20211220-01-dementia.html)
+
 [\[December 2021\]](2112.md)
 * [新しい歯科治療法をシミュレートするためのバイオフィルム。 (University of Saskatchewan)](https://news.usask.ca/articles/research/2021/usask-dentistry-research-team-proves-biofilm-method-can-be-used-to-inexpensively-test-new-tooth-decay-treatments.php) ([論文](http://dx.doi.org/10.1016/j.mimet.2021.106386))
 
