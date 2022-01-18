@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[January 2022\]](2201.md)
+* [妊娠中の人工甘味料摂取は赤ちゃんの腸内細菌叢に変化を起こし、肥満リスクが増加する。 (University of Calgary)](https://www.ucalgary.ca/news/low-calorie-sweeteners-do-not-mean-low-risk-infants) ([論文](https://gut.bmj.com/content/69/10/1807))
+
 [\[December 2021\]](2112.md)
 * [流産の予防で使用されるプロゲステロン(17α-OHPC)に曝露した胎児の将来的な発がんリスクが上昇。 (UTHealth School of Public Health)](https://www.uth.edu/news/story.htm?id=9f15d85c-254d-499b-af44-31fb94f9d4bc) ([論文](http://dx.doi.org/10.1016/j.ajog.2021.10.035))
 * [妊娠中の貧血は、早産、低出生体重児、小児の貧血や発達障害と関連している。 (WHO)](https://www.who.int/data/gho/data/themes/topics/anaemia_in_women_and_children)
