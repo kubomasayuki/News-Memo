@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[January 2022\]](2201.md)
+* [就学前教育が非認知能力を育てる。 (ベネッセ教育総合研究所)](https://berd.benesse.jp/berd/center/open/berd/backnumber/2008_16/fea_ootake_02.html) ([論文](https://www.nber.org/papers/w13016))
 * [母親のグロースマインドセット(思考パターンの成長)は子供の成長につながる。 (Boston Medical Center)](https://news.harvard.edu/gazette/story/2022/01/turns-out-smarter-kids-are-made-not-born/) ([論文](https://doi.org/10.1097/dbp.0000000000000998))
 
 [\[December 2021\]](2112.md)
