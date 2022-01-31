@@ -1,6 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) \[diet\] [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[January 2022\]](2201.md)
+* [リポ蛋白Aの血中濃度が高いことは前立腺がんリスクが高いことと相関。 (Imperial College London)](https://www.imperial.ac.uk/news/233474/potential-link-found-between-high-lipoprotein/) ([論文](https://doi.org/10.1371/journal.pmed.1003859))
+* [LDLコレステロールと結びついて心筋梗塞のリスクを上昇させるアポ蛋白。 (山梨大学)](https://www.med.yamanashi.ac.jp/clinical_basic/pathol01/apoa.html)
 * [LDLコレステロールは脂質以外に栄養や薬剤も運搬する。 (東京大学)](https://www.h.u-tokyo.ac.jp/press/20170405.html) ([論文](https://www.nature.com/articles/s41598-017-00685-9))
 * [ビタミンDが欠乏すると子供のADHDのリスクが上昇する。 (University of Turku)](https://www.utu.fi/en/news/press-release/vitamin-d-deficiency-during-pregnancy-connected-to-elevated-risk-of-adhd) ([論文](https://doi.org/10.1016/j.jaac.2019.11.021))
 * [肉だけでなく、お菓子やコーヒー、アルコールも温室効果ガス排出量が多い。 (University of Leeds)](https://climate.leeds.ac.uk/news/less-healthy-foods-and-drinks-also-damage-climate/) ([論文](https://doi.org/10.1371/journal.pone.0259418))
