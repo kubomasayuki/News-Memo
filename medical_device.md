@@ -1,5 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) \[medical_device\] [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[January 2022\]](2201.md)
+
 [\[December 2021\]](2112.md)
 * [ポータブル心拍変動測定器 (TRYTECH)](https://www.trytech.co.jp/checkmyheart/glossary.html)
 * [靴下型ベビーモニタ(医療機器でないと謳いFDA未承認)はFDAの警告を受け、販売を停止。 (Owlet)](https://owletcare.com/pages/fda-response)
