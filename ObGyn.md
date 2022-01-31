@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[January 2022\]](2201.md)
+* [ビタミンDが欠乏すると子供のADHDのリスクが上昇する。 (University of Turku)](https://www.utu.fi/en/news/press-release/vitamin-d-deficiency-during-pregnancy-connected-to-elevated-risk-of-adhd) ([論文](https://doi.org/10.1016/j.jaac.2019.11.021))
 * [妊娠中の人工甘味料摂取は赤ちゃんの腸内細菌叢に変化を起こし、肥満リスクが増加する。 (University of Calgary)](https://www.ucalgary.ca/news/low-calorie-sweeteners-do-not-mean-low-risk-infants) ([論文](https://gut.bmj.com/content/69/10/1807))
 
 [\[December 2021\]](2112.md)
