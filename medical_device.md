@@ -1,6 +1,6 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) \[medical_device\] [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
-[\[February 2022\]]
+[\[February 2022\]](2202.md)
 * [汗中コルチゾールを測定し、ストレスの度合いを測定するウェアラブルデバイス。 (UCLA)](https://newsroom.ucla.edu/releases/cortisol-sensing-smartwatch) ([論文](https://doi.org/10.1126/sciadv.abk0967))
 
 [\[January 2022\]](2201.md)
