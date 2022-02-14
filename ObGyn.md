@@ -1,7 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[February 2022\]](2202.md)
-* [猛暑と早産の関係。 (UCLA)](https://www.businessinsider.jp/post-203559) ([論文](https://doi.org/10.1038/s41558-019-0632-4))
+* [猛暑で早産が増加。 (UCLA)](https://www.businessinsider.jp/post-203559) ([論文](https://doi.org/10.1038/s41558-019-0632-4))
 
 [\[January 2022\]](2201.md)
 * [ビタミンDが欠乏すると子供のADHDのリスクが上昇する。 (University of Turku)](https://www.utu.fi/en/news/press-release/vitamin-d-deficiency-during-pregnancy-connected-to-elevated-risk-of-adhd) ([論文](https://doi.org/10.1016/j.jaac.2019.11.021))
