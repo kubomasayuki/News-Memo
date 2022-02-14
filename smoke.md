@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) \[smoke\]
 
+[\[February\]](2202.md)
+* [壁紙等に付着したタバコ成分と空気中の亜硝酸が反応して3次喫煙となる。 (Lawrence Berkeley National Laboratory)](https://newscenter.lbl.gov/2013/06/20/berkeley-lab-confirms-thirdhand-smoke-causes-dna-damage/) ([論文1](https://doi.org/10.1073/pnas.0912820107)、[論文2](https://doi.org/10.1093/mutage/get013))
+
 [\[January 2022\]](2201.md)
 * [児童の受動喫煙は認知および非認知能力を低下させる。 (The Conversation)](https://theconversation.com/children-whose-parents-smoke-have-lower-test-scores-and-more-behavioural-issues-than-kids-of-non-smokers-172601) ([論文](https://doi.org/10.1016/j.ehb.2021.100978))
 
