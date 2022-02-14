@@ -2,6 +2,7 @@
 
 [\[February 2022\]](2202.md)
 * [子供の近視予防に紫光。 (慶應義塾大学)](https://www.keio.ac.jp/ja/press-releases/2016/12/26/28-19271/) ([論文](https://doi.org/10.1016/j.ebiom.2016.12.007)
+* [早産児に行うカンガルーケアの保護効果は成人後の脳容積にも影響。 (Kangaroo Foundation, Colombia)](https://medical.nikkeibp.co.jp/leaf/mem/pub/hotnews/popular/202202/573814.html) ([論文](https://doi.org/10.1111/apa.16265))
 
 [\[January 2022\]](2201.md)
 * [未就学児は就寝前のわずかな光の曝露でも睡眠サイクルが狂う。 (University of Colorado at Boulder)](https://www.colorado.edu/today/2022/01/25/even-minor-exposure-light-bedtime-may-disrupt-preschoolers-sleep) ([論文](http://dx.doi.org/10.1111/jpi.12780))
