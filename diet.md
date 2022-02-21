@@ -98,7 +98,6 @@
 
 [\[April 2020\]](2004.md)
 * [フィルターでろ過したコーヒーを1日1～4杯飲む人が最も健康。 (Norwegian Institute of Public Health)](https://medicalxpress.com/news/2020-04-healthiest-coffee-science.html) ([論文](https://doi.org/10.1177/2047487320914443))
-* [少量の母乳でも乳児の腸内のウイルスからの保護に効果あり。 (Science Daily)](https://www.sciencedaily.com/releases/2020/04/200415110452.htm)
 
 [\[March 2020\]](2003.md)
 * [肥満と関係なく糖質の多い食事は寿命を短くする可能性 (Cell Metabolism)](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(20)30075-9)
