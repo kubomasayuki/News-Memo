@@ -2,7 +2,7 @@
 
 [\[February 2022\]](2202.md)
 * [新生児への抗生物質(一部を除く)投与は、母乳を消化する腸内細菌減少・抗菌薬耐性増加に関連。 (University of Edinburgh)](https://www.ed.ac.uk/news/2022/antibiotics-after-birth-affects-gut-microbes-of-ba) ([論文](http://dx.doi.org/10.1038/s41467-022-28525-z)、過去の調査：[May 2, 2021 胎児期(子宮内)、乳児期(経母乳)の抗生物質の曝露によりアレルギーの免疫応答に関する腸内細菌を損傷する。 (Rutgers University)](2105.md)、[April 18, 2020 少量の母乳でも乳児の腸内のウイルスからの保護に効果あり。 (University of Pennsylvania)](2004.md))
-* [子供の近視予防に紫光。 (慶應義塾大学)](https://www.keio.ac.jp/ja/press-releases/2016/12/26/28-19271/) ([論文](https://doi.org/10.1016/j.ebiom.2016.12.007)
+* [子供の近視予防に紫光。 (慶應義塾大学)](https://www.keio.ac.jp/ja/press-releases/2016/12/26/28-19271/) ([論文](https://doi.org/10.1016/j.ebiom.2016.12.007))
 * [早産児に行うカンガルーケアの保護効果は成人後の脳容積にも影響。 (Kangaroo Foundation, Colombia)](https://medical.nikkeibp.co.jp/leaf/mem/pub/hotnews/popular/202202/573814.html) ([論文](https://doi.org/10.1111/apa.16265))
 
 [\[January 2022\]](2201.md)
