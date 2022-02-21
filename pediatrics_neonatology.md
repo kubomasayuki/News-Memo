@@ -105,7 +105,7 @@
 * [低体温療法の脳保護効果を解明。 (愛知医大)](https://www.aichi-med-u.ac.jp/files/soumu/2020topics01.pdf) ([論文](https://jneuroinflammation.biomedcentral.com/articles/10.1186/s12974-020-01831-3))
 
 [\[April 2020\]](2004.md)
-* [少量の母乳でも乳児の腸内のウイルスからの保護に効果あり。 (Science Daily)](https://www.sciencedaily.com/releases/2020/04/200415110452.htm)
+* [少量の母乳でも乳児の腸内のウイルスからの保護に効果あり。 (University of Pennsylvania)](https://www.pennmedicine.org/news/news-releases/2020/april/breastfeeding-may-lead-to-fewer-human-viruses-in-newborns-gastrointestinal-systems) ([論文](https://doi.org/10.1038/s41586-020-2192-1))
 * [0歳児は両親のハグでリラックスする。 (Cell Press)](https://www.cell.com/iscience/fulltext/S2589-0042(20)30180-2)
 
 [\[March 2020\]](2003.md)
