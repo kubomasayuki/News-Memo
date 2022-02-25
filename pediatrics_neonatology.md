@@ -88,7 +88,7 @@
 * [2歳時点での硬膜下血腫の有無で健康状態に差はない。 (University of North Carolina Health Care)](https://news.unchealthcare.org/2020/10/children-with-asymptomatic-brain-bleeds-as-newborns-show-normal-brain-development-at-age-2/)
 
 [\[October 2020\]](2010.md)
-* [授乳中の母親の砂糖入り飲料摂取は子供の認知発達機能の低下につながる可能性。 (Medical Xpress)](https://medicalxpress.com/news/2020-10-sugary-beverages-consumed-breastfeeding-affect.html)
+* [授乳中の母親の砂糖入り飲料摂取は子供の認知発達機能の低下につながる可能性。 (Children's Hospital, Los Angeles)](https://medicalxpress.com/news/2020-10-sugary-beverages-consumed-breastfeeding-affect.html) ([論文](https://doi.org/10.1093/ajcn/nqaa255))
 * [カナダにおける小児コホート研究。 (CHILD study)](https://childstudy.ca/)
 
 [\[September 2020\]](2009.md)
