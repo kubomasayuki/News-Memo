@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) \[fitness\] [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[February 2022\]](2202.md)
+* [高強度インターバルトレーニング(HIIT)でも長距離インターバルトレーニングでもアスリートのパフォーマンスを改善したが、吸息が重要である。 (University of Jyväskylä)](https://www.jyu.fi/en/current/archive/2022/01/farther-or-faster-both-improve-distance-running-performance) ([論文](https://doi.org/10.1249/mss.0000000000002861))
+
 [\[January 2022\]](2201.md)
 * [定期的な運動は肺炎のリスクと死亡を減らす。 (University of Bristol)](http://bristol.ac.uk/news/2021/december/exercise-pneumonia.html) ([論文](https://doi.org/10.1007/s11357-021-00491-2))
 
