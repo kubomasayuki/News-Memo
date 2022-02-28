@@ -1,5 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) \[fertility\] [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[February\]](2202.md)
+
 [\[January 2022\]](2201.md)
 * [日光の曝露と乳がんに逆相関。 (University at Buffalo)](http://www.buffalo.edu/news/releases/2022/01/003.html) ([論文](http://dx.doi.org/10.1158/1055-9965.EPI-21-0932))
 
