@@ -1,5 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) \[Dentistry\] [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[February\]](2202.md)
+
 [\[January 2022\]](2201.md)
 * [歯を失う原因が、男性は人との交流、女性は野菜・果物の摂取。 (東北大学)](https://www.tohoku.ac.jp/japanese/2021/12/press20211220-01-dementia.html) ([論文](https://doi.org/10.1177/00220345211049399))
 
