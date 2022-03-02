@@ -1,7 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) \[sleep\] [\[smoke\]](smoke.md)
 
 [\[March 2022\]](2203.md)
-* [睡眠不足に対する週末の寝溜めはNAFLD(非アルコール性肝疾患)と負の相関。 (Catholic Kwandong University)](https://www.medpagetoday.com/gastroenterology/generalhepatology/97410) ([論文](https://doi.org/10.1016/j.aohep.2022.100690))
+* [睡眠不足に対する週末の寝溜めはNAFLD(非アルコール性脂肪肝疾患)と負の相関。 (Catholic Kwandong University)](https://www.medpagetoday.com/gastroenterology/generalhepatology/97410) ([論文](https://doi.org/10.1016/j.aohep.2022.100690))
 
 [\[February 2022\]](2202.md)
 
