@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) \[smoke\]
 
+[\[March 2022\]](2203.md)
+* [たばこに関する統計。 (最新たばこ情報)](https://www.health-net.or.jp/tobacco/statistics/)
+
 [\[February 2022\]](2202.md)
 * [壁紙等に付着したタバコ成分と空気中の亜硝酸が反応して3次喫煙となる。 (Lawrence Berkeley National Laboratory)](https://newscenter.lbl.gov/2013/06/20/berkeley-lab-confirms-thirdhand-smoke-causes-dna-damage/) ([論文1](https://doi.org/10.1073/pnas.0912820107)、[論文2](https://doi.org/10.1093/mutage/get013))
 
