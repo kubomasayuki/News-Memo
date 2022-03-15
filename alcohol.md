@@ -56,7 +56,7 @@
 [\[February 2020\]](2002.md)
 
 [\[January 2020\]](2001.md)
-* [少量の飲酒でもガンのリスクは増加 (Science Daily)](https://www.sciencedaily.com/releases/2019/12/191209182002.htm)
+* [少量の飲酒でもがんの罹患リスクは上昇 (東京大学)](https://www.m.u-tokyo.ac.jp/news/admin/release_20191209.pdf) ([論文](https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.32590))
 
 [\[December 2019\]](1912.md)
 
