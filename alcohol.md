@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) \[alcohol\] [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[March 2022\]](2203.md)
+* [1日1杯以下の少量の飲酒でも脳の容積は減少。 (University of Pennsylvania)](https://penntoday.upenn.edu/news/one-alcoholic-drink-day-linked-reduced-brain-size) ([論文](https://doi.org/10.1038/s41467-022-28735-5))
+
 [\[February 2022\]](2202.md)
 
 [\[January 2022\]](2201.md)
