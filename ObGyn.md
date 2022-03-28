@@ -11,6 +11,7 @@
 [\[January 2022\]](2201.md)
 * [ビタミンDが欠乏すると子供のADHDのリスクが上昇する。 (University of Turku)](https://www.utu.fi/en/news/press-release/vitamin-d-deficiency-during-pregnancy-connected-to-elevated-risk-of-adhd) ([論文](https://doi.org/10.1016/j.jaac.2019.11.021))
 * [妊娠中の人工甘味料摂取は赤ちゃんの腸内細菌叢に変化を起こし、肥満リスクが増加する。 (University of Calgary)](https://www.ucalgary.ca/news/low-calorie-sweeteners-do-not-mean-low-risk-infants) ([論文](https://gut.bmj.com/content/69/10/1807))
+* [日光の曝露と乳がんに逆相関。 (University at Buffalo)](http://www.buffalo.edu/news/releases/2022/01/003.html) ([論文](http://dx.doi.org/10.1158/1055-9965.EPI-21-0932))
 
 [\[December 2021\]](2112.md)
 * [流産の予防で使用されるプロゲステロン(17α-OHPC)に曝露した胎児の将来的な発がんリスクが上昇。 (UTHealth School of Public Health)](https://www.uth.edu/news/story.htm?id=9f15d85c-254d-499b-af44-31fb94f9d4bc) ([論文](http://dx.doi.org/10.1016/j.ajog.2021.10.035))
