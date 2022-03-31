@@ -213,7 +213,6 @@
 * [遅延クランプは死亡、および小児期の神経学的有害転帰が有意に減少した (JAMA Network)](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2729476)
 * [妊娠後期の仰臥位での睡眠は子宮への血流の減少し、死産の確率が増加 (THE CONVERSATION)](https://theconversation.com/mega-study-confirms-pregnant-women-can-reduce-risk-of-stillbirth-by-sleeping-on-their-side-114601)
 * [断続的に上昇する臍帯動脈ドプラPI値とIUGRに相関はなかった (American Journal Obstetrics & Gynecology MFM)](https://www.sciencedirect.com/science/article/pii/S2589933319300072)  
-* [2つの5mm大のポートで行う腹腔鏡下子宮摘出術は患者の年齢や子宮の大きさによっては安全に行える (SAGE Journals)](https://journals.sagepub.com/doi/10.1177/1553350619827693)
 * [臍帯血中タンパク質(ハプトグロビン)なしで産まれた早産児の脳性麻痺や死亡リスクが高いことから、これがバイオマーカーとして使える可能性がある (MedicalXpress)](https://medicalxpress.com/news/2019-03-protein-cord-blood-death-cerebral.html)  
 * [高濃度すぎる酸素療法は逆効果 (AJOG)](https://www.ajog.org/article/S0002-9378(19)30438-7/abstract)  
 * [超音波に基づいて分娩モード(経腟分娩の確率)を％で予測するアプリ(詳細不明) (AJOG)](https://www.ajog.org/article/S0002-9378(19)30497-1/fulltext)
