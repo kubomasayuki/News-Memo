@@ -71,5 +71,6 @@
 [\[May 2019\]](1905.md)
 
 [\[April 2019\]](1904.md)
+* [2つの5mm大のポートで行う腹腔鏡下子宮摘出術は患者の年齢や子宮の大きさによっては安全に行える (SAGE Journals)](https://journals.sagepub.com/doi/10.1177/1553350619827693)
 
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) \[Gynecology\] [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
