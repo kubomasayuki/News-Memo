@@ -134,7 +134,6 @@
 * [妊娠高血圧症候群の計算方法変更で発症率が約2倍に上昇。 (ケアネット)](https://www.carenet.com/news/general/hdn/50109)
 * [2014年に開始されたオーストラリアの早産予防の取り組み。 (オーストラリア早産予防アライアンス)](https://www.pretermalliance.com.au/) ([西オーストラリア大学のニュース記事](http://www.news.uwa.edu.au/2020061112156/research/risk-preterm-births-falls-under-new-initiative),[論文](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0234033))
 * [非侵襲胎児酸素飽和度モニタ (カリフォルニア大デービス校)](https://www.ucdavis.edu/news/noninvasive-fetal-oxygen-monitor-could-make-safer-deliveries) ([論文](https://www.ajog.org/article/S0002-9378(19)31484-X/fulltext))
-* [9価ワクチン(Gardasil 9)に中咽頭癌の適応追加。HPVが原因の中咽頭癌は子宮頸癌より多い。 (cancer network)](https://www.cancernetwork.com/view/fda-approves-gardasil-9-for-prevention-of-oropharyngeal-head-and-neck-cancers-caused-by-hpv)
 * [推定胎児体重のパーセンタイルを計算するソフトウェア。 (Bioinformatics and Computational Biology Unit of the Wayne State University School of Medicine Perinatal Initiative)](https://bioinformaticsprb.med.wayne.edu/software/) ([PublishされたPaper](https://www.ajog.org/article/S0002-9378(20)30144-7/fulltext))
 
 [\[May 2020\]](2005.md)
