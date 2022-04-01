@@ -71,6 +71,8 @@
 [\[May 2019\]](1905.md)
 
 [\[April 2019\]](1904.md)
+* [2023年までのコルポスコープ市場の展望 (medgadget)](https://www.medgadget.com/2019/04/colposcopy-market-2019-major-key-vendors-carl-zeiss-olympus-corporation-danaher-corporation-philips-healthcare-coopersurgical-mckesson-corporation-and-others-forecast-2023.html)
+* [子宮内膜症を発見するスマートタンポンの開発費1億円超を調達 (Tech Crunch)](https://jp.techcrunch.com/2019/04/02/2019-04-01-a-startup-trying-to-detect-endometriosis-through-smart-tampons-just-landed-9-million-in-series-a-funding/)  
 * [HPVを接種した話 (kbcfireの日記)](https://kbcfire.hatenablog.com/entry/2019/04/07/103647)  
 * [2つの5mm大のポートで行う腹腔鏡下子宮摘出術は患者の年齢や子宮の大きさによっては安全に行える (SAGE Journals)](https://journals.sagepub.com/doi/10.1177/1553350619827693)
 
