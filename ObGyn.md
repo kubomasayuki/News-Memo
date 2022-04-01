@@ -42,7 +42,6 @@
 * [市販(非処方)の鎮痛薬を使った妊婦は使わなかった妊婦より児のアウトカムが悪い。 (Eurek Alert)](https://www.eurekalert.org/news-releases/829987)
 
 [\[July 2021\]](2107.md)
-* [リングエコー撮像法を用いた無痛の乳がん検査装置が販売開始。 (Lily MedTech)](https://www.lilymedtech.com/wp-content/uploads/2021/05/20210510.pdf?fbclid=IwAR204xM_4sCubpGzRlNM_Vft3MQH6_rLIjUJpBF7jjlhoHaeN-eq2mALFy0) (過去の調査：[December 27, 2020 自宅で乳がんをチェックできるデバイス。(MAMMOECHO、Sony first flight)](2012.md))
 * [スマホでかかりつけ助産師に産前・産後の相談。 (nicomama)](https://nico-mama.jp/)
 * [妊娠中のDHAサプリメントの摂取は早産を減らす。 (University of Kansas)](https://news.ku.edu/2016/10/11/nutritional-supplement-could-prevent-thousands-early-preterm-births) ([論文](https://doi.org/10.1016/j.plefa.2016.08.007)、[最新の論文](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(21)00185-1/fulltext))
 
