@@ -25,6 +25,7 @@
 [\[April 2021\]](2104.md)
 
 [\[March 2021\]](2103.md)
+* [きのこ摂取により乳がん発症リスクは有意に低下し、他のがんの発症リスクも低下する可能性。 (ケアネット)](https://www.carenet.com/news/general/carenet/51905) ([論文](https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmab015/6174025))
 
 [\[February 2021\]](2102.md)
 
