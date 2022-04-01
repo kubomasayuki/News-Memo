@@ -31,6 +31,7 @@
 [\[January 2021\]](2101.md)
 
 [\[December 2020\]](2012.md)
+* [HPV感染症、子宮頸がん予防の啓蒙サイト。 (みんパピ！)](https://minpapi.jp/)
 
 [\[November 2020\]](2011.md)
 
