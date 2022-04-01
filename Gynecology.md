@@ -3,6 +3,7 @@
 [\[March 2022\]](2203.md)
 
 [\[February 2022\]](2202.md)
+* [ワクチン接種でHPV関連のがん発生が90％減少。 (Cancer Research, UK)](https://www.cancerresearchuk.org/about-cancer/cervical-cancer/getting-diagnosed/screening/about) ([論文](https://doi.org/10.1016/S0140-6736(21)02178-4))
 
 [\[January 2022\]](2201.md)
 
