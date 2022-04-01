@@ -17,6 +17,7 @@
 [\[August 2021\]](2108.md)
 
 [\[July 2021\]](2107.md)
+* [リングエコー撮像法を用いた無痛の乳がん検査装置が販売開始。 (Lily MedTech)](https://www.lilymedtech.com/wp-content/uploads/2021/05/20210510.pdf?fbclid=IwAR204xM_4sCubpGzRlNM_Vft3MQH6_rLIjUJpBF7jjlhoHaeN-eq2mALFy0) (過去の調査：[December 27, 2020 自宅で乳がんをチェックできるデバイス。(MAMMOECHO、Sony first flight)](2012.md))
 
 [\[June 2021\]](2106.md)
 * [HPVの感染と早産に相関。 (University of Gothenburg)](https://www.gu.se/en/news/infection-with-human-papillomavirus-linked-to-higher-risk-of-preterm-birth) ([論文](https://doi.org/10.1371/journal.pmed.1003641))
