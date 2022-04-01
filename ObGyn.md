@@ -142,7 +142,6 @@
 * [国際助産師デー。(国際助産師連盟)](https://www.internationalmidwives.org/icm-events/international-day-of-the-midwife-2020.html)
 
 [\[April 2020\]](2004.md)
-* [HD画質、5mm径のディスポ式ラパロ。 (PR Newswire)](https://www.prnewswire.com/news-releases/fda-clears-new-disposable-fog-free-articulating-5mm-laparoscope-301040004.html)
 * [帝王切開で生まれた女児は肥満、2型糖尿病のリスクが高い。 (MedPage Today)](https://www.medpagetoday.com/endocrinology/diabetes/85940)
 
 [\[March 2020\]](2003.md)
