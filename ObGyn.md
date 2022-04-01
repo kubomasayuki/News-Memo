@@ -47,7 +47,6 @@
 * [妊娠中のDHAサプリメントの摂取は早産を減らす。 (University of Kansas)](https://news.ku.edu/2016/10/11/nutritional-supplement-could-prevent-thousands-early-preterm-births) ([論文](https://doi.org/10.1016/j.plefa.2016.08.007)、[最新の論文](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(21)00185-1/fulltext))
 
 [\[June 2021\]](2106.md)
-* [HPVの感染と早産に相関。 (University of Gothenburg)](https://www.gu.se/en/news/infection-with-human-papillomavirus-linked-to-higher-risk-of-preterm-birth) ([論文](https://doi.org/10.1371/journal.pmed.1003641))
 * [スウェーデン発の産科データベース Milou。 (Medexa)](https://www.medexa.se/en/milouenglish/)
 * [胎盤の酸素動態を監視するデバイス。 (NICHD)](https://www.nih.gov/news-events/news-releases/prototype-device-may-diagnose-common-pregnancy-complications-monitoring-placental-oxygen) ([論文](https://www.osapublishing.org/boe/fulltext.cfm?uri=boe-12-7-4119))
 * [3D超音波シミュレータ。 (CAE Healthcare)](https://vimeo.com/413238009)
