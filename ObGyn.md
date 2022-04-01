@@ -208,7 +208,6 @@
 * [4/10 中医協総会(周産期) 分娩を扱う施設の減少、ハイリスク妊産婦の増加に対応するための周産期母子センターや制度の整備について (メディ・ウォッチ)](https://www.medwatch.jp/?p=25876)  
 * [da Vinciによる子宮移植手術を受けた女性が健常な男児を出産 (Daily Mail Online)](https://www.dailymail.co.uk/health/article-6902543/Swedish-woman-gives-birth-healthy-boy-womb-transplant.html)
 * [妊娠高血圧腎症の治療は児の高血圧の予防につながる (Science Daily)](https://www.sciencedaily.com/releases/2019/04/190406125630.htm)  
-* [HPVを接種した話 (kbcfireの日記)](https://kbcfire.hatenablog.com/entry/2019/04/07/103647)  
 * [母体血成分から胎児心不全を予測 (国立循環器病研究センター)](http://www.ncvc.go.jp/pr/release/181107_press.html)  
 * [遅延クランプは死亡、および小児期の神経学的有害転帰が有意に減少した (JAMA Network)](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2729476)
 * [妊娠後期の仰臥位での睡眠は子宮への血流の減少し、死産の確率が増加 (THE CONVERSATION)](https://theconversation.com/mega-study-confirms-pregnant-women-can-reduce-risk-of-stillbirth-by-sleeping-on-their-side-114601)
