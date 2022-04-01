@@ -14,7 +14,6 @@
 * [日光の曝露と乳がんに逆相関。 (University at Buffalo)](http://www.buffalo.edu/news/releases/2022/01/003.html) ([論文](http://dx.doi.org/10.1158/1055-9965.EPI-21-0932))
 
 [\[December 2021\]](2112.md)
-* [流産の予防で使用されるプロゲステロン(17α-OHPC)に曝露した胎児の将来的な発がんリスクが上昇。 (UTHealth School of Public Health)](https://www.uth.edu/news/story.htm?id=9f15d85c-254d-499b-af44-31fb94f9d4bc) ([論文](http://dx.doi.org/10.1016/j.ajog.2021.10.035))
 * [妊娠中の貧血は、早産、低出生体重児、小児の貧血や発達障害と関連している。 (WHO)](https://www.who.int/data/gho/data/themes/topics/anaemia_in_women_and_children)
 * [妊娠中の不眠は早産率を30％上昇させる。 (UCSF)](https://www.ucsf.edu/news/2017/08/407961/sleep-disorders-linked-preterm-birth-large-california-study) ([論文1](https://www.nature.com/articles/nature.2017.22419)、[論文2](https://journals.lww.com/greenjournal/Abstract/2017/09000/Sleep_Disorder_Diagnosis_During_Pregnancy_and_Risk.12.aspx))
 
@@ -23,7 +22,7 @@
 * [妊娠中の大気汚染曝露と妊娠糖尿病発症リスクに相関。 (UC Irvine)](https://news.uci.edu/2021/10/04/uci-led-study-links-air-pollution-exposure-while-pregnant-to-higher-gestational-diabetes-risk/) ([論文](http://dx.doi.org/10.1016/j.envint.2021.106888))
 * [低所得国において、猛暑と死産に相関。 (UC SanDiego)](https://scripps.ucsd.edu/news/first-link-between-stillbirths-birth-complications-and-excessive-heat-lower-income-countries) ([論文](https://doi.org/10.1016/j.envint.2021.106902))
 * [母親の職種で死産リスクに違い。 (大阪医科薬科大学)](https://www.ompu.ac.jp/news/of2vmg000000g89h.html)
-* [流早産予防で使われる17-OHPCに曝露した子は発がんリスクが2倍に上昇。 (University of Texas Health Science Center)](https://www.uth.edu/news/story.htm?id=9f15d85c-254d-499b-af44-31fb94f9d4bc) ([論文](https://www.ajog.org/article/S0002-9378(21)01184-4/pdf))
+* [流産の予防で使用されるプロゲステロン(17α-OHPC)に曝露した胎児の将来的な発がんリスクが2倍に上昇。 (UTHealth School of Public Health)](https://www.uth.edu/news/story.htm?id=9f15d85c-254d-499b-af44-31fb94f9d4bc) ([論文](http://dx.doi.org/10.1016/j.ajog.2021.10.035))
 * [緊急帝王切開を予測するAI。 (大阪医科薬科大学)](https://obgyn.onlinelibrary.wiley.com/doi/full/10.1002/ijgo.13888)
 * [フィブリノゲン製剤の適正使用に関して。 (日本産科婦人科学会、日本産婦人科医会)](https://www.jsog.or.jp/news/pdf/20210910_FBG_shuuchi.pdf)
 
