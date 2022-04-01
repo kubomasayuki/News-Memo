@@ -1,5 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) \[diet\] [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[April 2022\]](2204.md)
+
 [\[March 2022\]](2203.md)
 * [なぜ人口塩味料は作れないのか。 (SciShow ‐ YouTube)](https://www.youtube.com/watch?v=UubWXQna0oc)
 * [糖分の長期間の過剰摂取は自己免疫疾患と慢性炎症の発症リスクが増加。 (Universität Würzburg)](https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/wie-zucker-entzuendungen-foerdert/) ([論文](http://dx.doi.org/10.1016/j.cmet.2022.02.015))
