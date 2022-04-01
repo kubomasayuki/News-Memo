@@ -43,6 +43,7 @@
 [\[July 2020\]](2007.md)
 
 [\[June 2020\]](2006.md)
+* [9価ワクチン(Gardasil 9)に中咽頭癌の適応追加。HPVが原因の中咽頭癌は子宮頸癌より多い。 (cancer network)](https://www.cancernetwork.com/view/fda-approves-gardasil-9-for-prevention-of-oropharyngeal-head-and-neck-cancers-caused-by-hpv)
 
 [\[May 2020\]](2005.md)
 
