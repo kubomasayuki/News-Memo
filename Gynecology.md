@@ -59,6 +59,7 @@
 [\[November 2019\]](1911.md)
 
 [\[October 2019\]](1910.md)
+* [子宮内デバイスが卵巣がんの予防に (CPR News)](https://www.cpr.org/2019/09/11/cu-study-finds-link-between-iuds-and-lower-risk-of-ovarian-cancer/)
 
 [\[September 2019\]](1909.md)
 
