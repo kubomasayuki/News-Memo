@@ -184,10 +184,7 @@
 * [血小板数が少ないことが新生児の脳性麻痺の原因となる可能性がある (The Walter and Eliza Hall Institute of Medical Research)](https://www.wehi.edu.au/news/research-discovery-identifies-cause-neonatal-strokes) ([論文](https://ashpublications.org/blood/article-abstract/138/10/885/476273/))
 
 [\[July 2019\]](1907.md)
-* [モバイルコルポスコープ (Mobile ODT)](https://www.mobileodt.com/products/eva-colpo/)  
 * [妊娠中の片頭痛は妊娠合併症、周産期転帰や新生児予後の悪化をもたらす (NEUROSCIENCE News)](https://neurosciencenews.com/migraine-pregnancy-14341/)  
-* [HPVワクチンが感染と異形成の双方を抑制 (CareNet)](https://www.carenet.com/news/journal/carenet/48301) [原文(Lancet)](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)30298-3/fulltext)  
-* [Apple Watchが不整脈の検出に続き、月経周期トラッキング市場に参入 (Medical AI Times)](https://aitimes.media/2019/06/26/3027/?13570)
 
 [\[June 2019\]](1906.md)
 * [帝王切開後の経膣分娩(VBAC)の成功率は高いが、依然として避ける医師が多い (The Conversation)](https://theconversation.com/number-of-women-steered-towards-repeat-caesareans-is-much-higher-than-necessary-118140)  
