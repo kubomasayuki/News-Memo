@@ -19,6 +19,7 @@
 [\[July 2021\]](2107.md)
 
 [\[June 2021\]](2106.md)
+* [HPVの感染と早産に相関。 (University of Gothenburg)](https://www.gu.se/en/news/infection-with-human-papillomavirus-linked-to-higher-risk-of-preterm-birth) ([論文](https://doi.org/10.1371/journal.pmed.1003641))
 
 [\[May 2021\]](2105.md)
 
