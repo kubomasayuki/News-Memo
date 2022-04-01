@@ -171,7 +171,6 @@
 * [胎児にも腸内細菌叢が存在する (EurekAlert)](https://eurekalert.org/pub_releases/2019-10/arh-etf102319.php)
 * [仰臥位と側臥位の血圧から妊娠高血圧腎症のリスクを検出 (Purdue University)](https://purdue.edu/newsroom/releases/2019/Q4/pregnant-women-may-soon-be-able-to-detect-their-own-risk-of-preeclampsia-with-a-smartphone.html)
 * [妊娠初期の重度のつわりが自閉症のリスクが高い可能性 (Kaiser Permanente)](https://about.kaiserpermanente.org/our-story/health-research/news/severe-morning-sickness-linked-with-higher-risk-of-autism)
-* [子宮内デバイスが卵巣がんの予防に (CPR News)](https://www.cpr.org/2019/09/11/cu-study-finds-link-between-iuds-and-lower-risk-of-ovarian-cancer/)
 
 [\[September 2019\]](1909.md)
 * [汚染された大気の影響は胎盤まで達することが判明 (INTERNATIONAL CONGRESS 2018)](https://erscongress.org/about-ers-2018/media-centre/press-releases/143-press-releases/612-soot-pollution-placenta.html)
