@@ -47,6 +47,7 @@
 [\[May 2020\]](2005.md)
 
 [\[April 2020\]](2004.md)
+* [HD画質、5mm径のディスポ式ラパロ。 (PR Newswire)](https://www.prnewswire.com/news-releases/fda-clears-new-disposable-fog-free-articulating-5mm-laparoscope-301040004.html)
 
 [\[March 2020\]](2003.md)
 
