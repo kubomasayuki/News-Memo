@@ -90,7 +90,6 @@
 * [父親の健康状態と流産の関係性。 (ESHRE)](https://www.eshre.eu/Press-Room/Press-releases-2020/Health-fathers-risk-pregnancy-loss)
 * [顧問助産師派遣サービス。 (With Midwife)](https://withmidwife.jp/komonmw/)
 * [胎児手術向けテーピング。 (WYSS Institute)](https://wyss.harvard.edu/news/tough-yet-flexible-treatment-for-babies-in-the-womb/)
-* [HPV感染症、子宮頸がん予防の啓蒙サイト。 (みんパピ！)](https://minpapi.jp/)
 
 [\[November 2020\]](2011.md)
 * [遅延臍帯結紮に関する見解の更新。 (ACOG Committee Opinion 814)](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2020/12/delayed-umbilical-cord-clamping-after-birth)
