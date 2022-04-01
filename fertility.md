@@ -86,5 +86,6 @@
 [\[May 2019\]](1905.md)
 
 [\[April 2019\]](1904.md)
+* [da Vinciによる子宮移植手術を受けた女性が健常な男児を出産 (Daily Mail Online)](https://www.dailymail.co.uk/health/article-6902543/Swedish-woman-gives-birth-healthy-boy-womb-transplant.html)
 
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) \[fertility\] [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
