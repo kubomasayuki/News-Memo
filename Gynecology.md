@@ -65,6 +65,9 @@
 [\[August 2019\]](1908.md)
 
 [\[July 2019\]](1907.md)
+* [モバイルコルポスコープ (Mobile ODT)](https://www.mobileodt.com/products/eva-colpo/)  
+* [HPVワクチンが感染と異形成の双方を抑制 (CareNet)](https://www.carenet.com/news/journal/carenet/48301) [原文(Lancet)](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)30298-3/fulltext)  
+* [Apple Watchが不整脈の検出に続き、月経周期トラッキング市場に参入 (Medical AI Times)](https://aitimes.media/2019/06/26/3027/?13570)
 
 [\[June 2019\]](1906.md)
 
