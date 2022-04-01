@@ -29,6 +29,7 @@
 [\[February 2021\]](2102.md)
 
 [\[January 2021\]](2101.md)
+* [リンパ節転移した子宮頸がんは子宮全摘出術では生存率が改善しない。 (English Journal of Cancer)](https://www.ejcancer.com/article/S0959-8049(20)31326-5/abstract)
 
 [\[December 2020\]](2012.md)
 * [HPV感染症、子宮頸がん予防の啓蒙サイト。 (みんパピ！)](https://minpapi.jp/)
