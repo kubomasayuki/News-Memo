@@ -1,7 +1,7 @@
 \[aging_cognition\] [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[April 2022\]](2204.md)
-* [図書館や体育館(社会的関与)などが少ない地域に住むことは認知症リスクの増加と関連。 (Monach University)](https://www.monash.edu/news/articles/where-you-live-is-a-factor-in-your-dementia-risk) ([論文](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2790517))
+* [図書館や体育館などが少ない地域に住むことは認知症リスクの増加と関連。 (Monach University)](https://www.monash.edu/news/articles/where-you-live-is-a-factor-in-your-dementia-risk) ([論文](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2790517))
 
 [\[March 2022\]](2203.md)
 
