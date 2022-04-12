@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[April 2022\]](2204.md)
+* [ヒト胎児の肩は出産前に成長が一時的に減速し、出産後に再加速する。 (京都大学)]() ([論文](https://doi.org/10.1073/pnas.2114935119)、[研究課題](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-17K07585/))
 
 [\[March 2022\]](2203.md)
 * [胎児心臓治療の臨床試験。 (日本胎児心臓病学会)](https://www.jsfc.jp/clinical-trial-index/clinical-trial) (過去の調査：[May 9, 2021 胎児治療に関する正確な情報を提供し、臨床応用を推進する研究グループ。 (日本胎児治療グループ)](2105.md))
