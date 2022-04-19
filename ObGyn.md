@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[April 2022\]](2204.md)
+* [医療資源の少ない地域でもポータブルエコーとAIで助産師がエコーを使うことができた。 (University of North Carolina)](https://globalhealth.unc.edu/2022/04/unc-landmark-study-paves-the-way-for-universal-obstetric-ultrasound/) ([論文](https://evidence.nejm.org/doi/10.1056/EVIDoa2100058)、[Androidアプリ](https://play.google.com/store/apps/details?id=com.butterflynetinc.helios)、過去の調査：[June 10, 2020 スマートフォンとiOSアプリを使用したポータブル超音波エコー。 (Butterfly Network)](https://github.com/kubomasayuki/News-Memo/blob/master/2006.md))
 * [ヒト胎児の肩は出産前に成長が一時的に減速し、出産後に再加速する。 (京都大学)]() ([論文](https://doi.org/10.1073/pnas.2114935119)、[研究課題](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-17K07585/))
 
 [\[March 2022\]](2203.md)
