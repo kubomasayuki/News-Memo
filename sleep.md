@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) \[sleep\] [\[smoke\]](smoke.md)
 
 [\[April 2022\]](2204.md)
+* [いびき対策のウェアラブルデバイス。 (SWAN SWAN)](https://www.swanswan.info/)
 
 [\[March 2022\]](2203.md)
 * [寝ている部屋が明るいと交感神経が活性化され、インスリン抵抗性が上昇。 (Northwestern)](https://news.feinberg.northwestern.edu/2022/03/exposure-to-artificial-light-during-sleep-may-increase-risk-of-heart-disease-and-diabetes/) ([論文](https://doi.org/10.1073/pnas.2113290119))
