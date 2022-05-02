@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) \[smoke\]
 
+[\[May 2022\]](2205.md)
+* [FDAがメントールタバコを禁止した場合、約130万人が禁煙するとの試算。 (University of Waterloo)](https://uwaterloo.ca/news/media/more-million-smokers-likely-quit-after-us-bans-menthol) ([論文](https://tobaccocontrol.bmj.com/content/early/2022/04/27/tobaccocontrol-2021-057227))
+
 [\[April 2022\]](2204.md)
 
 [\[March 2022\]](2203.md)
