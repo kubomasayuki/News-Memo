@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[May 2022\]](2205.md)
+* [新生児死亡を評価するAI。 (JamesCook University)](https://www.jcu.edu.au/news/releases/2021/june/ai-breakthrough-in-premature-baby-care) ([論文](https://www.sciencedirect.com/science/article/pii/S0010482521003152))
+
 [\[April 2022\]](2204.md)
 * [つわりがあると赤ちゃんは大きく生まれるのに重いつわり（妊娠悪阻）では赤ちゃんは小さく生まれる理由を解明。 (国立成育医療研究センター)](https://www.ncchd.go.jp/press/2022/220420.html) ([論文](https://doi.org/10.1186/s12884-022-04542-0))
 * [医療資源の少ない地域でもポータブルエコーとAIで助産師がエコーを使うことができた。 (University of North Carolina)](https://globalhealth.unc.edu/2022/04/unc-landmark-study-paves-the-way-for-universal-obstetric-ultrasound/) ([論文](https://evidence.nejm.org/doi/10.1056/EVIDoa2100058)、[Androidアプリ](https://play.google.com/store/apps/details?id=com.butterflynetinc.helios)、過去の調査：[June 10, 2020 スマートフォンとiOSアプリを使用したポータブル超音波エコー。 (Butterfly Network)](https://github.com/kubomasayuki/News-Memo/blob/master/2006.md))
