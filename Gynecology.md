@@ -1,5 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) \[Gynecology\] [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md)  [\[smoke\]](smoke.md)
 
+[\[May 2022\]](2205.md)
+
 [\[April 2022\]](2204.md)
 * [産婦人科受診ビギナーズブック。 (弘前大学)](https://medical.nikkeibp.co.jp/mem/pub/data/pdf/HIROSAKI.pdf)
 
