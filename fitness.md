@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) \[fitness\] [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[May 2022\]](2205.md)
+* [着圧ウェアに筋力回復効果はない。(疲労軽減効果はある？) (東北大学)](https://www.tohoku.ac.jp/en/press/do_compression_garments_facilitate_muscle_recoverey.html) ([論文](https://link.springer.com/article/10.1007/s40279-022-01681-4))
 * [日本人中高年においては中強度の身体活動量が多い方が認知症発症リスクが低い。 (JPHC Study)](https://epi.ncc.go.jp/jphc/outcome/8908.html) ([論文](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2790484))
 * [日中の15分の運動は学童のフィットネス向上だけでなく、記憶力も向上させた。 (University of Stirling)](https://www.stir.ac.uk/news/2022/april-2022-news/daily-activity-is-route-to-a-better-memory-as-well-as-fitness-for-pupils-/) ([論文](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.812616/full))
 
