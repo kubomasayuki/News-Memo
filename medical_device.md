@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) \[medical_device\] [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[May 2022\]](2205.md)
+* [よくわかる貸出しに関する基準。 (医療機器業公正取引協議会)](https://www.jftc-mdi.jp/pdf/kashidashi_kijyun_202009.pdf)
 
 [\[April 2022\]](2204.md)
 * [いびき対策のウェアラブルデバイス。 (SWAN SWAN)](https://www.swanswan.info/)
