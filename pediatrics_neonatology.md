@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[May 2022\]](2205.md)
+* [分娩様式によって子への愛着は変化しない。 (富山大学)](http://www.med.u-toyama.ac.jp/eco-tuc/result/bonding.html) ([論文](https://doi.org/10.1016/j.jad.2019.11.005))
 * [SIDS児とその他の原因の死亡児の採血結果よりSIDS児は分解酵素(BChE)のレベルが有意に低かった、バイオマーカーとして使える可能性。 (Boston Children's Hospital)](https://www.nejm.org/doi/full/10.1056/NEJMp2119221) ([臨床研究](https://www.childrenshospital.org/conditions/sudden-infant-death-syndrome-sids))
 * [昼寝は小児の文字と発音を結び付ける学びに役立つ。 (Macquarie University)](https://researchers.mq.edu.au/en/publications/nap-effects-on-pre-school-childrens-learning-of-letter-sound-mapp) ([論文](https://doi.org/10.1111/cdev.13753))
 * [日中の15分の運動は学童のフィットネス向上だけでなく、記憶力も向上させた。 (University of Stirling)](https://www.stir.ac.uk/news/2022/april-2022-news/daily-activity-is-route-to-a-better-memory-as-well-as-fitness-for-pupils-/) ([論文](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.812616/full))
