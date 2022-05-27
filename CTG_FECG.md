@@ -2,6 +2,7 @@
 
 [\[May 2022\]](2205.md)
 * [HRV解析手法。 (KUBIOS)](https://www.kubios.com/hrv-analysis-methods/)
+* [HRV Triangular Index。 (Task Force of the European Society of Cardiology, North American Society of Pacing Electrophysiology)](https://www.ahajournals.org/doi/10.1161/01.CIR.93.5.1043)
 
 [\[April 2022\]](2204.md)
 * [分娩を監視するシステム。 (OB Tools)](https://ob-tools.com/)
