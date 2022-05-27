@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[May 2022\]](2205.md)
+* [分娩様式によって子への愛着は変化しない。 (富山大学)](http://www.med.u-toyama.ac.jp/eco-tuc/result/bonding.html) ([論文](https://doi.org/10.1016/j.jad.2019.11.005))
 * [慢性高血圧(160/100mmHg)で介入するより中等度の高血圧(140/90mmHg)で介入した方が妊娠転帰が良い。 (University of Alabama, Birmingham)](https://www.uab.edu/news/health/item/12744-study-shows-treating-preexisting-high-blood-pressure-in-pregnancy-improves-maternal-and-fetal-outcomes) ([論文](https://www.nejm.org/doi/full/10.1056/NEJMoa2201295))
 * [新生児死亡を評価するAI。 (JamesCook University)](https://www.jcu.edu.au/news/releases/2021/june/ai-breakthrough-in-premature-baby-care) ([論文](https://www.sciencedirect.com/science/article/pii/S0010482521003152))
 
