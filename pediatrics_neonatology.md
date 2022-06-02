@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[June 2022\]](2206.md)
+* [新生児医療【超低出生体重児】万全の医療ケアですくすく成長。 (米国医療機器・IVD工業会出版)](https://amdd.jp/technology/essay/vol3/2049/)
+
 [\[May 2022\]](2205.md)
 * [分娩様式によって子への愛着は変化しない。 (富山大学)](http://www.med.u-toyama.ac.jp/eco-tuc/result/bonding.html) ([論文](https://doi.org/10.1016/j.jad.2019.11.005))
 * [SIDS児とその他の原因の死亡児の採血結果よりSIDS児は分解酵素(BChE)のレベルが有意に低かった、バイオマーカーとして使える可能性。 (Boston Children's Hospital)](https://www.nejm.org/doi/full/10.1056/NEJMp2119221) ([臨床研究](https://www.childrenshospital.org/conditions/sudden-infant-death-syndrome-sids))
