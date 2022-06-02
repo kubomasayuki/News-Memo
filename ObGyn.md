@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[June 2022\]](2206.md)
+* [新生児医療【超低出生体重児】万全の医療ケアですくすく成長。 (米国医療機器・IVD工業会出版)](https://amdd.jp/technology/essay/vol3/2049/)
+
 [\[May 2022\]](2205.md)
 * [分娩様式によって子への愛着は変化しない。 (富山大学)](http://www.med.u-toyama.ac.jp/eco-tuc/result/bonding.html) ([論文](https://doi.org/10.1016/j.jad.2019.11.005))
 * [慢性高血圧(160/100mmHg)で介入するより中等度の高血圧(140/90mmHg)で介入した方が妊娠転帰が良い。 (University of Alabama, Birmingham)](https://www.uab.edu/news/health/item/12744-study-shows-treating-preexisting-high-blood-pressure-in-pregnancy-improves-maternal-and-fetal-outcomes) ([論文](https://www.nejm.org/doi/full/10.1056/NEJMoa2201295))
