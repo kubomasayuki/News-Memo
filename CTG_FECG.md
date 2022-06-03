@@ -1,5 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) \[CTG_FECG\] [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[June 2022\]](2206.md)
+
 [\[May 2022\]](2205.md)
 * [HRV解析手法。 (KUBIOS)](https://www.kubios.com/hrv-analysis-methods/)
 * [HRV Triangular Index。 (Task Force of the European Society of Cardiology, North American Society of Pacing Electrophysiology)](https://www.ahajournals.org/doi/10.1161/01.CIR.93.5.1043)
