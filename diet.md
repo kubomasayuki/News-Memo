@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) \[diet\] [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[Jun 2022\]](2206.md)
+* [どの食物繊維の効果が大きいかは人それぞれ。 (Stanford University)](https://www.eurekalert.org/news-releases/950343) ([論文](https://www.sciencedirect.com/science/article/pii/S1931312822001664))
+
 [\[May 2022\]](2205.md)
 * [アスパルテームやアセスルファムKなどの人工甘味料を多く摂取するとがん発症リスク上昇の可能性。 (French National Institute of Health and Medical Research)](https://www.inrae.fr/en/news/artificial-sweeteners-possible-link-increased-cancer-risk) ([論文](https://doi.org/10.1371/journal.pmed.1003950))
 
