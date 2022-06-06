@@ -1,6 +1,7 @@
 \[aging_cognition\] [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[June 2022\]](2206.md)
+* [描画時の筆圧など特徴を解析し認知機能の低下を予測。 (筑波大学)](https://www.tsukuba.ac.jp/journal/medicine-health/20220602141500.html) ([論文](https://formative.jmir.org/2022/5/e37014))
 
 [\[May 2022\]](2205.md)
 * [日本人中高年においては中強度の身体活動量が多い方が認知症発症リスクが低い。 (JPHC Study)](https://epi.ncc.go.jp/jphc/outcome/8908.html) ([論文](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2790484))
