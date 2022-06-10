@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) \[CTG_FECG\] [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[June 2022\]](2206.md)
+* [きりつ名人の心拍変動解析ソフトmeijin。 (株式会社クロスウェル)](https://meijin-club.crosswell.jp/meijin-3-2/basic/hrv/)
 
 [\[May 2022\]](2205.md)
 * [HRV解析手法。 (KUBIOS)](https://www.kubios.com/hrv-analysis-methods/)
