@@ -2,7 +2,7 @@
 
 [\[June 2022\]](2206.md)
 * [最大エントロピー法。 (北大、海洋気候物理学研究室)](https://www.sci.hokudai.ac.jp/~minobe/data_anal/chap3.pdf)
-* [きりつ名人の心拍変動解析ソフトmeijin。 (株式会社クロスウェル)](https://meijin-club.crosswell.jp/meijin-3-2/basic/hrv/)
+* [きりつ名人の心拍変動解析ソフトmeijin。 (株式会社クロスウェル)](https://meijin-club.crosswell.jp/) ([計測データのノイズについて](https://meijin-club.crosswell.jp/meijin-3-2/basic/mem/)、[HRV解析の周波数帯について](https://meijin-club.crosswell.jp/meijin-3-2/basic/hrv/))
 
 [\[May 2022\]](2205.md)
 * [HRV解析手法。 (KUBIOS)](https://www.kubios.com/hrv-analysis-methods/)
