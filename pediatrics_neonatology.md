@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[June 2022\]](2206.md)
+* [子供の家事手伝いは認知機能を発達させる。 (La Trobe University)](https://www.latrobe.edu.au/news/articles/2022/release/childrens-chores-improve-brain-function) ([論文](https://doi.org/10.1111/1440-1630.12822))
 * [新生児医療【超低出生体重児】万全の医療ケアですくすく成長。 (米国医療機器・IVD工業会出版)](https://amdd.jp/technology/essay/vol3/2049/)
 
 [\[May 2022\]](2205.md)
