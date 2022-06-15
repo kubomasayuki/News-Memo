@@ -2,6 +2,7 @@
 
 [\[June 2022\]](2206.md)
 * [子供の家事手伝いは認知機能を発達させる。 (La Trobe University)](https://www.latrobe.edu.au/news/articles/2022/release/childrens-chores-improve-brain-function) ([論文](https://doi.org/10.1111/1440-1630.12822))
+* [就学前に他の子とうまく遊ぶ(ピアプレイ能力が高い)子供は後年のメンタルヘルスの問題が少ない。 (University of Cambridge)](https://www.cam.ac.uk/research/news/pre-school-play-with-friends-lowers-risk-of-mental-health-problems-later) ([論文](https://doi.org/10.1007/s10578-022-01368-x))
 * [新生児医療【超低出生体重児】万全の医療ケアですくすく成長。 (米国医療機器・IVD工業会出版)](https://amdd.jp/technology/essay/vol3/2049/)
 
 [\[May 2022\]](2205.md)
