@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[June 2022\]](2206.md)
+* [妊娠糖尿病のインスリン使用で周産期合併症が増加。 (中南大学)](https://www.carenet.com/news/journal/carenet/54463) ([論文](https://www.bmj.com/content/377/bmj-2021-067946))
 * [遺伝子解析によると妊娠中のコーヒーの消費は流産・死産・早産のリスクを高めない。 (University of Queensland)](https://www.uq.edu.au/news/article/2022/06/genes-reveal-coffee-safe-during-pregnancy) ([論文](https://doi.org/10.1093/ije/dyac121))
 * [新生児医療【超低出生体重児】万全の医療ケアですくすく成長。 (米国医療機器・IVD工業会出版)](https://amdd.jp/technology/essay/vol3/2049/)
 
