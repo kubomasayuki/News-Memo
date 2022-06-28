@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) \[fertility\] [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[June 2022\]](2206.md)
+* [夏に流産が増加。 (Boston University)](https://www.bu.edu/sph/news/articles/2022/risk-of-miscarriage-may-increase-during-the-summer/) (過去の調査：[February 14, 2022 猛暑で早産が増加。 (UCLA)](2202.md))
 * [喫煙すると精子の質と量が低下。 (Cleveland Clinic)](https://www.clevelandclinic.org/reproductiveresearchcenter/docs/publications/549_Sharma_et_al_Cigarette_Smoking_and_Semen_Quality.pdf) ([論文](https://doi.org/10.1016/j.eururo.2016.04.010))
 
 [\[May 2022\]](2205.md)
