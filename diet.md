@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) \[diet\] [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[July 2022\]](2207.md)
+* [\[diet\]](diet.md) [デバイスで塩味を増幅し減塩する。 (明治大学、キリン)](https://research.miyashita.com/papers/D248) ([論文](https://doi.org/10.3389/frvir.2022.879784))
+
 [\[Jun 2022\]](2206.md)
 * [男性ではコーヒーをたくさん飲む人は空腹時血糖値が低いがHbA1cレベルは高い。 (国立がん研究センター)](https://epi.ncc.go.jp/jphc/outcome/8934.html)
 * [遺伝子解析によると妊娠中のコーヒーの消費は流産・死産・早産のリスクを高めない。 (University of Queensland)](https://www.uq.edu.au/news/article/2022/06/genes-reveal-coffee-safe-during-pregnancy) ([論文](https://doi.org/10.1093/ije/dyac121))
