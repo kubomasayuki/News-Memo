@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) \[Dentistry\] [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[July 2022\]](2207.md)
+* [毛先の形状を変えるマイクロロボットで、歯磨きの効果を向上。 (Pennsylvania University)](https://penntoday.upenn.edu/news/penn-dental-engineering-shapeshifting-microrobots-can-brush-and-floss-teeth) ([論文](https://doi.org/10.1021/acsnano.2c01950))
+
 [\[June 2022\]](2206.md)
 
 [\[May 2022\]](2205.md)
