@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[July 2022\]](2207.md)
+* [新生児は生後数時間で言語を学習し始める。 (Bangor University)](https://www.bangor.ac.uk/news/newborns-develop-language-skills-within-hours) ([論文](https://dx.doi.org/10.1038/s41562-022-01355-1))
+
 [\[June 2022\]](2206.md)
 * [生後3ヶ月時点で就寝前のルーチンが一貫していると、12ヶ月や24ヶ月時点で睡眠時間が増える。 (University of Illinois at Urbana-Champaign)](https://news.illinois.edu/view/6367/1153380885) ([論文](https://academic.oup.com/sleep/article-abstract/44/8/zsab045/6149134))
 * [子供の家事手伝いは認知機能を発達させる。 (La Trobe University)](https://www.latrobe.edu.au/news/articles/2022/release/childrens-chores-improve-brain-function) ([論文](https://doi.org/10.1111/1440-1630.12822))
