@@ -1,5 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) \[medical_device\] [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[July 2022\]](2207.md)
+
 [\[June 2022\]](2206.md)
 * [立ち上がれる電動車いす。 (permobil)](https://permobilkk.jp/products/f5vs)
 * [立ち上がれる手動車いす。 (ミキ)](https://miki-force.jp/lineup/nova_riseactive.html)
