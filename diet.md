@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) \[diet\] [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[July 2022\]](2207.md)
+* [生の野菜や果物はメンタルヘルスに良い。 (University of Otago)](https://www.otago.ac.nz/news/news/otago683376.html) ([論文](https://doi.org/10.3389/fpsyg.2018.00487))
 * [高脂肪食の長期間摂取は脳を委縮させ、脳委縮による代謝不良は肥満を引き起こす可能性。 (University of South Australia)](https://www.unisa.edu.au/media-centre/Releases/2022/long-term-high-fat-diet-expands-waistline-and-shrinks-brain/) ([論文](https://doi.org/10.1007/s11011-022-01029-x))
 * [デバイスで塩味を増幅し減塩する。 (明治大学、キリン)](https://research.miyashita.com/papers/D248) ([論文](https://doi.org/10.3389/frvir.2022.879784))
 
