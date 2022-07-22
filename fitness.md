@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) \[fitness\] [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[July 2022\]](2207.md)
+* [10秒間片足立ちできない高齢者はできる高齢者より死亡リスクが2倍近く高い。 (CLINIMEX (Exercise Medicine Clinic) Exercise cohort)](https://www.bristol.ac.uk/news/2022/june/tne-second-one-legged-stance.html) ([論文](http://dx.doi.org/10.1136/bjsports-2021-105360))
 
 [\[June 2022\]](2206.md)
 
