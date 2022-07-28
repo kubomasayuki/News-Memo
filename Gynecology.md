@@ -1,7 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) \[Gynecology\] [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md)  [\[smoke\]](smoke.md)
 
 [\[July 2022\]](2207.md)
-* [あらゆる群の女性において、ほぼ毎日のアスピリン使用は卵巣がんリスク低下と相関。 (https://healthcare.utah.edu/huntsmancancerinstitute/news/2022/07/frequent-aspirin-use-shows-promise-for-preventing-ovarian-cancer-in-individuals-at-higher-risk.php)([論文](https://dx.doi.org/10.1200/JCO.21.01900)、※アスピリン：抗血小板薬、血液をサラサラにする薬)
+* [あらゆる群の女性において、ほぼ毎日のアスピリン使用は卵巣がんリスク低下と相関。 (University of Utah)](https://healthcare.utah.edu/huntsmancancerinstitute/news/2022/07/frequent-aspirin-use-shows-promise-for-preventing-ovarian-cancer-in-individuals-at-higher-risk.php)([論文](https://dx.doi.org/10.1200/JCO.21.01900)、※アスピリン：抗血小板薬、血液をサラサラにする薬)
 
 [\[June 2022\]](2206.md)
 
