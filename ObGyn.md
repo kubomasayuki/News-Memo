@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[July 2022\]](2207.md)
+* [妊娠・産後うつの予兆検知に向けた共同研究。 (メロディ、島津製作所、京都大学、熊本大学)](https://prtimes.jp/main/html/rd/p/000000027.000038603.html) ([内閣府オープンイノベーションチャレンジ](https://www8.cao.go.jp/cstp/openinnovation/procurement/challenge/2021/siryo2.pdf))
 
 [\[June 2022\]](2206.md)
 * [妊娠糖尿病のインスリン使用で周産期合併症が増加。 (中南大学)](https://www.carenet.com/news/journal/carenet/54463) ([論文](https://www.bmj.com/content/377/bmj-2021-067946))
