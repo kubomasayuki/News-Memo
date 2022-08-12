@@ -2,6 +2,7 @@
 
 [\[August 2022\]](2208.md)
 * [低体温療法を受けているHIE児にEPOを投与しても予後を改善しない。 (UCSF)](https://newbornresearch.ucsf.edu/clinical-trials) ([論文](10.1056/NEJMoa2119660)、[臨床試験](https://clinicaltrials.gov/ct2/show/NCT02811263))
+* [10歳以下の喫煙は著しい認知能力低下と脳容積縮小を起こす。 (MedPage Today)](https://www.medpagetoday.com/pediatrics/preventivecare/100164) ([論文1](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2794988)、[論文2](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2794992))
 
 [\[July 2022\]](2207.md)
 * [新生児は生後数時間で言語を学習し始める。 (Bangor University)](https://www.bangor.ac.uk/news/newborns-develop-language-skills-within-hours) ([論文](https://dx.doi.org/10.1038/s41562-022-01355-1))
