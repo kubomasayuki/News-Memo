@@ -1,7 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[August 2022\]](2208.md)
-* [Piezo1タンパク質が妊娠中の子宮の伸長を抑制し、早産を予防する。 (University of Nevada)](https://www.unr.edu/nevada-today/news/2022/preterm-labor-research-finding)
+* [Piezo1タンパク質が妊娠中の子宮の伸長を抑制し、早産を予防する。 (University of Nevada)](https://www.unr.edu/nevada-today/news/2022/preterm-labor-research-finding) ([論文](https://doi.org/10.1113/JP283299))
 
 [\[July 2022\]](2207.md)
 * [妊娠・産後うつの予兆検知に向けた共同研究。 (メロディ、島津製作所、京都大学、熊本大学)](https://prtimes.jp/main/html/rd/p/000000027.000038603.html) ([内閣府オープンイノベーションチャレンジ](https://www8.cao.go.jp/cstp/openinnovation/procurement/challenge/2021/siryo2.pdf))
