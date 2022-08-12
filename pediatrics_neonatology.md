@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[August 2022\]](2208.md)
+* [低体温療法を受けているHIE児にEPOを投与しても予後を改善しない。 (UCSF)](https://newbornresearch.ucsf.edu/clinical-trials) ([論文](10.1056/NEJMoa2119660)、[臨床試験](https://clinicaltrials.gov/ct2/show/NCT02811263))
 
 [\[July 2022\]](2207.md)
 * [新生児は生後数時間で言語を学習し始める。 (Bangor University)](https://www.bangor.ac.uk/news/newborns-develop-language-skills-within-hours) ([論文](https://dx.doi.org/10.1038/s41562-022-01355-1))
