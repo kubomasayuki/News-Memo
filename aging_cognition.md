@@ -1,6 +1,7 @@
 \[aging_cognition\] [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[August 2022\]](2208.md)
+* [10歳以下の喫煙は著しい認知能力低下と脳容積縮小を起こす。 (MedPage Today)](https://www.medpagetoday.com/pediatrics/preventivecare/100164) ([論文1](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2794988)、[論文2](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2794992))
 
 [\[July 2022\]](2207.md)
 * [60歳未満の女性では、納豆の摂取量増で認知症発症リスク低下(大豆製品やイソフラボンの総摂取量とは相関なし)。 (国立がん研究センター)](https://epi.ncc.go.jp/jphc/outcome/8937.html) ([論文](https://doi.org/10.1007/s00394-022-02937-5))
