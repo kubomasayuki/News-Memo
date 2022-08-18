@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) \[medical_device\] [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[August 2022\]](2208.md)
+* [心拍数と呼吸数の継続監視により床ずれを検出するデバイス。 (University of South Australia)](https://www.unisa.edu.au/media-centre/Releases/2022/tiny-optical-sensors-could-put-an-end-to-hospital-bed-sores/) ([論文](https://dx.doi.org/10.1117/1.JBO.27.6.067002))
 
 [\[July 2022\]](2207.md)
 
