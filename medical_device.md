@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) \[medical_device\] [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[September 2022\]](2209.md)
+* [皮膚に貼るタイプの超音波計測装置。 (MIT)](http://zhao.mit.edu/wp-content/uploads/2022/08/162.pdf) ([論文](https://www.science.org/doi/10.1126/science.abo2542))
+
 [\[August 2022\]](2208.md)
 * [少量の発汗で動作可能なウェアラブルバイオセンサー。 (California Institute of Technology)](https://www.caltech.edu/about/news/new-wearable-sensor-detects-even-more-compounds-in-human-sweat) ([論文](https://dx.doi.org/10.1038/s41551-022-00916-z)、過去の調査：[February 8, 2022
  汗中コルチゾールを測定し、ストレスの度合いを測定するウェアラブルデバイス。 (UCLA)](2202.md))
