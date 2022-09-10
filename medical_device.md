@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) \[medical_device\] [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[September 2022\]](2209.md)
+* [自宅に設置したセンサーで行動パターンを解析して高齢者の病気やリスクを予測。 (University of Bern)](https://www.unibe.ch/news/media_news/media_relations_e/media_releases/2022/media_releases_2022/sensor_based_early_detection_of_age_related_diseases_from_home/index_eng.html) ([論文](https://dx.doi.org/10.1038/s41746-022-00657-y))
 * [皮膚に貼るタイプの超音波計測装置。 (MIT)](http://zhao.mit.edu/wp-content/uploads/2022/08/162.pdf) ([論文](https://www.science.org/doi/10.1126/science.abo2542))
 
 [\[August 2022\]](2208.md)
