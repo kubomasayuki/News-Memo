@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) \[fertility\] [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[September 2022\]](2209.md)
+* [精子にとってより好ましい環境を作り出す検体採取カップ。 (RSI Technologies)](https://rsifertility.com/) ([開発時の参加プログラム元のブログ記事](https://www.depts.ttu.edu/research/research-park/hustle/posts/2019/08/rsi-blog-article.php))
+
 [\[August 2022\]](2208.md)
 
 [\[July 2022\]](2207.md)
