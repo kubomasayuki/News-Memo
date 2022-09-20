@@ -1,7 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) \[fitness\] [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[September 2022\]](2209.md)
-* [小さい頃にスポーツに取り組むことで忍耐力が養われ、将来の成功につながる。 (Ohio State University)](https://news.osu.edu/sports-help-kids-develop-important-trait-linked-to-adult-success/) ([論文](https://www.tandfonline.com/doi/full/10.1080/01490400.2022.2090037))
+* [小さい頃にスポーツに取り組むことで忍耐力が養われ、将来の成功につながる気質を育てる。 (Ohio State University)](https://news.osu.edu/sports-help-kids-develop-important-trait-linked-to-adult-success/) ([論文](https://www.tandfonline.com/doi/full/10.1080/01490400.2022.2090037))
 
 [\[August 2022\]](2208.md)
 * [短期的な高タンパク食は腸内細菌叢の多様性を減少させ、持久系アスリートのパフォーマンスを低下させる。 (Anglia Ruskin University)](https://aru.ac.uk/news/a-stable-gut-helps-elite-athletes-perform-better) ([論文](https://dx.doi.org/10.1128/msystems.00129-22))
