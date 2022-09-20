@@ -2,6 +2,7 @@
 
 [\[September 2022\]](2209.md) 
 * [カフェインは30分～2時間で効果が出始め、半減期は2～8時間。 (国立精神・神経医療研究センター)](https://www.ncnp.go.jp/hospital/guide/sleep-column14.html) ([参考文献](https://doi.org/10.1016/j.fct.2017.04.002))
+* [低BMIで朝食を抜く人と蛋白尿と相関。 (りんくう総合医療センター)](https://www.carenet.com/news/general/carenet/55045)
 
 [\[August 2022\]](2208.md)
 * [短期的な高タンパク食は腸内細菌叢の多様性を減少させ、持久系アスリートのパフォーマンスを低下させる。 (Anglia Ruskin University)](https://aru.ac.uk/news/a-stable-gut-helps-elite-athletes-perform-better) ([論文](https://dx.doi.org/10.1128/msystems.00129-22))
