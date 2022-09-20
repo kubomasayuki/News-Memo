@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[September 2022\]](2209.md)
+* [個人や遠隔医療向けエコー機器レンタル。 (ポケマム)](https://pockemam.com/)
+
 [\[August 2022\]](2208.md)
 * [Piezo1タンパク質が妊娠中の子宮の伸長を抑制し、早産を予防する。 (University of Nevada)](https://www.unr.edu/nevada-today/news/2022/preterm-labor-research-finding) ([論文](https://doi.org/10.1113/JP283299))
 
