@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) \[sleep\] [\[smoke\]](smoke.md)
 
+[\[September 2022\]](2209.md)
+* [概日リズムの安定はうつ病や認知機能低下の予防になる。 (University of Pittsburgh)](https://www.upmc.com/media/news/091322-cognitivetests) ([論文](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2795951))
+
 [\[August 2022\]](2208.md)
 
 [\[July 2022\]](2207.md)
