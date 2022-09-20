@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[September 2022\]](2209.md)
+* [小さい頃にスポーツに取り組むことで忍耐力が養われ、将来の成功につながる。 (Ohio State University)](https://news.osu.edu/sports-help-kids-develop-important-trait-linked-to-adult-success/) ([論文](https://www.tandfonline.com/doi/full/10.1080/01490400.2022.2090037))
+
 [\[August 2022\]](2208.md)
 * [低体温療法を受けているHIE児にEPOを投与しても予後を改善しない。 (UCSF)](https://newbornresearch.ucsf.edu/clinical-trials) ([論文](10.1056/NEJMoa2119660)、[臨床試験](https://clinicaltrials.gov/ct2/show/NCT02811263))
 * [10歳以下の喫煙は著しい認知能力低下と脳容積縮小を起こす。 (MedPage Today)](https://www.medpagetoday.com/pediatrics/preventivecare/100164) ([論文1](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2794988)、[論文2](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2794992))
