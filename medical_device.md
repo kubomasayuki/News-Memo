@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) \[medical_device\] [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[October 2022\]](2210.md)
+* [乳児用ウェアラブルデバイス。 (University of Illinois Urbana Champaign)](https://littlebeats.hdfs.illinois.edu/about-littlebeats/)
 
 [\[September 2022\]](2209.md)
 * [個人や遠隔医療向けエコー機器レンタル。 (ポケマム)](https://pockemam.com/)
