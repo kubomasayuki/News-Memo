@@ -1,5 +1,9 @@
 [\[aging_cognition\]](aging_cognition.md) \[alcohol\] [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[October 2022\]](2210.md)
+
+[\[September 2022\]](2209.md)
+
 [\[August 2022\]](2208.md)
 * [大きなグラスの方がワインの消費が多くなる。 (University of Cambridge)](https://www.cam.ac.uk/research/news/larger-wine-glasses-may-lead-people-to-drink-more) ([論文](https://doi.org/10.1186/s12889-016-3068-z))
 
