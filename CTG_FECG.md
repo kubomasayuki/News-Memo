@@ -1,5 +1,9 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) \[CTG_FECG\] [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[October 2022\]](2210.md)
+
+[\[September 2022\]](2209.md)
+
 [\[August 2022\]](2208.md)
 
 [\[July 2022\]](2207.md)
