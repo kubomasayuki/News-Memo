@@ -2,6 +2,7 @@
 
 [\[October 2022\]](2210.md)
 * [乳児用ウェアラブルデバイス。 (University of Illinois Urbana Champaign)](https://littlebeats.hdfs.illinois.edu/about-littlebeats/)
+* [出生後の脳損傷により発症する脳性麻痺について、3日以内の抗炎症薬投与で回復できる可能性。 (University of Auckland)](https://www.auckland.ac.nz/en/news/2022/09/23/study-offers-hope-for-preventing-cerebral-palsy.html) ([論文](https://dx.doi.org/10.1093/brain/awac331))
 
 [\[September 2022\]](2209.md)
 * [子供のテレビ視聴は親と一緒、対象年齢などの条件が揃えば有益である。 (University of Portsmouth)](https://www.port.ac.uk/news-events-and-blogs/news/study-suggests-watching-tv-with-your-child-can-help-their-cognitive-development) ([論文](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.923370/full))
