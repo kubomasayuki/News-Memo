@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[October 2022\]](2210.md)
+* [乳児用ウェアラブルデバイス。 (University of Illinois Urbana Champaign)](https://littlebeats.hdfs.illinois.edu/about-littlebeats/)
 
 [\[September 2022\]](2209.md)
 * [子供のテレビ視聴は親と一緒、対象年齢などの条件が揃えば有益である。 (University of Portsmouth)](https://www.port.ac.uk/news-events-and-blogs/news/study-suggests-watching-tv-with-your-child-can-help-their-cognitive-development) ([論文](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.923370/full))
