@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) \[fertility\] [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[October 2022\]](2210.md)
+* [凍結胚移植での妊娠は高血圧リスクが増加。 (American Heart Association)](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.122.19689)
 
 [\[September 2022\]](2209.md)
 * [精子にとってより好ましい環境を作り出す検体採取カップ。 (RSI Technologies)](https://rsifertility.com/) ([開発時の参加プログラム元のブログ記事](https://www.depts.ttu.edu/research/research-park/hustle/posts/2019/08/rsi-blog-article.php))
