@@ -1,5 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[October 2022\]](2210.md)
+
 [\[September 2022\]](2209.md)
 * [妊婦の食習慣は胎児の食べ物の好き嫌いに影響？ (Durham University)](https://www.durham.ac.uk/research/current/research-news/fetuses-react-to-taste-and-smell-in-the-womb/) ([論文](https://dx.doi.org/10.1177/09567976221105460))
 * [個人や遠隔医療向けエコー機器レンタル。 (ポケマム)](https://pockemam.com/)
