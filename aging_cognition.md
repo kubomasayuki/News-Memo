@@ -1,6 +1,7 @@
 \[aging_cognition\] [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[October 2022\]](2210.md)
+* [親のネガティブな感情は子供の言語発達の遅れに影響する。 (Max Planck Institute)](https://www.mpg.de/19345204/how-the-mother-s-mood-influences-her-baby-s-ability-to-speak) ([論文](https://dx.doi.org/10.1001/jamanetworkopen.2022.32672))
 
 [\[September 2022\]](2209.md)
 * [概日リズムの安定はうつ病や認知機能低下の予防になる。 (University of Pittsburgh)](https://www.upmc.com/media/news/091322-cognitivetests) ([論文](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2795951))
