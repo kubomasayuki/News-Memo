@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[October 2022\]](2210.md)
+* [1本の繊維の縫合糸はより合わせた縫合糸より帝王切開後の感染リスクが低い。 (University of Birmingham)](https://www.birmingham.ac.uk/news/2022/single-stranded-suture-threads-could-prevent-pregnancy-infection-complications-c-stich-trial-finds) ([論文](https://dx.doi.org/10.1016/S0140-6736(22)01808-6))
 * [凍結胚移植での妊娠は高血圧リスクが増加。 (American Heart Association)](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.122.19689)
 
 [\[September 2022\]](2209.md)
