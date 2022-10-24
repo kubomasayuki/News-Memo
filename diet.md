@@ -2,6 +2,7 @@
 
 [\[October 2022\]](2210.md)
 * [高脂肪食による肥満は味蕾を減少させ、味覚を鈍らせる。 (Binghamton University)](https://www.binghamton.edu/news/story/1961/obesitytied-to-weakened-response-to-taste) ([論文](https://doi.org/10.3389/fnint.2019.00035))
+* [高糖食を続けると味覚は鈍くなるが、止めると回復する可能性がある。 (University of Michigan)](https://news.umich.edu/a-high-sugar-diet-decreases-sweetness-in-rats/) ([論文](https://dx.doi.org/10.1016/j.cub.2022.07.063))
 
 [\[September 2022\]](2209.md) 
 * [妊婦の食習慣は胎児の食べ物の好き嫌いに影響？ (Durham University)](https://www.durham.ac.uk/research/current/research-news/fetuses-react-to-taste-and-smell-in-the-womb/) ([論文](https://dx.doi.org/10.1177/09567976221105460))
