@@ -1,7 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) \[diet\] [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[October 2022\]](2210.md)
-* [高脂肪食による肥満は味蕾を減少させ、味覚を鈍らせる。 (Binghamton University)](https://www.binghamton.edu/news/story/1961/obesitytied-to-weakened-response-to-taste)
+* [高脂肪食による肥満は味蕾を減少させ、味覚を鈍らせる。 (Binghamton University)](https://www.binghamton.edu/news/story/1961/obesitytied-to-weakened-response-to-taste) ([論文](https://doi.org/10.3389/fnint.2019.00035))
 
 [\[September 2022\]](2209.md) 
 * [妊婦の食習慣は胎児の食べ物の好き嫌いに影響？ (Durham University)](https://www.durham.ac.uk/research/current/research-news/fetuses-react-to-taste-and-smell-in-the-womb/) ([論文](https://dx.doi.org/10.1177/09567976221105460))
