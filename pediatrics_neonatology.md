@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[October 2022\]](2210.md)
+* [テレビゲームは子供の認知能力を向上させる可能性。 (Karolinska Institutet)](https://news.ki.se/video-games-can-help-boost-childrens-intelligence) ([論文](https://dx.doi.org/10.1038/s41598-022-11341-2))
 * [親のネガティブな感情は子供の言語発達の遅れに影響する。 (Max Planck Institute)](https://www.mpg.de/19345204/how-the-mother-s-mood-influences-her-baby-s-ability-to-speak) ([論文](https://dx.doi.org/10.1001/jamanetworkopen.2022.32672))
 * [乳児用ウェアラブルデバイス。 (University of Illinois Urbana Champaign)](https://littlebeats.hdfs.illinois.edu/about-littlebeats/)
 * [出生後の脳損傷により発症する脳性麻痺について、3日以内の抗炎症薬投与で回復できる可能性。 (University of Auckland)](https://www.auckland.ac.nz/en/news/2022/09/23/study-offers-hope-for-preventing-cerebral-palsy.html) ([論文](https://dx.doi.org/10.1093/brain/awac331))
