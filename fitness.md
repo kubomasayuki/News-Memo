@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) \[fitness\] [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[October 2022\]](2210.md)
+* [男性は座りがちな生活と糖質摂取によって足の血流が悪くなりやすく、心血管疾患や2型糖尿病の原因の1つとなる。 (University of Missouri)](https://medicine.missouri.edu/news/sedentary-lifestyle-and-sugary-diet-more-detrimental-men) ([論文](https://dx.doi.org/10.1210/endocr/bqac137))
 * [呼吸抵抗負荷が血圧を下げる可能性。 (University of Colorado 他)](https://www.colorado.edu/today/2021/06/29/5-minute-breathing-workout-lowers-blood-pressure-much-exercise-drugs) ([論文](https://dx.doi.org/10.1152/japplphysiol.00425.2022))
 
 [\[September 2022\]](2209.md)
