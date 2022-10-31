@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) \[diet\] [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[October 2022\]](2210.md)
+* [男性は座りがちな生活と糖質摂取によって足の血流が悪くなりやすく、心血管疾患や2型糖尿病の原因の1つとなる。 (University of Missouri)](https://medicine.missouri.edu/news/sedentary-lifestyle-and-sugary-diet-more-detrimental-men) ([論文](https://dx.doi.org/10.1210/endocr/bqac137))
 * [高脂肪食による肥満は味蕾を減少させ、味覚を鈍らせる。 (Binghamton University)](https://www.binghamton.edu/news/story/1961/obesitytied-to-weakened-response-to-taste) ([論文](https://doi.org/10.3389/fnint.2019.00035))
 * [高糖食を続けると味覚は鈍くなるが、止めると回復する可能性がある。 (University of Michigan)](https://news.umich.edu/a-high-sugar-diet-decreases-sweetness-in-rats/) ([論文](https://dx.doi.org/10.1016/j.cub.2022.07.063))
 
