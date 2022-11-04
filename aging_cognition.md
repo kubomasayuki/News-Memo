@@ -1,5 +1,8 @@
 \[aging_cognition\] [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\['22/11\]](2211.md)
+* [鼻をほじると認知症のリスクが上昇？ (Griffith University)](https://news.griffith.edu.au/2022/10/28/new-research-suggests-nose-picking-could-increase-risk-for-alzheimers-and-dementia/) ([DOI](https://dx.doi.org/10.1038/s41598-022-20674-x))
+
 [\[October 2022\]](2210.md)
 * [テレビゲームは子供の認知能力を向上させる可能性。 (Karolinska Institutet)](https://news.ki.se/video-games-can-help-boost-childrens-intelligence) ([論文](https://dx.doi.org/10.1038/s41598-022-11341-2))
 * [うつ病の早期介入(治療)により将来の認知症リスクが軽減する可能性。 (復旦大学)](https://www.eurekalert.org/news-releases/968160) ([論文](https://doi.org/10.1016/j.biopsych.2022.08.026))
