@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) \[sleep\] [\[smoke\]](smoke.md)
 
+22-11-17
+* [睡眠の質が緑内障のリスクに影響？ (四川大学)](http://www.qlifepro.com/news/20221114/glaucoma-sleep-behaviour.html) ([DOI](http://dx.doi.org/10.1136/bmjopen-2022-063676))
+
 [\[October 2022\]](2210.md)
 
 [\[September 2022\]](2209.md)
