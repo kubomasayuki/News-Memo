@@ -1,12 +1,12 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) \[sleep\] [\[smoke\]](smoke.md)
 
-22-11-17
+[\[22-11\]](2211.md)
 * [睡眠の質が緑内障のリスクに影響？ (四川大学)](http://www.qlifepro.com/news/20221114/glaucoma-sleep-behaviour.html) ([DOI](http://dx.doi.org/10.1136/bmjopen-2022-063676))
 
-[\[October 2022\]](2210.md)
+[\[22-10\]](2210.md)
 
-[\[September 2022\]](2209.md)
-* [概日リズムの乱れが代謝リズムを狂わせる。 (Universitätsmedizin Berlin)](https://www.charite.de/en/service/press_reports/artikel/detail/disruption_of_the_bodys_internal_clock_causes_disruption_of_metabolic_processes/) ([論文](http://dx.doi.org/10.1038/nsmb.3331))
+[\[22-09\]](2209.md)
+* [概日リズムの乱れが代謝リズムを狂わせる。 (Universitätsmedizin Berlin)](https://www.charite.de/en/service/press_reports/artikel/detail/disruption_of_the_bodys_internal_clock_causes_disruption_of_metabolic_processes/) ([DOI](http://dx.doi.org/10.1038/nsmb.3331))
 * [概日リズムの安定はうつ病や認知機能低下の予防になる。 (University of Pittsburgh)](https://www.upmc.com/media/news/091322-cognitivetests) ([論文](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2795951))
 
 [\[August 2022\]](2208.md)
