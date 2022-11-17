@@ -7,7 +7,7 @@
 
 [\[22-09\]](2209.md)
 * [概日リズムの乱れが代謝リズムを狂わせる。 (Universitätsmedizin Berlin)](https://www.charite.de/en/service/press_reports/artikel/detail/disruption_of_the_bodys_internal_clock_causes_disruption_of_metabolic_processes/) ([DOI](http://dx.doi.org/10.1038/nsmb.3331))
-* [概日リズムの安定はうつ病や認知機能低下の予防になる。 (University of Pittsburgh)](https://www.upmc.com/media/news/091322-cognitivetests) ([論文](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2795951))
+* [概日リズムの安定はうつ病や認知機能低下の予防になる。 (University of Pittsburgh)](https://www.upmc.com/media/news/091322-cognitivetests) ([DOI](https://dx.doi.org/10.1001/jamapsychiatry.2022.2573))
 
 [\[August 2022\]](2208.md)
 
