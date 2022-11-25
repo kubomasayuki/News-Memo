@@ -8,7 +8,7 @@
 [\[22-09\]](2209.md)
 
 [\[22-08\]](2208.md)
-* [大きなグラスの方がワインの消費が多くなる。 (University of Cambridge)](https://www.cam.ac.uk/research/news/larger-wine-glasses-may-lead-people-to-drink-more) ([論文](https://doi.org/10.1186/s12889-016-3068-z))
+* [大きなグラスの方がワインの消費が多くなる。 (University of Cambridge)](https://www.cam.ac.uk/research/news/larger-wine-glasses-may-lead-people-to-drink-more) ([DOI](https://doi.org/10.1186/s12889-016-3068-z))
 
 [\[22-07\]](2207.md)
 
@@ -19,7 +19,7 @@
 [\[22-04\]](2204.md)
 
 [\[22-03\]](2203.md)
-* [1日1杯以下の少量の飲酒でも脳の容積は減少。 (University of Pennsylvania)](https://penntoday.upenn.edu/news/one-alcoholic-drink-day-linked-reduced-brain-size) ([論文](https://doi.org/10.1038/s41467-022-28735-5))
+* [1日1杯以下の少量の飲酒でも脳の容積は減少。 (University of Pennsylvania)](https://penntoday.upenn.edu/news/one-alcoholic-drink-day-linked-reduced-brain-size) ([DOI](https://doi.org/10.1038/s41467-022-28735-5))
 
 [\[22-02\]](2202.md)
 
@@ -28,7 +28,7 @@
 [\[21-12\]](2112.md)
 
 [\[21-11\]](2111.md)
-* [唯一アルコールだけが心房粗動の原因になる。 (UC San Francisco)](https://www.ucsf.edu/news/2021/11/421881/only-alcohol-not-caffeine-diet-or-lack-sleep-might-trigger-heart-rhythm) ([論文](http://dx.doi.org/10.1001/jamacardio.2021.5010))
+* [唯一アルコールだけが心房粗動の原因になる。 (UC San Francisco)](https://www.ucsf.edu/news/2021/11/421881/only-alcohol-not-caffeine-diet-or-lack-sleep-might-trigger-heart-rhythm) ([DOI](http://dx.doi.org/10.1001/jamacardio.2021.5010))
 
 [\[21-10\]](2110.md)
 
@@ -43,7 +43,7 @@
 [\[21-05\]](2105.md)
 
 [\[21-04\]](2104.md)
-* [妊娠中のアルコール曝露を自己申告の代わりに胎便中のバイオマーカーで特定。 (Case Western Reserve University)](https://case.edu/medicine/admission/about/newsroom/our-latest-news/meconium-may-provide-clues-fetal-alcohol-exposure-forecast-behavioral-issues-later-childhood) ([論文](https://www.sciencedirect.com/science/article/abs/pii/S0376871620306025))
+* [妊娠中のアルコール曝露を自己申告の代わりに胎便中のバイオマーカーで特定。 (Case Western Reserve University)](https://case.edu/medicine/admission/about/newsroom/our-latest-news/meconium-may-provide-clues-fetal-alcohol-exposure-forecast-behavioral-issues-later-childhood) ([DOI](https://doi.org/10.1016/j.drugalcdep.2020.108437))
 
 [\[21-03\]](2103.md)
 * アルコール依存のセルフチェック。 ([久里浜式 男性版](https://kurihama.hosp.go.jp/hospital/screening/kast-m.html)、[久里浜式 女性版](https://kurihama.hosp.go.jp/hospital/screening/kast-f.html)、[CAGE Questionaire](https://kurihama.hosp.go.jp/hospital/screening/cage.html)、[AUDIT(WHO推奨)](https://auditscreen.org/check-your-drinking/))
@@ -77,7 +77,7 @@
 [\[20-02\]](2002.md)
 
 [\[20-01\]](2001.md)
-* [少量の飲酒でもがんの罹患リスクは上昇 (東京大学)](https://www.m.u-tokyo.ac.jp/news/admin/release_20191209.pdf) ([論文](https://acsjournals.onlinelibrary.wiley.com/doi/10.1002/cncr.32590))
+* [少量の飲酒でもがんの罹患リスクは上昇 (東京大学)](https://www.m.u-tokyo.ac.jp/news/admin/release_20191209.pdf) ([DOI](https://doi.org/10.1002/cncr.32590))
 
 [\[19-12\]](1912.md)
 
