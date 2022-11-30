@@ -2,6 +2,7 @@
 
 [\[22-11\]](2211.md)
 * [スナック菓子やファストフードなどの超加工食品は深刻な依存性があり、タバコと同程度脳を変化させる。 (University of Michigan)](https://news.umich.edu/highly-processed-foods-can-be-considered-addictive-like-tobacco-products/) ([DOI](https://dx.doi.org/10.1111/add.16065))
+* [依存症の家族歴は子どもの依存症のリスク。 (University of Michigan)](https://news.umich.edu/feeling-addicted-to-food-your-parents-drinking-habits-may-impact-your-risk/) ([DOI](https://dx.doi.org/10.1037/adb0000870))
 
 [\[22-10\]](2210.md)
 * [男性は座りがちな生活と糖質摂取によって足の血流が悪くなりやすく、心血管疾患や2型糖尿病の原因の1つとなる。 (University of Missouri)](https://medicine.missouri.edu/news/sedentary-lifestyle-and-sugary-diet-more-detrimental-men) ([DOI](https://dx.doi.org/10.1210/endocr/bqac137))
