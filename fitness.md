@@ -5,7 +5,7 @@
 
 [\[22-10\]](2210.md)
 * [男性は座りがちな生活と糖質摂取によって足の血流が悪くなりやすく、心血管疾患や2型糖尿病の原因の1つとなる。 (University of Missouri)](https://medicine.missouri.edu/news/sedentary-lifestyle-and-sugary-diet-more-detrimental-men) ([DOI](https://dx.doi.org/10.1210/endocr/bqac137))
-* [呼吸抵抗負荷が血圧を下げる可能性。 (University of Colorado 他)](https://www.colorado.edu/today/2021/06/29/5-minute-breathing-workout-lowers-blood-pressure-much-exercise-drugs) ([論文](https://dx.doi.org/10.1152/japplphysiol.00425.2022))
+* [呼吸抵抗負荷が血圧を下げる可能性。 (University of Colorado 他)](https://www.colorado.edu/today/2021/06/29/5-minute-breathing-workout-lowers-blood-pressure-much-exercise-drugs) ([DOI](https://dx.doi.org/10.1152/japplphysiol.00425.2022))
 
 [\[22-09\]](2209.md)
 * [小さい頃にスポーツに取り組むことで忍耐力が養われ、将来の成功につながる気質を育てる。 (Ohio State University)](https://news.osu.edu/sports-help-kids-develop-important-trait-linked-to-adult-success/) ([論文](https://www.tandfonline.com/doi/full/10.1080/01490400.2022.2090037))
