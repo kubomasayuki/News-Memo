@@ -5,13 +5,13 @@
 
 [\[September 2022\]](2209.md)
 * [個人や遠隔医療向けエコー機器レンタル。 (ポケマム)](https://pockemam.com/)
-* [自宅に設置したセンサーで行動パターンを解析して高齢者の病気やリスクを予測。 (University of Bern)](https://www.unibe.ch/news/media_news/media_relations_e/media_releases/2022/media_releases_2022/sensor_based_early_detection_of_age_related_diseases_from_home/index_eng.html) ([論文](https://dx.doi.org/10.1038/s41746-022-00657-y))
-* [皮膚に貼るタイプの超音波計測装置。 (MIT)](http://zhao.mit.edu/wp-content/uploads/2022/08/162.pdf) ([論文](https://www.science.org/doi/10.1126/science.abo2542))
+* [自宅に設置したセンサーで行動パターンを解析して高齢者の病気やリスクを予測。 (University of Bern)](https://www.unibe.ch/news/media_news/media_relations_e/media_releases/2022/media_releases_2022/sensor_based_early_detection_of_age_related_diseases_from_home/index_eng.html) ([DOI](https://dx.doi.org/10.1038/s41746-022-00657-y))
+* [皮膚に貼るタイプの超音波計測装置。 (MIT)](http://zhao.mit.edu/wp-content/uploads/2022/08/162.pdf) ([DOI](https://doi.org/10.1126/science.abo2542))
 
 [\[August 2022\]](2208.md)
-* [少量の発汗で動作可能なウェアラブルバイオセンサー。 (California Institute of Technology)](https://www.caltech.edu/about/news/new-wearable-sensor-detects-even-more-compounds-in-human-sweat) ([論文](https://dx.doi.org/10.1038/s41551-022-00916-z)、過去の調査：[February 8, 2022
+* [少量の発汗で動作可能なウェアラブルバイオセンサー。 (California Institute of Technology)](https://www.caltech.edu/about/news/new-wearable-sensor-detects-even-more-compounds-in-human-sweat) ([DOI](https://dx.doi.org/10.1038/s41551-022-00916-z)、過去の調査：[February 8, 2022
  汗中コルチゾールを測定し、ストレスの度合いを測定するウェアラブルデバイス。 (UCLA)](2202.md))
-* [心拍数と呼吸数の継続監視により床ずれを検出するデバイス。 (University of South Australia)](https://www.unisa.edu.au/media-centre/Releases/2022/tiny-optical-sensors-could-put-an-end-to-hospital-bed-sores/) ([論文](https://dx.doi.org/10.1117/1.JBO.27.6.067002))
+* [心拍数と呼吸数の継続監視により床ずれを検出するデバイス。 (University of South Australia)](https://www.unisa.edu.au/media-centre/Releases/2022/tiny-optical-sensors-could-put-an-end-to-hospital-bed-sores/) ([DOI](https://dx.doi.org/10.1117/1.JBO.27.6.067002))
 
 [\[July 2022\]](2207.md)
 
