@@ -1,5 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) \[alcohol\] [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[22-12\]](2212.md)
+
 [\[22-11\]](2211.md)
 * [依存症の家族歴は子どもの依存症のリスク。 (University of Michigan)](https://news.umich.edu/feeling-addicted-to-food-your-parents-drinking-habits-may-impact-your-risk/) ([DOI](https://dx.doi.org/10.1037/adb0000870))
 * [両親の不仲や離婚は子の将来のアルコール使用障害のリスク。 (Rutgers University)](https://www.rutgers.edu/news/parental-discord-may-be-indicator-childrens-genetic-risk-future-alcohol-misuse) ([DOI](https://dx.doi.org/10.1038/s41380-022-01816-z))
