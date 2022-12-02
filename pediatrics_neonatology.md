@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[22-12\]](2212.md)
+* [予防接種の抗体レベルは帝王切開で生まれた子と比較して、自然分娩・母乳育児で3.5倍、人工乳でも1.7倍高い。 (University of Edinburgh)](https://www.ed.ac.uk/news/2022/baby-s-jab-responses-linked-to-birth-delivery-meth) ([DOI](https://doi.org/10.1038/s41467-022-34155-2))
+
 [\[22-11\]](2211.md)
 * [依存症の家族歴は子どもの依存症のリスク。 (University of Michigan)](https://news.umich.edu/feeling-addicted-to-food-your-parents-drinking-habits-may-impact-your-risk/) ([DOI](https://dx.doi.org/10.1037/adb0000870))
 * [子供であっても握力は健康の指標となる。 (Baylor University)](https://www.baylor.edu/mediacommunications/news.php?action=story&story=201233) ([DOI](https://doi.org/10.1016/j.jpeds.2018.07.020))
