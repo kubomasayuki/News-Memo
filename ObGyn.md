@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[22-12\]](2212.md)
+* [早産や未熟児であってもカンガルーケアを推奨。 (WHO)](https://www.who.int/news/item/15-11-2022-who-advises-immediate-skin-to-skin-care-for-survival-of-small-and-preterm-babies) ([ガイドライン](https://apps.who.int/iris/bitstream/handle/10665/363698/9789240060043-eng.pdf))
+
 [\[22-11\]](2211.md)
 * [バルーンカテーテルによる分娩誘発は効果的なだけでなく、児にとってより安全。 (Monach University)](https://www.monash.edu/news/articles/balloon-labour-induction-safer-for-babies,-melbourne-researchers-find) ([DOI](https://doi.org/10.1016/S0140-6736(22)01845-1))
 
