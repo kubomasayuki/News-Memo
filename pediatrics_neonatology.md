@@ -2,6 +2,7 @@
 
 [\[22-11\]](2211.md)
 * [依存症の家族歴は子どもの依存症のリスク。 (University of Michigan)](https://news.umich.edu/feeling-addicted-to-food-your-parents-drinking-habits-may-impact-your-risk/) ([DOI](https://dx.doi.org/10.1037/adb0000870))
+* [子供であっても握力は健康の指標となる。 (Baylor University)](https://www.baylor.edu/mediacommunications/news.php?action=story&story=201233) ([DOI](https://doi.org/10.1016/j.jpeds.2018.07.020))
 * [乳幼児の頭の形を良くするための枕は窒息事故のリスクがあるとFDAが警鐘。 (FDA)](https://www.fda.gov/medical-devices/safety-communications/do-not-use-infant-head-shaping-pillows-prevent-or-treat-any-medical-condition-fda-safety)
 
 [\[22-10\]](2210.md)
