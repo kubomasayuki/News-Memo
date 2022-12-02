@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) \[fitness\] [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[22-11\]](2211.md)
+* [子供であっても握力は健康の指標となる。 (Baylor University)](https://www.baylor.edu/mediacommunications/news.php?action=story&story=201233) ([DOI](https://doi.org/10.1016/j.jpeds.2018.07.020))
 * [高強度の有酸素運動は転移性がんのリスクを大幅に予防。 (Tel Aviv University)](https://english.tau.ac.il/exercise_defeats_cancer_2022) ([DOI](https://dx.doi.org/10.1158/0008-5472.CAN-22-0237))
 
 [\[22-10\]](2210.md)
