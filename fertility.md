@@ -1,7 +1,11 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) \[fertility\] [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
-[\[October 2022\]](2210.md)
-* [大気汚染物質は胎児の脳、肺、肝臓などの重要臓器に到達する。 (University of Aberdeen)](https://www.abdn.ac.uk/news/16424/) ([論文](https://dx.doi.org/10.1016/S2542-5196(22)00200-5))
+[\[22-12\]](2212.md)
+
+[\[22-11\]](2211.md)
+
+[\[22-10\]](2210.md)
+* [大気汚染物質は胎児の脳、肺、肝臓などの重要臓器に到達する。 (University of Aberdeen)](https://www.abdn.ac.uk/news/16424/) ([DOI](https://dx.doi.org/10.1016/S2542-5196(22)00200-5))
 * [凍結胚移植での妊娠は高血圧リスクが増加。 (American Heart Association)](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.122.19689)
 
 [\[September 2022\]](2209.md)
@@ -12,8 +16,8 @@
 [\[July 2022\]](2207.md)
 
 [\[June 2022\]](2206.md)
-* [夏に流産が増加。 (Boston University)](https://www.bu.edu/sph/news/articles/2022/risk-of-miscarriage-may-increase-during-the-summer/) ([論文](https://doi.org/10.1097/ede.0000000000001474)、過去の調査：[February 14, 2022 猛暑で早産が増加。 (UCLA)](2202.md))
-* [喫煙すると精子の質と量が低下。 (Cleveland Clinic)](https://www.clevelandclinic.org/reproductiveresearchcenter/docs/publications/549_Sharma_et_al_Cigarette_Smoking_and_Semen_Quality.pdf) ([論文](https://doi.org/10.1016/j.eururo.2016.04.010))
+* [夏に流産が増加。 (Boston University)](https://www.bu.edu/sph/news/articles/2022/risk-of-miscarriage-may-increase-during-the-summer/) ([DOI](https://doi.org/10.1097/ede.0000000000001474)、過去の調査：[February 14, 2022 猛暑で早産が増加。 (UCLA)](2202.md))
+* [喫煙すると精子の質と量が低下。 (Cleveland Clinic)](https://www.clevelandclinic.org/reproductiveresearchcenter/docs/publications/549_Sharma_et_al_Cigarette_Smoking_and_Semen_Quality.pdf) ([DOI](https://doi.org/10.1016/j.eururo.2016.04.010))
 
 [\[May 2022\]](2205.md)
 
