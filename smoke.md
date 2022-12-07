@@ -21,11 +21,11 @@
 [\[22-04\]](2204.md)
 
 [\[22-03\]](2203.md)
-* [血清コチニンレベル(タバコ曝露で増加)が高く、食事の質が低いと、喘息発症の可能性が大幅に増加。 (Icahn School of Medicine at Mount Sinai)](https://www.eurekalert.org/news-releases/947130) ([論文](https://doi.org/10.1513/AnnalsATS.202107-837OC))
+* [血清コチニンレベル(タバコ曝露で増加)が高く、食事の質が低いと、喘息発症の可能性が大幅に増加。 (Icahn School of Medicine at Mount Sinai)](https://www.eurekalert.org/news-releases/947130) ([DOI](https://doi.org/10.1513/AnnalsATS.202107-837OC))
 * [たばこに関する統計。 (最新たばこ情報)](https://www.health-net.or.jp/tobacco/statistics/)
 
 [\[22-02\]](2202.md)
-* [壁紙等に付着したタバコ成分と空気中の亜硝酸が反応して3次喫煙となる。 (Lawrence Berkeley National Laboratory)](https://newscenter.lbl.gov/2013/06/20/berkeley-lab-confirms-thirdhand-smoke-causes-dna-damage/) ([論文1](https://doi.org/10.1073/pnas.0912820107)、[論文2](https://doi.org/10.1093/mutage/get013))
+* [壁紙等に付着したタバコ成分と空気中の亜硝酸が反応して3次喫煙となる。 (Lawrence Berkeley National Laboratory)](https://newscenter.lbl.gov/2013/06/20/berkeley-lab-confirms-thirdhand-smoke-causes-dna-damage/) ([DOI 1](https://doi.org/10.1073/pnas.0912820107)、[DOI 2](https://doi.org/10.1093/mutage/get013))
 
 [\[22-01\]](2201.md)
 * [児童の受動喫煙は認知および非認知能力を低下させる。 (The Conversation)](https://theconversation.com/children-whose-parents-smoke-have-lower-test-scores-and-more-behavioural-issues-than-kids-of-non-smokers-172601) ([論文](https://doi.org/10.1016/j.ehb.2021.100978))
