@@ -8,7 +8,7 @@
 [\[22-09\]](2209.md)
 
 [\[22-08\]](2208.md)
-* [10歳以下の喫煙は著しい認知能力低下と脳容積縮小を起こす。 (MedPage Today)](https://www.medpagetoday.com/pediatrics/preventivecare/100164) ([論文1](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2794988)、[論文2](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2794992))
+* [10歳以下の喫煙は著しい認知能力低下と脳容積縮小を起こす。 (MedPage Today)](https://www.medpagetoday.com/pediatrics/preventivecare/100164) ([DOI 1](https://doi.org/10.1001/jamanetworkopen.2022.25991)、[DOI 2](https://doi.org/10.1001/jamanetworkopen.2022.26001))
 
 [\[22-07\]](2207.md)
 
