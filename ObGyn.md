@@ -37,15 +37,15 @@
 
 [\[22-03\]](2203.md)
 * [胎児心臓治療の臨床試験。 (日本胎児心臓病学会)](https://www.jsfc.jp/clinical-trial-index/clinical-trial) (過去の調査：[May 9, 2021 胎児治療に関する正確な情報を提供し、臨床応用を推進する研究グループ。 (日本胎児治療グループ)](2105.md))
-* [母親の大気汚染曝露で低出生体重児が増加。 (Hebrew University)](https://www.afhu.org/2022/03/09/mothers-exposure-to-air-pollution-associated-with-low-birth-weight-babies/) ([論文](http://dx.doi.org/10.1016/j.envres.2022.112974)、過去の調査：[November 22, 2021 妊娠中の大気汚染曝露と妊娠糖尿病発症リスクに相関。 (UC Irvine)](2111.md)、[January 6, 2020 大気汚染の長期曝露で妊娠高血圧リスク増 (NIH)](2001.md))
+* [母親の大気汚染曝露で低出生体重児が増加。 (Hebrew University)](https://www.afhu.org/2022/03/09/mothers-exposure-to-air-pollution-associated-with-low-birth-weight-babies/) ([DOI](http://dx.doi.org/10.1016/j.envres.2022.112974)、過去の調査：[November 22, 2021 妊娠中の大気汚染曝露と妊娠糖尿病発症リスクに相関。 (UC Irvine)](2111.md)、[January 6, 2020 大気汚染の長期曝露で妊娠高血圧リスク増 (NIH)](2001.md))
 
 [\[22-02\]](2202.md)
-* [猛暑で早産が増加。 (UCLA)](https://www.businessinsider.jp/post-203559) ([論文](https://doi.org/10.1038/s41558-019-0632-4))
+* [猛暑で早産が増加。 (UCLA)](https://www.businessinsider.jp/post-203559) ([DOI](https://doi.org/10.1038/s41558-019-0632-4))
 
 [\[22-01\]](2201.md)
-* [ビタミンDが欠乏すると子供のADHDのリスクが上昇する。 (University of Turku)](https://www.utu.fi/en/news/press-release/vitamin-d-deficiency-during-pregnancy-connected-to-elevated-risk-of-adhd) ([論文](https://doi.org/10.1016/j.jaac.2019.11.021))
+* [ビタミンDが欠乏すると子供のADHDのリスクが上昇する。 (University of Turku)](https://www.utu.fi/en/news/press-release/vitamin-d-deficiency-during-pregnancy-connected-to-elevated-risk-of-adhd) ([DOI](https://doi.org/10.1016/j.jaac.2019.11.021))
 * [妊娠中の人工甘味料摂取は赤ちゃんの腸内細菌叢に変化を起こし、肥満リスクが増加する。 (University of Calgary)](https://www.ucalgary.ca/news/low-calorie-sweeteners-do-not-mean-low-risk-infants) ([論文](https://gut.bmj.com/content/69/10/1807))
-* [日光の曝露と乳がんに逆相関。 (University at Buffalo)](http://www.buffalo.edu/news/releases/2022/01/003.html) ([論文](http://dx.doi.org/10.1158/1055-9965.EPI-21-0932))
+* [日光の曝露と乳がんに逆相関。 (University at Buffalo)](http://www.buffalo.edu/news/releases/2022/01/003.html) ([DOI](http://dx.doi.org/10.1158/1055-9965.EPI-21-0932))
 
 [\[21-12\]](2112.md)
 * [妊娠中の貧血は、早産、低出生体重児、小児の貧血や発達障害と関連している。 (WHO)](https://www.who.int/data/gho/data/themes/topics/anaemia_in_women_and_children)
@@ -53,17 +53,17 @@
 
 [\[21-11\]](2111.md)
 * [麻酔分娩は麻酔なしの経膣分娩よりも産後うつのリスクが高い。 (名古屋市立大学)](https://bmcpregnancychildbirth.biomedcentral.com/articles/10.1186/s12884-021-03996-y)
-* [妊娠中の大気汚染曝露と妊娠糖尿病発症リスクに相関。 (UC Irvine)](https://news.uci.edu/2021/10/04/uci-led-study-links-air-pollution-exposure-while-pregnant-to-higher-gestational-diabetes-risk/) ([論文](http://dx.doi.org/10.1016/j.envint.2021.106888))
-* [低所得国において、猛暑と死産に相関。 (UC SanDiego)](https://scripps.ucsd.edu/news/first-link-between-stillbirths-birth-complications-and-excessive-heat-lower-income-countries) ([論文](https://doi.org/10.1016/j.envint.2021.106902))
+* [妊娠中の大気汚染曝露と妊娠糖尿病発症リスクに相関。 (UC Irvine)](https://news.uci.edu/2021/10/04/uci-led-study-links-air-pollution-exposure-while-pregnant-to-higher-gestational-diabetes-risk/) ([DOI](http://dx.doi.org/10.1016/j.envint.2021.106888))
+* [低所得国において、猛暑と死産に相関。 (UC SanDiego)](https://scripps.ucsd.edu/news/first-link-between-stillbirths-birth-complications-and-excessive-heat-lower-income-countries) ([DOI](https://doi.org/10.1016/j.envint.2021.106902))
 * [母親の職種で死産リスクに違い。 (大阪医科薬科大学)](https://www.ompu.ac.jp/news/of2vmg000000g89h.html)
-* [流産の予防で使用されるプロゲステロン(17α-OHPC)に曝露した胎児の将来的な発がんリスクが2倍に上昇。 (UTHealth School of Public Health)](https://www.uth.edu/news/story.htm?id=9f15d85c-254d-499b-af44-31fb94f9d4bc) ([論文](http://dx.doi.org/10.1016/j.ajog.2021.10.035))
+* [流産の予防で使用されるプロゲステロン(17α-OHPC)に曝露した胎児の将来的な発がんリスクが2倍に上昇。 (UTHealth School of Public Health)](https://www.uth.edu/news/story.htm?id=9f15d85c-254d-499b-af44-31fb94f9d4bc) ([DOI](http://dx.doi.org/10.1016/j.ajog.2021.10.035))
 * [緊急帝王切開を予測するAI。 (大阪医科薬科大学)](https://obgyn.onlinelibrary.wiley.com/doi/full/10.1002/ijgo.13888)
 * [フィブリノゲン製剤の適正使用に関して。 (日本産科婦人科学会、日本産婦人科医会)](https://www.jsog.or.jp/news/pdf/20210910_FBG_shuuchi.pdf)
 
 [\[21-10\]](2110.md)
 * [周産期科新設。 (亀田総合病院 産婦人科)](http://www.kameda.com/pr/ob_gyn/post_274.html)
 * [母体安全への提言 2020。 (日本産婦人科医会)](https://www.jaog.or.jp/wp/wp-content/uploads/2021/04/botai_2020.pdf) (過去の調査：[October 28, 2020 母体安全への提言 2019。 (日本産婦人科医会)](2010.md))
-* [早期妊娠高血圧腎症の分娩期間延長に徐放性メトホルミン(糖尿病薬)が有効。 (CareNet)](https://www.carenet.com/news/journal/carenet/53189) ([論文](https://doi.org/10.1136/bmj.n2103))
+* [早期妊娠高血圧腎症の分娩期間延長に徐放性メトホルミン(糖尿病薬)が有効。 (CareNet)](https://www.carenet.com/news/journal/carenet/53189) ([DOI](https://doi.org/10.1136/bmj.n2103))
 
 [\[21-09\]](2109.md)
 * [妊娠初期に臍帯と胎盤を通る血流量の微妙な差を従来の超音波で監視することで胎盤の異常を検出。 (NIH)](https://www.nih.gov/news-events/news-releases/new-ultrasound-technique-detects-fetal-circulation-problems-placenta)
@@ -76,7 +76,7 @@
 
 [\[21-07\]](2107.md)
 * [スマホでかかりつけ助産師に産前・産後の相談。 (nicomama)](https://nico-mama.jp/)
-* [妊娠中のDHAサプリメントの摂取は早産を減らす。 (University of Kansas)](https://news.ku.edu/2016/10/11/nutritional-supplement-could-prevent-thousands-early-preterm-births) ([論文](https://doi.org/10.1016/j.plefa.2016.08.007)、[最新の論文](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(21)00185-1/fulltext))
+* [妊娠中のDHAサプリメントの摂取は早産を減らす。 (University of Kansas)](https://news.ku.edu/2016/10/11/nutritional-supplement-could-prevent-thousands-early-preterm-births) ([DOI](https://doi.org/10.1016/j.plefa.2016.08.007)、[最新の論文](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(21)00185-1/fulltext))
 
 [\[21-06\]](2106.md)
 * [スウェーデン発の産科データベース Milou。 (Medexa)](https://www.medexa.se/en/milouenglish/)
