@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[22-12\]](2212.md)
+* [早産児の心拍数変動(NHRV)レベルは予後(罹患率、死亡率)と相関。 (University of Southern California School of Medicine)](https://doi.org/10.1542/peds.65.1.50)
 * [予防接種の抗体レベルは帝王切開で生まれた子と比較して、自然分娩・母乳育児で3.5倍、人工乳でも1.7倍高い。 (University of Edinburgh)](https://www.ed.ac.uk/news/2022/baby-s-jab-responses-linked-to-birth-delivery-meth) ([DOI](https://doi.org/10.1038/s41467-022-34155-2))
 * [早産や未熟児であってもカンガルーケアを推奨。 (WHO)](https://www.who.int/news/item/15-11-2022-who-advises-immediate-skin-to-skin-care-for-survival-of-small-and-preterm-babies) ([ガイドライン](https://apps.who.int/iris/bitstream/handle/10665/363698/9789240060043-eng.pdf))
 
