@@ -16,7 +16,7 @@
 * [喫煙すると精子の質と量が低下。 (Cleveland Clinic)](https://www.clevelandclinic.org/reproductiveresearchcenter/docs/publications/549_Sharma_et_al_Cigarette_Smoking_and_Semen_Quality.pdf) ([DOI](https://doi.org/10.1016/j.eururo.2016.04.010))
 
 [\[22-05\]](2205.md)
-* [FDAがメントールタバコを禁止した場合、約130万人が禁煙するとの試算。 (University of Waterloo)](https://uwaterloo.ca/news/media/more-million-smokers-likely-quit-after-us-bans-menthol) ([論文](https://tobaccocontrol.bmj.com/content/early/2022/04/27/tobaccocontrol-2021-057227)、[FDAの計画](https://www.fda.gov/tobacco-products/products-ingredients-components/menthol-and-other-flavors-tobacco-products))
+* [FDAがメントールタバコを禁止した場合、約130万人が禁煙するとの試算。 (University of Waterloo)](https://uwaterloo.ca/news/media/more-million-smokers-likely-quit-after-us-bans-menthol) ([DOI](http://dx.doi.org/10.1136/tobaccocontrol-2021-057227)、[FDAの計画](https://www.fda.gov/tobacco-products/products-ingredients-components/menthol-and-other-flavors-tobacco-products))
 
 [\[22-04\]](2204.md)
 
