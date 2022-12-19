@@ -12,7 +12,7 @@
 * [呼吸抵抗負荷が血圧を下げる可能性。 (University of Colorado 他)](https://www.colorado.edu/today/2021/06/29/5-minute-breathing-workout-lowers-blood-pressure-much-exercise-drugs) ([DOI](https://dx.doi.org/10.1152/japplphysiol.00425.2022))
 
 [\[22-09\]](2209.md)
-* [小さい頃にスポーツに取り組むことで忍耐力が養われ、将来の成功につながる気質を育てる。 (Ohio State University)](https://news.osu.edu/sports-help-kids-develop-important-trait-linked-to-adult-success/) ([論文](https://www.tandfonline.com/doi/full/10.1080/01490400.2022.2090037))
+* [小さい頃にスポーツに取り組むことで忍耐力が養われ、将来の成功につながる気質を育てる。 (Ohio State University)](https://news.osu.edu/sports-help-kids-develop-important-trait-linked-to-adult-success/) ([DOI](https://doi.org/10.1080/01490400.2022.2090037))
 * [速く歩くことは10000歩歩くことより利点が大きい。 (University of Sydney)](https://anmj.org.au/pace-just-as-important-as-reaching-10000-steps-for-good-health-study-finds/) ([論文1](https://jamanetwork.com/journals/jamaneurology/fullarticle/2795819)、[論文2](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2796058))
 
 [\[22-08\]](2208.md)
