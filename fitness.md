@@ -13,7 +13,7 @@
 
 [\[22-09\]](2209.md)
 * [小さい頃にスポーツに取り組むことで忍耐力が養われ、将来の成功につながる気質を育てる。 (Ohio State University)](https://news.osu.edu/sports-help-kids-develop-important-trait-linked-to-adult-success/) ([DOI](https://doi.org/10.1080/01490400.2022.2090037))
-* [速く歩くことは10000歩歩くことより利点が大きい。 (University of Sydney)](https://anmj.org.au/pace-just-as-important-as-reaching-10000-steps-for-good-health-study-finds/) ([論文1](https://jamanetwork.com/journals/jamaneurology/fullarticle/2795819)、[論文2](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2796058))
+* [速く歩くことは10000歩歩くことより利点が大きい。 (University of Sydney)](https://anmj.org.au/pace-just-as-important-as-reaching-10000-steps-for-good-health-study-finds/) ([DOI 1](https://doi.org/10.1001/jamaneurol.2022.2672)、[DOI 2](https://doi.org/10.1001/jamainternmed.2022.4000))
 
 [\[22-08\]](2208.md)
 * [短期的な高タンパク食は腸内細菌叢の多様性を減少させ、持久系アスリートのパフォーマンスを低下させる。 (Anglia Ruskin University)](https://aru.ac.uk/news/a-stable-gut-helps-elite-athletes-perform-better) ([論文](https://dx.doi.org/10.1128/msystems.00129-22))
