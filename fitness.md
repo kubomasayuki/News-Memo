@@ -16,10 +16,10 @@
 * [速く歩くことは10000歩歩くことより利点が大きい。 (University of Sydney)](https://anmj.org.au/pace-just-as-important-as-reaching-10000-steps-for-good-health-study-finds/) ([DOI 1](https://doi.org/10.1001/jamaneurol.2022.2672)、[DOI 2](https://doi.org/10.1001/jamainternmed.2022.4000))
 
 [\[22-08\]](2208.md)
-* [短期的な高タンパク食は腸内細菌叢の多様性を減少させ、持久系アスリートのパフォーマンスを低下させる。 (Anglia Ruskin University)](https://aru.ac.uk/news/a-stable-gut-helps-elite-athletes-perform-better) ([論文](https://dx.doi.org/10.1128/msystems.00129-22))
+* [短期的な高タンパク食は腸内細菌叢の多様性を減少させ、持久系アスリートのパフォーマンスを低下させる。 (Anglia Ruskin University)](https://aru.ac.uk/news/a-stable-gut-helps-elite-athletes-perform-better) ([DOI](https://dx.doi.org/10.1128/msystems.00129-22))
 
 [\[22-07\]](2207.md)
-* [片足立ちが10秒間できない高齢者はできる高齢者より死亡リスクが2倍近く高い。 (CLINIMEX (Exercise Medicine Clinic) Exercise cohort)](https://www.bristol.ac.uk/news/2022/june/tne-second-one-legged-stance.html) ([論文](http://dx.doi.org/10.1136/bjsports-2021-105360))
+* [片足立ちが10秒間できない高齢者はできる高齢者より死亡リスクが2倍近く高い。 (CLINIMEX (Exercise Medicine Clinic) Exercise cohort)](https://www.bristol.ac.uk/news/2022/june/tne-second-one-legged-stance.html) ([DOI](http://dx.doi.org/10.1136/bjsports-2021-105360))
 
 [\[22-06\]](2206.md)
 
@@ -34,10 +34,10 @@
 [\[22-03\]](2203.md)
 
 [\[22-02\]](2202.md)
-* [高強度インターバルトレーニング(HIIT)でも長距離インターバルトレーニングでもアスリートのパフォーマンスを改善したが、休息が重要である。 (University of Jyväskylä)](https://www.jyu.fi/en/current/archive/2022/01/farther-or-faster-both-improve-distance-running-performance) ([論文](https://doi.org/10.1249/mss.0000000000002861))
+* [高強度インターバルトレーニング(HIIT)でも長距離インターバルトレーニングでもアスリートのパフォーマンスを改善したが、休息が重要である。 (University of Jyväskylä)](https://www.jyu.fi/en/current/archive/2022/01/farther-or-faster-both-improve-distance-running-performance) ([DOI](https://doi.org/10.1249/mss.0000000000002861))
 
 [\[22-01\]](2201.md)
-* [定期的な運動は肺炎のリスクと死亡を減らす。 (University of Bristol)](http://bristol.ac.uk/news/2021/december/exercise-pneumonia.html) ([論文](https://doi.org/10.1007/s11357-021-00491-2))
+* [定期的な運動は肺炎のリスクと死亡を減らす。 (University of Bristol)](http://bristol.ac.uk/news/2021/december/exercise-pneumonia.html) ([DOI](https://doi.org/10.1007/s11357-021-00491-2))
 
 [\[21-12\]](2112.md)
 
