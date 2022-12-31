@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) \[fitness\] [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[22-12\]](2212.md)
+* [着圧タイツはランニングのパフォーマンスも向上しないし、疲労も軽減しない。 (University of Gothenburg)](https://www.gu.se/en/news/runners-gain-no-advantage-from-compression-stockings) ([論文](https://gupea.ub.gu.se/handle/2077/72558))
 * [自転車通勤の人はそうでない人と比べて2型糖尿病リスクが2割減。 (国立国際医療研究センター)](https://www.carenet.com/news/general/hdnj/55474) ([DOI](https://doi.org/10.2337/dc22-1267))
 
 [\[22-11\]](2211.md)
