@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) \[sleep\] [\[smoke\]](smoke.md)
 
+[\[22-12\]](2212.md)
+* [仕事に関して、適度な忙しさと自分でコントロールできることが睡眠の質に関連している。 (University of South Florida)](https://www.usf.edu/news/2022/too-many-or-too-few-job-demands-can-spoil-a-good-nights-sleep.aspx) ([DOI](https://dx.doi.org/10.1016/j.sleh.2022.09.002))
+
 [\[22-11\]](2211.md)
 * [睡眠の質が緑内障のリスクに影響？ (四川大学)](http://www.qlifepro.com/news/20221114/glaucoma-sleep-behaviour.html) ([DOI](http://dx.doi.org/10.1136/bmjopen-2022-063676))
 
