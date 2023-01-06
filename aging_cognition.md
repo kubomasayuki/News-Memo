@@ -11,7 +11,7 @@
 * [親のネガティブな感情は子供の言語発達の遅れに影響する。 (Max Planck Institute)](https://www.mpg.de/19345204/how-the-mother-s-mood-influences-her-baby-s-ability-to-speak) ([DOI](https://dx.doi.org/10.1001/jamanetworkopen.2022.32672))
 
 [\[22-09\]](2209.md)
-* [概日リズムの安定はうつ病や認知機能低下の予防になる。 (University of Pittsburgh)](https://www.upmc.com/media/news/091322-cognitivetests) ([論文](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2795951))
+* [概日リズムの安定はうつ病や認知機能低下の予防になる。 (University of Pittsburgh)](https://www.upmc.com/media/news/091322-cognitivetests) ([DOI](http://dx.doi.org/10.1038/nsmb.3331))
 
 [\[22-08\]](2208.md)
 * [10歳以下の喫煙は著しい認知能力低下と脳容積縮小を起こす。 (MedPage Today)](https://www.medpagetoday.com/pediatrics/preventivecare/100164) ([論文1](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2794988)、[論文2](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2794992))
