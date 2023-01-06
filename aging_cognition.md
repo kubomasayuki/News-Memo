@@ -6,9 +6,9 @@
 * [鼻をほじると認知症のリスクが上昇？ (Griffith University)](https://news.griffith.edu.au/2022/10/28/new-research-suggests-nose-picking-could-increase-risk-for-alzheimers-and-dementia/) ([DOI](https://dx.doi.org/10.1038/s41598-022-20674-x))
 
 [\[22-10\]](2210.md)
-* [テレビゲームは子供の認知能力を向上させる可能性。 (Karolinska Institutet)](https://news.ki.se/video-games-can-help-boost-childrens-intelligence) ([論文](https://dx.doi.org/10.1038/s41598-022-11341-2))
-* [うつ病の早期介入(治療)により将来の認知症リスクが軽減する可能性。 (復旦大学)](https://www.eurekalert.org/news-releases/968160) ([論文](https://doi.org/10.1016/j.biopsych.2022.08.026))
-* [親のネガティブな感情は子供の言語発達の遅れに影響する。 (Max Planck Institute)](https://www.mpg.de/19345204/how-the-mother-s-mood-influences-her-baby-s-ability-to-speak) ([論文](https://dx.doi.org/10.1001/jamanetworkopen.2022.32672))
+* [テレビゲームは子供の認知能力を向上させる可能性。 (Karolinska Institutet)](https://news.ki.se/video-games-can-help-boost-childrens-intelligence) ([DOI](https://dx.doi.org/10.1038/s41598-022-11341-2))
+* [うつ病の早期介入(治療)により将来の認知症リスクが軽減する可能性。 (復旦大学)](https://www.eurekalert.org/news-releases/968160) ([DOI](https://doi.org/10.1016/j.biopsych.2022.08.026))
+* [親のネガティブな感情は子供の言語発達の遅れに影響する。 (Max Planck Institute)](https://www.mpg.de/19345204/how-the-mother-s-mood-influences-her-baby-s-ability-to-speak) ([DOI](https://dx.doi.org/10.1001/jamanetworkopen.2022.32672))
 
 [\[22-09\]](2209.md)
 * [概日リズムの安定はうつ病や認知機能低下の予防になる。 (University of Pittsburgh)](https://www.upmc.com/media/news/091322-cognitivetests) ([論文](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2795951))
