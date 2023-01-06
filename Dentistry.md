@@ -11,7 +11,7 @@
 [\[22-08\]](2208.md)
 
 [\[22-07\]](2207.md)
-* [毛先の形状を変えるマイクロロボットで、歯磨きの効果を向上。 (Pennsylvania University)](https://penntoday.upenn.edu/news/penn-dental-engineering-shapeshifting-microrobots-can-brush-and-floss-teeth) ([論文](https://doi.org/10.1021/acsnano.2c01950))
+* [毛先の形状を変えるマイクロロボットで、歯磨きの効果を向上。 (Pennsylvania University)](https://penntoday.upenn.edu/news/penn-dental-engineering-shapeshifting-microrobots-can-brush-and-floss-teeth) ([DOI](https://doi.org/10.1021/acsnano.2c01950))
 
 [\[22-06\]](2206.md)
 
@@ -20,15 +20,15 @@
 [\[22-04\]](2204.md)
 
 [\[22-03\]](2203.md)
-* [歯の表面のpHを測定し虫歯を見つける機器。 (University of Washington)](https://www.washington.edu/news/2022/03/08/o-ph-a-new-uw-dental-tool-prototype-can-spot-the-acidic-conditions-that-lead-to-cavities/) ([論文](https://doi.org/10.1109/TBME.2022.3153659))
+* [歯の表面のpHを測定し虫歯を見つける機器。 (University of Washington)](https://www.washington.edu/news/2022/03/08/o-ph-a-new-uw-dental-tool-prototype-can-spot-the-acidic-conditions-that-lead-to-cavities/) ([DOI](https://doi.org/10.1109/TBME.2022.3153659))
 
 [\[22-02\]](2202.md)
 
 [\[22-01\]](2201.md)
-* [歯を失う原因が、男性は人との交流、女性は野菜・果物の摂取。 (東北大学)](https://www.tohoku.ac.jp/japanese/2021/12/press20211220-01-dementia.html) ([論文](https://doi.org/10.1177/00220345211049399))
+* [歯を失う原因が、男性は人との交流、女性は野菜・果物の摂取。 (東北大学)](https://www.tohoku.ac.jp/japanese/2021/12/press20211220-01-dementia.html) ([DOI](https://doi.org/10.1177/00220345211049399))
 
 [\[21-12\]](2112.md)
-* [新しい歯科治療法をシミュレートするためのバイオフィルム。 (University of Saskatchewan)](https://news.usask.ca/articles/research/2021/usask-dentistry-research-team-proves-biofilm-method-can-be-used-to-inexpensively-test-new-tooth-decay-treatments.php) ([論文](http://dx.doi.org/10.1016/j.mimet.2021.106386))
+* [新しい歯科治療法をシミュレートするためのバイオフィルム。 (University of Saskatchewan)](https://news.usask.ca/articles/research/2021/usask-dentistry-research-team-proves-biofilm-method-can-be-used-to-inexpensively-test-new-tooth-decay-treatments.php) ([DOI](http://dx.doi.org/10.1016/j.mimet.2021.106386))
 
 [\[21-11\]](2111.md)
 * [肥満による炎症は破骨細胞を発達させ、歯周病リスクを発達させる。 (University at Buffalo)](http://www.buffalo.edu/news/releases/2021/11/011.html) ([論文](https://journals.sagepub.com/doi/10.1177/00220345211040729))
