@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) \[fertility\] [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[23-01\]](2301.md)
+* [地中海食は男女双方の生殖能力を改善する可能性。 (University of South Australia)](https://www.unisa.edu.au/media-centre/Releases/2022/a-mediterranean-diet-not-only-boosts-health--but-also-improves-fertility/) ([DOI](https://doi.org/10.3390/nu14193914))
 
 [\[22-12\]](2212.md)
 
