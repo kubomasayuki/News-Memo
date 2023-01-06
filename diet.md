@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) \[diet\] [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[23-01\]](2301.md)
+* [妊娠糖尿病の既往歴のある女性は、産後にコーヒー(カフェイン有無は問わない)を飲むと2型糖尿病発症を予防できる。 (National University of Singapore)](https://medicine.nus.edu.sg/news/drinking-coffee-regularly-after-pregnancy-may-lower-the-risk-of-type-2-diabetes-for-women-who-had-diabetes-during-pregnancy/) ([DOI](https://dx.doi.org/10.1093/ajcn/nqac241))
 
 [\[22-12\]](2212.md)
 * [食器の色が味覚に影響する。 (University of Poutsmauth)](https://www.port.ac.uk/news-events-and-blogs/news/study-finds-picky-eaters-are-put-off-by-food-depending-on-plateware-colour) ([DOI](https://dx.doi.org/10.1016/j.foodqual.2022.104763))
