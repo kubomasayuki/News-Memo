@@ -30,7 +30,7 @@
 [\[22-01\]](2201.md)
 
 [\[21-12\]](2112.md)
-* [プラスチックや化石燃料の燃焼による化学汚染が男性の精子数の減少に関連している。 (Brunel University)](https://www.brunel.ac.uk/news-and-events/news/articles/Fall-in-fertility-rates-may-be-linked-to-fossil-fuels) ([論文](https://www.nature.com/articles/s41574-021-00598-8))
+* [プラスチックや化石燃料の燃焼による化学汚染が男性の精子数の減少に関連している。 (Brunel University)](https://www.brunel.ac.uk/news-and-events/news/articles/Fall-in-fertility-rates-may-be-linked-to-fossil-fuels) ([DOI](https://doi.org/10.1038/s41574-021-00598-8))
 
 [\[21-11\]](2111.md)
 
