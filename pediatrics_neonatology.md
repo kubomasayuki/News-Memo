@@ -21,7 +21,7 @@
 
 [\[22-09\]](2209.md)
 * [子供のテレビ視聴は親と一緒、対象年齢などの条件が揃えば有益である。 (University of Portsmouth)](https://www.port.ac.uk/news-events-and-blogs/news/study-suggests-watching-tv-with-your-child-can-help-their-cognitive-development) ([DOI](https://doi.org/10.3389/fpsyg.2022.923370))
-* [小さい頃にスポーツに取り組むことで忍耐力が養われ、将来の成功につながる気質を育てる。 (Ohio State University)](https://news.osu.edu/sports-help-kids-develop-important-trait-linked-to-adult-success/) ([論文](https://www.tandfonline.com/doi/full/10.1080/01490400.2022.2090037))
+* [小さい頃にスポーツに取り組むことで忍耐力が養われ、将来の成功につながる気質を育てる。 (Ohio State University)](https://news.osu.edu/sports-help-kids-develop-important-trait-linked-to-adult-success/) ([DOI](https://doi.org/10.1080/01490400.2022.2090037))
 
 [\[22-08\]](2208.md)
 * [低体温療法を受けているHIE児にEPOを投与しても予後を改善しない。 (UCSF)](https://newbornresearch.ucsf.edu/clinical-trials) ([論文](10.1056/NEJMoa2119660)、[臨床試験](https://clinicaltrials.gov/ct2/show/NCT02811263))
