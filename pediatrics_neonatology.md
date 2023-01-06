@@ -2,6 +2,7 @@
 
 [\[23-01\]](2301.md)
 * [母子手帳は日本で生まれ、世界で16%の母親(年間2200万冊)に使われている。 (JICA)](https://www.jica.go.jp/activities/issues/health/mch_handbook/index.html)
+* [英国で新生児のゲノミクス研究を発表。 (Genomics England)](https://www.genomicsengland.co.uk/initiatives/newborns) ([プレスリリース](https://www.gov.uk/government/news/over-175-million-for-cutting-edge-genomics-research))
 
 [\[22-12\]](2212.md)
 * [早産児の心拍数変動(NHRV)レベルは予後(罹患率、死亡率)と相関。 (University of Southern California School of Medicine)](https://doi.org/10.1542/peds.65.1.50)
