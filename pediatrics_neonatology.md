@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[23-01\]](2301.md)
+* [母子手帳は日本で生まれ、世界で16%の母親(年間2200万冊)に使われている。 (JICA)](https://www.jica.go.jp/activities/issues/health/mch_handbook/index.html)
+
 [\[22-12\]](2212.md)
 * [早産児の心拍数変動(NHRV)レベルは予後(罹患率、死亡率)と相関。 (University of Southern California School of Medicine)](https://doi.org/10.1542/peds.65.1.50)
 * [予防接種の抗体レベルは帝王切開で生まれた子と比較して、自然分娩・母乳育児で3.5倍、人工乳でも1.7倍高い。 (University of Edinburgh)](https://www.ed.ac.uk/news/2022/baby-s-jab-responses-linked-to-birth-delivery-meth) ([DOI](https://doi.org/10.1038/s41467-022-34155-2))
@@ -17,7 +20,7 @@
 * [出生後の脳損傷により発症する脳性麻痺について、3日以内の抗炎症薬投与で回復できる可能性。 (University of Auckland)](https://www.auckland.ac.nz/en/news/2022/09/23/study-offers-hope-for-preventing-cerebral-palsy.html) ([DOI](https://dx.doi.org/10.1093/brain/awac331))
 
 [\[22-09\]](2209.md)
-* [子供のテレビ視聴は親と一緒、対象年齢などの条件が揃えば有益である。 (University of Portsmouth)](https://www.port.ac.uk/news-events-and-blogs/news/study-suggests-watching-tv-with-your-child-can-help-their-cognitive-development) ([論文](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.923370/full))
+* [子供のテレビ視聴は親と一緒、対象年齢などの条件が揃えば有益である。 (University of Portsmouth)](https://www.port.ac.uk/news-events-and-blogs/news/study-suggests-watching-tv-with-your-child-can-help-their-cognitive-development) ([DOI](https://doi.org/10.3389/fpsyg.2022.923370))
 * [小さい頃にスポーツに取り組むことで忍耐力が養われ、将来の成功につながる気質を育てる。 (Ohio State University)](https://news.osu.edu/sports-help-kids-develop-important-trait-linked-to-adult-success/) ([論文](https://www.tandfonline.com/doi/full/10.1080/01490400.2022.2090037))
 
 [\[22-08\]](2208.md)
