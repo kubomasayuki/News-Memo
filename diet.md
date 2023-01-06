@@ -29,7 +29,7 @@
 [\[22-06\]](2206.md)
 * [男性ではコーヒーをたくさん飲む人は空腹時血糖値が低いがHbA1cレベルは高い。 (国立がん研究センター)](https://epi.ncc.go.jp/jphc/outcome/8934.html)
 * [遺伝子解析によると妊娠中のコーヒーの消費は流産・死産・早産のリスクを高めない。 (University of Queensland)](https://www.uq.edu.au/news/article/2022/06/genes-reveal-coffee-safe-during-pregnancy) ([DOI](https://doi.org/10.1093/ije/dyac121))
-* [どの食物繊維の効果が大きいかは人それぞれ。 (Stanford University)](https://www.eurekalert.org/news-releases/950343) ([論文](https://www.sciencedirect.com/science/article/pii/S1931312822001664))
+* [どの食物繊維の効果が大きいかは人それぞれ。 (Stanford University)](https://www.eurekalert.org/news-releases/950343) ([DOI](https://doi.org/10.1016/j.chom.2022.03.036))
 
 [\[22-05\]](2205.md)
 * [アスパルテームやアセスルファムKなどの人工甘味料を多く摂取するとがん発症リスク上昇の可能性。 (French National Institute of Health and Medical Research)](https://www.inrae.fr/en/news/artificial-sweeteners-possible-link-increased-cancer-risk) ([DOI](https://doi.org/10.1371/journal.pmed.1003950))
@@ -38,21 +38,21 @@
 
 [\[March 2022\]](2203.md)
 * [なぜ人工塩味料は作れないのか。 (SciShow ‐ YouTube)](https://www.youtube.com/watch?v=UubWXQna0oc)
-* [糖分の長期間の過剰摂取は自己免疫疾患と慢性炎症の発症リスクが増加。 (Universität Würzburg)](https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/wie-zucker-entzuendungen-foerdert/) ([論文](http://dx.doi.org/10.1016/j.cmet.2022.02.015))
-* [血清コチニンレベル(タバコ曝露で増加)が高く、食事の質が低いと、喘息発症の可能性が大幅に増加。 (Icahn School of Medicine at Mount Sinai)](https://www.eurekalert.org/news-releases/947130) ([論文](https://doi.org/10.1513/AnnalsATS.202107-837OC))
+* [糖分の長期間の過剰摂取は自己免疫疾患と慢性炎症の発症リスクが増加。 (Universität Würzburg)](https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/wie-zucker-entzuendungen-foerdert/) ([DOI](http://dx.doi.org/10.1016/j.cmet.2022.02.015))
+* [血清コチニンレベル(タバコ曝露で増加)が高く、食事の質が低いと、喘息発症の可能性が大幅に増加。 (Icahn School of Medicine at Mount Sinai)](https://www.eurekalert.org/news-releases/947130) ([DOI](https://doi.org/10.1513/AnnalsATS.202107-837OC))
 
 [\[February 2022\]](2202.md)
-* [水溶性食物繊維の多い食事は認知症のリスクを下げる。 (筑波大学)](https://www.tsukuba.ac.jp/en/research-news/20220210140000.html) ([論文](http://dx.doi.org/10.1080/1028415X.2022.2027592))
+* [水溶性食物繊維の多い食事は認知症のリスクを下げる。 (筑波大学)](https://www.tsukuba.ac.jp/en/research-news/20220210140000.html) ([DOI](http://dx.doi.org/10.1080/1028415X.2022.2027592))
 
 [\[January 2022\]](2201.md)
 * [LDLコレステロールは脂質以外に栄養や薬剤も運搬する。 (東京大学)](https://www.h.u-tokyo.ac.jp/press/20170405.html) ([論文](https://www.nature.com/articles/s41598-017-00685-9))
-* [ビタミンDが欠乏すると子供のADHDのリスクが上昇する。 (University of Turku)](https://www.utu.fi/en/news/press-release/vitamin-d-deficiency-during-pregnancy-connected-to-elevated-risk-of-adhd) ([論文](https://doi.org/10.1016/j.jaac.2019.11.021))
+* [ビタミンDが欠乏すると子供のADHDのリスクが上昇する。 (University of Turku)](https://www.utu.fi/en/news/press-release/vitamin-d-deficiency-during-pregnancy-connected-to-elevated-risk-of-adhd) ([DOI](https://doi.org/10.1016/j.jaac.2019.11.021))
 * [妊娠中の人工甘味料摂取は赤ちゃんの腸内細菌叢に変化を起こし、肥満リスクが増加する。 (University of Calgary)](https://www.ucalgary.ca/news/low-calorie-sweeteners-do-not-mean-low-risk-infants) ([論文](https://gut.bmj.com/content/69/10/1807))
-* [肉だけでなく、お菓子やコーヒー、アルコールも温室効果ガス排出量が多い。 (University of Leeds)](https://climate.leeds.ac.uk/news/less-healthy-foods-and-drinks-also-damage-climate/) ([論文](https://doi.org/10.1371/journal.pone.0259418))
+* [肉だけでなく、お菓子やコーヒー、アルコールも温室効果ガス排出量が多い。 (University of Leeds)](https://climate.leeds.ac.uk/news/less-healthy-foods-and-drinks-also-damage-climate/) ([DOI](https://doi.org/10.1371/journal.pone.0259418))
 
 [\[December 2021\]](2112.md)
-* [カフェインの代謝が速い人はブラックコーヒーやダークチョコレートの苦みを好む？ (NorthWestern University)](https://news.northwestern.edu/stories/2021/12/why-you-drink-black-coffee-its-in-your-genes/) ([論文](http://dx.doi.org/10.1038/s41598-021-03153-7)、過去の調査：[April 28, 2021 「コーヒーを飲むと健康になる」ではなく、「コーヒーを飲めないと健康上の問題の可能性」？ (University of South Australia)](2104.md))
-* [大人が美味しそうに野菜を食べていると子供の野菜消費量が増える。 (Aston University)](https://www.aston.ac.uk/latest-news/adults-positive-facial-expressions-while-eating-vegetables-help-kids-consume-more) ([論文](https://doi.org/10.1016/j.appet.2021.105779))
+* [カフェインの代謝が速い人はブラックコーヒーやダークチョコレートの苦みを好む？ (NorthWestern University)](https://news.northwestern.edu/stories/2021/12/why-you-drink-black-coffee-its-in-your-genes/) ([DOI](http://dx.doi.org/10.1038/s41598-021-03153-7)、過去の調査：[April 28, 2021 「コーヒーを飲むと健康になる」ではなく、「コーヒーを飲めないと健康上の問題の可能性」？ (University of South Australia)](2104.md))
+* [大人が美味しそうに野菜を食べていると子供の野菜消費量が増える。 (Aston University)](https://www.aston.ac.uk/latest-news/adults-positive-facial-expressions-while-eating-vegetables-help-kids-consume-more) ([DOI](https://doi.org/10.1016/j.appet.2021.105779))
 * [低カフェイン消費者のカフェイン摂取は動体視力を向上させる。 (University of Waterloo)](https://uwaterloo.ca/news/media/coffee-time-caffeine-improves-reaction-moving-targets) ([論文](https://link.springer.com/article/10.1007/s00213-021-05953-1))
 
 [\[November 2021\]](2111.md)
