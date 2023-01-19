@@ -34,7 +34,7 @@
 * [新しい歯科治療法をシミュレートするためのバイオフィルム。 (University of Saskatchewan)](https://news.usask.ca/articles/research/2021/usask-dentistry-research-team-proves-biofilm-method-can-be-used-to-inexpensively-test-new-tooth-decay-treatments.php) ([DOI](http://dx.doi.org/10.1016/j.mimet.2021.106386))
 
 [\[21-11\]](2111.md)
-* [肥満による炎症は破骨細胞を発達させ、歯周病リスクを発達させる。 (University at Buffalo)](http://www.buffalo.edu/news/releases/2021/11/011.html) ([論文](https://journals.sagepub.com/doi/10.1177/00220345211040729))
+* [肥満による炎症は破骨細胞を発達させ、歯周病リスクを発達させる。 (University at Buffalo)](http://www.buffalo.edu/news/releases/2021/11/011.html) ([DOI](https://doi.org/10.1177/00220345211040729))
 * [ブラッシング方法。 (American Dental Association)](https://www.mouthhealthy.org/en/az-topics/b/brushing-your-teeth)
 
 [\[21-10\]](2110.md)
