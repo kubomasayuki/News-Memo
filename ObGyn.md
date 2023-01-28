@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[23-01\]](2301.md)
+* [妊婦は歯科治療だけでは早産予防にはならず、マウスウォッシュも組み合わせると改善する。 (University of South Carolina)](https://doi.org/10.1001/jamanetworkopen.2022.47632)
 * [母子手帳は日本で生まれ、世界で16%の母親(年間2200万冊)に使われている。 (JICA)](https://www.jica.go.jp/activities/issues/health/mch_handbook/index.html)
 * [妊娠糖尿病の既往歴のある女性は、産後にコーヒー(カフェイン有無は問わない)を飲むと2型糖尿病発症を予防できる。 (National University of Singapore)](https://medicine.nus.edu.sg/news/drinking-coffee-regularly-after-pregnancy-may-lower-the-risk-of-type-2-diabetes-for-women-who-had-diabetes-during-pregnancy/) ([DOI](https://dx.doi.org/10.1093/ajcn/nqac241))
 
