@@ -1,6 +1,7 @@
 \[aging_cognition\] [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[23-01\]](2301.md)
+* [非認知症患者は魚介類、きのこ、大豆製品、コーヒーの摂取割合が高い。 (国立長寿医療研究センター)](https://www.ncgg.go.jp/hospital/monowasure/news/20211025.html) ([DOI](https://doi.org/10.1016/j.nut.2021.111524))
 * [体重が減少3.5kg以上減少した高齢者は認知症リスクが高い。 (東北大学、大崎市民コホート2006研究)](http://www.pbhealth.med.tohoku.ac.jp/publication/pdf/2020/2020_7.pdf) ([DOI](https://doi.org/10.2188/jea.JE20200260))
 * [運動やマインドフルネスによって、認知症の予防はできるが、認知機能は改善しない。 (Washington University School of Medicine)](https://medicine.wustl.edu/news/exercise-mindfulness-dont-appear-to-boost-cognitive-function-in-older-adults/) ([DOI](https://dx.doi.org/10.1001/jama.2022.21680))
 
