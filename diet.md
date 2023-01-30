@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) \[diet\] [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[23-01\]](2301.md)
+* [非認知症患者は魚介類、きのこ、大豆製品、コーヒーの摂取割合が高い。 (国立長寿医療研究センター)](https://www.ncgg.go.jp/hospital/monowasure/news/20211025.html) ([DOI](https://doi.org/10.1016/j.nut.2021.111524))
 * [発酵食品に含まれるプロバイオティクスが口臭を緩和する可能性。 (四川大学)](https://medicalxpress.com/news/2022-12-probiotic-bacteria-fermented-foods-dispel.html) ([DOI](http://dx.doi.org/10.1136/bmjopen-2022-060753))
 * [妊娠糖尿病の既往歴のある女性は、産後にコーヒー(カフェイン有無は問わない)を飲むと2型糖尿病発症を予防できる。 (National University of Singapore)](https://medicine.nus.edu.sg/news/drinking-coffee-regularly-after-pregnancy-may-lower-the-risk-of-type-2-diabetes-for-women-who-had-diabetes-during-pregnancy/) ([DOI](https://dx.doi.org/10.1093/ajcn/nqac241))
 * [地中海食は男女双方の生殖能力を改善する可能性。 (University of South Australia)](https://www.unisa.edu.au/media-centre/Releases/2022/a-mediterranean-diet-not-only-boosts-health--but-also-improves-fertility/) ([DOI](https://doi.org/10.3390/nu14193914))
