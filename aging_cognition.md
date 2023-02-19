@@ -1,7 +1,7 @@
 \[aging_cognition\] [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[23-02\]](2302.md)
-* [中年期の禁煙は認知機能低下予防になる。 (Ohio State University)](https://cph.osu.edu/news/2022/12/smoking-increases-chances-mid-life-memory-loss-confusion)
+* [中年期の禁煙は認知機能低下予防になる。 (Ohio State University)](https://cph.osu.edu/news/2022/12/smoking-increases-chances-mid-life-memory-loss-confusion) ([DOI](https://dx.doi.org/10.3233/JAD-220501))
 
 [\[23-01\]](2301.md)
 * [非認知症患者は魚介類、きのこ、大豆製品、コーヒーの摂取割合が高い。 (国立長寿医療研究センター)](https://www.ncgg.go.jp/hospital/monowasure/news/20211025.html) ([DOI](https://doi.org/10.1016/j.nut.2021.111524))
