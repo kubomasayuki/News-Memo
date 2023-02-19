@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) \[diet\] [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[23-02\]](2302.md)
+* [超高周波を含む音が食後血糖値を抑制。 (国立精神・神経医療研究センター)](https://www.ncnp.go.jp/topics/2022/20221110p.html) ([DOI](https://doi.org/10.1038/s41598-022-23336-0))
+
 [\[23-01\]](2301.md)
 * [非認知症患者は魚介類、きのこ、大豆製品、コーヒーの摂取割合が高い。 (国立長寿医療研究センター)](https://www.ncgg.go.jp/hospital/monowasure/news/20211025.html) ([DOI](https://doi.org/10.1016/j.nut.2021.111524))
 * [運動の代わりにガーデニング。 (University of Colorado at Boulder)](https://www.colorado.edu/today/2023/01/05/scientific-reasons-you-should-resolve-start-gardening-2023) ([DOI](https://dx.doi.org/10.1016/S2542-5196(22)00303-5))
