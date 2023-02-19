@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[23-02\]](2302.md)
+* [妊娠中の1型、2型、妊娠糖尿病によって、児の脳の発達(遅延)に違いがある。 (台湾国立成功大学)](https://researchoutput.ncku.edu.tw/en/publications/childhood-neurodevelopmental-disorders-and-maternal-diabetes-apop) ([DOI](https://onlinelibrary.wiley.com/doi/abs/10.1111/dmcn.15488))
+
 [\[23-01\]](2301.md)
 * [破水してから病院に向かうまでに必要なもののセット。 (オオサキメディカル)](https://dacco-web.com/product/hasui-set)
 * [妊婦は歯科治療だけでは早産予防にはならず、マウスウォッシュも組み合わせると改善する。 (University of South Carolina)](https://doi.org/10.1001/jamanetworkopen.2022.47632)
