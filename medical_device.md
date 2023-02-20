@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) \[medical_device\] [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[23-02\]](2302.md)
+* [のどの疲労を検知するデバイス。 (Northwestern University)](https://news.northwestern.edu/stories/2023/02/first-wearable-device-for-vocal-fatigue-senses-when-your-voice-needs-a-break/) ([DOI](https://dx.doi.org/10.1073/pnas.2219394120))
+
 [\[23-01\]](2301.md)
 * [脳波で制御する車イスで移動を実現。 (University of Texas at Austin)](https://sites.utexas.edu/jdrmillan/2022/11/18/brain-powered-wheelchair-shows-real-world-promise/)
 
