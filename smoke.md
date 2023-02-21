@@ -1,14 +1,14 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) \[smoke\]
 
 [\[23-02\]](2302.md)
-* [中年期の禁煙は認知機能低下予防になる。 (Ohio State University)](https://cph.osu.edu/news/2022/12/smoking-increases-chances-mid-life-memory-loss-confusion) ([DOI](https://dx.doi.org/10.3233/JAD-220501))
+* [中年期の禁煙は認知機能低下予防になる。 (Ohio State University)](https://cph.osu.edu/news/2022/12/smoking-increases-chances-mid-life-memory-loss-confusion) ([DOI](https://doi.org/10.3233/JAD-220501))
 
 [\[23-01\]](2301.md)
 
 [\[22-12\]](2212.md)
 
 [\[22-11\]](2211.md)
-* [依存症の家族歴は子どもの依存症のリスク。 (University of Michigan)](https://news.umich.edu/feeling-addicted-to-food-your-parents-drinking-habits-may-impact-your-risk/) ([DOI](https://dx.doi.org/10.1037/adb0000870))
+* [依存症の家族歴は子どもの依存症のリスク。 (University of Michigan)](https://news.umich.edu/feeling-addicted-to-food-your-parents-drinking-habits-may-impact-your-risk/) ([DOI](https://doi.org/10.1037/adb0000870))
 
 [\[22-10\]](2210.md)
 
@@ -23,7 +23,7 @@
 * [喫煙すると精子の質と量が低下。 (Cleveland Clinic)](https://www.clevelandclinic.org/reproductiveresearchcenter/docs/publications/549_Sharma_et_al_Cigarette_Smoking_and_Semen_Quality.pdf) ([DOI](https://doi.org/10.1016/j.eururo.2016.04.010))
 
 [\[22-05\]](2205.md)
-* [FDAがメントールタバコを禁止した場合、約130万人が禁煙するとの試算。 (University of Waterloo)](https://uwaterloo.ca/news/media/more-million-smokers-likely-quit-after-us-bans-menthol) ([DOI](http://dx.doi.org/10.1136/tobaccocontrol-2021-057227)、[FDAの計画](https://www.fda.gov/tobacco-products/products-ingredients-components/menthol-and-other-flavors-tobacco-products))
+* [FDAがメントールタバコを禁止した場合、約130万人が禁煙するとの試算。 (University of Waterloo)](https://uwaterloo.ca/news/media/more-million-smokers-likely-quit-after-us-bans-menthol) ([DOI](http://doi.org/10.1136/tobaccocontrol-2021-057227)、[FDAの計画](https://www.fda.gov/tobacco-products/products-ingredients-components/menthol-and-other-flavors-tobacco-products))
 
 [\[22-04\]](2204.md)
 
