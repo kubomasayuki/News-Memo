@@ -25,7 +25,7 @@
 * [10歳以下の喫煙は著しい認知能力低下と脳容積縮小を起こす。 (MedPage Today)](https://www.medpagetoday.com/pediatrics/preventivecare/100164) ([DOI 1](https://doi.org/10.1001/jamanetworkopen.2022.25991)、[DOI 2](https://doi.org/10.1001/jamanetworkopen.2022.26001))
 
 [\[22-07\]](2207.md)
-* [60歳未満の女性では、納豆の摂取量増で認知症発症リスク低下(大豆製品やイソフラボンの総摂取量とは相関なし)。 (国立がん研究センター)](https://epi.ncc.go.jp/jphc/outcome/8937.html) ([論文](https://doi.org/10.1007/s00394-022-02937-5))
+* [60歳未満の女性では、納豆の摂取量増で認知症発症リスク低下(大豆製品やイソフラボンの総摂取量とは相関なし)。 (国立がん研究センター)](https://epi.ncc.go.jp/jphc/outcome/8937.html) ([DOI](https://doi.org/10.1007/s00394-022-02937-5))
 * [生の野菜や果物はメンタルヘルスに良い。 (University of Otago)](https://www.otago.ac.nz/news/news/otago683376.html) ([DOI](https://doi.org/10.3389/fpsyg.2018.00487))
 * [高脂肪食の長期間摂取は脳を委縮させ、脳委縮による代謝不良は肥満を引き起こす可能性。 (University of South Australia)](https://www.unisa.edu.au/media-centre/Releases/2022/long-term-high-fat-diet-expands-waistline-and-shrinks-brain/) ([DOI](https://doi.org/10.1007/s11011-022-01029-x))
 
