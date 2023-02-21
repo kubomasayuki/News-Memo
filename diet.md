@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) \[diet\] [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[23-02\]](2302.md)
+* [視覚的な刺激が食習慣に影響。 (大阪公立大学)](https://www.omu.ac.jp/info/research_news/entry-03696.html) ([DOI](https://doi.org/10.1371/journal.pone.0275959)、[過去の調査 21-12-16 大人が美味しそうに野菜を食べていると子供の野菜消費量が増える。 (Aston University)](2112.md))
 * [超高周波を含む音が食後血糖値を抑制。 (国立精神・神経医療研究センター)](https://www.ncnp.go.jp/topics/2022/20221110p.html) ([DOI](https://doi.org/10.1038/s41598-022-23336-0))
 
 [\[23-01\]](2301.md)
@@ -59,7 +60,7 @@
 * [妊娠中の人工甘味料摂取は赤ちゃんの腸内細菌叢に変化を起こし、肥満リスクが増加する。 (University of Calgary)](https://www.ucalgary.ca/news/low-calorie-sweeteners-do-not-mean-low-risk-infants) ([DOI](https://doi.org/10.1136/gutjnl-2018-317505))
 * [肉だけでなく、お菓子やコーヒー、アルコールも温室効果ガス排出量が多い。 (University of Leeds)](https://climate.leeds.ac.uk/news/less-healthy-foods-and-drinks-also-damage-climate/) ([DOI](https://doi.org/10.1371/journal.pone.0259418))
 
-[\[December 2021\]](2112.md)
+[\[21-12\]](2112.md)
 * [カフェインの代謝が速い人はブラックコーヒーやダークチョコレートの苦みを好む？ (NorthWestern University)](https://news.northwestern.edu/stories/2021/12/why-you-drink-black-coffee-its-in-your-genes/) ([DOI](https://doi.org/10.1038/s41598-021-03153-7)、過去の調査：[April 28, 2021 「コーヒーを飲むと健康になる」ではなく、「コーヒーを飲めないと健康上の問題の可能性」？ (University of South Australia)](2104.md))
 * [大人が美味しそうに野菜を食べていると子供の野菜消費量が増える。 (Aston University)](https://www.aston.ac.uk/latest-news/adults-positive-facial-expressions-while-eating-vegetables-help-kids-consume-more) ([DOI](https://doi.org/10.1016/j.appet.2021.105779))
 * [低カフェイン消費者のカフェイン摂取は動体視力を向上させる。 (University of Waterloo)](https://uwaterloo.ca/news/media/coffee-time-caffeine-improves-reaction-moving-targets) ([論文](https://link.springer.com/article/10.1007/s00213-021-05953-1))
