@@ -27,26 +27,26 @@
 * [小さい頃にスポーツに取り組むことで忍耐力が養われ、将来の成功につながる気質を育てる。 (Ohio State University)](https://news.osu.edu/sports-help-kids-develop-important-trait-linked-to-adult-success/) ([DOI](https://doi.org/10.1080/01490400.2022.2090037))
 
 [\[22-08\]](2208.md)
-* [低体温療法を受けているHIE児にEPOを投与しても予後を改善しない。 (UCSF)](https://newbornresearch.ucsf.edu/clinical-trials) ([論文](10.1056/NEJMoa2119660)、[臨床試験](https://clinicaltrials.gov/ct2/show/NCT02811263))
-* [10歳以下の喫煙は著しい認知能力低下と脳容積縮小を起こす。 (MedPage Today)](https://www.medpagetoday.com/pediatrics/preventivecare/100164) ([論文1](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2794988)、[論文2](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2794992))
+* [低体温療法を受けているHIE児にEPOを投与しても予後を改善しない。 (UCSF)](https://newbornresearch.ucsf.edu/clinical-trials) ([DOI](https://doi.org/10.1056/NEJMoa2119660)、[臨床試験](https://clinicaltrials.gov/ct2/show/NCT02811263))
+* [10歳以下の喫煙は著しい認知能力低下と脳容積縮小を起こす。 (MedPage Today)](https://www.medpagetoday.com/pediatrics/preventivecare/100164) ([DOI 1](https://doi.org/10.1001/jamanetworkopen.2022.25991)、[DOI 2](https://doi.org/10.1001/jamanetworkopen.2022.26001))
 
 [\[22-07\]](2207.md)
-* [新生児は生後数時間で言語を学習し始める。 (Bangor University)](https://www.bangor.ac.uk/news/newborns-develop-language-skills-within-hours) ([論文](https://dx.doi.org/10.1038/s41562-022-01355-1))
+* [新生児は生後数時間で言語を学習し始める。 (Bangor University)](https://www.bangor.ac.uk/news/newborns-develop-language-skills-within-hours) ([DOI](https://doi.org/10.1038/s41562-022-01355-1))
 
 [\[22-06\]](2206.md)
 * [生後3ヶ月時点で就寝前のルーチンが一貫していると、12ヶ月や24ヶ月時点で睡眠時間が増える。 (University of Illinois at Urbana-Champaign)](https://news.illinois.edu/view/6367/1153380885) ([論文](https://academic.oup.com/sleep/article-abstract/44/8/zsab045/6149134))
-* [子供の家事手伝いは認知機能を発達させる。 (La Trobe University)](https://www.latrobe.edu.au/news/articles/2022/release/childrens-chores-improve-brain-function) ([論文](https://doi.org/10.1111/1440-1630.12822))
-* [就学前に他の子とうまく遊ぶ(ピアプレイ能力が高い)子供は後年のメンタルヘルスの問題が少ない。 (University of Cambridge)](https://www.cam.ac.uk/research/news/pre-school-play-with-friends-lowers-risk-of-mental-health-problems-later) ([論文](https://doi.org/10.1007/s10578-022-01368-x))
+* [子供の家事手伝いは認知機能を発達させる。 (La Trobe University)](https://www.latrobe.edu.au/news/articles/2022/release/childrens-chores-improve-brain-function) ([DOI](https://doi.org/10.1111/1440-1630.12822))
+* [就学前に他の子とうまく遊ぶ(ピアプレイ能力が高い)子供は後年のメンタルヘルスの問題が少ない。 (University of Cambridge)](https://www.cam.ac.uk/research/news/pre-school-play-with-friends-lowers-risk-of-mental-health-problems-later) ([DOI](https://doi.org/10.1007/s10578-022-01368-x))
 * [新生児医療【超低出生体重児】万全の医療ケアですくすく成長。 (米国医療機器・IVD工業会出版)](https://amdd.jp/technology/essay/vol3/2049/)
 
 [\[22-05\]](2205.md)
-* [分娩様式によって子への愛着は変化しない。 (富山大学)](http://www.med.u-toyama.ac.jp/eco-tuc/result/bonding.html) ([論文](https://doi.org/10.1016/j.jad.2019.11.005))
+* [分娩様式によって子への愛着は変化しない。 (富山大学)](http://www.med.u-toyama.ac.jp/eco-tuc/result/bonding.html) ([DOI](https://doi.org/10.1016/j.jad.2019.11.005))
 * [SIDS児とその他の原因の死亡児の採血結果よりSIDS児は分解酵素(BChE)のレベルが有意に低かった、バイオマーカーとして使える可能性。 (Boston Children's Hospital)](https://www.nejm.org/doi/full/10.1056/NEJMp2119221) ([臨床研究](https://www.childrenshospital.org/conditions/sudden-infant-death-syndrome-sids))
-* [昼寝は小児の文字と発音を結び付ける学びに役立つ。 (Macquarie University)](https://researchers.mq.edu.au/en/publications/nap-effects-on-pre-school-childrens-learning-of-letter-sound-mapp) ([論文](https://doi.org/10.1111/cdev.13753))
+* [昼寝は小児の文字と発音を結び付ける学びに役立つ。 (Macquarie University)](https://researchers.mq.edu.au/en/publications/nap-effects-on-pre-school-childrens-learning-of-letter-sound-mapp) ([DOI](https://doi.org/10.1111/cdev.13753))
 * [日中の15分の運動は学童のフィットネス向上だけでなく、記憶力も向上させた。 (University of Stirling)](https://www.stir.ac.uk/news/2022/april-2022-news/daily-activity-is-route-to-a-better-memory-as-well-as-fitness-for-pupils-/) ([論文](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.812616/full))
 
 [\[22-04\]](2204.md)
-* [赤ちゃんのうつぶせ寝防止ベルト。 (Snoozzz)](https://www.snoozzz.com/over-ons/) (過去の調査：[June 5, 2021 赤ちゃんのうつぶせ寝、SIDS対策デバイス。 (MonBaby)](2106.md)、[July 27, 2019 おむつが濡れたらスマホに通知するシステム (CNET Japan)](1907.md))
+* [赤ちゃんのうつぶせ寝防止ベルト。 (Snoozzz)](https://www.snoozzz.com/over-ons/) (過去の調査：[21-06-05 赤ちゃんのうつぶせ寝、SIDS対策デバイス。 (MonBaby)](2106.md)、[July 27, 2019 おむつが濡れたらスマホに通知するシステム (CNET Japan)](1907.md))
 
 [\[22-03\]](2203.md)
 
