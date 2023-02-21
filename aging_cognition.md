@@ -26,12 +26,12 @@
 
 [\[22-07\]](2207.md)
 * [60歳未満の女性では、納豆の摂取量増で認知症発症リスク低下(大豆製品やイソフラボンの総摂取量とは相関なし)。 (国立がん研究センター)](https://epi.ncc.go.jp/jphc/outcome/8937.html) ([論文](https://doi.org/10.1007/s00394-022-02937-5))
-* [生の野菜や果物はメンタルヘルスに良い。 (University of Otago)](https://www.otago.ac.nz/news/news/otago683376.html) ([論文](https://doi.org/10.3389/fpsyg.2018.00487))
-* [高脂肪食の長期間摂取は脳を委縮させ、脳委縮による代謝不良は肥満を引き起こす可能性。 (University of South Australia)](https://www.unisa.edu.au/media-centre/Releases/2022/long-term-high-fat-diet-expands-waistline-and-shrinks-brain/) ([論文](https://doi.org/10.1007/s11011-022-01029-x))
+* [生の野菜や果物はメンタルヘルスに良い。 (University of Otago)](https://www.otago.ac.nz/news/news/otago683376.html) ([DOI](https://doi.org/10.3389/fpsyg.2018.00487))
+* [高脂肪食の長期間摂取は脳を委縮させ、脳委縮による代謝不良は肥満を引き起こす可能性。 (University of South Australia)](https://www.unisa.edu.au/media-centre/Releases/2022/long-term-high-fat-diet-expands-waistline-and-shrinks-brain/) ([DOI](https://doi.org/10.1007/s11011-022-01029-x))
 
 [\[22-06\]](2206.md)
-* [子供の家事手伝いは認知機能を発達させる。 (La Trobe University)](https://www.latrobe.edu.au/news/articles/2022/release/childrens-chores-improve-brain-function) ([論文](https://doi.org/10.1111/1440-1630.12822))
-* [描画時の筆圧など特徴を解析し認知機能の低下を予測。 (筑波大学)](https://www.tsukuba.ac.jp/journal/medicine-health/20220602141500.html) ([論文](https://formative.jmir.org/2022/5/e37014))
+* [子供の家事手伝いは認知機能を発達させる。 (La Trobe University)](https://www.latrobe.edu.au/news/articles/2022/release/childrens-chores-improve-brain-function) ([DOI](https://doi.org/10.1111/1440-1630.12822))
+* [描画時の筆圧など特徴を解析し認知機能の低下を予測。 (筑波大学)](https://www.tsukuba.ac.jp/journal/medicine-health/20220602141500.html) ([DOI](https://doi.org/10.2196/37014))
 
 [\[22-05\]](2205.md)
 * [日本人中高年においては中強度の身体活動量が多い方が認知症発症リスクが低い。 (JPHC Study)](https://epi.ncc.go.jp/jphc/outcome/8908.html) ([論文](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2790484))
@@ -42,18 +42,18 @@
 [\[22-03\]](2203.md)
 
 [\[22-02\]](2202.md)
-* [PM2.5曝露が多く、緑地が少ない子供はADHD発症リスクが増加。 (Barcelona Institute for Global Health, University of British Columbia)](https://www.med.ubc.ca/news/reduce-adhd-with-more-parks-less-pollution/) ([論文](https://doi.org/10.1016/j.envint.2022.107120))
-* [水溶性食物繊維の多い食事は認知症のリスクを下げる。 (筑波大学)](https://www.tsukuba.ac.jp/en/research-news/20220210140000.html) ([論文](http://dx.doi.org/10.1080/1028415X.2022.2027592))
+* [PM2.5曝露が多く、緑地が少ない子供はADHD発症リスクが増加。 (Barcelona Institute for Global Health, University of British Columbia)](https://www.med.ubc.ca/news/reduce-adhd-with-more-parks-less-pollution/) ([DOI](https://doi.org/10.1016/j.envint.2022.107120))
+* [水溶性食物繊維の多い食事は認知症のリスクを下げる。 (筑波大学)](https://www.tsukuba.ac.jp/en/research-news/20220210140000.html) ([DOI](https://doi.org/10.1080/1028415X.2022.2027592))
 
 [\[22-01\]](2201.md)
 
 [\[21-12\]](2112.md)
-* [安静時心拍数が高いと認知症リスクが上昇。 (Karolinska Institutet)](https://news.ki.se/elevated-heart-rate-linked-to-increased-risk-of-dementia) ([論文](https://doi.org/10.1002/alz.12495))
+* [安静時心拍数が高いと認知症リスクが上昇。 (Karolinska Institutet)](https://news.ki.se/elevated-heart-rate-linked-to-increased-risk-of-dementia) ([DOI](https://doi.org/10.1002/alz.12495))
 
 [\[21-11\]](2111.md)
-* [コーヒーやお茶を飲む人は脳卒中や認知症のリスクが低い。 (天津医科大学)](https://medicalxpress.com/news/2021-11-coffee-tea-dementia.html) ([論文](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003830)、過去の調査：[July 28, 2021 コーヒーの過剰摂取は認知症リスク上昇の可能性。 (University of South Australia)](2107.md)、[April 28, 2020 フィルターでろ過したコーヒーを1日1～4杯飲む人が最も健康。 (Norwegian Institute of Public Health)](2004.md))
+* [コーヒーやお茶を飲む人は脳卒中や認知症のリスクが低い。 (天津医科大学)](https://medicalxpress.com/news/2021-11-coffee-tea-dementia.html) ([論文](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003830)、過去の調査：[21-07-28 コーヒーの過剰摂取は認知症リスク上昇の可能性。 (University of South Australia)](2107.md)、[20-04-28 フィルターでろ過したコーヒーを1日1～4杯飲む人が最も健康。 (Norwegian Institute of Public Health)](2004.md))
 * [大気汚染は脳のパフォーマンスと労働の生産性に影響を与える。 (University of Queensland)](https://www.uq.edu.au/news/article/2021/11/air-pollution-clouds-brain-performance-and-workforce-productivity) ([論文](https://www.nber.org/system/files/working_papers/w28785/w28785.pdf))
-* [炎症スコアの高い食品が偶発的な認知症発症と相関。 (National and Kapodistrian University of Athens Medical School)](https://www.aan.com/PressRoom/Home/PressRelease/4935) ([論文](https://doi.org/10.1212/WNL.0000000000012973))
+* [炎症スコアの高い食品が偶発的な認知症発症と相関。 (National and Kapodistrian University of Athens Medical School)](https://www.aan.com/PressRoom/Home/PressRelease/4935) ([DOI](https://doi.org/10.1212/WNL.0000000000012973))
 * [高血圧の早期発症で認知症発症リスク増。  (American Heart Association)](https://newsroom.heart.org/news/earlier-onset-of-high-blood-pressure-affects-brain-structure-may-increase-dementia-risk)
 * [唾液にも加齢の兆候あり。 (沖縄科学技術大学院大学)](https://www.oist.jp/ja/news-center/press-releases/36599)
 
