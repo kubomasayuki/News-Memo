@@ -5,29 +5,29 @@
 
 [\[23-01\]](2301.md)
 * [非認知症患者は魚介類、きのこ、大豆製品、コーヒーの摂取割合が高い。 (国立長寿医療研究センター)](https://www.ncgg.go.jp/hospital/monowasure/news/20211025.html) ([DOI](https://doi.org/10.1016/j.nut.2021.111524))
-* [発酵食品に含まれるプロバイオティクスが口臭を緩和する可能性。 (四川大学)](https://medicalxpress.com/news/2022-12-probiotic-bacteria-fermented-foods-dispel.html) ([DOI](http://dx.doi.org/10.1136/bmjopen-2022-060753))
-* [妊娠糖尿病の既往歴のある女性は、産後にコーヒー(カフェイン有無は問わない)を飲むと2型糖尿病発症を予防できる。 (National University of Singapore)](https://medicine.nus.edu.sg/news/drinking-coffee-regularly-after-pregnancy-may-lower-the-risk-of-type-2-diabetes-for-women-who-had-diabetes-during-pregnancy/) ([DOI](https://dx.doi.org/10.1093/ajcn/nqac241))
+* [発酵食品に含まれるプロバイオティクスが口臭を緩和する可能性。 (四川大学)](https://medicalxpress.com/news/2022-12-probiotic-bacteria-fermented-foods-dispel.html) ([DOI](https://doi.org/10.1136/bmjopen-2022-060753))
+* [妊娠糖尿病の既往歴のある女性は、産後にコーヒー(カフェイン有無は問わない)を飲むと2型糖尿病発症を予防できる。 (National University of Singapore)](https://medicine.nus.edu.sg/news/drinking-coffee-regularly-after-pregnancy-may-lower-the-risk-of-type-2-diabetes-for-women-who-had-diabetes-during-pregnancy/) ([DOI](https://doi.org/10.1093/ajcn/nqac241))
 * [地中海食は男女双方の生殖能力を改善する可能性。 (University of South Australia)](https://www.unisa.edu.au/media-centre/Releases/2022/a-mediterranean-diet-not-only-boosts-health--but-also-improves-fertility/) ([DOI](https://doi.org/10.3390/nu14193914))
 
 [\[22-12\]](2212.md)
-* [食器の色が味覚に影響する。 (University of Poutsmauth)](https://www.port.ac.uk/news-events-and-blogs/news/study-finds-picky-eaters-are-put-off-by-food-depending-on-plateware-colour) ([DOI](https://dx.doi.org/10.1016/j.foodqual.2022.104763))
+* [食器の色が味覚に影響する。 (University of Poutsmauth)](https://www.port.ac.uk/news-events-and-blogs/news/study-finds-picky-eaters-are-put-off-by-food-depending-on-plateware-colour) ([DOI](https://doi.org/10.1016/j.foodqual.2022.104763))
 
 [\[22-11\]](2211.md)
-* [スナック菓子やファストフードなどの超加工食品は深刻な依存性があり、タバコと同程度脳を変化させる。 (University of Michigan)](https://news.umich.edu/highly-processed-foods-can-be-considered-addictive-like-tobacco-products/) ([DOI](https://dx.doi.org/10.1111/add.16065))
-* [依存症の家族歴は子どもの依存症のリスク。 (University of Michigan)](https://news.umich.edu/feeling-addicted-to-food-your-parents-drinking-habits-may-impact-your-risk/) ([DOI](https://dx.doi.org/10.1037/adb0000870))
+* [スナック菓子やファストフードなどの超加工食品は深刻な依存性があり、タバコと同程度脳を変化させる。 (University of Michigan)](https://news.umich.edu/highly-processed-foods-can-be-considered-addictive-like-tobacco-products/) ([DOI](https://doi.org/10.1111/add.16065))
+* [依存症の家族歴は子どもの依存症のリスク。 (University of Michigan)](https://news.umich.edu/feeling-addicted-to-food-your-parents-drinking-habits-may-impact-your-risk/) ([DOI](https://doi.org/10.1037/adb0000870))
 
 [\[22-10\]](2210.md)
-* [男性は座りがちな生活と糖質摂取によって足の血流が悪くなりやすく、心血管疾患や2型糖尿病の原因の1つとなる。 (University of Missouri)](https://medicine.missouri.edu/news/sedentary-lifestyle-and-sugary-diet-more-detrimental-men) ([DOI](https://dx.doi.org/10.1210/endocr/bqac137))
+* [男性は座りがちな生活と糖質摂取によって足の血流が悪くなりやすく、心血管疾患や2型糖尿病の原因の1つとなる。 (University of Missouri)](https://medicine.missouri.edu/news/sedentary-lifestyle-and-sugary-diet-more-detrimental-men) ([DOI](https://doi.org/10.1210/endocr/bqac137))
 * [高脂肪食による肥満は味蕾を減少させ、味覚を鈍らせる。 (Binghamton University)](https://www.binghamton.edu/news/story/1961/obesitytied-to-weakened-response-to-taste) ([DOI](https://doi.org/10.3389/fnint.2019.00035))
-* [高糖食を続けると味覚は鈍くなるが、止めると回復する可能性がある。 (University of Michigan)](https://news.umich.edu/a-high-sugar-diet-decreases-sweetness-in-rats/) ([DOI](https://dx.doi.org/10.1016/j.cub.2022.07.063))
+* [高糖食を続けると味覚は鈍くなるが、止めると回復する可能性がある。 (University of Michigan)](https://news.umich.edu/a-high-sugar-diet-decreases-sweetness-in-rats/) ([DOI](https://doi.org/10.1016/j.cub.2022.07.063))
 
 [\[22-09\]](2209.md) 
-* [妊婦の食習慣は胎児の食べ物の好き嫌いに影響？ (Durham University)](https://www.durham.ac.uk/research/current/research-news/fetuses-react-to-taste-and-smell-in-the-womb/) ([DOI](https://dx.doi.org/10.1177/09567976221105460))
+* [妊婦の食習慣は胎児の食べ物の好き嫌いに影響？ (Durham University)](https://www.durham.ac.uk/research/current/research-news/fetuses-react-to-taste-and-smell-in-the-womb/) ([DOI](https://doi.org/10.1177/09567976221105460))
 * [カフェインは30分～2時間で効果が出始め、半減期は2～8時間。 (国立精神・神経医療研究センター)](https://www.ncnp.go.jp/hospital/guide/sleep-column14.html) ([参考文献](https://doi.org/10.1016/j.fct.2017.04.002))
 * [低BMIで朝食を抜く人ほど蛋白尿陽性が出やすい。 (りんくう総合医療センター)](https://www.carenet.com/news/general/carenet/55045) ([DOI](https://doi.org/10.3389/fendo.2022.916374))
 
 [\[22-08\]](2208.md)
-* [短期的な高タンパク食は腸内細菌叢の多様性を減少させ、持久系アスリートのパフォーマンスを低下させる。 (Anglia Ruskin University)](https://aru.ac.uk/news/a-stable-gut-helps-elite-athletes-perform-better) ([DOI](https://dx.doi.org/10.1128/msystems.00129-22))
+* [短期的な高タンパク食は腸内細菌叢の多様性を減少させ、持久系アスリートのパフォーマンスを低下させる。 (Anglia Ruskin University)](https://aru.ac.uk/news/a-stable-gut-helps-elite-athletes-perform-better) ([DOI](https://doi.org/10.1128/msystems.00129-22))
 
 [\[22-07\]](2207.md)
 * [60歳未満の女性では、納豆の摂取量増で認知症発症リスク低下(大豆製品やイソフラボンの総摂取量とは相関なし)。 (国立がん研究センター)](https://epi.ncc.go.jp/jphc/outcome/8937.html) ([DOI](https://doi.org/10.1007/s00394-022-02937-5))
@@ -47,26 +47,26 @@
 
 [\[22-03\]](2203.md)
 * [なぜ人工塩味料は作れないのか。 (SciShow ‐ YouTube)](https://www.youtube.com/watch?v=UubWXQna0oc)
-* [糖分の長期間の過剰摂取は自己免疫疾患と慢性炎症の発症リスクが増加。 (Universität Würzburg)](https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/wie-zucker-entzuendungen-foerdert/) ([DOI](http://dx.doi.org/10.1016/j.cmet.2022.02.015))
+* [糖分の長期間の過剰摂取は自己免疫疾患と慢性炎症の発症リスクが増加。 (Universität Würzburg)](https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/wie-zucker-entzuendungen-foerdert/) ([DOI](https://doi.org/10.1016/j.cmet.2022.02.015))
 * [血清コチニンレベル(タバコ曝露で増加)が高く、食事の質が低いと、喘息発症の可能性が大幅に増加。 (Icahn School of Medicine at Mount Sinai)](https://www.eurekalert.org/news-releases/947130) ([DOI](https://doi.org/10.1513/AnnalsATS.202107-837OC))
 
 [\[22-02\]](2202.md)
-* [水溶性食物繊維の多い食事は認知症のリスクを下げる。 (筑波大学)](https://www.tsukuba.ac.jp/en/research-news/20220210140000.html) ([DOI](http://dx.doi.org/10.1080/1028415X.2022.2027592))
+* [水溶性食物繊維の多い食事は認知症のリスクを下げる。 (筑波大学)](https://www.tsukuba.ac.jp/en/research-news/20220210140000.html) ([DOI](https://doi.org/10.1080/1028415X.2022.2027592))
 
-[\[January 2022\]](2201.md)
-* [LDLコレステロールは脂質以外に栄養や薬剤も運搬する。 (東京大学)](https://www.h.u-tokyo.ac.jp/press/20170405.html) ([論文](https://www.nature.com/articles/s41598-017-00685-9))
+[\[22-01\]](2201.md)
+* [LDLコレステロールは脂質以外に栄養や薬剤も運搬する。 (東京大学)](https://www.h.u-tokyo.ac.jp/press/20170405.html) ([DOI](https://doi.org/10.1038/s41598-017-00685-9))
 * [ビタミンDが欠乏すると子供のADHDのリスクが上昇する。 (University of Turku)](https://www.utu.fi/en/news/press-release/vitamin-d-deficiency-during-pregnancy-connected-to-elevated-risk-of-adhd) ([DOI](https://doi.org/10.1016/j.jaac.2019.11.021))
-* [妊娠中の人工甘味料摂取は赤ちゃんの腸内細菌叢に変化を起こし、肥満リスクが増加する。 (University of Calgary)](https://www.ucalgary.ca/news/low-calorie-sweeteners-do-not-mean-low-risk-infants) ([論文](https://gut.bmj.com/content/69/10/1807))
+* [妊娠中の人工甘味料摂取は赤ちゃんの腸内細菌叢に変化を起こし、肥満リスクが増加する。 (University of Calgary)](https://www.ucalgary.ca/news/low-calorie-sweeteners-do-not-mean-low-risk-infants) ([DOI](https://doi.org/10.1136/gutjnl-2018-317505))
 * [肉だけでなく、お菓子やコーヒー、アルコールも温室効果ガス排出量が多い。 (University of Leeds)](https://climate.leeds.ac.uk/news/less-healthy-foods-and-drinks-also-damage-climate/) ([DOI](https://doi.org/10.1371/journal.pone.0259418))
 
 [\[December 2021\]](2112.md)
-* [カフェインの代謝が速い人はブラックコーヒーやダークチョコレートの苦みを好む？ (NorthWestern University)](https://news.northwestern.edu/stories/2021/12/why-you-drink-black-coffee-its-in-your-genes/) ([DOI](http://dx.doi.org/10.1038/s41598-021-03153-7)、過去の調査：[April 28, 2021 「コーヒーを飲むと健康になる」ではなく、「コーヒーを飲めないと健康上の問題の可能性」？ (University of South Australia)](2104.md))
+* [カフェインの代謝が速い人はブラックコーヒーやダークチョコレートの苦みを好む？ (NorthWestern University)](https://news.northwestern.edu/stories/2021/12/why-you-drink-black-coffee-its-in-your-genes/) ([DOI](https://doi.org/10.1038/s41598-021-03153-7)、過去の調査：[April 28, 2021 「コーヒーを飲むと健康になる」ではなく、「コーヒーを飲めないと健康上の問題の可能性」？ (University of South Australia)](2104.md))
 * [大人が美味しそうに野菜を食べていると子供の野菜消費量が増える。 (Aston University)](https://www.aston.ac.uk/latest-news/adults-positive-facial-expressions-while-eating-vegetables-help-kids-consume-more) ([DOI](https://doi.org/10.1016/j.appet.2021.105779))
 * [低カフェイン消費者のカフェイン摂取は動体視力を向上させる。 (University of Waterloo)](https://uwaterloo.ca/news/media/coffee-time-caffeine-improves-reaction-moving-targets) ([論文](https://link.springer.com/article/10.1007/s00213-021-05953-1))
 
 [\[November 2021\]](2111.md)
 * [コーヒーやお茶を飲む人は脳卒中や認知症のリスクが低い。 (天津医科大学)](https://medicalxpress.com/news/2021-11-coffee-tea-dementia.html) ([論文](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003830)、過去の調査：[July 28, 2021 コーヒーの過剰摂取は認知症リスク上昇の可能性。 (University of South Australia)](2107.md)、[April 28, 2020 フィルターでろ過したコーヒーを1日1～4杯飲む人が最も健康。 (Norwegian Institute of Public Health)](2004.md))
-* [炎症スコアの高い食品が偶発的な認知症発症と相関。 (National and Kapodistrian University of Athens Medical School)](https://www.aan.com/PressRoom/Home/PressRelease/4935) ([論文](https://doi.org/10.1212/WNL.0000000000012973))
+* [炎症スコアの高い食品が偶発的な認知症発症と相関。 (National and Kapodistrian University of Athens Medical School)](https://www.aan.com/PressRoom/Home/PressRelease/4935) ([DOI](https://doi.org/10.1212/WNL.0000000000012973))
 * [経口免疫療法の代替？の皮膚パッチ療法の評価。 (DBV Technologies)](https://www.medpagetoday.com/meetingcoverage/acaai/95507) ([論文](https://www.annallergy.org/article/S1081-1206(21)00627-X/fulltext)、[Clinical Trial](https://clinicaltrials.gov/ct2/show/NCT02916446)、[開発企業、製品ページ](https://www.dbv-technologies.com/pipeline/viaskin-peanut/))
 
 [\[October 2021\]](2110.md)
@@ -104,7 +104,7 @@
 
 [\[June 2021\]](2106.md)
 * [人工甘味料は腸内細菌を有毒化する可能性。 (Anglia Ruskin University)](https://aru.ac.uk/news/study-shows-potential-dangers-of-sweeteners) ([論文](https://www.mdpi.com/1422-0067/22/10/5228))
-* [食卓に提供する野菜が増えると子供の野菜消費量も増える。 (Pennsylvania State University)](https://news.psu.edu/story/562019/2019/04/15/research/bigger-portions-lead-preschoolers-eating-more-over-time) ([論文](http://dx.doi.org/10.1016/j.appet.2021.105250))
+* [食卓に提供する野菜が増えると子供の野菜消費量も増える。 (Pennsylvania State University)](https://news.psu.edu/story/562019/2019/04/15/research/bigger-portions-lead-preschoolers-eating-more-over-time) ([DOI](https://doi.org/10.1016/j.appet.2021.105250))
 * [イラスト型の食生活指針。 (MyPlate、米国農務省)](https://www.myplate.gov/)
 * 摂取カロリーと健康長寿の関係([1](https://www.aging-regulation.jp/topics/topics-04.html)、[2](https://www.aging-regulation.jp/topics/topics-05.html)、[3](https://www.aging-regulation.jp/topics/topics-06.html))。 (東京都健康長寿医療センター)
 * [透明の飲み物に比べてピンク色の食用色素を加えた飲み物の方が運動パフォーマンスが向上した。 (University of Westminster)](https://www.westminster.ac.uk/news/pink-drinks-can-help-you-run-faster-and-further-study-finds) ([論文](https://www.frontiersin.org/articles/10.3389/fnut.2021.678105/full))
@@ -134,7 +134,7 @@
 * [肉を食べないと骨折リスクが上昇。 (University of Oxford)](https://www.ceu.ox.ac.uk/news/results-show-higher-fracture-risks-for-vegans-vegetarians-and-pescatarians-than-meat-eaters) ([論文](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-020-01815-3))
 
 [\[October 2020\]](2010.md)
-* [授乳中の母親の砂糖入り飲料摂取は子供の認知発達機能の低下につながる可能性。 (Children's Hospital, Los Angeles)](https://medicalxpress.com/news/2020-10-sugary-beverages-consumed-breastfeeding-affect.html) ([論文](https://doi.org/10.1093/ajcn/nqaa255))
+* [授乳中の母親の砂糖入り飲料摂取は子供の認知発達機能の低下につながる可能性。 (Children's Hospital, Los Angeles)](https://medicalxpress.com/news/2020-10-sugary-beverages-consumed-breastfeeding-affect.html) ([DOI](https://doi.org/10.1093/ajcn/nqaa255))
 
 [\[September 2020\]](2009.md)
 
@@ -150,7 +150,7 @@
 [\[May 2020\]](2005.md)
 
 [\[April 2020\]](2004.md)
-* [フィルターでろ過したコーヒーを1日1～4杯飲む人が最も健康。 (Norwegian Institute of Public Health)](https://medicalxpress.com/news/2020-04-healthiest-coffee-science.html) ([論文](https://doi.org/10.1177/2047487320914443))
+* [フィルターでろ過したコーヒーを1日1～4杯飲む人が最も健康。 (Norwegian Institute of Public Health)](https://medicalxpress.com/news/2020-04-healthiest-coffee-science.html) ([DOI](https://doi.org/10.1177/2047487320914443))
 
 [\[March 2020\]](2003.md)
 * [肥満と関係なく糖質の多い食事は寿命を短くする可能性 (Cell Metabolism)](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(20)30075-9)
