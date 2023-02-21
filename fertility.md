@@ -1,5 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) \[fertility\] [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[23-02\]](2302.md)
+
 [\[23-01\]](2301.md)
 * [地中海食は男女双方の生殖能力を改善する可能性。 (University of South Australia)](https://www.unisa.edu.au/media-centre/Releases/2022/a-mediterranean-diet-not-only-boosts-health--but-also-improves-fertility/) ([DOI](https://doi.org/10.3390/nu14193914))
 
@@ -8,7 +10,7 @@
 [\[22-11\]](2211.md)
 
 [\[22-10\]](2210.md)
-* [大気汚染物質は胎児の脳、肺、肝臓などの重要臓器に到達する。 (University of Aberdeen)](https://www.abdn.ac.uk/news/16424/) ([DOI](https://dx.doi.org/10.1016/S2542-5196(22)00200-5))
+* [大気汚染物質は胎児の脳、肺、肝臓などの重要臓器に到達する。 (University of Aberdeen)](https://www.abdn.ac.uk/news/16424/) ([DOI](https://doi.org/10.1016/S2542-5196(22)00200-5))
 * [凍結胚移植での妊娠は高血圧リスクが増加。 (American Heart Association)](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.122.19689)
 
 [\[22-09\]](2209.md)
@@ -19,7 +21,7 @@
 [\[22-07\]](2207.md)
 
 [\[22-06\]](2206.md)
-* [夏に流産が増加。 (Boston University)](https://www.bu.edu/sph/news/articles/2022/risk-of-miscarriage-may-increase-during-the-summer/) ([DOI](https://doi.org/10.1097/ede.0000000000001474)、過去の調査：[February 14, 2022 猛暑で早産が増加。 (UCLA)](2202.md))
+* [夏に流産が増加。 (Boston University)](https://www.bu.edu/sph/news/articles/2022/risk-of-miscarriage-may-increase-during-the-summer/) ([DOI](https://doi.org/10.1097/ede.0000000000001474)、過去の調査：[22-02-14 猛暑で早産が増加。 (UCLA)](2202.md))
 * [喫煙すると精子の質と量が低下。 (Cleveland Clinic)](https://www.clevelandclinic.org/reproductiveresearchcenter/docs/publications/549_Sharma_et_al_Cigarette_Smoking_and_Semen_Quality.pdf) ([DOI](https://doi.org/10.1016/j.eururo.2016.04.010))
 
 [\[22-05\]](2205.md)
@@ -55,7 +57,7 @@
 [\[21-05\]](2105.md)
 * [小児期の虐待は精子のDNAメチル化と相関。 (Nature)](https://www.nature.com/articles/s41398-018-0252-1)
 * [男性は2060年以降、生殖能力をほとんどまたはまったく持たない可能性。 (Conversation)](https://theconversation.com/male-fertility-how-everyday-chemicals-are-destroying-sperm-counts-in-humans-and-animals-158097) ([反対の意見の論文](https://www.tandfonline.com/doi/full/10.1080/14647273.2021.1917778))
-* [排卵周期をトラッキングするデバイス。 (AvaWorld)](https://www.avawomen.com/) (過去の調査：[June 10, 2019 排卵周期をイヤホンとAIでトラッキング。](1906.md))
+* [排卵周期をトラッキングするデバイス。 (AvaWorld)](https://www.avawomen.com/) (過去の調査：[19-06-10 排卵周期をイヤホンとAIでトラッキング。](1906.md))
 
 [\[21-04\]](2104.md)
 * [不妊検査等助成。 (東京都福祉保健局)](https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/kosodate/josei/funinkensa/index.html)
