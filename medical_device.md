@@ -1,7 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) \[medical_device\] [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[23-02\]](2302.md)
-* [のどの疲労を検知するデバイス。 (Northwestern University)](https://news.northwestern.edu/stories/2023/02/first-wearable-device-for-vocal-fatigue-senses-when-your-voice-needs-a-break/) ([DOI](https://dx.doi.org/10.1073/pnas.2219394120))
+* [のどの疲労を検知するデバイス。 (Northwestern University)](https://news.northwestern.edu/stories/2023/02/first-wearable-device-for-vocal-fatigue-senses-when-your-voice-needs-a-break/) ([DOI](https://doi.org/10.1073/pnas.2219394120))
 
 [\[23-01\]](2301.md)
 * [脳波で制御する車イスで移動を実現。 (University of Texas at Austin)](https://sites.utexas.edu/jdrmillan/2022/11/18/brain-powered-wheelchair-shows-real-world-promise/)
@@ -16,13 +16,13 @@
 
 [\[22-09\]](2209.md)
 * [個人や遠隔医療向けエコー機器レンタル。 (ポケマム)](https://pockemam.com/)
-* [自宅に設置したセンサーで行動パターンを解析して高齢者の病気やリスクを予測。 (University of Bern)](https://www.unibe.ch/news/media_news/media_relations_e/media_releases/2022/media_releases_2022/sensor_based_early_detection_of_age_related_diseases_from_home/index_eng.html) ([DOI](https://dx.doi.org/10.1038/s41746-022-00657-y))
+* [自宅に設置したセンサーで行動パターンを解析して高齢者の病気やリスクを予測。 (University of Bern)](https://www.unibe.ch/news/media_news/media_relations_e/media_releases/2022/media_releases_2022/sensor_based_early_detection_of_age_related_diseases_from_home/index_eng.html) ([DOI](https://doi.org/10.1038/s41746-022-00657-y))
 * [皮膚に貼るタイプの超音波計測装置。 (MIT)](http://zhao.mit.edu/wp-content/uploads/2022/08/162.pdf) ([DOI](https://doi.org/10.1126/science.abo2542))
 
 [\[22-08\]](2208.md)
-* [少量の発汗で動作可能なウェアラブルバイオセンサー。 (California Institute of Technology)](https://www.caltech.edu/about/news/new-wearable-sensor-detects-even-more-compounds-in-human-sweat) ([DOI](https://dx.doi.org/10.1038/s41551-022-00916-z)、過去の調査：[February 8, 2022
+* [少量の発汗で動作可能なウェアラブルバイオセンサー。 (California Institute of Technology)](https://www.caltech.edu/about/news/new-wearable-sensor-detects-even-more-compounds-in-human-sweat) ([DOI](https://doi.org/10.1038/s41551-022-00916-z)、過去の調査：[22-02-08
  汗中コルチゾールを測定し、ストレスの度合いを測定するウェアラブルデバイス。 (UCLA)](2202.md))
-* [心拍数と呼吸数の継続監視により床ずれを検出するデバイス。 (University of South Australia)](https://www.unisa.edu.au/media-centre/Releases/2022/tiny-optical-sensors-could-put-an-end-to-hospital-bed-sores/) ([DOI](https://dx.doi.org/10.1117/1.JBO.27.6.067002))
+* [心拍数と呼吸数の継続監視により床ずれを検出するデバイス。 (University of South Australia)](https://www.unisa.edu.au/media-centre/Releases/2022/tiny-optical-sensors-could-put-an-end-to-hospital-bed-sores/) ([DOI](https://doi.org/10.1117/1.JBO.27.6.067002))
 
 [\[22-07\]](2207.md)
 
@@ -39,10 +39,10 @@
 * [分娩を監視するシステム。 (OB Tools)](https://ob-tools.com/)
 
 [\[22-03\]](2203.md)
-* [歯の表面のpHを測定し虫歯を見つける機器。 (University of Washington)](https://www.washington.edu/news/2022/03/08/o-ph-a-new-uw-dental-tool-prototype-can-spot-the-acidic-conditions-that-lead-to-cavities/) ([論文](https://doi.org/10.1109/TBME.2022.3153659))
+* [歯の表面のpHを測定し虫歯を見つける機器。 (University of Washington)](https://www.washington.edu/news/2022/03/08/o-ph-a-new-uw-dental-tool-prototype-can-spot-the-acidic-conditions-that-lead-to-cavities/) ([DOI](https://doi.org/10.1109/TBME.2022.3153659))
 
 [\[22-02\]](2202.md)
-* [汗中コルチゾールを測定し、ストレスの度合いを測定するウェアラブルデバイス。 (UCLA)](https://newsroom.ucla.edu/releases/cortisol-sensing-smartwatch) ([論文](https://doi.org/10.1126/sciadv.abk0967))
+* [汗中コルチゾールを測定し、ストレスの度合いを測定するウェアラブルデバイス。 (UCLA)](https://newsroom.ucla.edu/releases/cortisol-sensing-smartwatch) ([DOI](https://doi.org/10.1126/sciadv.abk0967))
 
 [\[22-01\]](2201.md)
 
