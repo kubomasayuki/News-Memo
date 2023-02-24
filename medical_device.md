@@ -36,7 +36,7 @@
 
 [\[22-04\]](2204.md)
 * [いびき対策のウェアラブルデバイス。 (SWAN SWAN)](https://www.swanswan.info/)
-* [医療資源の少ない地域でもポータブルエコーとAIで助産師がエコーを使うことができた。 (University of North Carolina)](https://globalhealth.unc.edu/2022/04/unc-landmark-study-paves-the-way-for-universal-obstetric-ultrasound/) ([論文](https://evidence.nejm.org/doi/10.1056/EVIDoa2100058)、[Androidアプリ](https://play.google.com/store/apps/details?id=com.butterflynetinc.helios)、過去の調査：[June 10, 2020 スマートフォンとiOSアプリを使用したポータブル超音波エコー。 (Butterfly Network)](https://github.com/kubomasayuki/News-Memo/blob/master/2006.md))
+* [医療資源の少ない地域でもポータブルエコーとAIで助産師がエコーを使うことができた。 (University of North Carolina)](https://globalhealth.unc.edu/2022/04/unc-landmark-study-paves-the-way-for-universal-obstetric-ultrasound/) ([DOI](https://doi.org/10.1056/EVIDoa2100058)、[Androidアプリ](https://play.google.com/store/apps/details?id=com.butterflynetinc.helios)、過去の調査：[20-06-10 スマートフォンとiOSアプリを使用したポータブル超音波エコー。 (Butterfly Network)](2006.md))
 * [分娩を監視するシステム。 (OB Tools)](https://ob-tools.com/)
 
 [\[22-03\]](2203.md)
@@ -60,15 +60,15 @@
 [\[21-09\]](2109.md)
 * [FDA承認AI/ML医療機器。 (FDA)](https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-aiml-enabled-medical-devices)
 * [肺移植の成否をバイオセンサーで検知。 (European Lung Foundation)](https://www.eurekalert.org/news-releases/927276)
-* [パッチタイプの肌表面のpHセンサ。 (McGill University)](https://www.mcgill.ca/newsroom/channels/news/skin-crawling-treatment-acne-332924) ([論文](https://www.science.org/doi/10.1126/sciadv.abf5695))
+* [パッチタイプの肌表面のpHセンサ。 (McGill University)](https://www.mcgill.ca/newsroom/channels/news/skin-crawling-treatment-acne-332924) ([DOI](https://doi.org/10.1126/sciadv.abf5695))
 * [超音波を利用した頭蓋内圧スキャナ。 (Nisonic)](https://nisonic.com/)
 
 [\[21-08\]](2108.md)
 
 [\[21-07\]](2107.md)
-* [ワイヤレスで摘出術不要な一時的なペースメーカー。 (Northwestern University)](https://news.northwestern.edu/stories/2021/06/first-ever-transient-pacemaker-harmlessly-dissolves-in-body/) ([論文](https://www.nature.com/articles/s41587-021-00948-x))
-* [リングエコー撮像法を用いた無痛の乳がん検査装置が販売開始。 (Lily MedTech)](https://www.lilymedtech.com/wp-content/uploads/2021/05/20210510.pdf?fbclid=IwAR204xM_4sCubpGzRlNM_Vft3MQH6_rLIjUJpBF7jjlhoHaeN-eq2mALFy0) (過去の調査：[December 27, 2020 自宅で乳がんをチェックできるデバイス。(MAMMOECHO、Sony first flight)](2012.md))
-* [指先穿刺せず汗で計測する血糖センサ。 (UCSD)](https://ucsdnews.ucsd.edu/pressrelease/personalized-sweat-sensor-reliably-monitors-blood-glucose-without-finger-pricks) ([論文](https://pubs.acs.org/doi/10.1021/acssensors.1c00139))
+* [ワイヤレスで摘出術不要な一時的なペースメーカー。 (Northwestern University)](https://news.northwestern.edu/stories/2021/06/first-ever-transient-pacemaker-harmlessly-dissolves-in-body/) ([DOI](https://doi.org/10.1038/s41587-021-00948-x))
+* [リングエコー撮像法を用いた無痛の乳がん検査装置が販売開始。 (Lily MedTech)](https://www.lilymedtech.com/wp-content/uploads/2021/05/20210510.pdf?fbclid=IwAR204xM_4sCubpGzRlNM_Vft3MQH6_rLIjUJpBF7jjlhoHaeN-eq2mALFy0) (過去の調査：[20-12-27 自宅で乳がんをチェックできるデバイス。(MAMMOECHO、Sony first flight)](2012.md))
+* [指先穿刺せず汗で計測する血糖センサ。 (UCSD)](https://ucsdnews.ucsd.edu/pressrelease/personalized-sweat-sensor-reliably-monitors-blood-glucose-without-finger-pricks) ([DOI](https://doi.org/10.1021/acssensors.1c00139))
 
 [\[21-06\]](2106.md)
 * [胎盤の酸素動態を監視するデバイス。 (NICHD)](https://www.nih.gov/news-events/news-releases/prototype-device-may-diagnose-common-pregnancy-complications-monitoring-placental-oxygen) ([論文](https://www.osapublishing.org/boe/fulltext.cfm?uri=boe-12-7-4119))
