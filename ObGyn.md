@@ -1,13 +1,14 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[23-02\]](2302.md)
+* [(超音波が使えないような国でのお産で)胎児の頭の位置を推定する手袋型デバイス。 (University College London)](https://www.eurekalert.org/news-releases/977827) ([DOI](https://doi.org/10.3389/fgwh.2022.1039477))
 * [妊娠中の1型、2型、妊娠糖尿病によって、児の脳の発達(遅延)に違いがある。 (台湾国立成功大学)](https://researchoutput.ncku.edu.tw/en/publications/childhood-neurodevelopmental-disorders-and-maternal-diabetes-apop) ([DOI](https://onlinelibrary.wiley.com/doi/abs/10.1111/dmcn.15488))
 
 [\[23-01\]](2301.md)
 * [破水してから病院に向かうまでに必要なもののセット。 (オオサキメディカル)](https://dacco-web.com/product/hasui-set)
 * [妊婦は歯科治療だけでは早産予防にはならず、マウスウォッシュも組み合わせると改善する。 (University of South Carolina)](https://doi.org/10.1001/jamanetworkopen.2022.47632)
 * [母子手帳は日本で生まれ、世界で16%の母親(年間2200万冊)に使われている。 (JICA)](https://www.jica.go.jp/activities/issues/health/mch_handbook/index.html)
-* [妊娠糖尿病の既往歴のある女性は、産後にコーヒー(カフェイン有無は問わない)を飲むと2型糖尿病発症を予防できる。 (National University of Singapore)](https://medicine.nus.edu.sg/news/drinking-coffee-regularly-after-pregnancy-may-lower-the-risk-of-type-2-diabetes-for-women-who-had-diabetes-during-pregnancy/) ([DOI](https://dx.doi.org/10.1093/ajcn/nqac241))
+* [妊娠糖尿病の既往歴のある女性は、産後にコーヒー(カフェイン有無は問わない)を飲むと2型糖尿病発症を予防できる。 (National University of Singapore)](https://medicine.nus.edu.sg/news/drinking-coffee-regularly-after-pregnancy-may-lower-the-risk-of-type-2-diabetes-for-women-who-had-diabetes-during-pregnancy/) ([DOI](https://doi.org/10.1093/ajcn/nqac241))
 
 [\[22-12\]](2212.md)
 * [早産や未熟児であってもカンガルーケアを推奨。 (WHO)](https://www.who.int/news/item/15-11-2022-who-advises-immediate-skin-to-skin-care-for-survival-of-small-and-preterm-babies) ([ガイドライン](https://apps.who.int/iris/bitstream/handle/10665/363698/9789240060043-eng.pdf))
@@ -16,11 +17,11 @@
 * [バルーンカテーテルによる分娩誘発は効果的なだけでなく、児にとってより安全。 (Monach University)](https://www.monash.edu/news/articles/balloon-labour-induction-safer-for-babies,-melbourne-researchers-find) ([DOI](https://doi.org/10.1016/S0140-6736(22)01845-1))
 
 [\[22-10\]](2210.md)
-* [1本の繊維の縫合糸はより合わせた縫合糸より帝王切開後の感染リスクが低い。 (University of Birmingham)](https://www.birmingham.ac.uk/news/2022/single-stranded-suture-threads-could-prevent-pregnancy-infection-complications-c-stich-trial-finds) ([DOI](https://dx.doi.org/10.1016/S0140-6736(22)01808-6))
+* [1本の繊維の縫合糸はより合わせた縫合糸より帝王切開後の感染リスクが低い。 (University of Birmingham)](https://www.birmingham.ac.uk/news/2022/single-stranded-suture-threads-could-prevent-pregnancy-infection-complications-c-stich-trial-finds) ([DOI](https://doi.org/10.1016/S0140-6736(22)01808-6))
 * [凍結胚移植での妊娠は高血圧リスクが増加。 (American Heart Association)](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.122.19689)
 
 [\[22-09\]](2209.md)
-* [妊婦の食習慣は胎児の食べ物の好き嫌いに影響？ (Durham University)](https://www.durham.ac.uk/research/current/research-news/fetuses-react-to-taste-and-smell-in-the-womb/) ([DOI](https://dx.doi.org/10.1177/09567976221105460))
+* [妊婦の食習慣は胎児の食べ物の好き嫌いに影響？ (Durham University)](https://www.durham.ac.uk/research/current/research-news/fetuses-react-to-taste-and-smell-in-the-womb/) ([DOI](https://doi.org/10.1177/09567976221105460))
 * [個人や遠隔医療向けエコー機器レンタル。 (ポケマム)](https://pockemam.com/)
 
 [\[22-08\]](2208.md)
@@ -46,7 +47,7 @@
 
 [\[22-03\]](2203.md)
 * [胎児心臓治療の臨床試験。 (日本胎児心臓病学会)](https://www.jsfc.jp/clinical-trial-index/clinical-trial) (過去の調査：[May 9, 2021 胎児治療に関する正確な情報を提供し、臨床応用を推進する研究グループ。 (日本胎児治療グループ)](2105.md))
-* [母親の大気汚染曝露で低出生体重児が増加。 (Hebrew University)](https://www.afhu.org/2022/03/09/mothers-exposure-to-air-pollution-associated-with-low-birth-weight-babies/) ([DOI](http://dx.doi.org/10.1016/j.envres.2022.112974)、過去の調査：[November 22, 2021 妊娠中の大気汚染曝露と妊娠糖尿病発症リスクに相関。 (UC Irvine)](2111.md)、[January 6, 2020 大気汚染の長期曝露で妊娠高血圧リスク増 (NIH)](2001.md))
+* [母親の大気汚染曝露で低出生体重児が増加。 (Hebrew University)](https://www.afhu.org/2022/03/09/mothers-exposure-to-air-pollution-associated-with-low-birth-weight-babies/) ([DOI](https://doi.org/10.1016/j.envres.2022.112974)、過去の調査：[November 22, 2021 妊娠中の大気汚染曝露と妊娠糖尿病発症リスクに相関。 (UC Irvine)](2111.md)、[January 6, 2020 大気汚染の長期曝露で妊娠高血圧リスク増 (NIH)](2001.md))
 
 [\[22-02\]](2202.md)
 * [猛暑で早産が増加。 (UCLA)](https://www.businessinsider.jp/post-203559) ([DOI](https://doi.org/10.1038/s41558-019-0632-4))
@@ -54,7 +55,7 @@
 [\[22-01\]](2201.md)
 * [ビタミンDが欠乏すると子供のADHDのリスクが上昇する。 (University of Turku)](https://www.utu.fi/en/news/press-release/vitamin-d-deficiency-during-pregnancy-connected-to-elevated-risk-of-adhd) ([DOI](https://doi.org/10.1016/j.jaac.2019.11.021))
 * [妊娠中の人工甘味料摂取は赤ちゃんの腸内細菌叢に変化を起こし、肥満リスクが増加する。 (University of Calgary)](https://www.ucalgary.ca/news/low-calorie-sweeteners-do-not-mean-low-risk-infants) ([論文](https://gut.bmj.com/content/69/10/1807))
-* [日光の曝露と乳がんに逆相関。 (University at Buffalo)](http://www.buffalo.edu/news/releases/2022/01/003.html) ([DOI](http://dx.doi.org/10.1158/1055-9965.EPI-21-0932))
+* [日光の曝露と乳がんに逆相関。 (University at Buffalo)](http://www.buffalo.edu/news/releases/2022/01/003.html) ([DOI](https://doi.org/10.1158/1055-9965.EPI-21-0932))
 
 [\[21-12\]](2112.md)
 * [妊娠中の貧血は、早産、低出生体重児、小児の貧血や発達障害と関連している。 (WHO)](https://www.who.int/data/gho/data/themes/topics/anaemia_in_women_and_children)
@@ -62,10 +63,10 @@
 
 [\[21-11\]](2111.md)
 * [麻酔分娩は麻酔なしの経膣分娩よりも産後うつのリスクが高い。 (名古屋市立大学)](https://bmcpregnancychildbirth.biomedcentral.com/articles/10.1186/s12884-021-03996-y)
-* [妊娠中の大気汚染曝露と妊娠糖尿病発症リスクに相関。 (UC Irvine)](https://news.uci.edu/2021/10/04/uci-led-study-links-air-pollution-exposure-while-pregnant-to-higher-gestational-diabetes-risk/) ([DOI](http://dx.doi.org/10.1016/j.envint.2021.106888))
+* [妊娠中の大気汚染曝露と妊娠糖尿病発症リスクに相関。 (UC Irvine)](https://news.uci.edu/2021/10/04/uci-led-study-links-air-pollution-exposure-while-pregnant-to-higher-gestational-diabetes-risk/) ([DOI](https://doi.org/10.1016/j.envint.2021.106888))
 * [低所得国において、猛暑と死産に相関。 (UC SanDiego)](https://scripps.ucsd.edu/news/first-link-between-stillbirths-birth-complications-and-excessive-heat-lower-income-countries) ([DOI](https://doi.org/10.1016/j.envint.2021.106902))
 * [母親の職種で死産リスクに違い。 (大阪医科薬科大学)](https://www.ompu.ac.jp/news/of2vmg000000g89h.html)
-* [流産の予防で使用されるプロゲステロン(17α-OHPC)に曝露した胎児の将来的な発がんリスクが2倍に上昇。 (UTHealth School of Public Health)](https://www.uth.edu/news/story.htm?id=9f15d85c-254d-499b-af44-31fb94f9d4bc) ([DOI](http://dx.doi.org/10.1016/j.ajog.2021.10.035))
+* [流産の予防で使用されるプロゲステロン(17α-OHPC)に曝露した胎児の将来的な発がんリスクが2倍に上昇。 (UTHealth School of Public Health)](https://www.uth.edu/news/story.htm?id=9f15d85c-254d-499b-af44-31fb94f9d4bc) ([DOI](https://doi.org/10.1016/j.ajog.2021.10.035))
 * [緊急帝王切開を予測するAI。 (大阪医科薬科大学)](https://obgyn.onlinelibrary.wiley.com/doi/full/10.1002/ijgo.13888)
 * [フィブリノゲン製剤の適正使用に関して。 (日本産科婦人科学会、日本産婦人科医会)](https://www.jsog.or.jp/news/pdf/20210910_FBG_shuuchi.pdf)
 
