@@ -43,12 +43,12 @@
 
 [\[22-04\]](2204.md)
 * [つわりがあると赤ちゃんは大きく生まれるのに重いつわり（妊娠悪阻）では赤ちゃんは小さく生まれる理由を解明。 (国立成育医療研究センター)](https://www.ncchd.go.jp/press/2022/220420.html) ([DOI](https://doi.org/10.1186/s12884-022-04542-0))
-* [医療資源の少ない地域でもポータブルエコーとAIで助産師がエコーを使うことができた。 (University of North Carolina)](https://globalhealth.unc.edu/2022/04/unc-landmark-study-paves-the-way-for-universal-obstetric-ultrasound/) ([DOI](https://doi.org/10.1056/EVIDoa2100058)、[Androidアプリ](https://play.google.com/store/apps/details?id=com.butterflynetinc.helios)、過去の調査：[June 10, 2020 スマートフォンとiOSアプリを使用したポータブル超音波エコー。 (Butterfly Network)](https://github.com/kubomasayuki/News-Memo/blob/master/2006.md))
+* [医療資源の少ない地域でもポータブルエコーとAIで助産師がエコーを使うことができた。 (University of North Carolina)](https://globalhealth.unc.edu/2022/04/unc-landmark-study-paves-the-way-for-universal-obstetric-ultrasound/) ([DOI](https://doi.org/10.1056/EVIDoa2100058)、[Androidアプリ](https://play.google.com/store/apps/details?id=com.butterflynetinc.helios)、過去の調査：[20-06-10 スマートフォンとiOSアプリを使用したポータブル超音波エコー。 (Butterfly Network)](2006.md))
 * [ヒト胎児の肩は出産前に成長が一時的に減速し、出産後に再加速する。 (京都大学)](https://www.kyoto-u.ac.jp/ja/research-news/2022-04-13-0) ([DOI](https://doi.org/10.1073/pnas.2114935119)、[研究課題](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-17K07585/))
 
 [\[22-03\]](2203.md)
-* [胎児心臓治療の臨床試験。 (日本胎児心臓病学会)](https://www.jsfc.jp/clinical-trial-index/clinical-trial) (過去の調査：[May 9, 2021 胎児治療に関する正確な情報を提供し、臨床応用を推進する研究グループ。 (日本胎児治療グループ)](2105.md))
-* [母親の大気汚染曝露で低出生体重児が増加。 (Hebrew University)](https://www.afhu.org/2022/03/09/mothers-exposure-to-air-pollution-associated-with-low-birth-weight-babies/) ([DOI](https://doi.org/10.1016/j.envres.2022.112974)、過去の調査：[November 22, 2021 妊娠中の大気汚染曝露と妊娠糖尿病発症リスクに相関。 (UC Irvine)](2111.md)、[January 6, 2020 大気汚染の長期曝露で妊娠高血圧リスク増 (NIH)](2001.md))
+* [胎児心臓治療の臨床試験。 (日本胎児心臓病学会)](https://www.jsfc.jp/clinical-trial-index/clinical-trial) (過去の調査：[21-05-09 胎児治療に関する正確な情報を提供し、臨床応用を推進する研究グループ。 (日本胎児治療グループ)](2105.md))
+* [母親の大気汚染曝露で低出生体重児が増加。 (Hebrew University)](https://www.afhu.org/2022/03/09/mothers-exposure-to-air-pollution-associated-with-low-birth-weight-babies/) ([DOI](https://doi.org/10.1016/j.envres.2022.112974)、過去の調査：[21-11-22 妊娠中の大気汚染曝露と妊娠糖尿病発症リスクに相関。 (UC Irvine)](2111.md)、[20-01-06 大気汚染の長期曝露で妊娠高血圧リスク増 (NIH)](2001.md))
 
 [\[22-02\]](2202.md)
 * [猛暑で早産が増加。 (UCLA)](https://www.businessinsider.jp/post-203559) ([DOI](https://doi.org/10.1038/s41558-019-0632-4))
@@ -60,7 +60,7 @@
 
 [\[21-12\]](2112.md)
 * [妊娠中の貧血は、早産、低出生体重児、小児の貧血や発達障害と関連している。 (WHO)](https://www.who.int/data/gho/data/themes/topics/anaemia_in_women_and_children)
-* [妊娠中の不眠は早産率を30％上昇させる。 (UCSF)](https://www.ucsf.edu/news/2017/08/407961/sleep-disorders-linked-preterm-birth-large-california-study) ([論文1](https://www.nature.com/articles/nature.2017.22419)、[論文2](https://journals.lww.com/greenjournal/Abstract/2017/09000/Sleep_Disorder_Diagnosis_During_Pregnancy_and_Risk.12.aspx)、過去の調査：[January 29, 2021 光による概日リズムの乱れは早産につながる可能性。 (Lehigh University)](2101.md))
+* [妊娠中の不眠は早産率を30％上昇させる。 (UCSF)](https://www.ucsf.edu/news/2017/08/407961/sleep-disorders-linked-preterm-birth-large-california-study) ([論文1](https://www.nature.com/articles/nature.2017.22419)、[論文2](https://journals.lww.com/greenjournal/Abstract/2017/09000/Sleep_Disorder_Diagnosis_During_Pregnancy_and_Risk.12.aspx)、過去の調査：[21-01-29 光による概日リズムの乱れは早産につながる可能性。 (Lehigh University)](2101.md))
 
 [\[21-11\]](2111.md)
 * [麻酔分娩は麻酔なしの経膣分娩よりも産後うつのリスクが高い。 (名古屋市立大学)](https://bmcpregnancychildbirth.biomedcentral.com/articles/10.1186/s12884-021-03996-y)
@@ -73,12 +73,12 @@
 
 [\[21-10\]](2110.md)
 * [周産期科新設。 (亀田総合病院 産婦人科)](http://www.kameda.com/pr/ob_gyn/post_274.html)
-* [母体安全への提言 2020。 (日本産婦人科医会)](https://www.jaog.or.jp/wp/wp-content/uploads/2021/04/botai_2020.pdf) (過去の調査：[October 28, 2020 母体安全への提言 2019。 (日本産婦人科医会)](2010.md))
+* [母体安全への提言 2020。 (日本産婦人科医会)](https://www.jaog.or.jp/wp/wp-content/uploads/2021/04/botai_2020.pdf) (過去の調査：[20-10-28 母体安全への提言 2019。 (日本産婦人科医会)](2010.md))
 * [早期妊娠高血圧腎症の分娩期間延長に徐放性メトホルミン(糖尿病薬)が有効。 (CareNet)](https://www.carenet.com/news/journal/carenet/53189) ([DOI](https://doi.org/10.1136/bmj.n2103))
 
 [\[21-09\]](2109.md)
 * [妊娠初期に臍帯と胎盤を通る血流量の微妙な差を従来の超音波で監視することで胎盤の異常を検出。 (NIH)](https://www.nih.gov/news-events/news-releases/new-ultrasound-technique-detects-fetal-circulation-problems-placenta)
-* [日光を浴びることで早産リスクが減少。 (The University of Edinburgh)](https://www.ed.ac.uk/news/2021/sun-s-rays-can-reduce-premature-birth-risk) ([論文](https://www.frontiersin.org/articles/10.3389/frph.2021.674245/full)、過去の調査：[January 29, 2021 光による概日リズムの乱れは早産につながる可能性。 (Lehigh University)](2101.md))
+* [日光を浴びることで早産リスクが減少。 (The University of Edinburgh)](https://www.ed.ac.uk/news/2021/sun-s-rays-can-reduce-premature-birth-risk) ([論文](https://www.frontiersin.org/articles/10.3389/frph.2021.674245/full)、過去の調査：[21-01-29 光による概日リズムの乱れは早産につながる可能性。 (Lehigh University)](2101.md))
 
 [\[21-08\]](2108.md)
 * [Cx43レベルを下げることで破れた卵膜が自己修復される。 (Queen Mary University of London)](https://www.qmul.ac.uk/media/news/2019/se/new-approach-to-repair-fetal-membranes-may-prevent-birth-complications.html) ([論文](https://www.nature.com/articles/s41598-019-42379-4))
@@ -140,8 +140,8 @@
 [\[20-10\]](2010.md)
 * [母体安全への提言 2019。 (日本産婦人科医会)](https://www.jaog.or.jp/wp/wp-content/uploads/2020/09/botai_2019.pdf)
 * [帝王切開時の静脈血栓塞栓症予防のための推奨事項。 (SMFM、AJOG)](https://www.ajog.org/article/S0002-9378(20)30518-4/fulltext)
-* [スポンジ状のタンポナーデ。 (Green Journal)](https://journals.lww.com/greenjournal/Fulltext/2020/11000/Management_of_Postpartum_Hemorrhage_With_a.3.aspx) ([製品ページ](https://www.obstetrx.com/solution)、過去の調査：[September 4, 2020 吸引により子宮収縮を促すバルーンタンポナーデ。](2009.md)、[June 10, 2019 EllaviバルーンタンポナーデがEUクリアランス賞を受賞](1906.md))
-* [分娩誘発が成功するかどうかを予測するシミュレータ。 (Green Journal)](https://journals.lww.com/greenjournal/Abstract/2020/10000/Externally_Validated_Prediction_Model_of_Vaginal.12.aspx) ([アプリ](https://d5xbbxaa8t16z.cloudfront.net/mnow/content/obstetricriskcalculator/index.html)、過去の調査：[March 31, 2019 超音波に基づいて分娩モード(経腟分娩の確率)を％で予測するアプリ](2004.md))
+* [スポンジ状のタンポナーデ。 (Green Journal)](https://journals.lww.com/greenjournal/Fulltext/2020/11000/Management_of_Postpartum_Hemorrhage_With_a.3.aspx) ([製品ページ](https://www.obstetrx.com/solution)、過去の調査：[20-09-04 吸引により子宮収縮を促すバルーンタンポナーデ。](2009.md)、[June 10, 2019 EllaviバルーンタンポナーデがEUクリアランス賞を受賞](1906.md))
+* [分娩誘発が成功するかどうかを予測するシミュレータ。 (Green Journal)](https://journals.lww.com/greenjournal/Abstract/2020/10000/Externally_Validated_Prediction_Model_of_Vaginal.12.aspx) ([アプリ](https://d5xbbxaa8t16z.cloudfront.net/mnow/content/obstetricriskcalculator/index.html)、過去の調査：[19-03-31 超音波に基づいて分娩モード(経腟分娩の確率)を％で予測するアプリ](2004.md))
 * [分娩時の硬膜外麻酔が自閉症の原因となる科学的根拠はない。 (産科婦人科学会、アメリカ麻酔科学会、小児麻酔学会、アメリカ産科婦人科学会、母体胎児医学会の共同声明)](https://www.asahq.org/about-asa/newsroom/news-releases/2020/10/labor-epidurals-and-autism-joint-statement)
 * [質の高いモニタリング、適切な出産前ケア、熟練した助産師がいれば防げた死産が毎年200万人。新型コロナで更に増加の恐れ。 (Unicef)](https://www.unicef.or.jp/news/2020/0214.html)
 * [成人より動きが速い胎児の心臓の4D可視化を実現。 (King's College London)](https://www.kcl.ac.uk/news/new-method-developed-by-researchers-for-in-utero-4d-blood-flow-visualization-of-baby-hearts-paves-the-way-for-better-diagnosis-of-congenital-heart-disease)
@@ -151,7 +151,7 @@
 * [妊娠糖尿病の母親から産まれた子供はエピジェネティックな年齢が実年齢より高い。 (Rutgers University)](https://www.rutgers.edu/news/gestational-diabetes-may-accelerate-childs-biological-age)
 * [アプガースコア5分値から10分値のスコアの上昇と新生児死亡率の低下に相関あり。 (ObgProject)](https://www.obgproject.com/2020/08/20/can-apgar-scores-help-predict-neonatal-mortality-for-preterm-infants-at-different-gestational-ages/) ([Journal](https://www.nejm.org/doi/full/10.1056/NEJMoa1915075))
 * [STRIDER RCTの結果、シルデナフィルの投与は重症FGRを改善しない。 (ObgProject)](https://www.obgproject.com/2020/06/26/strider-rct-results-sildenafil-for-fetal-growth-restriction/) ([Journal](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2767243))
-* [吸引により子宮収縮を促すバルーンタンポナーデ。 (Green Journal)](https://journals.lww.com/greenjournal/Fulltext/2020/11000/Intrauterine_Vacuum_Induced_Hemorrhage_Control.4.aspx) ([製品ページ](https://www.alydiahealth.com/jada)、過去の調査：[June 10, 2019 EllaviバルーンタンポナーデがEUクリアランス賞を受賞](1906.md))
+* [吸引により子宮収縮を促すバルーンタンポナーデ。 (Green Journal)](https://journals.lww.com/greenjournal/Fulltext/2020/11000/Intrauterine_Vacuum_Induced_Hemorrhage_Control.4.aspx) ([製品ページ](https://www.alydiahealth.com/jada)、過去の調査：[19-06-10 EllaviバルーンタンポナーデがEUクリアランス賞を受賞](1906.md))
 * [臍帯血中のカドミウム濃度と児の喘息とアレルギーのリスクが上昇。 (Medical Xpress)](https://medicalxpress.com/news/2020-09-exposure-cadmium-womb-linked-childhood.html)
 * [周産期医療の広場 (日本産科婦人科学会サステイナブル産婦人科医療体制確立委員会)](http://shusanki.org/index.html)
 
