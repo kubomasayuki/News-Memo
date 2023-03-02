@@ -2,7 +2,7 @@
 
 [\[23-03\]](2303.md)
 * [ビタミンDレベルの上昇は生殖補助医療による出生率を向上させる。 (University of Birmingham)](https://www.birmingham.ac.uk/news-archive/2017/vitamin-d-linked-to-better-live-birth-rates-in-women-undergoing-assisted-reproduction-treatment) ([DOI](https://doi.org/10.1093/humrep/dex326))
-* [塩分の過剰摂取が制御性T細胞を鈍らせる。 (Max-Delbrück-Centrum)](https://www.mdc-berlin.de/news/press/salt-cuts-energy-supply-immune-regulators)
+* [塩分の過剰摂取が(免疫調節にかかわる)制御性T細胞を鈍らせる。 (Max-Delbrück-Centrum)](https://www.mdc-berlin.de/news/press/salt-cuts-energy-supply-immune-regulators)
 
 [\[23-02\]](2302.md)
 * [視覚的な刺激が食習慣に影響。 (大阪公立大学)](https://www.omu.ac.jp/info/research_news/entry-03696.html) ([DOI](https://doi.org/10.1371/journal.pone.0275959)、[過去の調査 21-12-16 大人が美味しそうに野菜を食べていると子供の野菜消費量が増える。 (Aston University)](2112.md))
