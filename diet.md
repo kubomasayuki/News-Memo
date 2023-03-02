@@ -1,7 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) \[diet\] [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[23-03\]](2303.md)
-* [ビタミンDレベルは生殖補助医療による出生率を向上させる。 (University of Birmingham)](https://www.birmingham.ac.uk/news-archive/2017/vitamin-d-linked-to-better-live-birth-rates-in-women-undergoing-assisted-reproduction-treatment) ([DOI](https://doi.org/10.1093/humrep/dex326))
+* [ビタミンDレベルの上昇は生殖補助医療による出生率を向上させる。 (University of Birmingham)](https://www.birmingham.ac.uk/news-archive/2017/vitamin-d-linked-to-better-live-birth-rates-in-women-undergoing-assisted-reproduction-treatment) ([DOI](https://doi.org/10.1093/humrep/dex326))
 
 [\[23-02\]](2302.md)
 * [視覚的な刺激が食習慣に影響。 (大阪公立大学)](https://www.omu.ac.jp/info/research_news/entry-03696.html) ([DOI](https://doi.org/10.1371/journal.pone.0275959)、[過去の調査 21-12-16 大人が美味しそうに野菜を食べていると子供の野菜消費量が増える。 (Aston University)](2112.md))
