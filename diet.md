@@ -5,7 +5,7 @@
 * [運動の30時間前にビーツジュースを飲むと高強度運動のパフォーマンスが向上。 (University of Exeter)](http://sshs.exeter.ac.uk/news/newsarchive2013-15/articles/beetrootjuicethewinningfo.html) ([DOI](https://doi.org/10.1007/s00421-013-2589-8))
 * [運動前にビーツジュースを飲むとスタミナが向上。 (University of Exeter)](http://sshs.exeter.ac.uk/news/newsarchive2013-15/articles/whyalittlebeetitgoesalong.html) ([DOI](https://doi.org/10.1007/s00421-015-3166-0))
 * [ビタミンDレベルの上昇は生殖補助医療による出生率を向上させる。 (University of Birmingham)](https://www.birmingham.ac.uk/news-archive/2017/vitamin-d-linked-to-better-live-birth-rates-in-women-undergoing-assisted-reproduction-treatment) ([DOI](https://doi.org/10.1093/humrep/dex326))
-* [塩分の過剰摂取が(免疫系の調節にかかわる)制御性T細胞を鈍らせる。 (Max-Delbrück-Centrum)](https://www.mdc-berlin.de/news/press/salt-cuts-energy-supply-immune-regulators)
+* [塩分の過剰摂取が(免疫系の調節にかかわる)制御性T細胞を鈍らせる。 (Max-Delbrück-Centrum)](https://www.mdc-berlin.de/news/press/salt-cuts-energy-supply-immune-regulators) ([DOI](https://doi.org/10.1016/j.cmet.2023.01.009))
 
 [\[23-02\]](2302.md)
 * [視覚的な刺激が食習慣に影響。 (大阪公立大学)](https://www.omu.ac.jp/info/research_news/entry-03696.html) ([DOI](https://doi.org/10.1371/journal.pone.0275959)、[過去の調査 21-12-16 大人が美味しそうに野菜を食べていると子供の野菜消費量が増える。 (Aston University)](2112.md))
