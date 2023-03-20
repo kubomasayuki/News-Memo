@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) \[fertility\] [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[23-03\]](2303.md)
+* [男性の飲酒はIVFの成功率に影響。 (Texas A&M University)](https://vetmed.tamu.edu/news/press-releases/male-alcohol-use-ivf/) ([DOI](https://doi.org/10.1093/molehr/gaad002))
 * [ビタミンDレベルの上昇は生殖補助医療による出生率を向上させる。 (University of Birmingham)](https://www.birmingham.ac.uk/news-archive/2017/vitamin-d-linked-to-better-live-birth-rates-in-women-undergoing-assisted-reproduction-treatment) ([DOI](https://doi.org/10.1093/humrep/dex326))
 
 [\[23-02\]](2302.md)
