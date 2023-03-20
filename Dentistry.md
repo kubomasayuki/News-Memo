@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) \[Dentistry\] [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[23-03\]](2303.md)
+* [歯肉が柔らかいと炎症が起きやすく、歯肉が痩せやすい。 (東北大学)](https://www.dent.tohoku.ac.jp/news/view.html#!912) ([DOI](https://doi.org/10.1038/s41598-023-28541-z))
 
 [\[23-02\]](2302.md)
 
