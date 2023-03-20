@@ -1,5 +1,10 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) \[fitness\] [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[23-03\]](2303.md)
+* [運動前にビーツジュースを飲むとスタミナが向上。 (University of Exeter)](http://sshs.exeter.ac.uk/news/newsarchive2013-15/articles/whyalittlebeetitgoesalong.html) ([DOI](https://doi.org/10.1007/s00421-015-3166-0))
+
+[\[23-02\]](2302.md)
+
 [\[23-01\]](2301.md)
 * [運動の代わりにガーデニング。 (University of Colorado at Boulder)](https://www.colorado.edu/today/2023/01/05/scientific-reasons-you-should-resolve-start-gardening-2023) ([DOI](https://dx.doi.org/10.1016/S2542-5196(22)00303-5))
 
