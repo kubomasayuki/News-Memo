@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) \[medical_device\] [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[23-03\]](2303.md)
+* [カプセル型振動デバイスが便秘を改善。 (Augusta University)](https://jagwire.augusta.edu/vibrating-capsule-doubles-the-ability-for-constipation-sufferers-to-poop-without-drugs/) ([DOI](https://doi.org/10.1053/j.gastro.2023.02.013))
+
 [\[23-02\]](2302.md)
 * [(超音波が使えないような国でのお産で)胎児の頭の位置を推定する手袋型デバイス。 (University College London)](https://www.eurekalert.org/news-releases/977827) ([DOI](https://doi.org/10.3389/fgwh.2022.1039477))
 * [のどの疲労を検知するデバイス。 (Northwestern University)](https://news.northwestern.edu/stories/2023/02/first-wearable-device-for-vocal-fatigue-senses-when-your-voice-needs-a-break/) ([DOI](https://doi.org/10.1073/pnas.2219394120))
