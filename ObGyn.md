@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[23-03\]](2303.md)
+* [就寝前のスクリーンタイム増で妊娠糖尿病リスクが上昇？ (Northwestern University)](https://news.northwestern.edu/stories/2023/03/new-story-pagedim-lights-before-bedtime-to-reduce-risk-of-gestational-diabetes/) ([DOI](http://doi.org/10.1016/j.ajogmf.2023.100922))
 * [保育器のアルコール消毒で早産児の血中アルコール濃度が増加。 (筑波大学)](https://www.tsukuba.ac.jp/journal/medicine-health/20230225010000.html) ([DOI](https://doi.org/10.1001/jamanetworkopen.2023.0691))
 
 [\[23-02\]](2302.md)
