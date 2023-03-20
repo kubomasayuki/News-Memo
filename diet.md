@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) \[diet\] [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[23-03\]](2303.md)
+* [エリスリトールが心血管イベントリスク増と相関。 (Creveland Clinic Learner Research Institute)](https://www.lerner.ccf.org/news/article/?id=ea9560ab58cc87cd9bba43ff11bde112318d54f1) ([DOI](https://doi.org/10.1038/s41591-023-02223-9))
 * [運動の30時間前にビーツジュースを飲むと高強度運動のパフォーマンスが向上。 (University of Exeter)](http://sshs.exeter.ac.uk/news/newsarchive2013-15/articles/beetrootjuicethewinningfo.html) ([DOI](https://doi.org/10.1007/s00421-013-2589-8))
 * [運動前にビーツジュースを飲むとスタミナが向上。 (University of Exeter)](http://sshs.exeter.ac.uk/news/newsarchive2013-15/articles/whyalittlebeetitgoesalong.html) ([DOI](https://doi.org/10.1007/s00421-015-3166-0))
 * [ビタミンDレベルの上昇は生殖補助医療による出生率を向上させる。 (University of Birmingham)](https://www.birmingham.ac.uk/news-archive/2017/vitamin-d-linked-to-better-live-birth-rates-in-women-undergoing-assisted-reproduction-treatment) ([DOI](https://doi.org/10.1093/humrep/dex326))
