@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[23-03\]](2303.md)
+* [保育器のアルコール消毒で早産児の血中アルコール濃度が増加。 (筑波大学)](https://www.tsukuba.ac.jp/journal/medicine-health/20230225010000.html) ([DOI](https://doi.org/10.1001/jamanetworkopen.2023.0691))
+
 [\[23-02\]](2302.md)
 * [(超音波が使えないような国でのお産で)胎児の頭の位置を推定する手袋型デバイス。 (University College London)](https://www.eurekalert.org/news-releases/977827) ([DOI](https://doi.org/10.3389/fgwh.2022.1039477))
 * [早産が予想されるお産で予め硫酸マグネシウムを投与することで脳性麻痺発症リスク低下。 (NICHD MFMU)](https://doi.org/10.1056/NEJMoa0801187)
