@@ -63,20 +63,20 @@
 * [早産児に行うカンガルーケアの保護効果は成人後の脳容積にも影響。 (Kangaroo Foundation, Colombia)](https://medical.nikkeibp.co.jp/leaf/mem/pub/hotnews/popular/202202/573814.html) ([DOI](https://doi.org/10.1111/apa.16265))
 
 [\[22-01\]](2201.md)
-* [未就学児は就寝前のわずかな光の曝露でも睡眠サイクルが狂う。 (University of Colorado at Boulder)](https://www.colorado.edu/today/2022/01/25/even-minor-exposure-light-bedtime-may-disrupt-preschoolers-sleep) ([論文](http://dx.doi.org/10.1111/jpi.12780))
-* [就学前教育が非認知能力を育てる。 (ベネッセ教育総合研究所)](https://berd.benesse.jp/berd/center/open/berd/backnumber/2008_16/fea_ootake_02.html) ([論文](https://www.nber.org/papers/w13016))
-* [母親のグロースマインドセット(思考パターンの成長)は子供の成長につながる。 (Boston Medical Center)](https://news.harvard.edu/gazette/story/2022/01/turns-out-smarter-kids-are-made-not-born/) ([論文](https://doi.org/10.1097/dbp.0000000000000998))
+* [未就学児は就寝前のわずかな光の曝露でも睡眠サイクルが狂う。 (University of Colorado at Boulder)](https://www.colorado.edu/today/2022/01/25/even-minor-exposure-light-bedtime-may-disrupt-preschoolers-sleep) ([DOI](https://doi.org/10.1111/jpi.12780))
+* [就学前教育が非認知能力を育てる。 (ベネッセ教育総合研究所)](https://berd.benesse.jp/berd/center/open/berd/backnumber/2008_16/fea_ootake_02.html) ([DOI](https://doi.org/10.1111/jpi.12780))
+* [母親のグロースマインドセット(思考パターンの成長)は子供の成長につながる。 (Boston Medical Center)](https://news.harvard.edu/gazette/story/2022/01/turns-out-smarter-kids-are-made-not-born/) ([DOI](https://doi.org/10.1097/dbp.0000000000000998))
 
 [\[21-12\]](2112.md)
-* [大人が美味しそうに野菜を食べていると子供の野菜消費量が増える。 (Aston University)](https://www.aston.ac.uk/latest-news/adults-positive-facial-expressions-while-eating-vegetables-help-kids-consume-more) ([論文](https://doi.org/10.1016/j.appet.2021.105779))
+* [大人が美味しそうに野菜を食べていると子供の野菜消費量が増える。 (Aston University)](https://www.aston.ac.uk/latest-news/adults-positive-facial-expressions-while-eating-vegetables-help-kids-consume-more) ([DOI](https://doi.org/10.1016/j.appet.2021.105779))
 
 [\[21-11\]](2111.md)
 * [おむつ替え時の親の発話量が多い子ほど社会性指標が高い。 (花王)](https://www.kao.com/jp/corporate/news/rd/2020/20201019-001/)
 
 [\[21-10\]](2110.md)
 * [新生児の良質な睡眠は生後6ヶ月時点の肥満の予防と相関。 (Brigham and Women's Hospital)](https://www.eurekalert.org/news-releases/932292)
-* [IoT対応の育児・授乳ブース (Trim)](https://mamaro.trim-inc.com/) (過去の調査：[May 27, 2021 簡易組み立て式授乳ブース。 (株式会社MISTRAL)](2105.md))
-* [社会的孤立と悲しみに関連する子供の不安行動は、後の人生で不安障害を発症するリスクを伴う。 (University of Otago)](https://www.otago.ac.nz/news/news/otago833202.html) ([論文](http://dx.doi.org/10.1017/S0033291721002889))
+* [IoT対応の育児・授乳ブース (Trim)](https://mamaro.trim-inc.com/) (過去の調査：[21-07-27 簡易組み立て式授乳ブース。 (株式会社MISTRAL)](2105.md))
+* [社会的孤立と悲しみに関連する子供の不安行動は、後の人生で不安障害を発症するリスクを伴う。 (University of Otago)](https://www.otago.ac.nz/news/news/otago833202.html) ([DOI](https://doi.org/10.1017/S0033291721002889))
 * [赤血球の提供を受ける超低出生体重児は、男性ドナーよりも女性ドナー(特に年齢の高い女性)の場合に炎症のリスクが低下。 (Emory and Children’s Healthcare)](https://news.emory.edu/stories/2021/09/preterm_infants_transfusion/index.html) ([論文](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2783715))
 
 [\[21-09\]](2109.md)
