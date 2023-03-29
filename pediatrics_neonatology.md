@@ -49,7 +49,7 @@
 * [分娩様式によって子への愛着は変化しない。 (富山大学)](http://www.med.u-toyama.ac.jp/eco-tuc/result/bonding.html) ([DOI](https://doi.org/10.1016/j.jad.2019.11.005))
 * [SIDS児とその他の原因の死亡児の採血結果よりSIDS児は分解酵素(BChE)のレベルが有意に低かった、バイオマーカーとして使える可能性。 (Boston Children's Hospital)](https://www.nejm.org/doi/full/10.1056/NEJMp2119221) ([臨床研究](https://www.childrenshospital.org/conditions/sudden-infant-death-syndrome-sids))
 * [昼寝は小児の文字と発音を結び付ける学びに役立つ。 (Macquarie University)](https://researchers.mq.edu.au/en/publications/nap-effects-on-pre-school-childrens-learning-of-letter-sound-mapp) ([DOI](https://doi.org/10.1111/cdev.13753))
-* [日中の15分の運動は学童のフィットネス向上だけでなく、記憶力も向上させた。 (University of Stirling)](https://www.stir.ac.uk/news/2022/april-2022-news/daily-activity-is-route-to-a-better-memory-as-well-as-fitness-for-pupils-/) ([論文](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.812616/full))
+* [日中の15分の運動は学童のフィットネス向上だけでなく、記憶力も向上させた。 (University of Stirling)](https://www.stir.ac.uk/news/2022/april-2022-news/daily-activity-is-route-to-a-better-memory-as-well-as-fitness-for-pupils-/) ([DOI](https://doi.org/10.3389/fpsyg.2022.812616))
 
 [\[22-04\]](2204.md)
 * [赤ちゃんのうつぶせ寝防止ベルト。 (Snoozzz)](https://www.snoozzz.com/over-ons/) (過去の調査：[21-06-05 赤ちゃんのうつぶせ寝、SIDS対策デバイス。 (MonBaby)](2106.md)、[19-07-27 おむつが濡れたらスマホに通知するシステム (CNET Japan)](1907.md))
