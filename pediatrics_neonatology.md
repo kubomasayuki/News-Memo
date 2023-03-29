@@ -128,7 +128,7 @@
 * [タバコに曝露した子供は呼吸器系疾患による医療費が増大。 (University of Cincinnati)](https://www.uc.edu/news/articles/2021/03/uc-study-finds-that-tobacco-smoke-exposed-children-utilize-emergency-and-urgent-care-services.html) ([論文](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247179))
 
 [\[21-03\]](2103.md)
-* [子供を繰り返し怒ったり、身体的/精神的な暴力を振るうことは、子供の脳を委縮させる。 (University of Montreal)](https://nouvelles.umontreal.ca/en/article/2021/03/22/does-harsh-parenting-lead-to-smaller-brains/) (過去の調査：[February 14, 2021 体罰や育児放棄が発達指数(DQ)の低下と相関。](2102.md))
+* [子供を繰り返し怒ったり、身体的/精神的な暴力を振るうことは、子供の脳を委縮させる。 (University of Montreal)](https://nouvelles.umontreal.ca/en/article/2021/03/22/does-harsh-parenting-lead-to-smaller-brains/) (過去の調査：[21-02-14 体罰や育児放棄が発達指数(DQ)の低下と相関。](2102.md))
 * [生後6ヶ月以内の乳児の泣き声からの発達分析。 (Universitat Wurzburg)](https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/aus-der-melodie-waechst-die-sprache/)
 
 [\[21-02\]](2102.md)
