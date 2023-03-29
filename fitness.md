@@ -36,8 +36,8 @@
 
 [\[22-05\]](2205.md)
 * [着圧ウェアに筋力回復効果はない。(疲労軽減効果はある？) (東北大学)](https://www.tohoku.ac.jp/en/press/do_compression_garments_facilitate_muscle_recoverey.html) ([DOI](https://doi.org/10.1007/s40279-022-01681-4))
-* [日本人中高年においては中強度の身体活動量が多い方が認知症発症リスクが低い。 (JPHC Study)](https://epi.ncc.go.jp/jphc/outcome/8908.html) ([論文](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2790484))
-* [日中の15分の運動は学童のフィットネス向上だけでなく、記憶力も向上させた。 (University of Stirling)](https://www.stir.ac.uk/news/2022/april-2022-news/daily-activity-is-route-to-a-better-memory-as-well-as-fitness-for-pupils-/) ([論文](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.812616/full))
+* [日本人中高年においては中強度の身体活動量が多い方が認知症発症リスクが低い。 (JPHC Study)](https://epi.ncc.go.jp/jphc/outcome/8908.html) ([DOI](https://doi.org/10.1001/jamanetworkopen.2022.4590))
+* [日中の15分の運動は学童のフィットネス向上だけでなく、記憶力も向上させた。 (University of Stirling)](https://www.stir.ac.uk/news/2022/april-2022-news/daily-activity-is-route-to-a-better-memory-as-well-as-fitness-for-pupils-/) ([DOI](https://doi.org/10.3389/fpsyg.2022.812616))
 
 [\[22-04\]](2204.md)
 * [アキレス腱断裂時の手術と保存療法では1年後の転帰に有意差なし。 (University of Gothenburg)](https://journals.sagepub.com/doi/full/10.1177/0363546510376052)
