@@ -52,7 +52,7 @@
 * [日中の15分の運動は学童のフィットネス向上だけでなく、記憶力も向上させた。 (University of Stirling)](https://www.stir.ac.uk/news/2022/april-2022-news/daily-activity-is-route-to-a-better-memory-as-well-as-fitness-for-pupils-/) ([論文](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.812616/full))
 
 [\[22-04\]](2204.md)
-* [赤ちゃんのうつぶせ寝防止ベルト。 (Snoozzz)](https://www.snoozzz.com/over-ons/) (過去の調査：[21-06-05 赤ちゃんのうつぶせ寝、SIDS対策デバイス。 (MonBaby)](2106.md)、[July 27, 2019 おむつが濡れたらスマホに通知するシステム (CNET Japan)](1907.md))
+* [赤ちゃんのうつぶせ寝防止ベルト。 (Snoozzz)](https://www.snoozzz.com/over-ons/) (過去の調査：[21-06-05 赤ちゃんのうつぶせ寝、SIDS対策デバイス。 (MonBaby)](2106.md)、[19-07-27 おむつが濡れたらスマホに通知するシステム (CNET Japan)](1907.md))
 
 [\[22-03\]](2203.md)
 
