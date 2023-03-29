@@ -12,35 +12,35 @@
 * [仕事に関して、適度な忙しさと自分でコントロールできることが睡眠の質に関連している。 (University of South Florida)](https://www.usf.edu/news/2022/too-many-or-too-few-job-demands-can-spoil-a-good-nights-sleep.aspx) ([DOI](https://dx.doi.org/10.1016/j.sleh.2022.09.002))
 
 [\[22-11\]](2211.md)
-* [睡眠の質が緑内障のリスクに影響？ (四川大学)](http://www.qlifepro.com/news/20221114/glaucoma-sleep-behaviour.html) ([DOI](http://dx.doi.org/10.1136/bmjopen-2022-063676))
+* [睡眠の質が緑内障のリスクに影響？ (四川大学)](http://www.qlifepro.com/news/20221114/glaucoma-sleep-behaviour.html) ([DOI](https://doi.org/10.1136/bmjopen-2022-063676))
 
 [\[22-10\]](2210.md)
 
 [\[22-09\]](2209.md)
-* [概日リズムの乱れが代謝リズムを狂わせる。 (Universitätsmedizin Berlin)](https://www.charite.de/en/service/press_reports/artikel/detail/disruption_of_the_bodys_internal_clock_causes_disruption_of_metabolic_processes/) ([DOI](http://dx.doi.org/10.1038/nsmb.3331))
-* [概日リズムの安定はうつ病や認知機能低下の予防になる。 (University of Pittsburgh)](https://www.upmc.com/media/news/091322-cognitivetests) ([DOI](https://dx.doi.org/10.1001/jamapsychiatry.2022.2573))
+* [概日リズムの乱れが代謝リズムを狂わせる。 (Universitätsmedizin Berlin)](https://www.charite.de/en/service/press_reports/artikel/detail/disruption_of_the_bodys_internal_clock_causes_disruption_of_metabolic_processes/) ([DOI](https://doi.org/10.1038/nsmb.3331))
+* [概日リズムの安定はうつ病や認知機能低下の予防になる。 (University of Pittsburgh)](https://www.upmc.com/media/news/091322-cognitivetests) ([DOI](https://doi.org/10.1001/jamapsychiatry.2022.2573))
 
 [\[22-08\]](2208.md)
 
 [\[22-07\]](2207.md)
-* [うつ病が不眠を誘発するのではなく、睡眠時間の抑制がうつ症状を誘発する。 (University of Western Australia)](https://www.uwa.edu.au/news/Article/2022/July/Do-sleep-problems-come-first-before-adolescent-depression) ([論文](https://dx.doi.org/10.1038/s44159-022-00074-8))
+* [うつ病が不眠を誘発するのではなく、睡眠時間の抑制がうつ症状を誘発する。 (University of Western Australia)](https://www.uwa.edu.au/news/Article/2022/July/Do-sleep-problems-come-first-before-adolescent-depression) ([DOI](https://doi.org/10.1038/s44159-022-00074-8))
 
 [\[22-06\]](2206.md)
 
 [\[22-05\]](2205.md)
-* [昼寝は小児の文字と発音を結び付ける学びに役立つ。 (Macquarie University)](https://researchers.mq.edu.au/en/publications/nap-effects-on-pre-school-childrens-learning-of-letter-sound-mapp) ([論文](https://doi.org/10.1111/cdev.13753))
+* [昼寝は小児の文字と発音を結び付ける学びに役立つ。 (Macquarie University)](https://researchers.mq.edu.au/en/publications/nap-effects-on-pre-school-childrens-learning-of-letter-sound-mapp) ([DOI](https://doi.org/10.1111/cdev.13753))
 
 [\[22-04\]](2204.md)
 * [いびき対策のウェアラブルデバイス。 (SWAN SWAN)](https://www.swanswan.info/)
 
 [\[22-03\]](2203.md)
-* [寝ている部屋が明るいと交感神経が活性化され、インスリン抵抗性が上昇。 (Northwestern)](https://news.feinberg.northwestern.edu/2022/03/exposure-to-artificial-light-during-sleep-may-increase-risk-of-heart-disease-and-diabetes/) ([論文](https://doi.org/10.1073/pnas.2113290119))
-* [睡眠不足に対する週末の寝溜めはNAFLD(非アルコール性脂肪肝疾患)と負の相関。 (Catholic Kwandong University)](https://www.medpagetoday.com/gastroenterology/generalhepatology/97410) ([論文](https://doi.org/10.1016/j.aohep.2022.100690))
+* [寝ている部屋が明るいと交感神経が活性化され、インスリン抵抗性が上昇。 (Northwestern)](https://news.feinberg.northwestern.edu/2022/03/exposure-to-artificial-light-during-sleep-may-increase-risk-of-heart-disease-and-diabetes/) ([DOI](https://doi.org/10.1073/pnas.2113290119))
+* [睡眠不足に対する週末の寝溜めはNAFLD(非アルコール性脂肪肝疾患)と負の相関。 (Catholic Kwandong University)](https://www.medpagetoday.com/gastroenterology/generalhepatology/97410) ([DOI](https://doi.org/10.1016/j.aohep.2022.100690))
 
 [\[22-02\]](2202.md)
 
 [\[22-01\]](2201.md)
-* [未就学児は就寝前のわずかな光の曝露でも睡眠サイクルが狂う。 (University of Colorado at Boulder)](https://www.colorado.edu/today/2022/01/25/even-minor-exposure-light-bedtime-may-disrupt-preschoolers-sleep) ([論文](http://dx.doi.org/10.1111/jpi.12780))
+* [未就学児は就寝前のわずかな光の曝露でも睡眠サイクルが狂う。 (University of Colorado at Boulder)](https://www.colorado.edu/today/2022/01/25/even-minor-exposure-light-bedtime-may-disrupt-preschoolers-sleep) ([DOI](https://doi.org/10.1111/jpi.12780))
 
 [\[21-12\]](2112.md)
 * [妊娠中の不眠は早産率を30％上昇させる。 (UCSF)](https://www.ucsf.edu/news/2017/08/407961/sleep-disorders-linked-preterm-birth-large-california-study) ([論文1](https://www.nature.com/articles/nature.2017.22419)、[論文2](https://journals.lww.com/greenjournal/Abstract/2017/09000/Sleep_Disorder_Diagnosis_During_Pregnancy_and_Risk.12.aspx)、過去の調査：[January 29, 2021 光による概日リズムの乱れは早産につながる可能性。 (Lehigh University)](2101.md))
