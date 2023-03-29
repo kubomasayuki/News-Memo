@@ -26,6 +26,7 @@
 * [うつ病が不眠を誘発するのではなく、睡眠時間の抑制がうつ症状を誘発する。 (University of Western Australia)](https://www.uwa.edu.au/news/Article/2022/July/Do-sleep-problems-come-first-before-adolescent-depression) ([DOI](https://doi.org/10.1038/s44159-022-00074-8))
 
 [\[22-06\]](2206.md)
+* [生後3ヶ月時点で就寝前のルーチンが一貫していると、12ヶ月や24ヶ月時点で睡眠時間が増える。 (University of Illinois at Urbana-Champaign)](https://news.illinois.edu/view/6367/1153380885) ([DOI](https://doi.org/10.1093/sleep/zsab045))
 
 [\[22-05\]](2205.md)
 * [昼寝は小児の文字と発音を結び付ける学びに役立つ。 (Macquarie University)](https://researchers.mq.edu.au/en/publications/nap-effects-on-pre-school-childrens-learning-of-letter-sound-mapp) ([DOI](https://doi.org/10.1111/cdev.13753))
