@@ -43,7 +43,7 @@
 * [未就学児は就寝前のわずかな光の曝露でも睡眠サイクルが狂う。 (University of Colorado at Boulder)](https://www.colorado.edu/today/2022/01/25/even-minor-exposure-light-bedtime-may-disrupt-preschoolers-sleep) ([DOI](https://doi.org/10.1111/jpi.12780))
 
 [\[21-12\]](2112.md)
-* [妊娠中の不眠は早産率を30％上昇させる。 (UCSF)](https://www.ucsf.edu/news/2017/08/407961/sleep-disorders-linked-preterm-birth-large-california-study) ([論文1](https://www.nature.com/articles/nature.2017.22419)、[論文2](https://journals.lww.com/greenjournal/Abstract/2017/09000/Sleep_Disorder_Diagnosis_During_Pregnancy_and_Risk.12.aspx)、過去の調査：[January 29, 2021 光による概日リズムの乱れは早産につながる可能性。 (Lehigh University)](2101.md))
+* [妊娠中の不眠は早産率を30％上昇させる。 (UCSF)](https://www.ucsf.edu/news/2017/08/407961/sleep-disorders-linked-preterm-birth-large-california-study) ([論文1](https://www.nature.com/articles/nature.2017.22419)、[論文2](https://journals.lww.com/greenjournal/Abstract/2017/09000/Sleep_Disorder_Diagnosis_During_Pregnancy_and_Risk.12.aspx)、過去の調査：[21-01-29 光による概日リズムの乱れは早産につながる可能性。 (Lehigh University)](2101.md))
 
 [\[21-11\]](2111.md)
 * [睡眠時間の不足や質の低下は肥満や高血圧、糖尿病、心血管疾患などのリスクを上昇させる。 (American Heart Association)](https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000000444)
