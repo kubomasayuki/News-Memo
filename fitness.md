@@ -40,7 +40,7 @@
 * [日中の15分の運動は学童のフィットネス向上だけでなく、記憶力も向上させた。 (University of Stirling)](https://www.stir.ac.uk/news/2022/april-2022-news/daily-activity-is-route-to-a-better-memory-as-well-as-fitness-for-pupils-/) ([DOI](https://doi.org/10.3389/fpsyg.2022.812616))
 
 [\[22-04\]](2204.md)
-* [アキレス腱断裂時の手術と保存療法では1年後の転帰に有意差なし。 (University of Gothenburg)](https://journals.sagepub.com/doi/full/10.1177/0363546510376052)
+* [アキレス腱断裂時の手術と保存療法では1年後の転帰に有意差なし。 (University of Gothenburg)](https://doi.org/10.1177/0363546510376052)
 
 [\[22-03\]](2203.md)
 
