@@ -42,7 +42,7 @@
 [\[21-12\]](2112.md)
 
 [\[21-11\]](2111.md)
-* [40歳より前に禁煙すると喫煙が原因の発がんリスクを90％軽減できる。 (American Cancer Society)](http://pressroom.cancer.org/SmokingAndCancer) ([論文](https://jamanetwork.com/journals/jamaoncology/article-abstract/2784990))
+* [40歳より前に禁煙すると喫煙が原因の発がんリスクを90％軽減できる。 (American Cancer Society)](http://pressroom.cancer.org/SmokingAndCancer) ([DOI](https:///doi.org/10.1001/jamaoncol.2021.4949))
 
 [\[21-10\]](2110.md)
 * [メンタルヘルスの問題は喫煙者の方が一般的であり、依存度にも相関している。 (Indiana University)](https://addictions.iu.edu/news/maria-parker-study.html)
