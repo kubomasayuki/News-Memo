@@ -70,7 +70,7 @@
 [\[21-12\]](2112.md)
 * [カフェインの代謝が速い人はブラックコーヒーやダークチョコレートの苦みを好む？ (NorthWestern University)](https://news.northwestern.edu/stories/2021/12/why-you-drink-black-coffee-its-in-your-genes/) ([DOI](https://doi.org/10.1038/s41598-021-03153-7)、過去の調査：[21-04-28 「コーヒーを飲むと健康になる」ではなく、「コーヒーを飲めないと健康上の問題の可能性」？ (University of South Australia)](2104.md))
 * [大人が美味しそうに野菜を食べていると子供の野菜消費量が増える。 (Aston University)](https://www.aston.ac.uk/latest-news/adults-positive-facial-expressions-while-eating-vegetables-help-kids-consume-more) ([DOI](https://doi.org/10.1016/j.appet.2021.105779))
-* [低カフェイン消費者のカフェイン摂取は動体視力を向上させる。 (University of Waterloo)](https://uwaterloo.ca/news/media/coffee-time-caffeine-improves-reaction-moving-targets) ([論文](https://link.springer.com/article/10.1007/s00213-021-05953-1))
+* [低カフェイン消費者のカフェイン摂取は動体視力を向上させる。 (University of Waterloo)](https://uwaterloo.ca/news/media/coffee-time-caffeine-improves-reaction-moving-targets) ([DOI](https://doi.org/10.1007/s00213-021-05953-1))
 
 [\[November 2021\]](2111.md)
 * [コーヒーやお茶を飲む人は脳卒中や認知症のリスクが低い。 (天津医科大学)](https://medicalxpress.com/news/2021-11-coffee-tea-dementia.html) ([論文](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003830)、過去の調査：[21-07-28 コーヒーの過剰摂取は認知症リスク上昇の可能性。 (University of South Australia)](2107.md)、[20-04-28 フィルターでろ過したコーヒーを1日1～4杯飲む人が最も健康。 (Norwegian Institute of Public Health)](2004.md))
