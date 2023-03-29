@@ -36,10 +36,10 @@
 * [描画時の筆圧など特徴を解析し認知機能の低下を予測。 (筑波大学)](https://www.tsukuba.ac.jp/journal/medicine-health/20220602141500.html) ([DOI](https://doi.org/10.2196/37014))
 
 [\[22-05\]](2205.md)
-* [日本人中高年においては中強度の身体活動量が多い方が認知症発症リスクが低い。 (JPHC Study)](https://epi.ncc.go.jp/jphc/outcome/8908.html) ([論文](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2790484))
+* [日本人中高年においては中強度の身体活動量が多い方が認知症発症リスクが低い。 (JPHC Study)](https://epi.ncc.go.jp/jphc/outcome/8908.html) ([DOI](https://doi.org/10.1001/jamanetworkopen.2022.4590))
 
 [\[22-04\]](2204.md)
-* [図書館や体育館などが少ない地域に住むことは認知症リスクの増加と関連。 (Monach University)](https://www.monash.edu/news/articles/where-you-live-is-a-factor-in-your-dementia-risk) ([論文](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2790517))
+* [図書館や体育館などが少ない地域に住むことは認知症リスクの増加と関連。 (Monach University)](https://www.monash.edu/news/articles/where-you-live-is-a-factor-in-your-dementia-risk) ([DOI](https://doi.org/10.1001/jamanetworkopen.2022.4071))
 
 [\[22-03\]](2203.md)
 
