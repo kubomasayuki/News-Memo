@@ -1,5 +1,6 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[23-04\]](2304.md)
 
 [\[23-03\]](2303.md)
 * [親が過保護(過干渉？)な子は寿命が短い？ (Federal University of São Carlos)](https://agencia.fapesp.br/children-of-overprotective-parents-tend-to-live-less-study-suggests/40633/) ([DOI](https://doi.org/10.1038/s41598-022-23443-y))
