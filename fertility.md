@@ -1,5 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) \[fertility\] [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[23-04\]](2304.md)
+
 [\[23-03\]](2303.md)
 * [ラット交配用着床能測定装置。 (室町機械)](https://muromachi.com/archives/item/1202)
 * [男性の飲酒はIVFの成功率に影響。 (Texas A&M University)](https://vetmed.tamu.edu/news/press-releases/male-alcohol-use-ivf/) ([DOI](https://doi.org/10.1093/molehr/gaad002))
