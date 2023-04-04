@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) \[CTG_FECG\] [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[23-04\]](2304.md)
+* [胎児心拍からLong QTの予測。 (Circulation)](https://doi.org/10.1161/CIRCULATIONAHA.112.114132)
+
 [\[23-03\]](2303.md)
 
 [\[23-02\]](2302.md)
