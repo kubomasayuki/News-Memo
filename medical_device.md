@@ -1,7 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) \[medical_device\] [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[23-04\]](2304.md)
-* [電気信号と音響信号から胎児心電図を計測するデバイス。 (NUVO)](https://www.nuvocares.com/)
+* [電気信号と音響信号から胎児心電図を計測するデバイス。 (NUVO)](https://www.nuvocares.com/) ([DOI](https://doi.org/10.1016/j.ajogmf.2020.100101))
 
 [\[23-03\]](2303.md)
 * [ラット交配用着床能測定装置。 (室町機械)](https://muromachi.com/archives/item/1202)
