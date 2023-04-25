@@ -93,7 +93,7 @@
 * [Novii 外測胎児監視デバイスの臨床研究。 (Clinical Trials)](https://clinicaltrials.gov/ct2/show/NCT03156608) ([510k](https://www.accessdata.fda.gov/cdrh_docs/pdf14/K140862.pdf)(2014年))
 
 [\[20-04\]](2004.md)
-* [在宅向けCTGモニター。 (mHealth Watch)](http://mhealthwatch.jp/global/news20200417) ([Clinical Trials](https://clinicaltrials.gov/ct2/show/NCT03504189), [510k](https://www.nuvocares.com/assets/downloads/K191401.510kSummary.Final_Sent001.pdf))
+* [在宅向けCTGモニター。 (mHealth Watch)](http://mhealthwatch.jp/global/news20200417) ([Clinical Trials](https://clinicaltrials.gov/ct2/show/NCT03504189), [510k](https://www.nuvocares.com/assets/downloads/K191401.510kSummary.Final_Sent001.pdf)(2020年))
 
 [\[20-03\]](2003.md)
 
