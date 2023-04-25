@@ -90,7 +90,7 @@
 * [患者が自宅からも48時間の連続監視が可能なベルトレスのモニタリング製品。 (Philips)](https://www.usa.philips.com/healthcare/product/HC866488/avalon-beltless-fetal-monitoring-solution) ([FDAの緊急ガイドラインによりCOVID-19に伴いAvalon CLとともに認可](https://www.medgadget.com/2020/06/philips-fetal-monitor-to-help-during-covid-distancing.html))
 
 [\[20-05\]](2005.md)
-* [Novii 外測胎児監視デバイスの臨床研究。 (Clinical Trials)](https://clinicaltrials.gov/ct2/show/NCT03156608)
+* [Novii 外測胎児監視デバイスの臨床研究。 (Clinical Trials)](https://clinicaltrials.gov/ct2/show/NCT03156608) ([510k](https://www.accessdata.fda.gov/cdrh_docs/pdf14/K140862.pdf)(2014年))
 
 [\[20-04\]](2004.md)
 * [在宅向けCTGモニター。 (mHealth Watch)](http://mhealthwatch.jp/global/news20200417) ([Clinical Trials](https://clinicaltrials.gov/ct2/show/NCT03504189), [510k](https://www.nuvocares.com/assets/downloads/K191401.510kSummary.Final_Sent001.pdf))
