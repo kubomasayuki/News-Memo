@@ -138,7 +138,7 @@
 
 [\[20-04\]](2004.md)
 * [HD画質、5mm径のディスポ式ラパロ。 (PR Newswire)](https://www.prnewswire.com/news-releases/fda-clears-new-disposable-fog-free-articulating-5mm-laparoscope-301040004.html)
-* [在宅向けCTGモニター。 (mHealth Watch)](http://mhealthwatch.jp/global/news20200417) ([Clinical Trials](https://clinicaltrials.gov/ct2/show/NCT03504189), [510k](https://www.nuvocares.com/assets/downloads/K191401.510kSummary.Final_Sent001.pdf))
+* [在宅向けCTGモニター。 (mHealth Watch)](http://mhealthwatch.jp/global/news20200417) ([Clinical Trials](https://clinicaltrials.gov/ct2/show/NCT03504189), [510k](https://www.nuvocares.com/assets/downloads/K191401.510kSummary.Final_Sent001.pdf)(2020年))
 
 [\[20-03\]](2003.md)
 * [横浜国大と横浜市大、新生児用バイタルセンサーを共同開発 (横浜市立大学)](https://www.yokohama-cu.ac.jp/news/2019/202001ito.html)
