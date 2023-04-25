@@ -1,7 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) \[CTG_FECG\] [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[23-04\]](2304.md)
-* [電気信号と音響信号から胎児心電図を計測するデバイス。 (NUVO)](https://www.nuvocares.com/) ([DOI](https://doi.org/10.1016/j.ajogmf.2020.100101))
+* [電気信号と音響信号から胎児心電図を計測するデバイス。 (NUVO)](https://www.nuvocares.com/) ([DOI](https://doi.org/10.1016/j.ajogmf.2020.100101)、過去の調査：[20-04-10 在宅向けCTGモニター。 (mHealth Watch)](2004.md) (同じ製品))
 * [胎児心拍からLong QTの予測。 (Circulation)](https://doi.org/10.1161/CIRCULATIONAHA.112.114132)
 
 [\[23-03\]](2303.md)
