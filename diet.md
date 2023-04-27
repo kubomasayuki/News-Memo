@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) \[diet\] [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[23-04\]](2304.md)
+* [1日4～6杯コーヒーを飲む人は2型糖尿病発症リスクが28％低い。 (Harvard School of Public Health)](https://www.uece.br/wp-content/uploads/sites/82/2021/07/Caf%C3%A9-diabetes-revis%C3%A3o-sistem%C3%A1tica.pdf) ([DOI](https://doi.org/10.1001/jama.294.1.97))
 
 [\[23-03\]](2303.md)
 * [エリスリトールが心血管イベントリスク増と相関。 (Creveland Clinic Learner Research Institute)](https://www.lerner.ccf.org/news/article/?id=ea9560ab58cc87cd9bba43ff11bde112318d54f1) ([DOI](https://doi.org/10.1038/s41591-023-02223-9))
