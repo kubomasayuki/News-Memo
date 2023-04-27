@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) \[sleep\] [\[smoke\]](smoke.md)
 
 [\[23-04\]](2304.md)
+* [ワクチン接種前後の不十分な睡眠は抗体反応を低下させる。 (University of Chicago)](https://news.uchicago.edu/story/not-getting-enough-sleep-can-dilute-antibody-response-vaccination-study-finds) ([DOI](https://doi.org/10.1016/j.cub.2023.02.017))
 
 [\[23-03\]](2303.md)
 * [長時間睡眠の男性は内臓脂肪型肥満が多く、一方で女性は少ない？ (東京大学)](https://www.carenet.com/news/general/hdnj/56006) ([DOI](https://doi.org/10.1038/s41598-022-24863-6))
