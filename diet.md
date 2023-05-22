@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) \[diet\] [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[23-05\]](2305.md)
+* [子供の朝食抜きは糖尿病リスク。 (足立区)](https://www.city.adachi.tokyo.jp/kokoro/fukushi-kenko/kenko/kodomo-kenko-chosa.html) ([DOI](https://doi.org/10.3389/fendo.2023.1051592))
+
 [\[23-04\]](2304.md)
 * [食事でマグネシウム摂取を増やすと老化に伴う認知機能低下を予防できる。 (Australian National University)](https://nceph.anu.edu.au/news-events/news/higher-dose-magnesium-each-day-keeps-dementia-bay) ([DOI](https://doi.org/10.1007/s00394-023-03123-x))
 * [1日4～6杯コーヒーを飲む人は2型糖尿病発症リスクが28％低い。 (Harvard School of Public Health)](https://www.uece.br/wp-content/uploads/sites/82/2021/07/Caf%C3%A9-diabetes-revis%C3%A3o-sistem%C3%A1tica.pdf) ([DOI](https://doi.org/10.1001/jama.294.1.97))
