@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[23-05\]](2305.md) 
+* [NICUや保育器が未熟児の難聴の一因？ (Frontiers)](https://doi.org/10.3389/fped.2023.1147226)
 * [乳児期のRSV感染は喘息発症リスク。 (Vanderbilt University)](https://news.vumc.org/2023/04/24/study-finds-early-rsv-infection-linked-to-significantly-increased-risk-of-asthma-in-children/) ([DOI](https://doi.org/10.1016/s0140-6736(23)00811-5))
 
 [\[23-04\]](2304.md)
