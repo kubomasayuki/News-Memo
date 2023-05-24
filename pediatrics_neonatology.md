@@ -2,6 +2,7 @@
 
 [\[23-05\]](2305.md) 
 * [NICUや保育器が未熟児の難聴の一因？ (Frontiers)](https://doi.org/10.3389/fped.2023.1147226)
+* [乳児にとって、うつ伏せ遊びは運動の一環。 (University of Alberta)](https://www.ualberta.ca/folio/2023/03/tummy-time-reading-among-recommended-activities-that-boost-babies-motor-development.html) ([DOI](https://doi.org/10.1186/s12966-022-01397-8))
 * [乳児期のRSV感染は喘息発症リスク。 (Vanderbilt University)](https://news.vumc.org/2023/04/24/study-finds-early-rsv-infection-linked-to-significantly-increased-risk-of-asthma-in-children/) ([DOI](https://doi.org/10.1016/s0140-6736(23)00811-5))
 
 [\[23-04\]](2304.md)
