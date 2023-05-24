@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) \[medical_device\] [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[23-05\]](2305.md)
+* [糖尿病患者向け、血液の過剰な糖で発電する電池。 (ETH Zurich)](https://ethz.ch/en/news-and-events/eth-news/news/2023/03/press-release-generating-power-with-blood-sugar.html) ([DOI](https://doi.org/10.1002/adma.202300890)、過去の調査：[22-08-19 少量の発汗で動作可能なウェアラブルバイオセンサー。 (California Institute of Technology)](2208.md))
+
 [\[23-04\]](2304.md)
 * [遠隔胎児心拍数監視装置、Sense4baby。 (AirStrip)](https://www.airstrip.com/usecases/fetal-monitoring) ([Clinical Trials](https://clinicaltrials.gov/ct2/show/NCT02379351),[510k](https://www.accessdata.fda.gov/cdrh_docs/pdf14/K143114.pdf)(2015年))
 * [電気信号と音響信号から胎児心電図を計測するデバイス。 (NUVO)](https://www.nuvocares.com/) ([DOI](https://doi.org/10.1016/j.ajogmf.2020.100101)、過去の調査：[20-04-17 在宅向けCTGモニター。 (mHealth Watch)](2004.md) (同じ製品))
