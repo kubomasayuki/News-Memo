@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) \[sleep\] [\[smoke\]](smoke.md)
 
+[\[23-05\]](2305.md)
+* [高強度の運動は睡眠時間が死亡リスクに影響しない。 (European Society of Cardiology)](https://www.escardio.org/The-ESC/Press-Office/Press-releases/exercise-may-reduce-negative-effects-of-unhealthy-sleep-duration-on-longevity) ([DOI](https://doi.org/10.1093/eurjpc/zwad060))
+
 [\[23-04\]](2304.md)
 * [ワクチン接種前後の不十分な睡眠は抗体反応を低下させる。 (University of Chicago)](https://news.uchicago.edu/story/not-getting-enough-sleep-can-dilute-antibody-response-vaccination-study-finds) ([DOI](https://doi.org/10.1016/j.cub.2023.02.017))
 
