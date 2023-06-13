@@ -1,5 +1,9 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[23-06\]](2306.md)
+
+[\[23-05\]](2305.md)
+
 [\[23-04\]](2304.md)
 * [妊娠糖尿病の女性の出産後の糖尿病発症リスクをコーヒーが抑制。 (National University of Singapore)](https://medicine.nus.edu.sg/news/drinking-coffee-regularly-after-pregnancy-may-lower-the-risk-of-type-2-diabetes-for-women-who-had-diabetes-during-pregnancy/) ([DOI](https://doi.org/10.1093/ajcn/nqac241))
 * [Long QTによる心血管イベントは妊娠前/中より産褥期の方が多い。 (Circulation)](https://doi.org/10.1161/01.CIR.97.5.451)
