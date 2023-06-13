@@ -1,5 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[23-06\]](2306.md)
+
 [\[23-05\]](2305.md)
 * [子供を追い詰めるような危険なしつけは将来子供がメンタルヘルスの問題を発症する可能性が上昇。 (University of Cambridge)](https://www.cam.ac.uk/research/news/harsh-discipline-increases-risk-of-children-developing-lasting-mental-health-problems) ([DOI](https://doi.org/10.1017/S2045796023000094))
 * [NICUや保育器の騒音が未熟児の難聴の一因？ (Frontiers)](https://doi.org/10.3389/fped.2023.1147226)
