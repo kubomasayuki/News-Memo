@@ -1,5 +1,9 @@
 \[aging_cognition\] [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[23-06\]](2306.md)
+
+[\[23-05\]](2305.md)
+
 [\[23-04\]](2304.md)
 * [食事でマグネシウム摂取を増やすと老化に伴う認知機能低下を予防できる。 (Australian National University)](https://nceph.anu.edu.au/news-events/news/higher-dose-magnesium-each-day-keeps-dementia-bay) ([DOI](https://doi.org/10.1007/s00394-023-03123-x))
 
