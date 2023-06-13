@@ -1,5 +1,9 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) \[Gynecology\] [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md)  [\[smoke\]](smoke.md)
 
+[\[23-06\]](2306.md)
+
+[\[23-05\]](2305.md)
+
 [\[23-04\]](2304.md)
 
 [\[23-03\]](2303.md)
