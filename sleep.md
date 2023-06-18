@@ -10,6 +10,7 @@
 
 [\[23-03\]](2303.md)
 * [長時間睡眠の男性は内臓脂肪型肥満が多く、一方で女性は少ない？ (東京大学)](https://www.carenet.com/news/general/hdnj/56006) ([DOI](https://doi.org/10.1038/s41598-022-24863-6))
+* [就寝前のスクリーンタイム増で妊娠糖尿病リスクが上昇？ (Northwestern University)](https://news.northwestern.edu/stories/2023/03/new-story-pagedim-lights-before-bedtime-to-reduce-risk-of-gestational-diabetes/) ([DOI](http://doi.org/10.1016/j.ajogmf.2023.100922))
 
 [\[23-02\]](2302.md)
 
