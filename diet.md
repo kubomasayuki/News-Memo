@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) \[diet\] [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[23-06\]](2306.md)
+* [砂糖代替品は長期的な体重減少効果はなく、むしろ疾病リスクは上昇。 (WHO)](https://www.who.int/news/item/15-05-2023-who-advises-not-to-use-non-sugar-sweeteners-for-weight-control-in-newly-released-guideline)
 
 [\[23-05\]](2305.md)
 * [子供の朝食抜きは糖尿病リスク。 (足立区)](https://www.city.adachi.tokyo.jp/kokoro/fukushi-kenko/kenko/kodomo-kenko-chosa.html) ([DOI](https://doi.org/10.3389/fendo.2023.1051592))
