@@ -2,6 +2,7 @@
 
 [\[23-06\]](2306.md)
 * [家族の食事が長くなると、子供の肉やデザートはそのままで野菜の消費量が増える。 (Max Planck Institute)](https://www.mpg.de/20189732/0418-bild-how-to-get-your-children-to-eat-more-fruits-and-vegetables-149835-x) ([DOI](https://doi.org/10.1001/jamanetworkopen.2023.6331))
+* [早産児のためのポータルサイト。 (Small-Baby、AstraZeneca)](https://www.small-baby.jp/)
 
 [\[23-05\]](2305.md)
 * [子供を追い詰めるような危険なしつけは将来子供がメンタルヘルスの問題を発症する可能性が上昇。 (University of Cambridge)](https://www.cam.ac.uk/research/news/harsh-discipline-increases-risk-of-children-developing-lasting-mental-health-problems) ([DOI](https://doi.org/10.1017/S2045796023000094))
