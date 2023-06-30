@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) \[diet\] [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[23-06\]](2306.md)
+* [野菜や果物など抗酸化物質を多く含む食事をすると流産のリスクが減少。 (University of Birmingham)](https://www.birmingham.ac.uk/news/2023/diet-high-in-fruit-and-vegetables-linked-to-lower-miscarriage-risk) ([DOI]())
 * [家族の食事が長くなると、子供の肉やデザートはそのままで野菜の消費量が増える。 (Max Planck Institute)](https://www.mpg.de/20189732/0418-bild-how-to-get-your-children-to-eat-more-fruits-and-vegetables-149835-x) ([DOI](https://doi.org/10.1001/jamanetworkopen.2023.6331))
 * [砂糖代替品は長期的な体重減少効果はなく、むしろ疾病リスクは上昇。 (WHO)](https://www.who.int/news/item/15-05-2023-who-advises-not-to-use-non-sugar-sweeteners-for-weight-control-in-newly-released-guideline)
 
