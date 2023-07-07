@@ -74,7 +74,7 @@
 
 [\[21-12\]](2112.md)
 * [妊娠中の貧血は、早産、低出生体重児、小児の貧血や発達障害と関連している。 (WHO)](https://www.who.int/data/gho/data/themes/topics/anaemia_in_women_and_children)
-* [妊娠中の不眠は早産率を30％上昇させる。 (UCSF)](https://www.ucsf.edu/news/2017/08/407961/sleep-disorders-linked-preterm-birth-large-california-study) ([論文1](https://www.nature.com/articles/nature.2017.22419)、[論文2](https://journals.lww.com/greenjournal/Abstract/2017/09000/Sleep_Disorder_Diagnosis_During_Pregnancy_and_Risk.12.aspx)、過去の調査：[21-01-29 光による概日リズムの乱れは早産につながる可能性。 (Lehigh University)](2101.md))
+* [妊娠中の不眠は早産率を30％上昇させる。 (UCSF)](https://www.ucsf.edu/news/2017/08/407961/sleep-disorders-linked-preterm-birth-large-california-study) ([DOI 1](https://doi.org/10.1038/nature.2017.22419)、[DOI 2](https://doi.org/10.1097/AOG.0000000000002132)、過去の調査：[21-01-29 光による概日リズムの乱れは早産につながる可能性。 (Lehigh University)](2101.md))
 
 [\[21-11\]](2111.md)
 * [麻酔分娩は麻酔なしの経膣分娩よりも産後うつのリスクが高い。 (名古屋市立大学)](https://bmcpregnancychildbirth.biomedcentral.com/articles/10.1186/s12884-021-03996-y)
