@@ -1,5 +1,8 @@
 \[aging_cognition\] [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[23-07\]](2307.md) 
+* [排便の少なさ、便の硬さと認知症リスクが相関。 (国立がん研究センター)](https://www.carenet.com/news/general/carenet/56742) ([DOI](https://doi.org/10.1016/j.puhe.2023.05.019))
+
 [\[23-06\]](2306.md)
 * [母親の認知症は男女ともに子供の認知症リスクと相関。 (Sungkyunkwan University)](https://www.carenet.com/news/general/carenet/56531) ([DOI](https://doi.org/10.1111/pcn.13561))
 
