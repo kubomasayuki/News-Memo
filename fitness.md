@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) \[fitness\] [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[23-07\]](2307.md)
+* [筋内脂肪蓄積はサルコペニアや運動機能低下と相関。 (名古屋大学)](https://www.nagoya-u.ac.jp/about-nu/public-relations/researchinfo/upload_images/20170209_htc.pdf) ([DOI](https://doi.org/10.1016/j.archger.2017.01.014))
+
 [\[23-06\]](2306.md)
 
 [\[23-05\]](2305.md)
