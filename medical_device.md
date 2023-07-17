@@ -1,5 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) \[medical_device\] [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[23-07\]](2307.md)
+
 [\[23-06\]](2306.md)
 * [創傷治癒を早める電子包帯。 (University of Wisconsin-Madison)](https://news.wisc.edu/its-not-a-shock-better-bandage-promotes-powerful-healing/) ([DOI](https://doi.org/10.1021/acsnano.8b07038))
 
