@@ -1,5 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) \[Dentistry\] [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[23-07\]](2307.md)
+
 [\[23-06\]](2306.md)
 * [歯科治療の中断と全身性疾患の悪化が相関。 (近畿大学)](https://www.carenet.com/news/general/hdnj/56440) ([DOI](https://doi.org/10.1038/s41415-023-5690-3))
 
