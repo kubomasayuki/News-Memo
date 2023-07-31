@@ -2,6 +2,7 @@
 
 [\[23-07\]](2307.md)
 * [医療機器の研究開発マネジメントにおけるチェックポイント/ステージゲート。 (AMED)](https://www.amed.go.jp/koubo/medical_device_check.html)
+* [安価なポータブル子宮収縮トラッカー。 (Washington University in St. Louis)](https://engineering.wustl.edu/news/2023/Portable-low-cost-tech-tracks-uterine-contractions.html) ([DOI](https://doi.org/10.1109/TBCAS.2023.3278104))
 
 [\[23-06\]](2306.md)
 * [創傷治癒を早める電子包帯。 (University of Wisconsin-Madison)](https://news.wisc.edu/its-not-a-shock-better-bandage-promotes-powerful-healing/) ([DOI](https://doi.org/10.1021/acsnano.8b07038))
