@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) \[sleep\] [\[smoke\]](smoke.md)
 
 [\[23-07\]](2307.md)
+* [短い睡眠は末梢動脈疾患のリスクが上昇。 (Europian Society of Cardiology)](https://www.escardio.org/The-ESC/Press-Office/Press-releases/short-night-time-sleep-linked-with-nearly-doubled-risk-of-clogged-leg-arteries) ([DOI](https://doi.org/10.1093/ehjopen/oead008))
 * [食物繊維が豊富で脂肪と糖分が少ない食事をした人は眠りにつくのが早く、睡眠も深くなる。 (Columbia University)](https://doi.org/10.5664/jcsm.5384)
 
 [\[23-06\]](2306.md)
