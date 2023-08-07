@@ -1,5 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[23-08\]](2308.md)
+
 [\[23-07\]](2307.md)
 * [妊娠中に音楽を聴くと児の言語習得が早い？ (Universitat de Balcelona)](http://www.fbg.ub.edu/en/news/listening-to-music-during-pregnancy-benefits-the-babys-brains-ability-to-encode-speech-sounds/) ([DOI](https://doi.org/10.1111/desc.13362))
 
