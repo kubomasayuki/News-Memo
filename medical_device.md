@@ -191,5 +191,6 @@
 [\[19-04\]](1904.md)
 * [遠隔医療のためのカメラ付き、アタッチメント交換型診断支援デバイス (TytoCare.com)](https://www.tytocare.com/)
 * [着るだけで心電図を計測できるスマートウェアを開発 (国立研究開発法人新エネルギー・産業技術総合開発機構)](https://www.nedo.go.jp/news/press/AA5_101107.html) ([論文](https://www.nature.com/articles/s41598-019-42027-x))
+* [患者の血圧や脳波から麻酔を自動制御するロボットの臨床試験開始 (福井大学)](https://newswitch.jp/p/17299) ([ニュースリリース](https://www.u-fukui.ac.jp/wp/wp-content/uploads/%E3%81%93%E3%81%A1%E3%82%89.pdf))
 
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) \[medical_device\] [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
