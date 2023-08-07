@@ -1,6 +1,10 @@
 \[aging_cognition\] [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
-[\[23-07\]](2307.md) 
+[\[23-08\]](2308.md)
+* [妊娠中の母親のストレスレベルが高い児の方が1～3歳の言語獲得能力が高い。 (Odense University)](https://www.ese-hormones.org/media/5223/press_release-fenger-dreyer-saturday-13-maydocx.pdf)
+* [夜勤前の露光はミスと倦怠感を減少させる。 (McGill University)](https://www.mcgill.ca/newsroom/channels/news/reducing-fatigue-and-errors-among-nurses-working-night-shifts-347527) ([DOI](https://doi.org/10.1016/j.sleh.2023.02.004))
+
+[\[23-07\]](2307.md)
 * [排便の少なさ、便の硬さと認知症リスクが相関。 (国立がん研究センター)](https://www.carenet.com/news/general/carenet/56742) ([DOI](https://doi.org/10.1016/j.puhe.2023.05.019))
 
 [\[23-06\]](2306.md)
