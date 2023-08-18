@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[23-08\]](2308.md)
+* [受動喫煙で子供の近視が進行。 (香港中文大学)](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2804781)
 * [妊娠中の母親のストレスレベルが高い児の方が1～3歳の言語獲得能力が高い。 (Odense University)](https://www.ese-hormones.org/media/5223/press_release-fenger-dreyer-saturday-13-maydocx.pdf)
 
 [\[23-07\]](2307.md)
