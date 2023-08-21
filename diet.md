@@ -1,5 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) \[diet\] [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[23-08\]](2308.md)
+
 [\[23-07\]](2307.md)
 * [食パンや鶏肉を食べると片頭痛になりやすい。 (山東大学)](https://doi.org/10.3389/fnut.2023.1123657)
 * [食物繊維が豊富で脂肪と糖分が少ない食事をした人は眠りにつくのが早く、睡眠も深くなる。 (Columbia University)](https://doi.org/10.5664/jcsm.5384)
