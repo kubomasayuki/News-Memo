@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) \[diet\] [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[23-08\]](2308.md)
+* [塩分(リン酸塩)の過剰摂取と高血圧、認知障害の関係。 (藤田医科大学)](https://www.fujita-hu.ac.jp/en/news/kka9ar00000023q6.html) ([DOI](https://doi.org/10.1111/bph.16093))
 
 [\[23-07\]](2307.md)
 * [食パンや鶏肉を食べると片頭痛になりやすい。 (山東大学)](https://doi.org/10.3389/fnut.2023.1123657)
