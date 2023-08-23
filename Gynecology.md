@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) \[Gynecology\] [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md)  [\[smoke\]](smoke.md)
 
 [\[23-08\]](2308.md)
+* [健康的なライフスタイルを遵守すると、乳がんの再発と死亡率が減少。 (Roswell Park Comprehensive Cancer Center)](https://www.roswellpark.org/newsroom/202305-study-healthy-lifestyle-reduces-risk-recurrence-death-high-risk-breast-cancer) ([DOI](https://doi.org/10.1001/jamanetworkopen.2023.11673))
 
 [\[23-07\]](2307.md)
 
