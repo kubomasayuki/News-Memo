@@ -1,6 +1,7 @@
 \[aging_cognition\] [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[23-08\]](2308.md)
+* [塩分(リン酸塩)の過剰摂取と高血圧、認知障害の関係。 (藤田医科大学)](https://www.fujita-hu.ac.jp/en/news/kka9ar00000023q6.html) ([DOI](https://doi.org/10.1111/bph.16093))
 * [妊娠中の母親のストレスレベルが高い児の方が1～3歳の言語獲得能力が高い。 (Odense University)](https://www.ese-hormones.org/media/5223/press_release-fenger-dreyer-saturday-13-maydocx.pdf)
 * [夜勤前の露光はミスと倦怠感を減少させる。 (McGill University)](https://www.mcgill.ca/newsroom/channels/news/reducing-fatigue-and-errors-among-nurses-working-night-shifts-347527) ([DOI](https://doi.org/10.1016/j.sleh.2023.02.004))
 
