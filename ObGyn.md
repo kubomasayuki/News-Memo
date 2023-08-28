@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[23-08\]](2308.md)
+* [子宮頚管長が短い妊婦への早産予防としてのペッサリーは児死亡率が上昇。 (NICHD)](https://www.nih.gov/news-events/news-releases/cervical-pessary-no-more-effective-usual-care-preventing-preterm-birth-risk) ([DOI](https://doi.org/10.1001/jama.2023.10812))
 * [妊娠中の母親のストレスレベルが高い児の方が1～3歳の言語獲得能力が高い。 (Odense University)](https://www.ese-hormones.org/media/5223/press_release-fenger-dreyer-saturday-13-maydocx.pdf)
 
 [\[23-07\]](2307.md)
