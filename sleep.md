@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) \[sleep\] [\[smoke\]](smoke.md)
 
 [\[23‐08\]](2308.md)
+* [50代以降において、十分な身体活動をしていても睡眠不足だと認知機能低下リスクは下げられない。 (University College London)](https://discovery.ucl.ac.uk/id/eprint/10173393/) ([DOI](https://doi.org/10.1016/S2666-7568(23)00083-1))
 
 [\[23-07\]](2307.md)
 * [短い睡眠は末梢動脈疾患のリスクが上昇。 (Europian Society of Cardiology)](https://www.escardio.org/The-ESC/Press-Office/Press-releases/short-night-time-sleep-linked-with-nearly-doubled-risk-of-clogged-leg-arteries) ([DOI](https://doi.org/10.1093/ehjopen/oead008))
