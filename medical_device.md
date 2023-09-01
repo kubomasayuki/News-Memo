@@ -1,5 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) \[medical_device\] [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[23-09\]](2309.md)
+
 [\[23-08\]](2308.md)
 * [感染の有無を確認できるスマート包帯。 (University of Rhode Island)](https://digitalcommons.uri.edu/che_facpubs/256/) ([DOI](https://doi.org/10.1002/adfm.202006254)、参考：[日本語解説](https://nazology.net/archives/80456)、過去の調査：[23-06-26 創傷治癒を早める電子包帯。 (University of Wisconsin-Madison)](2306.md))
 
