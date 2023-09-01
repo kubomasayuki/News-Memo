@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) \[diet\] [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[23-09\]](2309.md)
+* [ターメリックが運動による筋損傷や炎症からの回復を促進。 (Nottingham Trent University)](https://www.ntu.ac.uk/about-us/news/news-articles/2023/06/common-spice-turmeric-improves-recovery-in-pro-footballers,-study-suggests) ([DOI](https://doi.org/10.3389/fnut.2023.1175622))
+
 [\[23-08\]](2308.md)
 * [バランス良く食べるためのガイドライン。 (NHS)](https://www.nhs.uk/live-well/eat-well/food-guidelines-and-food-labels/the-eatwell-guide/) (過去の調査：[21-04-15 5皿分の野菜(350g、1皿＝1SV＝1サービング)と200gの果物を食べよう。 (一般社団法人 ファイブ・ア・デイ協会)](2104.md))
 * [塩分(リン酸塩)の過剰摂取と高血圧、認知障害の関係。 (藤田医科大学)](https://www.fujita-hu.ac.jp/en/news/kka9ar00000023q6.html) ([DOI](https://doi.org/10.1111/bph.16093))
