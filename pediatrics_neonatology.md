@@ -1,5 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[23-09\]](2309.md)
+
 [\[23-08\]](2308.md)
 * [注意力散漫な子供は将来の収入が低く、自制心が低い子供は物質依存や犯罪の傾向が高い。 (Duke University)](https://scholars.duke.edu/publication/739009) ([DOI](https://doi.org/10.1073/pnas.1010076108))
 * [受動喫煙で子供の近視が進行。 (香港中文大学)](https://doi.org/10.1001/jamanetworkopen.2023.13006)
