@@ -1,5 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) \[fertility\] [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[23-09\]](2309.md)
+
 [\[23-08\]](2308.md)
 * [日照時間が長い時季に採卵するほど妊娠しやすいが、気温が高すぎる日に胚移植すると妊娠しにくくなる。 (ESHRE)](https://www.eshre.eu/Press-Room/Press-releases-2023/Season-of-egg-retrieval) ([DOI](https://doi.org/10.1093/humrep/dead137))
 
