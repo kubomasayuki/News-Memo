@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[23-09\]](2309.md)
+* [妊娠中の母親の食物繊維摂取量が少ないと子供の3歳児の発達に遅れが出やすい。 (山梨大学)](https://www.yamanashi.ac.jp/wp-content/uploads/2023/07/20230727pr-2.pdf) ([DOI](https://doi.org/10.3389/fnut.2023.1203669))
 * [プロバイオティクスを使った早産児の腸内細菌叢は抗生物質による薬剤耐性菌が少ない。 (Arctic University of Norway)](https://en.uit.no/news/article?p_document_id=815872) ([DOI](https://doi.org/10.1016/j.ebiom.2023.104613))
 
 [\[23-08\]](2308.md)
