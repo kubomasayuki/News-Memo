@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) \[alcohol\] [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[23-09\]](2309.md)
+* [夜型人間の方が死亡率が高いのは、飲酒と喫煙のせい。 (University of Helsinki)](https://www.helsinki.fi/en/news/public-health/alcohol-and-smoking-blame-premature-deaths-among-night-owls) ([DOI](https://doi.org/10.1080/07420528.2023.2215342))
 
 [\[23-08\]](2308.md)
 * [若者にとって、アルコールそのものより仲間と一緒にいる時の方がアルコールへの渇望が強い。 (Research Society on Alcoholism)](https:///doi.org/10.1111/acer.15057)
