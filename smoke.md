@@ -2,6 +2,7 @@
 
 [\[23-09\]](2309.md)
 * [2歳児の高血圧の環境因子に親の喫煙。 (東北大学)](https://www.tohoku.ac.jp/japanese/newimg/pressimg/tohokuuniv-press20230905_02web2_eco.pdf) ([DOI](https://doi.org/10.1038/s41390-023-02796-8))
+* [夜型人間の方が死亡率が高いのは、飲酒と喫煙のせい。 (University of Helsinki)](https://www.helsinki.fi/en/news/public-health/alcohol-and-smoking-blame-premature-deaths-among-night-owls) ([DOI](https://doi.org/10.1080/07420528.2023.2215342))
 
 [\[23-08\]](2308.md)
 * [受動喫煙で子供の近視が進行。 (香港中文大学)](https://doi.org/10.1001/jamanetworkopen.2023.13006)
