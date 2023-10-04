@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) \[fitness\] [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[23-10\]](2310.md) 
+* [脳震盪後は有酸素運動をした方が回復が早い。 (University of Tronto)](https://www.utoronto.ca/news/starting-aerobic-exercise-soon-after-concussion-improves-recovery-time-u-t-study-finds) ([DOI](https://doi.org/10.1371/journal.pone.0196062))
 
 [\[23-09\]](2309.md)
 * [階段を50段昇るだけで心疾患リスク減少。 (Tulane University)](https://news.tulane.edu/pr/walking-more-five-flights-stairs-day-can-cut-risk-heart-disease-20-study-says) ([DOI](https://doi.org/10.1016/j.atherosclerosis.2023.117300))
