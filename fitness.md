@@ -1,5 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) \[fitness\] [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
+[\[23-10\]](2310.md) 
+
 [\[23-09\]](2309.md)
 * [階段を50段昇るだけで心疾患リスク減少。 (Tulane University)](https://news.tulane.edu/pr/walking-more-five-flights-stairs-day-can-cut-risk-heart-disease-20-study-says) ([DOI](https://doi.org/10.1016/j.atherosclerosis.2023.117300))
 * [競技前のスクリーニングで心臓関連の突然死が劇的に減少。 (University of Padua)](https://doi.org/10.1093/eurheartj/ehq482)
