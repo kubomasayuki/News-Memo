@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) \[sleep\] [\[smoke\]](smoke.md)
 
 [\[23-10\]](2310.md) 
+* [日中の自然光曝露が少ないと寝付きが悪くなる。 (University of Washington)](https://www.washington.edu/news/2022/12/12/winter-sleep-study/) ([DOI](https://doi.org/10.1111/jpi.12843))
 
 [\[23-09\]](2309.md)
 * [夜型人間の方が死亡率が高いのは、飲酒と喫煙のせい。 (University of Helsinki)](https://www.helsinki.fi/en/news/public-health/alcohol-and-smoking-blame-premature-deaths-among-night-owls) ([DOI](https://doi.org/10.1080/07420528.2023.2215342))
