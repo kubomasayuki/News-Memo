@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[23-10\]](2310.md) 
+* [親による遊びの制限は、子供がリスクから学ぶ機会を奪っている。 (University of Essex)](https://www.essex.ac.uk/news/2023/08/31/children-lacking-spontaneous-play) ([DOI](https://doi.org/10.1111/1467-9566.13701))
 
 [\[23-09\]](2309.md)
 * [2歳児の高血圧の環境因子に親の喫煙。 (東北大学)](https://www.tohoku.ac.jp/japanese/newimg/pressimg/tohokuuniv-press20230905_02web2_eco.pdf) ([DOI](https://doi.org/10.1038/s41390-023-02796-8))
