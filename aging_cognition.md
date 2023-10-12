@@ -109,7 +109,6 @@
 
 [\[21-05\]](2105.md)
 * [深い睡眠時間が短いと認知機能が低下する。 (Flinders University)](https://news.flinders.edu.au/blog/2021/05/30/warning-on-sleep-change-in-older-men/) ([論文](https://onlinelibrary.wiley.com/doi/10.1111/jsr.13370))
-* [入院中の子どもへの物語の読み聞かせはストレスを軽減させる。 (PNAS)](https://www.pnas.org/content/118/22/e2018409118)
 * [中高年のテレビ視聴(非刺激的で座りがちな行動)は認知症を促進する。 (American Heart Association)](https://newsroom.heart.org/news/moderate-to-high-tv-viewing-in-midlife-linked-to-later-cognitive-and-brain-health-decline)
 
 [\[21-04\]](2104.md)
