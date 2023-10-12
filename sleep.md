@@ -2,6 +2,7 @@
 
 [\[23-10\]](2310.md) 
 * [睡眠不足で上昇した血圧と心拍数は、週末の寝溜めでは十分に下げられない。 (Pennsylvania State University)](https://ssri.psu.edu/news/playing-catch-weekends-may-not-improve-cardiovascular-cost-sleep-loss) ([DOI](https://doi.org/10.1097/PSY.0000000000001229)、過去の調査：[22-03-02 睡眠不足に対する週末の寝溜めはNAFLD(非アルコール性脂肪肝疾患)と負の相関。 (Catholic Kwandong University)](2203.md))
+* [概日リズムの乱れと高血圧が正の相関。 (Flinders University)](https://news.flinders.edu.au/blog/2023/04/05/bedtime-changes-raise-blood-pressure/) ([DOI](https://doi.org/10.1161/HYPERTENSIONAHA.122.20513)、過去の調査：[概日リズム](2203.md))
 * [日中の自然光曝露が少ないと寝付きが悪くなる。 (University of Washington)](https://www.washington.edu/news/2022/12/12/winter-sleep-study/) ([DOI](https://doi.org/10.1111/jpi.12843))
 
 [\[23-09\]](2309.md)
