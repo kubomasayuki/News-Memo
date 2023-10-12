@@ -1,7 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[23-10\]](2310.md) 
-* [赤ちゃんの脳の発達は特定の腸内細菌の多さと相関。 (University of British Columbia)](https://www.med.ubc.ca/news/babys-brain-development-may-be-linked-to-their-gut-bacteria/) ([DOI](https://doi.org/10.1371/journal.pone.0288689))
+* [赤ちゃんの脳の発達は特定の腸内細菌の多さと相関。 (University of British Columbia)](https://www.med.ubc.ca/news/babys-brain-development-may-be-linked-to-their-gut-bacteria/) ([DOI](https://doi.org/10.1371/journal.pone.0288689)、過去の調査：[21-08-01 1歳時点でバクテロイデス門(善玉菌を好む日和見菌)の割合が多いと、その後の数年について認知や言語の能力が優れている。 (University of Alberta)](2108.md))
 * [親による遊びの制限は、子供がリスクから学ぶ機会を奪っている。 (University of Essex)](https://www.essex.ac.uk/news/2023/08/31/children-lacking-spontaneous-play) ([DOI](https://doi.org/10.1111/1467-9566.13701))
 
 [\[23-09\]](2309.md)
