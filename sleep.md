@@ -1,7 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) \[sleep\] [\[smoke\]](smoke.md)
 
 [\[23-10\]](2310.md) 
-* [睡眠不足に対する週末の寝溜めでは血圧と心拍数を抑えられない。 (Pennsylvania State University)](https://ssri.psu.edu/news/playing-catch-weekends-may-not-improve-cardiovascular-cost-sleep-loss) ([DOI](https://doi.org/10.1097/PSY.0000000000001229)、過去の調査：[22-03- 睡眠不足に対する週末の寝溜めはNAFLD(非アルコール性脂肪肝疾患)と負の相関。 (Catholic Kwandong University)](2203.md))
+* [睡眠不足に対する週末の寝溜めでは血圧と心拍数を抑えられない。 (Pennsylvania State University)](https://ssri.psu.edu/news/playing-catch-weekends-may-not-improve-cardiovascular-cost-sleep-loss) ([DOI](https://doi.org/10.1097/PSY.0000000000001229)、過去の調査：[22-03-02 睡眠不足に対する週末の寝溜めはNAFLD(非アルコール性脂肪肝疾患)と負の相関。 (Catholic Kwandong University)](2203.md))
 * [日中の自然光曝露が少ないと寝付きが悪くなる。 (University of Washington)](https://www.washington.edu/news/2022/12/12/winter-sleep-study/) ([DOI](https://doi.org/10.1111/jpi.12843))
 
 [\[23-09\]](2309.md)
