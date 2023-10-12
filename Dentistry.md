@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) \[Dentistry\] [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[23-10\]](2310.md) 
+* [糖尿病治療に用いられるメトホルミンが歯周炎の抑制に効果？ (重慶医科大学)](https://doi.org/10.1016/j.gendis.2021.06.003))
 
 [\[23-09\]](2309.md)
 * [歯磨き粉に野菜由来の成分ジインドリルメタン(DIM)を加えることで虫歯菌の増殖を90％抑えられた。 (Ben Gurion University of the Negev)](https://doi.org/10.3390/antibiotics12061017)
