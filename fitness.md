@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) \[fitness\] [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[23-10\]](2310.md) 
+* [読書と組織スポーツは子供の推論力の向上と相関。 (Unversity Eastern of Finland)](https://oembed.uef.fi/en/article/a-healthy-diet-reading-and-doing-sports-promote-reasoning-skills-in-children) ([DOI](https://doi.org/10.1111/sms.14464))
 * [脳震盪後は有酸素運動をした方が回復が早い。 (University of Tronto)](https://www.utoronto.ca/news/starting-aerobic-exercise-soon-after-concussion-improves-recovery-time-u-t-study-finds) ([DOI](https://doi.org/10.1371/journal.pone.0196062))
 
 [\[23-09\]](2309.md)
