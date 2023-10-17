@@ -1,4 +1,4 @@
-\[aging_cognition\] [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
+\[aging_cognition\] [\[alcohol\]](alcohol.md) [\[vital_signs\]](vital_signs.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[23-10\]](2310.md) 
 * [嗅覚の低下はアルツハイマーの予測因子。 (Columbia University)](https://www.cuimc.columbia.edu/news/reduced-sense-smell-may-predict-alzheimers) ([DOI](https://doi.org/10.1016/j.jagp.2016.08.010))
@@ -166,4 +166,4 @@
 
 [\[19-04\]](1904.md)
 
-\[aging_cognition\] [\[alcohol\]](alcohol.md) [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
+\[aging_cognition\] [\[alcohol\]](alcohol.md) [\[vital_signs\]](vital_signs.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
