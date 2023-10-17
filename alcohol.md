@@ -1,7 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) \[alcohol\] [\[CTG_FECG\]](CTG_FECG.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md)
 
 [\[23-10\]](2310.md) 
-* [\[alcohol\]](alcohol.md) [ノンアルコール飲料の提供により、飲酒量が優位に減少。 (筑波大学)](https://www.tsukuba.ac.jp/journal/pdf/p20231005140000.pdf) ([DOI](https://doi.org/10.1186/s12916-023-03085-1))
+* [ノンアルコール飲料の提供により、飲酒量が優位に減少。 (筑波大学)](https://www.tsukuba.ac.jp/journal/pdf/p20231005140000.pdf) ([DOI](https://doi.org/10.1186/s12916-023-03085-1))
 
 [\[23-09\]](2309.md)
 * [夜型人間の方が死亡率が高いのは、飲酒と喫煙のせい。 (University of Helsinki)](https://www.helsinki.fi/en/news/public-health/alcohol-and-smoking-blame-premature-deaths-among-night-owls) ([DOI](https://doi.org/10.1080/07420528.2023.2215342))
