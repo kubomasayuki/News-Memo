@@ -20,7 +20,8 @@
 [\[23-06\]](2306.md)
 * [野菜や果物など抗酸化物質を多く含む食事をすると流産のリスクが減少。 (University of Birmingham)](https://www.birmingham.ac.uk/news/2023/diet-high-in-fruit-and-vegetables-linked-to-lower-miscarriage-risk) ([DOI]())
 * [家族の食事が長くなると、子供の肉やデザートはそのままで野菜の消費量が増える。 (Max Planck Institute)](https://www.mpg.de/20189732/0418-bild-how-to-get-your-children-to-eat-more-fruits-and-vegetables-149835-x) ([DOI](https://doi.org/10.1001/jamanetworkopen.2023.6331))
-* [砂糖代替品は長期的な体重減少効果はなく、むしろ疾病リスクは上昇。 (WHO)](https://www.who.int/news/item/15-05-2023-who-advises-not-to-use-non-sugar-sweeteners-for-weight-control-in-newly-released-guideline)
+* [砂糖代替品は長期的な体重減少効果はなく、むしろ疾病リスクは上昇。 (WHO)](https://www.who.int/news/item/15-05-2023-who-advises-not-to-use-non-sugar-sweeteners-for-weight-control-in-newly-released-guideline) (過去の調査：[
+エリスリトールが心血管イベントリスク増と相関。 (Creveland Clinic Learner Research Institute)](2303.md))
 
 [\[23-05\]](2305.md)
 * [子供の朝食抜きは糖尿病リスク。 (足立区)](https://www.city.adachi.tokyo.jp/kokoro/fukushi-kenko/kenko/kodomo-kenko-chosa.html) ([DOI](https://doi.org/10.3389/fendo.2023.1051592))
