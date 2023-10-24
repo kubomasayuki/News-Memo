@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) \[Dentistry\] [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
 [\[23-10\]](2310.md) 
+* [歯周病が心血管疾患の予測因子。 (Forsyth Institute)](https://forsyth.org/periodontal-disease-increases-risk-of-major-cardiovascular-events/) ([DOI](https://doi.org/10.1002/JPER.19-0441))
 * [糖尿病治療に用いられるメトホルミンが歯周炎の抑制に効果？ (重慶医科大学)](https://doi.org/10.1016/j.gendis.2021.06.003))
 
 [\[23-09\]](2309.md)
