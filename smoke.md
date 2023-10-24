@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) \[smoke\] [\[vital_signs\]](vital_signs.md)
 
 [\[23-10\]](2310.md) 
+* [受動喫煙を含むタバコの曝露は子供の唾液中の重金属レベルを上昇させる。 (Pennsylvania State University)](https://management.ssri.psu.edu/news/2023-2023-06/tobacco-smoke-exposure-may-increase-heavy-metal-levels-children%E2%80%99s-saliva) ([DOI](https://doi.org/10.1038/s41370-023-00554-w))
 
 [\[23-09\]](2309.md)
 * [2歳児の高血圧の環境因子に親の喫煙。 (東北大学)](https://www.tohoku.ac.jp/japanese/newimg/pressimg/tohokuuniv-press20230905_02web2_eco.pdf) ([DOI](https://doi.org/10.1038/s41390-023-02796-8))
