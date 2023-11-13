@@ -2,6 +2,7 @@
 
 [\[23-11\]](2311.md) 
 * [赤ちゃんは大人に真似されていることを認識して、他人の真似をすることを覚える。 (Ludwig Maximilian University of Munich)](https://www.lmu.de/en/about-lmu/structure/central-university-administration/communications-and-media-relations/press-room/press-release/origin-of-cultural-learning-babies-imitate-because-they-are-imitated-2.html) ([DOI](https://doi.org/10.1016/j.cub.2023.08.084))
+* [乳児はあらゆる発音(lとrの違いなど)の聞き分けができるが、10ヶ月頃には不要な音を取捨選択して聞き取れなくなる(日本語が母語の場合、lもrも同じに聞こえるようになる)。 (University of Washington)](https://doi.org/10.1111%2Fj.1751-228X.2011.01121.x)
 
 [\[23-10\]](2310.md)
 * [受動喫煙を含むタバコの曝露は子供の唾液中の重金属レベルを上昇させる。 (Pennsylvania State University)](https://management.ssri.psu.edu/news/2023-2023-06/tobacco-smoke-exposure-may-increase-heavy-metal-levels-children%E2%80%99s-saliva) ([DOI](https://doi.org/10.1038/s41370-023-00554-w))
