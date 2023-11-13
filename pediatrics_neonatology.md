@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
 [\[23-11\]](2311.md) 
+* [赤ちゃんは大人に真似されていることを認識して、他人の真似をすることを覚える。 (Ludwig Maximilian University of Munich)](https://www.lmu.de/en/about-lmu/structure/central-university-administration/communications-and-media-relations/press-room/press-release/origin-of-cultural-learning-babies-imitate-because-they-are-imitated-2.html) ([DOI](https://doi.org/10.1016/j.cub.2023.08.084))
 
 [\[23-10\]](2310.md)
 * [受動喫煙を含むタバコの曝露は子供の唾液中の重金属レベルを上昇させる。 (Pennsylvania State University)](https://management.ssri.psu.edu/news/2023-2023-06/tobacco-smoke-exposure-may-increase-heavy-metal-levels-children%E2%80%99s-saliva) ([DOI](https://doi.org/10.1038/s41370-023-00554-w))
