@@ -1,5 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) \[Gynecology\] [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md)  [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
+[\[23-11\]](2311.md) 
+
 [\[23-10\]](2310.md) 
 * [PALB2遺伝子の変異は乳がんリスク。 (Women's College Research Institute)](https://doi.org/10.1056/NEJMoa1400382)
 
