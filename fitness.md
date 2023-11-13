@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) \[fitness\] [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
+[\[23-11\]](2311.md) 
+* [若年期の心肺機能の高さは後年のがん発症リスクと逆相関。 (University of Gothenburg)](https://www.gu.se/en/news/good-fitness-levels-in-youth-linked-to-lower-cancer-risk) ([DOI](https://doi.org/10.1136/bjsports-2022-106617))
+
 [\[23-10\]](2310.md) 
 * [読書と組織スポーツは子供の推論力の向上と相関。 (Unversity Eastern of Finland)](https://oembed.uef.fi/en/article/a-healthy-diet-reading-and-doing-sports-promote-reasoning-skills-in-children) ([DOI](https://doi.org/10.1111/sms.14464))
 * [脳震盪後は有酸素運動をした方が回復が早い。 (University of Tronto)](https://www.utoronto.ca/news/starting-aerobic-exercise-soon-after-concussion-improves-recovery-time-u-t-study-finds) ([DOI](https://doi.org/10.1371/journal.pone.0196062))
