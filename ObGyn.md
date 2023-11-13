@@ -181,7 +181,7 @@
 * [妊娠糖尿病の母親から産まれた子供はエピジェネティックな年齢が実年齢より高い。 (Rutgers University)](https://www.rutgers.edu/news/gestational-diabetes-may-accelerate-childs-biological-age)
 * [アプガースコア5分値から10分値のスコアの上昇と新生児死亡率の低下に相関あり。 (ObgProject)](https://www.obgproject.com/2020/08/20/can-apgar-scores-help-predict-neonatal-mortality-for-preterm-infants-at-different-gestational-ages/) ([Journal](https://www.nejm.org/doi/full/10.1056/NEJMoa1915075))
 * [STRIDER RCTの結果、シルデナフィルの投与は重症FGRを改善しない。 (ObgProject)](https://www.obgproject.com/2020/06/26/strider-rct-results-sildenafil-for-fetal-growth-restriction/) ([Journal](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2767243))
-* [吸引により子宮収縮を促すバルーンタンポナーデ。 (Green Journal)](https://journals.lww.com/greenjournal/Fulltext/2020/11000/Intrauterine_Vacuum_Induced_Hemorrhage_Control.4.aspx) ([製品ページ](https://www.alydiahealth.com/jada)、過去の調査：[19-06-10 EllaviバルーンタンポナーデがEUクリアランス賞を受賞](1906.md))
+* [吸引により子宮収縮を促すバルーンタンポナーデ。 (Alydia Health, Inc.)](https://journals.lww.com/greenjournal/Fulltext/2020/11000/Intrauterine_Vacuum_Induced_Hemorrhage_Control.4.aspx) ([製品ページ](https://www.alydiahealth.com/jada)、過去の調査：[19-06-10 EllaviバルーンタンポナーデがEUクリアランス賞を受賞](1906.md))
 * [臍帯血中のカドミウム濃度と児の喘息とアレルギーのリスクが上昇。 (Medical Xpress)](https://medicalxpress.com/news/2020-09-exposure-cadmium-womb-linked-childhood.html)
 * [周産期医療の広場 (日本産科婦人科学会サステイナブル産婦人科医療体制確立委員会)](http://shusanki.org/index.html)
 
