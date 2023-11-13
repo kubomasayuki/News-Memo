@@ -1,7 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
 [\[23-11\]](2311.md) 
-* [吸引により産後出血を予防するバルーンタンポナーデのリアルワールドでの使用結果。 (Alydia Health, Inc.)](https://doi.org/10.1016/j.ajog.2022.11.1308) (過去の調査：[20-09-04 吸引により子宮収縮を促すバルーンタンポナーデ。 (Alydia Health, Inc.)](2009.md))
+* [吸引により産後出血を予防する子宮止血バルーンのリアルワールドでの使用結果。 (Alydia Health, Inc.)](https://doi.org/10.1016/j.ajog.2022.11.1308) (過去の調査：[20-09-04 吸引により子宮収縮を促すバルーンタンポナーデ。 (Alydia Health, Inc.)](2009.md))
 
 [\[23-10\]](2310.md) 
 * [39週での誘発分娩は帝王切開を減らす。 (Brigham and Women's Hospital)](https://doi.org/10.1001/jamanetworkopen.2023.28274)
