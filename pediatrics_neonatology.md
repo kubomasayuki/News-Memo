@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
 [\[23-11\]](2311.md)
+* [言語が堪能な方が幼児の語彙力向上には有利だが、非ネイティブでも話しかけることが語彙力向上の助けになる。 (Florida Atlantic University)](https://www.fau.edu/newsdesk/articles/bilingual-vocabulary-study.php) ([DOI](http://doi.org/10.1017/S030500091900028X))
 * [子供がグズった時に食べ物でなだめるので、ネガティブな感情の時により多く食べるようになる？ (Aston University)](https://www.aston.ac.uk/latest-news/children-young-four-eat-more-when-bored) ([DOI](https://doi.org/10.1016/j.foodqual.2023.105008))
 * [赤ちゃんは大人に真似されていることを認識して、他人の真似をすることを覚える。 (Ludwig Maximilian University of Munich)](https://www.lmu.de/en/about-lmu/structure/central-university-administration/communications-and-media-relations/press-room/press-release/origin-of-cultural-learning-babies-imitate-because-they-are-imitated-2.html) ([DOI](https://doi.org/10.1016/j.cub.2023.08.084))
 * [乳児はあらゆる発音(lとrの違いなど)の聞き分けができるが、10ヶ月頃には不要な音を取捨選択して聞き取れなくなる(日本語が母語の場合、lもrも同じに聞こえるようになる)。 (University of Washington)](https://doi.org/10.1111%2Fj.1751-228X.2011.01121.x)
