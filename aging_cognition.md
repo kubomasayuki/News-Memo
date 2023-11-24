@@ -1,6 +1,7 @@
 \[aging_cognition\] [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
-[\[23-11\]](2311.md) 
+[\[23-11\]](2311.md)
+* [深い睡眠(徐波睡眠)の時間を長くすることは認知機能低下の予防になる。 (Monash University)](https://www.monash.edu/news/articles/improving-deep-sleep-may-prevent-dementia,-study-finds) ([DOI](https://doi.org/10.1001/jamaneurol.2023.3889))
 * [24時間以内または数日間の血圧変動が認知機能低下のリスク因子。 (University of South Australia)](https://www.unisa.edu.au/media-centre/Releases/2023/fluctuating-blood-pressure-a-warning-sign-for-dementia-and-heart-disease/) ([DOI](https://doi.org/10.1016/j.cccb.2023.100181))
 
 [\[23-10\]](2310.md) 
