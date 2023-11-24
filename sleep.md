@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) \[sleep\] [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
-[\[23-11\]](2311.md) 
+[\[23-11\]](2311.md)
+* [深い睡眠(徐波睡眠)の時間を長くすることは認知機能低下の予防になる。 (Monash University)](https://www.monash.edu/news/articles/improving-deep-sleep-may-prevent-dementia,-study-finds) ([DOI](https://doi.org/10.1001/jamaneurol.2023.3889))
 * [聴覚刺激によって深い睡眠を得るデバイス。 (ETH Zurich)](https://ethz.ch/en/news-and-events/eth-news/news/2017/11/get-a-better-nights-sleep.ethz_search.html)
 
 [\[23-10\]](2310.md) 
