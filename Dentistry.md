@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) \[Dentistry\] [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
 [\[23-11\]](2311.md) 
+* [口腔健康管理により術後肺炎の発症が有意に減少。 (千葉大学)](https://doi.org/10.1016/j.surg.2009.10.048)
 
 [\[23-10\]](2310.md) 
 * [歯周病が心血管疾患の予測因子。 (Forsyth Institute)](https://forsyth.org/periodontal-disease-increases-risk-of-major-cardiovascular-events/) ([DOI](https://doi.org/10.1002/JPER.19-0441))
