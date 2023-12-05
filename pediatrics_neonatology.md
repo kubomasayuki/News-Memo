@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
+[\[23-12\]](2312.md)
+* [新生児のストレッサー。 (コヴィディエンジャパン)](https://www.medtronic.com/covidien/ja-jp/clinical-solutions/manage-neonatal-stressors.html) ([米国サイト](https://www.medtronic.com/covidien/en-us/clinical-solutions/manage-neonatal-stressors.html))
+
 [\[23-11\]](2311.md)
 * [言語が堪能な方が幼児の語彙力向上には有利だが、非ネイティブでも話しかけることが語彙力向上の助けになる。 (Florida Atlantic University)](https://www.fau.edu/newsdesk/articles/bilingual-vocabulary-study.php) ([DOI](http://doi.org/10.1017/S030500091900028X))
 * [長いスクリーンタイムがASDの原因ではなく、ASD児の特性としてスクリーンタイムが長いだけである可能性。 (名古屋大学)](https://www.med.nagoya-u.ac.jp/medical_J/research/pdf/Psy_230821.pdf) ([DOI](https://doi.org/10.1016/j.psychres.2023.115395))
