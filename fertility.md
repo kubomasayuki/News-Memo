@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) \[fertility\] [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
+[\[23-12\]](2312.md)
+* [毎日のナッツ摂取で生殖機能向上。 (Monach University)](https://www.monash.edu/news/articles/nuts-may-enhance-fertility-for-men-study) ([DOI](https://doi.org/10.1016/j.advnut.2023.100153))
+
 [\[23-11\]](2311.md) 
 * [胎児が母体に残すマイクロキメラ細胞が将来の妊娠のしやすさに寄与する可能性。 (Cincinnati Children's Hospital Medical Center)](https://scienceblog.cincinnatichildrens.org/moms-ability-to-remember-prior-pregnancies-suggests-new-strategies-for-preventing-complications/) ([DOI](https://doi.org/10.1126/science.adf9325))
 
