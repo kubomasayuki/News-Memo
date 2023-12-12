@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) \[diet\] [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
+[\[23-12\]](2312.md)
+* [毎日のナッツ摂取で生殖機能向上。 (Monach University)](https://www.monash.edu/news/articles/nuts-may-enhance-fertility-for-men-study) ([DOI](https://doi.org/10.1016/j.advnut.2023.100153))
+
 [\[23-11\]](2311.md)
 * [子供がグズった時に食べ物でなだめるので、ネガティブな感情の時により多く食べるようになる？ (Aston University)](https://www.aston.ac.uk/latest-news/children-young-four-eat-more-when-bored) ([DOI](https://doi.org/10.1016/j.foodqual.2023.105008))
 * [乳化剤の成分であるカルボキシメチルセルロースは腸内で炎症物質であるフラジェリンを増殖させる。 (Georgia State University)](http://doi.org/10.1136/gutjnl-2016-313099)
