@@ -14,6 +14,7 @@
 * [プロバイオティクスを使った早産児の腸内細菌叢は抗生物質による薬剤耐性菌が少ない。 (Arctic University of Norway)](https://en.uit.no/news/article?p_document_id=815872) ([DOI](https://doi.org/10.1016/j.ebiom.2023.104613))
 
 [\[23-08\]](2308.md)
+* [子宮頚管長が短い妊婦への早産予防としてのペッサリーは児死亡率が上昇。 (NICHD)](https://www.nih.gov/news-events/news-releases/cervical-pessary-no-more-effective-usual-care-preventing-preterm-birth-risk) ([DOI](https://doi.org/10.1001/jama.2023.10812))
 * [妊娠中の母親のストレスレベルが高い児の方が1～3歳の言語獲得能力が高い。 (Odense University)](https://www.ese-hormones.org/media/5223/press_release-fenger-dreyer-saturday-13-maydocx.pdf)
 
 [\[23-07\]](2307.md)
