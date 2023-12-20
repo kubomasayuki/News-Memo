@@ -1,29 +1,12 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[pediatrics_neonatology\] [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
 [\[23-12\]](2312.md)
-* [新生児ケア。 (ドレーゲルジャパン)](https://www.draeger.com/ja_jp/Hospital/Neonatal-Care) ([ドイツサイト](https://www.draeger.com/de_de/Hospital/Neonatal-Care)、過去の調査：[23-12-05 新生児のストレッサー。 (コヴィディエンジャパン)](2312.md))
-* [子供の歯磨きにおいて、普通の歯ブラシでも歯肉炎を減少させるが、電動歯ブラシはより減少させた。 (Hebraw University)](https://www.afhu.org/2023/11/03/childrens-dental-health-significantly-improved-using-electric-toothbrushes-according-to-the-hebrew-university-hadassah-faculty-of-dental-medicine/) ([DOI](https://doi.org/10.1111/ipd.13130))
-* [新生児のストレッサー。 (コヴィディエンジャパン)](https://www.medtronic.com/covidien/ja-jp/clinical-solutions/manage-neonatal-stressors.html) ([米国サイト](https://www.medtronic.com/covidien/en-us/clinical-solutions/manage-neonatal-stressors.html))
 
 [\[23-11\]](2311.md)
-* [言語が堪能な方が幼児の語彙力向上には有利だが、非ネイティブでも話しかけることが語彙力向上の助けになる。 (Florida Atlantic University)](https://www.fau.edu/newsdesk/articles/bilingual-vocabulary-study.php) ([DOI](http://doi.org/10.1017/S030500091900028X))
-* [長いスクリーンタイムがASDの原因ではなく、ASD児の特性としてスクリーンタイムが長いだけである可能性。 (名古屋大学)](https://www.med.nagoya-u.ac.jp/medical_J/research/pdf/Psy_230821.pdf) ([DOI](https://doi.org/10.1016/j.psychres.2023.115395))
-* [子供がグズった時に食べ物でなだめるので、ネガティブな感情の時により多く食べるようになる？ (Aston University)](https://www.aston.ac.uk/latest-news/children-young-four-eat-more-when-bored) ([DOI](https://doi.org/10.1016/j.foodqual.2023.105008))
-* [赤ちゃんは大人に真似されていることを認識して、他人の真似をすることを覚える。 (Ludwig Maximilian University of Munich)](https://www.lmu.de/en/about-lmu/structure/central-university-administration/communications-and-media-relations/press-room/press-release/origin-of-cultural-learning-babies-imitate-because-they-are-imitated-2.html) ([DOI](https://doi.org/10.1016/j.cub.2023.08.084))
-* [乳児はあらゆる発音(lとrの違いなど)の聞き分けができるが、10ヶ月頃には不要な音を取捨選択して聞き取れなくなる(日本語が母語の場合、lもrも同じに聞こえるようになる)。 (University of Washington)](https://doi.org/10.1111%2Fj.1751-228X.2011.01121.x)
 
 [\[23-10\]](2310.md)
-* [受動喫煙を含むタバコの曝露は子供の唾液中の重金属レベルを上昇させる。 (Pennsylvania State University)](https://management.ssri.psu.edu/news/2023-2023-06/tobacco-smoke-exposure-may-increase-heavy-metal-levels-children%E2%80%99s-saliva) ([DOI](https://doi.org/10.1038/s41370-023-00554-w))
-* [読書と組織スポーツは子供の推論力の向上と相関。 (Unversity Eastern of Finland)](https://oembed.uef.fi/en/article/a-healthy-diet-reading-and-doing-sports-promote-reasoning-skills-in-children) ([DOI](https://doi.org/10.1111/sms.14464))
-* [赤ちゃんの脳の発達は特定の腸内細菌の多さと相関。 (University of British Columbia)](https://www.med.ubc.ca/news/babys-brain-development-may-be-linked-to-their-gut-bacteria/) ([DOI](https://doi.org/10.1371/journal.pone.0288689)、過去の調査：[21-08-01 1歳時点でバクテロイデス門(善玉菌を好む日和見菌)の割合が多いと、その後の数年について認知や言語の能力が優れている。 (University of Alberta)](2108.md))
-* [親による遊びの制限は、子供がリスクから学ぶ機会を奪っている。 (University of Essex)](https://www.essex.ac.uk/news/2023/08/31/children-lacking-spontaneous-play) ([DOI](https://doi.org/10.1111/1467-9566.13701))
 
 [\[23-09\]](2309.md)
-* [2歳児の高血圧の環境因子に親の喫煙。 (東北大学)](https://www.tohoku.ac.jp/japanese/newimg/pressimg/tohokuuniv-press20230905_02web2_eco.pdf) ([DOI](https://doi.org/10.1038/s41390-023-02796-8))
-* [ボードゲームで小児の数学スキル向上。 (Pontificia Universidad Católica de Chile)](https://www.sciencedaily.com/releases/2023/07/230707111629.htm) ([DOI](https://doi.org/10.1080/09575146.2023.2218598))
-* [出生前ステロイド投与は出生後の死亡率・罹患率を下げるが、出生後1年は感染症や敗血症等が重篤化しやすい。 (清華大学)](https://www.carenet.com/news/journal/carenet/56969) ([DOI](https://doi.org/10.1136/bmj-2023-075835))
-* [妊娠中の母親の食物繊維摂取量が少ないと子供の3歳児の発達に遅れが出やすい。 (山梨大学)](https://www.yamanashi.ac.jp/wp-content/uploads/2023/07/20230727pr-2.pdf) ([DOI](https://doi.org/10.3389/fnut.2023.1203669))
-* [プロバイオティクスを使った早産児の腸内細菌叢は抗生物質による薬剤耐性菌が少ない。 (Arctic University of Norway)](https://en.uit.no/news/article?p_document_id=815872) ([DOI](https://doi.org/10.1016/j.ebiom.2023.104613))
 
 [\[23-08\]](2308.md)
 * [注意力散漫な子供は将来の収入が低く、自制心が低い子供は物質依存や犯罪の傾向が高い。 (Duke University)](https://scholars.duke.edu/publication/739009) ([DOI](https://doi.org/10.1073/pnas.1010076108))
