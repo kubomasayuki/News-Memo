@@ -5,8 +5,6 @@
 [\[23-11\]](2311.md) 
 
 [\[23-10\]](2310.md) 
-* [39週での誘発分娩は帝王切開を減らす。 (Brigham and Women's Hospital)](https://doi.org/10.1001/jamanetworkopen.2023.28274)
-* [妊娠30週以降に硫酸マグネシウム投与しても児死亡および脳性麻痺発生リスクは改善しない。 (University of Auckland)](https://www.auckland.ac.nz/en/news/2023/08/18/magnesium-research-set-to-inform-preterm-care.html) ([DOI](https://doi.org/10.1001/jama.2023.12357))
 
 [\[23-09\]](2309.md)
 
