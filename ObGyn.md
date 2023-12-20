@@ -33,7 +33,7 @@
 
 [\[23-03\]](2303.md)
 * [就寝前のスクリーンタイム増で妊娠糖尿病リスクが上昇？ (Northwestern University)](https://news.northwestern.edu/stories/2023/03/new-story-pagedim-lights-before-bedtime-to-reduce-risk-of-gestational-diabetes/) ([DOI](http://doi.org/10.1016/j.ajogmf.2023.100922))
-* [保育器のアルコール消毒で早産児の血中アルコール濃度が増加。 (筑波大学)](https://www.tsukuba.ac.jp/journal/medicine-health/20230225010000.html) ([DOI](https://doi.org/10.1001/jamanetworkopen.2023.0691))
+* [保育器のアルコール消毒で早産児の血中アルコール濃度が増加。 (筑波大学)](https://www.tsukuba.ac.jp/journal/medicine-health/20230225010000.html) ([DOI](https://doi.org/10.1001/jamanetworkopen.2023.0691)、[特許情報](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-7357887/6CCC41C34409EF562A2FE540F48AEAB138F8679932B51911D642A03E9E3F6ACD/15/ja))
 
 [\[23-02\]](2302.md)
 * [(超音波が使えないような国でのお産で)胎児の頭の位置を推定する手袋型デバイス。 (University College London)](https://www.eurekalert.org/news-releases/977827) ([DOI](https://doi.org/10.3389/fgwh.2022.1039477))
