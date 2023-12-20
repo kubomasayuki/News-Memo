@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
 [\[23-12\]](2312.md)
+* [AI＋クラウド＋胎児心電計。 (クラウドセンス)](http://cloud-sense.co.jp/service.html)
 * [遅延臍帯結紮は未熟児の死亡リスクを大幅に減少させる。 (University of Sydney)](https://www.sydney.edu.au/news-opinion/news/2023/11/15/cord-clamp-delay-could-halve-risk-of-death-in-premature-babies.html) ([DOI 1](https://doi.org/10.1016/S0140-6736(23)02468-6)、[DOI 2](https://doi.org/10.1016/S0140-6736(23)02469-8)、過去の調査：[20-11-24 遅延臍帯結紮に関する見解の更新。 (ACOG Committee Opinion 814)](2011.md))
 
 [\[23-11\]](2311.md) 
