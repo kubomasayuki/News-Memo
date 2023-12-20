@@ -2,7 +2,6 @@
 
 [\[23-12\]](2312.md)
 * [新生児ケア。 (ドレーゲルジャパン)](https://www.draeger.com/ja_jp/Hospital/Neonatal-Care) ([ドイツサイト](https://www.draeger.com/de_de/Hospital/Neonatal-Care)、過去の調査：[23-12-05 新生児のストレッサー。 (コヴィディエンジャパン)](2312.md))
-* [子供の歯磨きにおいて、普通の歯ブラシでも歯肉炎を減少させるが、電動歯ブラシはより減少させた。 (Hebraw University)](https://www.afhu.org/2023/11/03/childrens-dental-health-significantly-improved-using-electric-toothbrushes-according-to-the-hebrew-university-hadassah-faculty-of-dental-medicine/) ([DOI](https://doi.org/10.1111/ipd.13130))
 * [新生児のストレッサー。 (コヴィディエンジャパン)](https://www.medtronic.com/covidien/ja-jp/clinical-solutions/manage-neonatal-stressors.html) ([米国サイト](https://www.medtronic.com/covidien/en-us/clinical-solutions/manage-neonatal-stressors.html))
 
 [\[23-11\]](2311.md)
