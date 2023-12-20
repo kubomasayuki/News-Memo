@@ -1,4 +1,4 @@
-[\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[Neonatology\]](Neonatology.md) [\[ObGyn\]](ObGyn.md) \[Pediatrics\] [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
+[\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) \[Neonatology\] [\[ObGyn\]](ObGyn.md) [\[Pediatrics\]](Pediatrics.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
 [\[23-12\]](2312.md)
 * [新生児ケア。 (ドレーゲルジャパン)](https://www.draeger.com/ja_jp/Hospital/Neonatal-Care) ([ドイツサイト](https://www.draeger.com/de_de/Hospital/Neonatal-Care)、過去の調査：[23-12-05 新生児のストレッサー。 (コヴィディエンジャパン)](2312.md))
