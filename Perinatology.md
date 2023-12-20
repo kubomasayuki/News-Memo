@@ -23,6 +23,7 @@
 * [妊娠中の母親のストレスレベルが高い児の方が1～3歳の言語獲得能力が高い。 (Odense University)](https://www.ese-hormones.org/media/5223/press_release-fenger-dreyer-saturday-13-maydocx.pdf)
 
 [\[23-07\]](2307.md)
+* [分娩中の子宮収縮の評価。 (University of Rochester)](https://doi.org/10.1016/j.ajog.2022.10.039)
 * [妊娠中に音楽を聴くと児の言語習得が早い？ (Universitat de Balcelona)](http://www.fbg.ub.edu/en/news/listening-to-music-during-pregnancy-benefits-the-babys-brains-ability-to-encode-speech-sounds/) ([DOI](https://doi.org/10.1111/desc.13362))
 
 [\[23-06\]](2306.md)
