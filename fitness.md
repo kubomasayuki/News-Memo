@@ -83,7 +83,7 @@
 * [運動により増加した内在性カンナビノイド(大麻の成分)と腸内細菌叢によって生成される抗炎症物質に相関がある。 (University of Nottingham)](https://www.nottingham.ac.uk/news/exercise-increases-the-bodys-own-cannabis)
 
 [\[21-10\]](2110.md)
-* [高齢女性を対象にした調査において、1日30分の家事で死亡リスクが12%減少。 (University at Buffalo)](http://www.buffalo.edu/ubnow/stories/2017/11/lamonte-aging-women-movement.html) ([論文](https://agsjournals.onlinelibrary.wiley.com/doi/10.1111/jgs.15201))
+* [高齢女性を対象にした調査において、1日30分の家事で死亡リスクが12%減少。 (University at Buffalo)](http://www.buffalo.edu/ubnow/stories/2017/11/lamonte-aging-women-movement.html) ([DOI](https://doi.org/10.1111/jgs.15201))
 * [激しい運動でも、夜型の人で、就寝2時間前までに終え、同じ時間に行う習慣があれば、きちんと眠れる。 (Concordia University)](https://www.concordia.ca/news/stories/2021/09/28/intense-workouts-before-bedtime-wont-guarantee-a-good-nights-rest-new-research-shows.html) ([論文](https://pubmed.ncbi.nlm.nih.gov/34416428/))
 
 [\[21-09\]](2109.md)
