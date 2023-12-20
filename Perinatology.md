@@ -7,6 +7,7 @@
 * [新生児のストレッサー。 (コヴィディエンジャパン)](https://www.medtronic.com/covidien/ja-jp/clinical-solutions/manage-neonatal-stressors.html) ([米国サイト](https://www.medtronic.com/covidien/en-us/clinical-solutions/manage-neonatal-stressors.html))
 
 [\[23-11\]](2311.md)
+* [吸引により産後出血を予防する子宮止血バルーンのリアルワールドでの使用結果。 (Alydia Health, Inc.)](https://doi.org/10.1016/j.ajog.2022.11.1308) (過去の調査：[20-09-04 吸引により子宮収縮を促すバルーンタンポナーデ。 (Alydia Health, Inc.)](2009.md))
 
 [\[23-10\]](2310.md)
 
