@@ -1,5 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) \[fitness\] [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
+[\[23-12\]](2312.md)
+
 [\[23-11\]](2311.md)
 * [ウォーミングアップすることで骨格筋の反応が1.6倍に上昇。 (大阪大学)](http://www.protein.osaka-u.ac.jp/achievements/20231024/) ([DOI](https://doi.org/10.1085/jgp.202313414))
 * [若年期の心肺機能の高さは後年のがん発症リスクと逆相関。 (University of Gothenburg)](https://www.gu.se/en/news/good-fitness-levels-in-youth-linked-to-lower-cancer-risk) ([DOI](https://doi.org/10.1136/bjsports-2022-106617)、過去の調査：[23-07-31 心肺持久力ががん死亡率低下の予測因子。 (University of Regensburg)](2307.md))
