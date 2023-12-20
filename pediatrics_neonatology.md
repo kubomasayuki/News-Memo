@@ -11,7 +11,6 @@
 [\[23-08\]](2308.md)
 
 [\[23-07\]](2307.md)
-* [妊娠中に音楽を聴くと児の言語習得が早い？ (Universitat de Balcelona)](http://www.fbg.ub.edu/en/news/listening-to-music-during-pregnancy-benefits-the-babys-brains-ability-to-encode-speech-sounds/) ([DOI](https://doi.org/10.1111/desc.13362))
 
 [\[23-06\]](2306.md)
 * [家族の食事が長くなると、子供の肉やデザートはそのままで野菜の消費量が増える。 (Max Planck Institute)](https://www.mpg.de/20189732/0418-bild-how-to-get-your-children-to-eat-more-fruits-and-vegetables-149835-x) ([DOI](https://doi.org/10.1001/jamanetworkopen.2023.6331))
