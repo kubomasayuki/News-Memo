@@ -12,7 +12,7 @@
 * [妊娠30週以降に硫酸マグネシウム投与しても児死亡および脳性麻痺発生リスクは改善しない。 (University of Auckland)](https://www.auckland.ac.nz/en/news/2023/08/18/magnesium-research-set-to-inform-preterm-care.html) ([DOI](https://doi.org/10.1001/jama.2023.12357))
 
 [\[23-09\]](2309.md)
-* [妊娠中の母親の食物繊維摂取量が少ないと子供の3歳児の発達に遅れが出やすい。 (山梨大学)](https://www.yamanashi.ac.jp/wp-content/uploads/2023/07/20230727pr-2.pdf) ([DOI](https://doi.org/10.3389/fnut.2023.1203669))
+* [妊娠中の母親の食物繊維摂取量が少ないと子供の3歳時の発達に遅れが出やすい。 (山梨大学)](https://www.yamanashi.ac.jp/wp-content/uploads/2023/07/20230727pr-2.pdf) ([DOI](https://doi.org/10.3389/fnut.2023.1203669))
 
 [\[23-08\]](2308.md)
 * [子宮頚管長が短い妊婦への早産予防としてのペッサリーは児死亡率が上昇。 (NICHD)](https://www.nih.gov/news-events/news-releases/cervical-pessary-no-more-effective-usual-care-preventing-preterm-birth-risk) ([DOI](https://doi.org/10.1001/jama.2023.10812))
