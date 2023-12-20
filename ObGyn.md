@@ -14,7 +14,6 @@
 [\[23-09\]](2309.md)
 
 [\[23-08\]](2308.md)
-* [子宮頚管長が短い妊婦への早産予防としてのペッサリーは児死亡率が上昇。 (NICHD)](https://www.nih.gov/news-events/news-releases/cervical-pessary-no-more-effective-usual-care-preventing-preterm-birth-risk) ([DOI](https://doi.org/10.1001/jama.2023.10812))
 
 [\[23-07\]](2307.md)
 * [分娩中の子宮収縮の評価。 (University of Rochester)](https://doi.org/10.1016/j.ajog.2022.10.039)
