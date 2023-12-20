@@ -14,7 +14,7 @@
 * [高齢者の日常的なマルチビタミンの摂取で記憶力が改善。 (Columbia University)](https://www.cuimc.columbia.edu/news/multivitamin-improves-memory-older-adults-study-finds) ([DOI](https://doi.org/10.1016/j.ajcnut.2023.05.011))
 * [推奨量の2～4倍のビタミンDサプリメントを5年間摂取した群で心血管イベント発生頻度が減少。 (University of Eastern Finland)](https://www.uef.fi/en/article/taking-higher-than-recommended-doses-of-vitamin-d-for-five-years-reduced-the-risk-of-atrial) ([DOI](https://doi.org/10.1016/j.ahj.2023.05.024))
 * [LDLコレステロールの計算式。 (Johns Hopkins University)](https://ldlcalculator.com/) ([DOI](https://doi.org/10.1001/jama.2013.280532))
-* [妊娠中の母親の食物繊維摂取量が少ないと子供の3歳児の発達に遅れが出やすい。 (山梨大学)](https://www.yamanashi.ac.jp/wp-content/uploads/2023/07/20230727pr-2.pdf) ([DOI](https://doi.org/10.3389/fnut.2023.1203669))
+* [妊娠中の母親の食物繊維摂取量が少ないと子供の3歳時の発達に遅れが出やすい。 (山梨大学)](https://www.yamanashi.ac.jp/wp-content/uploads/2023/07/20230727pr-2.pdf) ([DOI](https://doi.org/10.3389/fnut.2023.1203669))
 * [ターメリックが運動による筋損傷や炎症からの回復を促進。 (Nottingham Trent University)](https://www.ntu.ac.uk/about-us/news/news-articles/2023/06/common-spice-turmeric-improves-recovery-in-pro-footballers,-study-suggests) ([DOI](https://doi.org/10.3389/fnut.2023.1175622))
 
 [\[23-08\]](2308.md)
