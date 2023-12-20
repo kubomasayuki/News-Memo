@@ -10,6 +10,8 @@
 * [吸引により産後出血を予防する子宮止血バルーンのリアルワールドでの使用結果。 (Alydia Health, Inc.)](https://doi.org/10.1016/j.ajog.2022.11.1308) (過去の調査：[20-09-04 吸引により子宮収縮を促すバルーンタンポナーデ。 (Alydia Health, Inc.)](2009.md))
 
 [\[23-10\]](2310.md)
+* [39週での誘発分娩は帝王切開を減らす。 (Brigham and Women's Hospital)](https://doi.org/10.1001/jamanetworkopen.2023.28274)
+* [妊娠30週以降に硫酸マグネシウム投与しても児死亡および脳性麻痺発生リスクは改善しない。 (University of Auckland)](https://www.auckland.ac.nz/en/news/2023/08/18/magnesium-research-set-to-inform-preterm-care.html) ([DOI](https://doi.org/10.1001/jama.2023.12357))
 
 [\[23-09\]](2309.md)
 * [出生前ステロイド投与は出生後の死亡率・罹患率を下げるが、出生後1年は感染症や敗血症等が重篤化しやすい。 (清華大学)](https://www.carenet.com/news/journal/carenet/56969) ([DOI](https://doi.org/10.1136/bmj-2023-075835))
