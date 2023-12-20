@@ -1,4 +1,4 @@
-[\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[neonatology\]](neonatology.md) [\[ObGyn\]](ObGyn.md) \[pediatrics\] [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
+[\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[Neonatology\]](Neonatology.md) [\[ObGyn\]](ObGyn.md) \[Pediatrics\] [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
 [\[23-12\]](2312.md)
 * [新生児ケア。 (ドレーゲルジャパン)](https://www.draeger.com/ja_jp/Hospital/Neonatal-Care) ([ドイツサイト](https://www.draeger.com/de_de/Hospital/Neonatal-Care)、過去の調査：[23-12-05 新生児のストレッサー。 (コヴィディエンジャパン)](2312.md))
@@ -246,4 +246,4 @@
 [\[19-04\]](1904.md)
 * [LOX-indexから新生児低酸素性虚血性脳症を早期診断、発見 (国立精神・神経医療研究センター)](https://www.ncnp.go.jp/press/release.html?no=441)  
 
-[\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[neonatology\]](neonatology.md) [\[ObGyn\]](ObGyn.md) \[pediatrics\] [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
+[\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[Neonatology\]](Neonatology.md) [\[ObGyn\]](ObGyn.md) \[Pediatrics\] [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
