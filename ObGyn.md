@@ -1,4 +1,4 @@
-[\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
+[\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[Pediatrics\]](Pediatrics.md) [\[Perinatology\]](Perinatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
 [\[23-12\]](2312.md)
 * [AI＋クラウド＋胎児心電計。 (クラウドセンス)](http://cloud-sense.co.jp/service.html)
@@ -12,7 +12,6 @@
 * [妊娠30週以降に硫酸マグネシウム投与しても児死亡および脳性麻痺発生リスクは改善しない。 (University of Auckland)](https://www.auckland.ac.nz/en/news/2023/08/18/magnesium-research-set-to-inform-preterm-care.html) ([DOI](https://doi.org/10.1001/jama.2023.12357))
 
 [\[23-09\]](2309.md)
-* [妊娠中の母親の食物繊維摂取量が少ないと子供の3歳時の発達に遅れが出やすい。 (山梨大学)](https://www.yamanashi.ac.jp/wp-content/uploads/2023/07/20230727pr-2.pdf) ([DOI](https://doi.org/10.3389/fnut.2023.1203669))
 
 [\[23-08\]](2308.md)
 * [子宮頚管長が短い妊婦への早産予防としてのペッサリーは児死亡率が上昇。 (NICHD)](https://www.nih.gov/news-events/news-releases/cervical-pessary-no-more-effective-usual-care-preventing-preterm-birth-risk) ([DOI](https://doi.org/10.1001/jama.2023.10812))
@@ -279,4 +278,4 @@
 * [高濃度すぎる酸素療法は逆効果 (AJOG)](https://www.ajog.org/article/S0002-9378(19)30438-7/abstract)  
 * [超音波に基づいて分娩モード(経腟分娩の確率)を％で予測するアプリ(詳細不明) (AJOG)](https://www.ajog.org/article/S0002-9378(19)30497-1/fulltext)
 
-[\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
+[\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[Pediatrics\]](Pediatrics.md) [\[Perinatology\]](Perinatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
