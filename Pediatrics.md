@@ -1,4 +1,4 @@
-[\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[Perinatology\]](Perinatology.md) [\[ObGyn\]](ObGyn.md) \[Pediatrics\] [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
+[\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[Pediatrics\] [\[Perinatology\]](Perinatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
 [\[23-12\]](2312.md)
 * [子供の歯磨きにおいて、普通の歯ブラシでも歯肉炎を減少させるが、電動歯ブラシはより減少させた。 (Hebraw University)](https://www.afhu.org/2023/11/03/childrens-dental-health-significantly-improved-using-electric-toothbrushes-according-to-the-hebrew-university-hadassah-faculty-of-dental-medicine/) ([DOI](https://doi.org/10.1111/ipd.13130))
@@ -244,4 +244,4 @@
 [\[19-04\]](1904.md)
 * [LOX-indexから新生児低酸素性虚血性脳症を早期診断、発見 (国立精神・神経医療研究センター)](https://www.ncnp.go.jp/press/release.html?no=441)  
 
-[\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[Perinatology\]](Perinatology.md) [\[ObGyn\]](ObGyn.md) \[Pediatrics\] [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
+[\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[Pediatrics\] [\[Perinatology\]](Perinatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
