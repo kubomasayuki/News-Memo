@@ -1,5 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) \[alcohol\] [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
+[\[23-12\]](2312.md)
+
 [\[23-11\]](2311.md) 
 * [飲酒量と心臓の異所性脂肪の量が相関。 (Wake Forest University)](https://newsroom.wakehealth.edu/news-releases/2023/09/study-finds-heavy-alcohol-consumption-linked-to-ectopic-fat) ([DOI](https://doi.org/10.1161/JAHA.123.030470))
 
