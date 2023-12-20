@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) \[sleep\] [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
 [\[23-12\]](2312.md)
+* [睡眠中の呼吸パターンが記憶の定着に影響。 (Ludwig-Maximilians-Universität)](https://www.lmu.de/en/about-lmu/structure/central-university-administration/communications-and-media-relations/press-room/press-release/memory-research-breathing-in-sleep-impacts-memory-processes.html) ([DOI](https://doi.org/10.1038/s41467-023-43450-5))
 * [日本人の労働生産性の低さは睡眠不足に起因。 (筑波大学)](https://www.tsukuba.ac.jp/journal/medicine-health/20231115140000.html) ([DOI](https://doi.org/10.1007/s10389-023-02136-4))
 
 [\[23-11\]](2311.md)
