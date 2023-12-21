@@ -268,6 +268,6 @@
 * [断続的に上昇する臍帯動脈ドプラPI値とIUGRに相関はなかった (American Journal Obstetrics & Gynecology MFM)](https://www.sciencedirect.com/science/article/pii/S2589933319300072)  
 * [臍帯血中タンパク質(ハプトグロビン)なしで産まれた早産児の脳性麻痺や死亡リスクが高いことから、これがバイオマーカーとして使える可能性がある (MedicalXpress)](https://medicalxpress.com/news/2019-03-protein-cord-blood-death-cerebral.html)  
 * [高濃度すぎる酸素療法は逆効果 (AJOG)](https://www.ajog.org/article/S0002-9378(19)30438-7/abstract)  
-* [超音波に基づいて分娩モード(経腟分娩の確率)を％で予測するアプリ(詳細不明) (AJOG)](https://www.ajog.org/article/S0002-9378(19)30497-1/fulltext)
+* [超音波に基づいて分娩モード(経腟分娩の確率)を％で予測するアプリ。 (Imperial College London)](https://spiral.imperial.ac.uk/bitstream/10044/1/69678/2/Intrapartum%20App%20AJOG%20research%20letter_31012019.pdf) ([DOI](https://doi.org/10.1016/j.ajog.2019.03.019))
 
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[Pediatrics\]](Pediatrics.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[Perinatology\]](Perinatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
