@@ -1,23 +1,5 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[Pediatrics\]](Pediatrics.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[Perinatology\]](Perinatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
-[\[23-12\]](2312.md)
-
-[\[23-11\]](2311.md) 
-
-[\[23-10\]](2310.md) 
-
-[\[23-09\]](2309.md)
-
-[\[23-08\]](2308.md)
-
-[\[23-07\]](2307.md)
-
-[\[23-06\]](2306.md)
-
-[\[23-05\]](2305.md)
-
-[\[23-04\]](2304.md)
-
 [\[23-03\]](2303.md)
 * [就寝前のスクリーンタイム増で妊娠糖尿病リスクが上昇？ (Northwestern University)](https://news.northwestern.edu/stories/2023/03/new-story-pagedim-lights-before-bedtime-to-reduce-risk-of-gestational-diabetes/) ([DOI](http://doi.org/10.1016/j.ajogmf.2023.100922))
 * [保育器のアルコール消毒で早産児の血中アルコール濃度が増加。 (筑波大学)](https://www.tsukuba.ac.jp/journal/medicine-health/20230225010000.html) ([DOI](https://doi.org/10.1001/jamanetworkopen.2023.0691)、[特許情報](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-7357887/6CCC41C34409EF562A2FE540F48AEAB138F8679932B51911D642A03E9E3F6ACD/15/ja))
