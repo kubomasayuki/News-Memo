@@ -35,6 +35,8 @@
 * [NICUや保育器の騒音が未熟児の難聴の一因？ (Frontiers)](https://doi.org/10.3389/fped.2023.1147226)
 
 [\[23-04\]](2304.md)
+* [妊娠糖尿病の女性の出産後の糖尿病発症リスクをコーヒーが抑制。 (National University of Singapore)](https://medicine.nus.edu.sg/news/drinking-coffee-regularly-after-pregnancy-may-lower-the-risk-of-type-2-diabetes-for-women-who-had-diabetes-during-pregnancy/) ([DOI](https://doi.org/10.1093/ajcn/nqac241))
+* [Long QTによる心血管イベントは妊娠前/中より産褥期の方が多い。 (Circulation)](https://doi.org/10.1161/01.CIR.97.5.451)
 
 [\[23-03\]](2303.md)
 * [親が過保護(過干渉？)な子は寿命が短い？ (Federal University of São Carlos)](https://agencia.fapesp.br/children-of-overprotective-parents-tend-to-live-less-study-suggests/40633/) ([DOI](https://doi.org/10.1038/s41598-022-23443-y))
