@@ -27,7 +27,9 @@
 * [妊娠中に音楽を聴くと児の言語習得が早い？ (Universitat de Balcelona)](http://www.fbg.ub.edu/en/news/listening-to-music-during-pregnancy-benefits-the-babys-brains-ability-to-encode-speech-sounds/) ([DOI](https://doi.org/10.1111/desc.13362))
 
 [\[23-06\]](2306.md)
+* [野菜や果物など抗酸化物質を多く含む食事をすると流産のリスクが減少。 (University of Birmingham)](https://www.birmingham.ac.uk/news/2023/diet-high-in-fruit-and-vegetables-linked-to-lower-miscarriage-risk) ([DOI]())
 * [早産児のためのポータルサイト。 (Small-Baby、AstraZeneca)](https://www.small-baby.jp/)
+* [Arabinペッサリー使用方法。 (YouTube - 原田産業)](https://www.youtube.com/watch?v=2PanQjSn18M)
 
 [\[23-05\]](2305.md)
 * [子供を追い詰めるような危険なしつけは将来子供がメンタルヘルスの問題を発症する可能性が上昇。 (University of Cambridge)](https://www.cam.ac.uk/research/news/harsh-discipline-increases-risk-of-children-developing-lasting-mental-health-problems) ([DOI](https://doi.org/10.1017/S2045796023000094))
