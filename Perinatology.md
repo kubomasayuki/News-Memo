@@ -43,6 +43,9 @@
 * [保育器のアルコール消毒で早産児の血中アルコール濃度が増加。 (筑波大学)](https://www.tsukuba.ac.jp/journal/medicine-health/20230225010000.html) ([DOI](https://doi.org/10.1001/jamanetworkopen.2023.0691)、[特許情報](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-7357887/6CCC41C34409EF562A2FE540F48AEAB138F8679932B51911D642A03E9E3F6ACD/15/ja))
 
 [\[23-02\]](2302.md)
+* [(超音波が使えないような国でのお産で)胎児の頭の位置を推定する手袋型デバイス。 (University College London)](https://www.eurekalert.org/news-releases/977827) ([DOI](https://doi.org/10.3389/fgwh.2022.1039477))
+* [早産が予想されるお産で予め硫酸マグネシウムを投与することで脳性麻痺発症リスク低下。 (NICHD MFMU)](https://doi.org/10.1056/NEJMoa0801187)
+* [妊娠中の1型、2型、妊娠糖尿病によって、児の脳の発達(遅延)に違いがある。 (台湾国立成功大学)](https://researchoutput.ncku.edu.tw/en/publications/childhood-neurodevelopmental-disorders-and-maternal-diabetes-apop) ([DOI](https://onlinelibrary.wiley.com/doi/abs/10.1111/dmcn.15488))
 
 [\[23-01\]](2301.md)
 * [小児期に複数回骨折した女性は骨粗しょう症リスクが高い。 (University of Otago)](https://www.otago.ac.nz/news/news/otago0236286.html) ([DOI](https://doi.org/10.1007/s00198-022-06500-0))
