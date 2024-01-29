@@ -1,5 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) \[Dentistry\] [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
+[\[24-01\]](2401.md)
+
 [\[23-12\]](2312.md)
 * [子供の歯磨きにおいて、普通の歯ブラシでも歯肉炎を減少させるが、電動歯ブラシはより減少させた。 (Hebraw University)](https://www.afhu.org/2023/11/03/childrens-dental-health-significantly-improved-using-electric-toothbrushes-according-to-the-hebrew-university-hadassah-faculty-of-dental-medicine/) ([DOI](https://doi.org/10.1111/ipd.13130))
 
