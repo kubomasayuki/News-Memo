@@ -2,7 +2,7 @@
 
 [\[24-01\]](2401.md)
 * [幼少期の睡眠障害と片頭痛に有意な正の相関。 (Tor Vergata University of Rome)](https://art.torvergata.it/handle/2108/294254) ([DOI](https://doi.org/10.3390/jcm10163575))
-* [不規則な睡眠サイクルは認知症リスク上昇。 (Monash University)](https://www.monash.edu/news/articles/highly-irregular-sleep-patterns-may-increase-dementia-risk-study) ([DOI](https://doi.org/10.1212/WNL.0000000000208029)、[概日リズムの安定はうつ病や認知機能低下の予防になる。 (University of Pittsburgh)](2209.md))
+* [不規則な睡眠サイクルは認知症リスク上昇。 (Monash University)](https://www.monash.edu/news/articles/highly-irregular-sleep-patterns-may-increase-dementia-risk-study) ([DOI](https://doi.org/10.1212/WNL.0000000000208029)、[22-09-20 概日リズムの安定はうつ病や認知機能低下の予防になる。 (University of Pittsburgh)](2209.md))
 
 [\[23-12\]](2312.md)
 * [睡眠中の呼吸パターンが記憶の定着に影響。 (Ludwig-Maximilians-Universität)](https://www.lmu.de/en/about-lmu/structure/central-university-administration/communications-and-media-relations/press-room/press-release/memory-research-breathing-in-sleep-impacts-memory-processes.html) ([DOI](https://doi.org/10.1038/s41467-023-43450-5))
