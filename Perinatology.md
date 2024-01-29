@@ -39,6 +39,8 @@
 * [Long QTによる心血管イベントは妊娠前/中より産褥期の方が多い。 (Circulation)](https://doi.org/10.1161/01.CIR.97.5.451)
 
 [\[23-03\]](2303.md)
+* [就寝前のスクリーンタイム増で妊娠糖尿病リスクが上昇？ (Northwestern University)](https://news.northwestern.edu/stories/2023/03/new-story-pagedim-lights-before-bedtime-to-reduce-risk-of-gestational-diabetes/) ([DOI](http://doi.org/10.1016/j.ajogmf.2023.100922))
+* [保育器のアルコール消毒で早産児の血中アルコール濃度が増加。 (筑波大学)](https://www.tsukuba.ac.jp/journal/medicine-health/20230225010000.html) ([DOI](https://doi.org/10.1001/jamanetworkopen.2023.0691)、[特許情報](https://www.j-platpat.inpit.go.jp/c1800/PU/JP-7357887/6CCC41C34409EF562A2FE540F48AEAB138F8679932B51911D642A03E9E3F6ACD/15/ja))
 
 [\[23-02\]](2302.md)
 
