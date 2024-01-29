@@ -1,7 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) \[diet\] [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
 [\[24-01\]](2401.md)
-* [植物性であっても脂質の多い食事は免疫、腸、脳の健康を損なう。 (University of California Riverside)](https://news.ucr.edu/articles/2024/01/03/new-reasons-eating-less-fat-should-be-one-your-resolutions)
+* [植物性であっても脂質の多い食事は免疫、腸、脳の健康を損なう。 (University of California Riverside)](https://news.ucr.edu/articles/2024/01/03/new-reasons-eating-less-fat-should-be-one-your-resolutions) ([DOI](https://doi.org/10.1038/s41598-023-49555-7))
 
 [\[23-12\]](2312.md)
 * [車の排気ガスは高塩分食に匹敵するほどの血圧上昇をもたらす？ (University of Washington)](https://www.washington.edu/news/2023/11/27/breathing-highway-air-increases-blood-pressure-uw-research-finds/) ([DOI](https://doi.org/10.7326/M23-1309))
