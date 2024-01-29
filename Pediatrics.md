@@ -3,6 +3,7 @@
 [\[24-01\]](2401.md)
 * [幼少期の睡眠障害と片頭痛に有意な正の相関。 (Tor Vergata University of Rome)](https://art.torvergata.it/handle/2108/294254) ([DOI](https://doi.org/10.3390/jcm10163575))
 * [片頭痛のある子は心理社会的適応に障害があるリスクが高い。 (Instituto Glia, Brazil)](https://doi.org/10.1111/head.12510)
+* [母乳が未熟児の脳の発達を促進。 (University of Edinburgh)](https://www.edinburghneuroscience.ed.ac.uk/news/breast-milk-may-be-best-premature-babies%E2%80%99-brain-development) ([DOI](https://doi.org/10.1016/j.neuroimage.2018.09.045))
 
 [\[23-12\]](2312.md)
 * [子供の歯磨きにおいて、普通の歯ブラシでも歯肉炎を減少させるが、電動歯ブラシはより減少させた。 (Hebraw University)](https://www.afhu.org/2023/11/03/childrens-dental-health-significantly-improved-using-electric-toothbrushes-according-to-the-hebrew-university-hadassah-faculty-of-dental-medicine/) ([DOI](https://doi.org/10.1111/ipd.13130))
