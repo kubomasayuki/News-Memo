@@ -19,6 +19,8 @@
 [\[23-08\]](2308.md)
 * [50代以降において、十分な身体活動をしていても睡眠不足だと認知機能低下リスクは下げられない。 (University College London)](https://discovery.ucl.ac.uk/id/eprint/10173393/) ([DOI](https://doi.org/10.1016/S2666-7568(23)00083-1))
 * [塩分(リン酸塩)の過剰摂取と高血圧、認知障害の関係。 (藤田医科大学)](https://www.fujita-hu.ac.jp/en/news/kka9ar00000023q6.html) ([DOI](https://doi.org/10.1111/bph.16093))
+* [妊娠中の母親のストレスレベルが高い児の方が1～3歳の言語獲得能力が高い。 (Odense University)](https://www.ese-hormones.org/media/5223/press_release-fenger-dreyer-saturday-13-maydocx.pdf)
+* [夜勤前の露光はミスと倦怠感を減少させる。 (McGill University)](https://www.mcgill.ca/newsroom/channels/news/reducing-fatigue-and-errors-among-nurses-working-night-shifts-347527) ([DOI](https://doi.org/10.1016/j.sleh.2023.02.004))
 
 [\[23-07\]](2307.md)
 * [排便の少なさ、便の硬さと認知症リスクが相関。 (国立がん研究センター)](https://www.carenet.com/news/general/carenet/56742) ([DOI](https://doi.org/10.1016/j.puhe.2023.05.019))
