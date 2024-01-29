@@ -39,7 +39,6 @@
 * [Long QTによる心血管イベントは妊娠前/中より産褥期の方が多い。 (Circulation)](https://doi.org/10.1161/01.CIR.97.5.451)
 
 [\[23-03\]](2303.md)
-* [親が過保護(過干渉？)な子は寿命が短い？ (Federal University of São Carlos)](https://agencia.fapesp.br/children-of-overprotective-parents-tend-to-live-less-study-suggests/40633/) ([DOI](https://doi.org/10.1038/s41598-022-23443-y))
 
 [\[23-02\]](2302.md)
 
