@@ -1,7 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[Pediatrics\]](Pediatrics.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) \[Perinatology\] [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
 [\[24-01\]](2401.md)
-* [妊娠中のビタミンD摂取は子供の3歳時点のアレルギー性鼻炎発症と逆の相関。 (富山大学)](https://www.u-toyama.ac.jp/wp/wp-content/uploads/20231114.pdf)
+* [妊娠中のビタミンD摂取は子供の3歳時点のアレルギー性鼻炎発症と逆の相関。 (富山大学)](https://www.u-toyama.ac.jp/wp/wp-content/uploads/20231114.pdf) ([DOI](https://doi.org/10.3177/jnsv.68.375))
 
 [\[23-12\]](2312.md)
 * [AI＋クラウド＋胎児心電計。 (クラウドセンス)](http://cloud-sense.co.jp/service.html)
