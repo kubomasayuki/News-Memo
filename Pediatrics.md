@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[Pediatrics\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[Perinatology\]](Perinatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
+[\[24-01\]](2401.md)
+* [幼少期の睡眠障害と片頭痛に有意な正の相関。 (Tor Vergata University of Rome)](https://art.torvergata.it/handle/2108/294254) ([DOI](https://doi.org/10.3390/jcm10163575))
+
 [\[23-12\]](2312.md)
 * [子供の歯磨きにおいて、普通の歯ブラシでも歯肉炎を減少させるが、電動歯ブラシはより減少させた。 (Hebraw University)](https://www.afhu.org/2023/11/03/childrens-dental-health-significantly-improved-using-electric-toothbrushes-according-to-the-hebrew-university-hadassah-faculty-of-dental-medicine/) ([DOI](https://doi.org/10.1111/ipd.13130))
 
