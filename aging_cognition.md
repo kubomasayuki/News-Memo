@@ -1,5 +1,8 @@
 \[aging_cognition\] [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
+[\[24-01\]](2401.md)
+* [善玉コレステロール(HDL-C)レベルが異常に高いと認知症リスクが上昇。 (Monach University)](https://www.monash.edu/news/articles/very-high-levels-of-good-cholesterol-may-be-associated-with-dementia-risk-study) ([DOI](https://doi.org/10.1016/j.lanwpc.2023.100963))
+
 [\[23-12\]](2312.md)
 * [睡眠中の呼吸パターンが記憶の定着に影響。 (Ludwig-Maximilians-Universität)](https://www.lmu.de/en/about-lmu/structure/central-university-administration/communications-and-media-relations/press-room/press-release/memory-research-breathing-in-sleep-impacts-memory-processes.html) ([DOI](https://doi.org/10.1038/s41467-023-43450-5))
 
