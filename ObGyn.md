@@ -1,10 +1,5 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[Pediatrics\]](Pediatrics.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[Perinatology\]](Perinatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
-[\[23-02\]](2302.md)
-* [(超音波が使えないような国でのお産で)胎児の頭の位置を推定する手袋型デバイス。 (University College London)](https://www.eurekalert.org/news-releases/977827) ([DOI](https://doi.org/10.3389/fgwh.2022.1039477))
-* [早産が予想されるお産で予め硫酸マグネシウムを投与することで脳性麻痺発症リスク低下。 (NICHD MFMU)](https://doi.org/10.1056/NEJMoa0801187)
-* [妊娠中の1型、2型、妊娠糖尿病によって、児の脳の発達(遅延)に違いがある。 (台湾国立成功大学)](https://researchoutput.ncku.edu.tw/en/publications/childhood-neurodevelopmental-disorders-and-maternal-diabetes-apop) ([DOI](https://onlinelibrary.wiley.com/doi/abs/10.1111/dmcn.15488))
-
 [\[23-01\]](2301.md)
 * [破水してから病院に向かうまでに必要なもののセット。 (オオサキメディカル)](https://dacco-web.com/product/hasui-set)
 * [妊婦は歯科治療だけでは早産予防にはならず、マウスウォッシュも組み合わせると改善する。 (University of South Carolina)](https://doi.org/10.1001/jamanetworkopen.2022.47632)
