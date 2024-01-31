@@ -1,5 +1,10 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) \[medical_device\] [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
+[\[24-02\]](2402.md)
+* [腫瘍の大きさを監視するデバイス。 (Stanford University)](https://cheme.stanford.edu/new-wearable-device-measures-changing-size-tumors-below-skin) ([DOI](https://doi.org/10.1126/sciadv.abn6550))
+
+[\[24-01\]](2401.md)
+
 [\[23-12\]](2312.md)
 * [AI＋クラウド＋胎児心電計。 (クラウドセンス)](http://cloud-sense.co.jp/service.html)
 
