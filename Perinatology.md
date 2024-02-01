@@ -58,6 +58,10 @@
 * [大量飲酒する父親は育児への関与が少ない。 (La Trobe University)](https://www.latrobe.edu.au/news/articles/2022/release/fathers-drinking-affects-quality-of-parenting) ([DOI](https://doi.org/10.1111/acer.14955))
 * [母子手帳は日本で生まれ、世界で16%の母親(年間2200万冊)に使われている。 (JICA)](https://www.jica.go.jp/activities/issues/health/mch_handbook/index.html)
 * [英国で新生児のゲノミクス研究を発表。 (Genomics England)](https://www.genomicsengland.co.uk/initiatives/newborns) ([プレスリリース](https://www.gov.uk/government/news/over-175-million-for-cutting-edge-genomics-research))
+* [破水してから病院に向かうまでに必要なもののセット。 (オオサキメディカル)](https://dacco-web.com/product/hasui-set)
+* [妊婦は歯科治療だけでは早産予防にはならず、マウスウォッシュも組み合わせると改善する。 (University of South Carolina)](https://doi.org/10.1001/jamanetworkopen.2022.47632)
+* [母子手帳は日本で生まれ、世界で16%の母親(年間2200万冊)に使われている。 (JICA)](https://www.jica.go.jp/activities/issues/health/mch_handbook/index.html)
+* [妊娠糖尿病の既往歴のある女性は、産後にコーヒー(カフェイン有無は問わない)を飲むと2型糖尿病発症を予防できる。 (National University of Singapore)](https://medicine.nus.edu.sg/news/drinking-coffee-regularly-after-pregnancy-may-lower-the-risk-of-type-2-diabetes-for-women-who-had-diabetes-during-pregnancy/) ([DOI](https://doi.org/10.1093/ajcn/nqac241))
 
 [\[22-12\]](2212.md)
 * [早産児の心拍数変動(NHRV)レベルは予後(罹患率、死亡率)と相関。 (University of Southern California School of Medicine)](https://doi.org/10.1542/peds.65.1.50)
