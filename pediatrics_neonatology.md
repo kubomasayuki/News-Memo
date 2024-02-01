@@ -1,11 +1,5 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[Pediatrics\]](Pediatrics.md) \[pediatrics_neonatology\] [\[Perinatology\]](Perinatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
-[\[23-01\]](2301.md)
-* [小児期に複数回骨折した女性は骨粗しょう症リスクが高い。 (University of Otago)](https://www.otago.ac.nz/news/news/otago0236286.html) ([DOI](https://doi.org/10.1007/s00198-022-06500-0))
-* [大量飲酒する父親は育児への関与が少ない。 (La Trobe University)](https://www.latrobe.edu.au/news/articles/2022/release/fathers-drinking-affects-quality-of-parenting) ([DOI](https://doi.org/10.1111/acer.14955))
-* [母子手帳は日本で生まれ、世界で16%の母親(年間2200万冊)に使われている。 (JICA)](https://www.jica.go.jp/activities/issues/health/mch_handbook/index.html)
-* [英国で新生児のゲノミクス研究を発表。 (Genomics England)](https://www.genomicsengland.co.uk/initiatives/newborns) ([プレスリリース](https://www.gov.uk/government/news/over-175-million-for-cutting-edge-genomics-research))
-
 [\[22-12\]](2212.md)
 * [早産児の心拍数変動(NHRV)レベルは予後(罹患率、死亡率)と相関。 (University of Southern California School of Medicine)](https://doi.org/10.1542/peds.65.1.50)
 * [予防接種の抗体レベルは帝王切開で生まれた子と比較して、自然分娩・母乳育児で3.5倍、人工乳でも1.7倍高い。 (University of Edinburgh)](https://www.ed.ac.uk/news/2022/baby-s-jab-responses-linked-to-birth-delivery-meth) ([DOI](https://doi.org/10.1038/s41467-022-34155-2))
