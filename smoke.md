@@ -1,5 +1,9 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[reproduction\]](reproduction.md) [\[sleep\]](sleep.md) \[smoke\] [\[vital_signs\]](vital_signs.md)
 
+[\[24-02\]](2402.md)
+
+[\[24-01\]](2401.md)
+
 [\[23-12\]](2312.md) 
 * [社会的孤立は1日15本の喫煙に相当。 (The U.S. Surgeon General’s Advisory on the Healing Effects of Social Connection and Community)](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf)
 
