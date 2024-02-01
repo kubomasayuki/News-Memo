@@ -1,5 +1,7 @@
 \[aging_cognition\] [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[Pediatrics\]](Pediatrics.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[Perinatology\]](Perinatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
+[\[24-02\]](2402.md)
+
 [\[24-01\]](2401.md)
 * [善玉コレステロール(HDL-C)レベルが異常に高いと認知症リスクが上昇。 (Monach University)](https://www.monash.edu/news/articles/very-high-levels-of-good-cholesterol-may-be-associated-with-dementia-risk-study) ([DOI](https://doi.org/10.1016/j.lanwpc.2023.100963))
 * [不規則な睡眠サイクルは認知症リスク上昇。 (Monash University)](https://www.monash.edu/news/articles/highly-irregular-sleep-patterns-may-increase-dementia-risk-study) ([DOI](https://doi.org/10.1212/WNL.0000000000208029)、[22-09-20 概日リズムの安定はうつ病や認知機能低下の予防になる。 (University of Pittsburgh)](2209.md))
