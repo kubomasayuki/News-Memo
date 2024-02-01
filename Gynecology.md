@@ -1,4 +1,4 @@
-[\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) \[Gynecology\] [\[medical_device\]](medical_device.md) [\[Pediatrics\]](Pediatrics.md) [\[Perinatology\]](Perinatology.md) [\[sleep\]](sleep.md)  [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
+[\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fitness\]](fitness.md) \[Gynecology\] [\[medical_device\]](medical_device.md) [\[Pediatrics\]](Pediatrics.md) [\[Perinatology\]](Perinatology.md) [\[reproduction\]](reproduction.md) [\[sleep\]](sleep.md)  [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
 [\[24-01\]](2401.md)
 
@@ -137,4 +137,4 @@
 * [HPVを接種した話 (kbcfireの日記)](https://kbcfire.hatenablog.com/entry/2019/04/07/103647)  
 * [2つの5mm大のポートで行う腹腔鏡下子宮摘出術は患者の年齢や子宮の大きさによっては安全に行える (SAGE Journals)](https://journals.sagepub.com/doi/10.1177/1553350619827693)
 
-[\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) \[Gynecology\] [\[medical_device\]](medical_device.md) [\[Pediatrics\]](Pediatrics.md) [\[Perinatology\]](Perinatology.md) [\[sleep\]](sleep.md)  [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
+[\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fitness\]](fitness.md) \[Gynecology\] [\[medical_device\]](medical_device.md) [\[Pediatrics\]](Pediatrics.md) [\[Perinatology\]](Perinatology.md) [\[reproduction\]](reproduction.md) [\[sleep\]](sleep.md)  [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
