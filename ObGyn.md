@@ -1,11 +1,5 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[Pediatrics\]](Pediatrics.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[Perinatology\]](Perinatology.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
-[\[23-01\]](2301.md)
-* [破水してから病院に向かうまでに必要なもののセット。 (オオサキメディカル)](https://dacco-web.com/product/hasui-set)
-* [妊婦は歯科治療だけでは早産予防にはならず、マウスウォッシュも組み合わせると改善する。 (University of South Carolina)](https://doi.org/10.1001/jamanetworkopen.2022.47632)
-* [母子手帳は日本で生まれ、世界で16%の母親(年間2200万冊)に使われている。 (JICA)](https://www.jica.go.jp/activities/issues/health/mch_handbook/index.html)
-* [妊娠糖尿病の既往歴のある女性は、産後にコーヒー(カフェイン有無は問わない)を飲むと2型糖尿病発症を予防できる。 (National University of Singapore)](https://medicine.nus.edu.sg/news/drinking-coffee-regularly-after-pregnancy-may-lower-the-risk-of-type-2-diabetes-for-women-who-had-diabetes-during-pregnancy/) ([DOI](https://doi.org/10.1093/ajcn/nqac241))
-
 [\[22-12\]](2212.md)
 * [早産や未熟児であってもカンガルーケアを推奨。 (WHO)](https://www.who.int/news/item/15-11-2022-who-advises-immediate-skin-to-skin-care-for-survival-of-small-and-preterm-babies) ([ガイドライン](https://apps.who.int/iris/bitstream/handle/10665/363698/9789240060043-eng.pdf))
 
