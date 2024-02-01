@@ -52,7 +52,6 @@
 [\[23-01\]](2301.md)
 * [小児期に複数回骨折した女性は骨粗しょう症リスクが高い。 (University of Otago)](https://www.otago.ac.nz/news/news/otago0236286.html) ([DOI](https://doi.org/10.1007/s00198-022-06500-0))
 * [大量飲酒する父親は育児への関与が少ない。 (La Trobe University)](https://www.latrobe.edu.au/news/articles/2022/release/fathers-drinking-affects-quality-of-parenting) ([DOI](https://doi.org/10.1111/acer.14955))
-* [英国で新生児のゲノミクス研究を発表。 (Genomics England)](https://www.genomicsengland.co.uk/initiatives/newborns) ([プレスリリース](https://www.gov.uk/government/news/over-175-million-for-cutting-edge-genomics-research))
 
 [\[22-12\]](2212.md)
 * [早産児の心拍数変動(NHRV)レベルは予後(罹患率、死亡率)と相関。 (University of Southern California School of Medicine)](https://doi.org/10.1542/peds.65.1.50)
