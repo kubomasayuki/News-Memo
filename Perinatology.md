@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fertility\]](fertility.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[Pediatrics\]](Pediatrics.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) \[Perinatology\] [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
+[\[24-02\]](2402.md)
+* [超早産児の動脈管開存症に対するイブプロフェン治療の効果はない。 (University of Oxford)](https://www.ndph.ox.ac.uk/news/new-evidence-shows-that-early-treatment-of-patent-ductus-arteriosus-with-ibuprofen-does-not-help-to-improve-short-term-outcomes-for-preterm-babies) ([DOI](https://www.nejm.org/doi/10.1056/NEJMoa2305582))
+
 [\[24-01\]](2401.md)
 * [妊娠中のビタミンD摂取は子供の3歳時点のアレルギー性鼻炎発症と逆の相関。 (富山大学)](https://www.u-toyama.ac.jp/wp/wp-content/uploads/20231114.pdf) ([DOI](https://doi.org/10.3177/jnsv.68.375))
 
