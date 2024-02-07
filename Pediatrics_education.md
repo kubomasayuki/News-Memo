@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[Pediatrics_education\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[Perinatology\]](Perinatology.md) [\[reproduction\]](reproduction.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
 [\[24-02\]](2402.md)
+* [体験型食育に参加した子供は、将来の食生活が健康的になりやすい。 (George Washington University)](https://publichealth.gwu.edu/school-based-gardening-and-food-programs-may-support-healthier-food-attitudes-later-life) ([DOI](https://doi.org/10.1016/j.jneb.2023.10.012))
 
 [\[24-01\]](2401.md)
 * [幼少期の睡眠障害と片頭痛に有意な正の相関。 (Tor Vergata University of Rome)](https://art.torvergata.it/handle/2108/294254) ([DOI](https://doi.org/10.3390/jcm10163575))
