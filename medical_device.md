@@ -2,6 +2,7 @@
 
 [\[24-02\]](2402.md)
 * [パーキンソン病などの手の震えを抑えるグローブ。 (GyroGear)](https://gyrogear.co/)
+* [体内で振動することで食欲を減退させるカプセル。 (MIT)](https://news.mit.edu/2023/engineers-develop-vibrating-ingestible-capsule-1222) ([DOI](https://doi.org/10.1126/sciadv.adj3003)、過去の記事：[23-03-20 カプセル型振動デバイスが便秘を改善。 (Augusta University)](2303.md))
 * [腫瘍の大きさを監視するデバイス。 (Stanford University)](https://cheme.stanford.edu/new-wearable-device-measures-changing-size-tumors-below-skin) ([DOI](https://doi.org/10.1126/sciadv.abn6550))
 
 [\[24-01\]](2401.md)
