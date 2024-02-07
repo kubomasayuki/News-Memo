@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) \[diet\] [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[reproduction\]](reproduction.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
 [\[24-02\]](2402.md)
+* [体験型食育に参加した子供は、将来の食生活が健康的になりやすい。 (George Washington University)](https://publichealth.gwu.edu/school-based-gardening-and-food-programs-may-support-healthier-food-attitudes-later-life) ([DOI](https://doi.org/10.1016/j.jneb.2023.10.012))
 
 [\[24-01\]](2401.md)
 * [植物性であっても脂質の多い食事は免疫、腸、脳の健康を損なう。 (University of California Riverside)](https://news.ucr.edu/articles/2024/01/03/new-reasons-eating-less-fat-should-be-one-your-resolutions) ([DOI](https://doi.org/10.1038/s41598-023-49555-7))
