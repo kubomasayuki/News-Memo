@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) \[medical_device\] [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[reproduction\]](reproduction.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
 [\[24-02\]](2402.md)
+* [パーキンソン病などの手の震えを抑えるグローブ。 (GyroGear)](https://gyrogear.co/)
 * [腫瘍の大きさを監視するデバイス。 (Stanford University)](https://cheme.stanford.edu/new-wearable-device-measures-changing-size-tumors-below-skin) ([DOI](https://doi.org/10.1126/sciadv.abn6550))
 
 [\[24-01\]](2401.md)
