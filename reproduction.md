@@ -21,7 +21,7 @@
 [\[23-07\]](2307.md)
 
 [\[23-06\]](2306.md)
-* [野菜や果物など抗酸化物質を多く含む食事をすると流産のリスクが減少。 (University of Birmingham)](https://www.birmingham.ac.uk/news/2023/diet-high-in-fruit-and-vegetables-linked-to-lower-miscarriage-risk) ([DOI]())
+* [野菜や果物など抗酸化物質を多く含む食事をすると流産のリスクが減少。 (University of Birmingham)](https://www.birmingham.ac.uk/news/2023/diet-high-in-fruit-and-vegetables-linked-to-lower-miscarriage-risk) ([DOI](https://doi.org/10.1016/j.fertnstert.2023.04.011))
 
 [\[23-05\]](2305.md)
 
