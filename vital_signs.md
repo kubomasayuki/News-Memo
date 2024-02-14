@@ -40,6 +40,7 @@ Society of Pacing and Electrophysiology)](https://www.escardio.org/static-file/E
 * [STV/LTV算出手法。 (University of Naples)](https://doi.org/10.1016/j.compbiomed.2008.11.010)
 
 [\[22-12\]](2212.md)
+* [早産児の心拍数変動(NHRV)レベルは予後(罹患率、死亡率)と相関。 (University of Southern California School of Medicine)](https://doi.org/10.1542/peds.65.1.50)
 
 [\[22-11\]](2211.md)
 
