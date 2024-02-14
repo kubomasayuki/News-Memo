@@ -93,7 +93,7 @@
 * [大気汚染は脳のパフォーマンスと労働の生産性に影響を与える。 (University of Queensland)](https://www.uq.edu.au/news/article/2021/11/air-pollution-clouds-brain-performance-and-workforce-productivity) ([論文](https://www.nber.org/system/files/working_papers/w28785/w28785.pdf))
 * [炎症スコアの高い食品が偶発的な認知症発症と相関。 (National and Kapodistrian University of Athens Medical School)](https://www.aan.com/PressRoom/Home/PressRelease/4935) ([DOI](https://doi.org/10.1212/WNL.0000000000012973))
 * [高血圧の早期発症で認知症発症リスク増。  (American Heart Association)](https://newsroom.heart.org/news/earlier-onset-of-high-blood-pressure-affects-brain-structure-may-increase-dementia-risk)
-* [唾液にも加齢の兆候あり。 (沖縄科学技術大学院大学)](https://www.oist.jp/ja/news-center/press-releases/36599)
+* [唾液にも加齢の兆候あり。 (沖縄科学技術大学院大学)](https://www.oist.jp/ja/news-center/press-releases/36599) ([DOI](https://doi.org/10.1038/s41598-021-97623-7))
 
 [\[21-10\]](2110.md)
 * [魚やナッツ、オリーブ油の摂取で(過剰にあると認知機能が低下すると推測されている)脳内の鉄の沈着を抑制できる？ (University of Kentucky)](https://uknow.uky.edu/research/uk-study-healthy-dietary-intake-associated-lower-brain-iron-better-cognition-older-adults) ([論文](https://www.sciencedirect.com/science/article/pii/S0197458021002104))
