@@ -2,6 +2,7 @@
 
 [\[24-02\]](2402.md)
 * 胎児心拍パターンの定量的評価。 (Vrije Universiteit) ([1](https://doi.org/10.1016/0028-2243(71)90056-6)、[2](https://doi.org/10.1016/0028-2243(71)90057-8)、[3](https://doi.org/10.1016/0028-2243(71)90052-9))
+* [イヤホン型デバイスで心臓由来の信号(心電図ライクの信号)を取得。 (Imperial College London)](https://www.imperial.ac.uk/news/183152/prototype-plug-sensor-could-improve-monitoring/) ([DOI](https://doi.org/10.1098/rsos.171214))
 * [Heart rate variability。 (Task Force of The European Society of Cardiology and The North American
 Society of Pacing and Electrophysiology)](https://www.escardio.org/static-file/Escardio/Guidelines/Scientific-Statements/guidelines-Heart-Rate-Variability-FT-1996.pdf)
 
