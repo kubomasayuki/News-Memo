@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[reproduction\]](reproduction.md) [\[sleep\]](sleep.md) \[smoke\] [\[vital_signs\]](vital_signs.md)
 
 [\[24-02\]](2402.md)
+* [電子タバコを吸うと免疫が低下する。 (University of Birmingham)](https://www.birmingham.ac.uk/news/2023/vaping-renders-immune-cells-unable-to-move-to-meet-threats) ([DOI](https://doi.org/10.1016/j.jaci.2023.08.025))
 
 [\[24-01\]](2401.md)
 
