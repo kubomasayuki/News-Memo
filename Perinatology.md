@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[Pediatrics_education\]](Pediatrics_education.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) \[Perinatology\] [\[reproduction\]](reproduction.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
 [\[24-02\]](2402.md)
+* 胎児心拍パターンの定量的評価。 (Vrije Universiteit) ([1](https://doi.org/10.1016/0028-2243(71)90056-6)、[2](https://doi.org/10.1016/0028-2243(71)90057-8)、[3](https://doi.org/10.1016/0028-2243(71)90052-9))
 * [NRNJデータベース解析報告。 (新生児臨床研究ネットワーク)](https://plaza.umin.ac.jp/nrndata/)
 * [超早産児の動脈管開存症に対するイブプロフェン治療の効果はない。 (University of Oxford)](https://www.ndph.ox.ac.uk/news/new-evidence-shows-that-early-treatment-of-patent-ductus-arteriosus-with-ibuprofen-does-not-help-to-improve-short-term-outcomes-for-preterm-babies) ([DOI](https://www.nejm.org/doi/10.1056/NEJMoa2305582))
 
