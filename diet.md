@@ -121,7 +121,7 @@
 [\[21-11\]](2111.md)
 * [コーヒーやお茶を飲む人は脳卒中や認知症のリスクが低い。 (天津医科大学)](https://medicalxpress.com/news/2021-11-coffee-tea-dementia.html) ([DOI](https://doi.org/10.1371/journal.pmed.1003830)、過去の調査：[21-07-28 コーヒーの過剰摂取は認知症リスク上昇の可能性。 (University of South Australia)](2107.md)、[20-04-28 フィルターでろ過したコーヒーを1日1～4杯飲む人が最も健康。 (Norwegian Institute of Public Health)](2004.md))
 * [炎症スコアの高い食品が偶発的な認知症発症と相関。 (National and Kapodistrian University of Athens Medical School)](https://www.aan.com/PressRoom/Home/PressRelease/4935) ([DOI](https://doi.org/10.1212/WNL.0000000000012973))
-* [経口免疫療法の代替？の皮膚パッチ療法の評価。 (DBV Technologies)](https://www.medpagetoday.com/meetingcoverage/acaai/95507) ([論文](https://www.annallergy.org/article/S1081-1206(21)00627-X/fulltext)、[Clinical Trial](https://clinicaltrials.gov/ct2/show/NCT02916446)、[開発企業、製品ページ](https://www.dbv-technologies.com/pipeline/viaskin-peanut/))
+* [経口免疫療法の代替？の皮膚パッチ療法の評価。 (DBV Technologies)](https://www.medpagetoday.com/meetingcoverage/acaai/95507) ([DOI](https://doi.org/10.1016/j.anai.2021.08.052)、[Clinical Trial](https://clinicaltrials.gov/ct2/show/NCT02916446)、[開発企業、製品ページ](https://www.dbv-technologies.com/pipeline/viaskin-peanut/))
 
 [\[21-10\]](2110.md)
 * [緑茶などに含まれるカテキンは抗酸化物質ではなく、一時的に酸化を促進させることで体の防御機能を促進させる。 (ETH Zurich)](https://ethz.ch/en/news-and-events/eth-news/news/2021/10/green-tea-catechines-promote-oxidative-stress.html)
