@@ -57,6 +57,7 @@
 * [大量飲酒する父親は育児への関与が少ない。 (La Trobe University)](https://www.latrobe.edu.au/news/articles/2022/release/fathers-drinking-affects-quality-of-parenting) ([DOI](https://doi.org/10.1111/acer.14955))
 
 [\[22-12\]](2212.md)
+* [早産児の心拍数変動(NHRV)レベルは予後(罹患率、死亡率)と相関。 (University of Southern California School of Medicine)](https://doi.org/10.1542/peds.65.1.50)
 * [予防接種の抗体レベルは帝王切開で生まれた子と比較して、自然分娩・母乳育児で3.5倍、人工乳でも1.7倍高い。 (University of Edinburgh)](https://www.ed.ac.uk/news/2022/baby-s-jab-responses-linked-to-birth-delivery-meth) ([DOI](https://doi.org/10.1038/s41467-022-34155-2))
 
 [\[22-11\]](2211.md)
