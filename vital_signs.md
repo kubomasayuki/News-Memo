@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[reproduction\]](reproduction.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) \[vital_signs\]
 
 [\[24-02\]](2402.md)
+* 胎児心拍パターンの定量的評価 (Vrije Universiteit) ([1](https://doi.org/10.1016/0028-2243(71)90056-6)、[2](https://doi.org/10.1016/0028-2243(71)90057-8)、[3](https://doi.org/10.1016/0028-2243(71)90052-9))
 * [Heart rate variability。 (Task Force of The European Society of Cardiology and The North American
 Society of Pacing and Electrophysiology)](https://www.escardio.org/static-file/Escardio/Guidelines/Scientific-Statements/guidelines-Heart-Rate-Variability-FT-1996.pdf)
 
