@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[reproduction\]](reproduction.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) \[vital_signs\]
 
 [\[24-02\]](2402.md)
+* [心拍変動のはなし。 (大阪大学 清野研究室)](https://www.youtube.com/watch?v=LbsVJ0W5duU)
 * 胎児心拍パターンの定量的評価。 (Vrije Universiteit) ([1](https://doi.org/10.1016/0028-2243(71)90056-6)、[2](https://doi.org/10.1016/0028-2243(71)90057-8)、[3](https://doi.org/10.1016/0028-2243(71)90052-9))
 * [イヤホン型デバイスで心臓由来の信号(心電図ライクの信号)を取得。 (Imperial College London)](https://www.imperial.ac.uk/news/183152/prototype-plug-sensor-could-improve-monitoring/) ([DOI](https://doi.org/10.1098/rsos.171214))
 * [Heart rate variability。 (Task Force of The European Society of Cardiology and The North American
