@@ -85,7 +85,7 @@
 * [妊娠中の不眠は早産率を30％上昇させる。 (UCSF)](https://www.ucsf.edu/news/2017/08/407961/sleep-disorders-linked-preterm-birth-large-california-study) ([DOI 1](https://doi.org/10.1038/nature.2017.22419)、[DOI 2](https://doi.org/10.1097/AOG.0000000000002132)、過去の調査：[21-01-29 光による概日リズムの乱れは早産につながる可能性。 (Lehigh University)](2101.md))
 
 [\[21-11\]](2111.md)
-* [睡眠時間の不足や質の低下は肥満や高血圧、糖尿病、心血管疾患などのリスクを上昇させる。 (American Heart Association)](https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000000444)
+* [睡眠時間の不足や質の低下は肥満や高血圧、糖尿病、心血管疾患などのリスクを上昇させる。 (American Heart Association)](https://doi.org/10.1161/CIR.0000000000000444)
 
 [\[21-10\]](2110.md)
 * [新生児の良質な睡眠は生後6ヶ月時点の肥満の予防と相関。 (Brigham and Women's Hospital)](https://www.eurekalert.org/news-releases/932292)
