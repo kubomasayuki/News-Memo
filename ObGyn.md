@@ -1,8 +1,5 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) \[ObGyn\] [\[Pediatrics_education\]](Pediatrics_education.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[Perinatology\]](Perinatology.md) [\[reproduction\]](reproduction.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
-[\[22-11\]](2211.md)
-* [バルーンカテーテルによる分娩誘発は効果的なだけでなく、児にとってより安全。 (Monach University)](https://www.monash.edu/news/articles/balloon-labour-induction-safer-for-babies,-melbourne-researchers-find) ([DOI](https://doi.org/10.1016/S0140-6736(22)01845-1))
-
 [\[22-10\]](2210.md)
 * [1本の繊維の縫合糸はより合わせた縫合糸より帝王切開後の感染リスクが低い。 (University of Birmingham)](https://www.birmingham.ac.uk/news/2022/single-stranded-suture-threads-could-prevent-pregnancy-infection-complications-c-stich-trial-finds) ([DOI](https://doi.org/10.1016/S0140-6736(22)01808-6))
 * [凍結胚移植での妊娠は高血圧リスクが増加。 (American Heart Association)](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.122.19689)
