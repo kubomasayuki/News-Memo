@@ -57,7 +57,7 @@
 * [おむつ替え時の親の発話量が多い子ほど社会性指標が高い。 (花王)](https://www.kao.com/jp/corporate/news/rd/2020/20201019-001/)
 
 [\[21-10\]](2110.md)
-* [新生児の良質な睡眠は生後6ヶ月時点の肥満の予防と相関。 (Brigham and Women's Hospital)](https://www.eurekalert.org/news-releases/932292)
+* [新生児の良質な睡眠は生後6ヶ月時点の肥満の予防と相関。 (Brigham and Women's Hospital)](https://www.brighamandwomens.org/about-bwh/newsroom/research-briefs-detail?id=4009) ([DOI](https://doi.org/10.1093/sleep/zsab243))
 * [IoT対応の育児・授乳ブース (Trim)](https://mamaro.trim-inc.com/) (過去の調査：[21-07-27 簡易組み立て式授乳ブース。 (株式会社MISTRAL)](2105.md))
 * [社会的孤立と悲しみに関連する子供の不安行動は、後の人生で不安障害を発症するリスクを伴う。 (University of Otago)](https://www.otago.ac.nz/news/news/otago833202.html) ([DOI](https://doi.org/10.1017/S0033291721002889))
 * [赤血球の提供を受ける超低出生体重児は、男性ドナーよりも女性ドナー(特に年齢の高い女性)の場合に炎症のリスクが低下。 (Emory and Children’s Healthcare)](https://news.emory.edu/stories/2021/09/preterm_infants_transfusion/index.html) ([論文](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2783715))
