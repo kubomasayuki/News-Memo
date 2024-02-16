@@ -13,7 +13,7 @@
 
 [\[23-11\]](2311.md)
 * [子供がグズった時に食べ物でなだめるので、ネガティブな感情の時により多く食べるようになる？ (Aston University)](https://www.aston.ac.uk/latest-news/children-young-four-eat-more-when-bored) ([DOI](https://doi.org/10.1016/j.foodqual.2023.105008))
-* [乳化剤の成分であるカルボキシメチルセルロースは腸内で炎症物質であるフラジェリンを増殖させる。 (Georgia State University)](http://doi.org/10.1136/gutjnl-2016-313099)
+* [乳化剤の成分であるカルボキシメチルセルロースは腸内で炎症物質であるフラジェリンを増殖させる。 (Georgia State University)](http://doi.org/10.1136/gutjnl-2016-313099) (過去の調査：[21-11-16 炎症スコアの高い食品が偶発的な認知症発症と相関。 (National and Kapodistrian University of Athens Medical School)](2111.md))
 
 [\[23-10\]](2310.md) 
 
