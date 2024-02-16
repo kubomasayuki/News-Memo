@@ -1,10 +1,5 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[Pediatrics_education\]](Pediatrics_education.md) \[pediatrics_neonatology\] [\[Perinatology\]](Perinatology.md) [\[reproduction\]](reproduction.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
-[\[22-11\]](2211.md)
-* [依存症の家族歴は子どもの依存症のリスク。 (University of Michigan)](https://news.umich.edu/feeling-addicted-to-food-your-parents-drinking-habits-may-impact-your-risk/) ([DOI](https://dx.doi.org/10.1037/adb0000870))
-* [子供であっても握力は健康の指標となる。 (Baylor University)](https://www.baylor.edu/mediacommunications/news.php?action=story&story=201233) ([DOI](https://doi.org/10.1016/j.jpeds.2018.07.020))
-* [乳幼児の頭の形を良くするための枕は窒息事故のリスクがあるとFDAが警鐘。 (FDA)](https://www.fda.gov/medical-devices/safety-communications/do-not-use-infant-head-shaping-pillows-prevent-or-treat-any-medical-condition-fda-safety)
-
 [\[22-10\]](2210.md)
 * [テレビゲームは子供の認知能力を向上させる可能性。 (Karolinska Institutet)](https://news.ki.se/video-games-can-help-boost-childrens-intelligence) ([DOI](https://dx.doi.org/10.1038/s41598-022-11341-2))
 * [親のネガティブな感情は子供の言語発達の遅れに影響する。 (Max Planck Institute)](https://www.mpg.de/19345204/how-the-mother-s-mood-influences-her-baby-s-ability-to-speak) ([DOI](https://dx.doi.org/10.1001/jamanetworkopen.2022.32672))
