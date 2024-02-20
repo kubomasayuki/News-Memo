@@ -134,7 +134,7 @@
 * [子宮頸管に留置し、子宮収縮計測、および電気刺激により早産予防する機器。 (IEEE EMB)](https://www.embs.org/tnsre/articles/non-invasive-ring-electrode-with-a-wireless-electrical-recording-and-stimulating-system-for-monitoring-preterm-labor/)
 
 [\[21-02\]](2102.md)
-* [医療機器開発支援ハンドブック。 (経済産業省)](https://www.med-device.jp/repository/c949c741c8e77fa444829a60f9eb2c3c55da9ead.pdf) (更新：[March 31, 2021 医療機器開発支援ハンドブック(令和3年3月版)](2103.md))
+* ~~[医療機器開発支援ハンドブック。 (経済産業省)](https://www.med-device.jp/repository/c949c741c8e77fa444829a60f9eb2c3c55da9ead.pdf)~~ [24-02-20 ←リンク切れ](https://www.med-device.jp/repository2/) (更新：[March 31, 2021 医療機器開発支援ハンドブック(令和3年3月版)](2103.md))
 * [医療機器による褥瘡防止の為のガイドライン(の位置付けのもの)。 (日本褥瘡学会)](http://www.jspu.org/jpn/info/pdf/bestpractice_.pdf)
 
 [\[21-01\]](2101.md)
