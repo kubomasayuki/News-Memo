@@ -43,7 +43,7 @@
 
 [\[22-10\]](2210.md)
 * [大気汚染物質は胎児の脳、肺、肝臓などの重要臓器に到達する。 (University of Aberdeen)](https://www.abdn.ac.uk/news/16424/) ([DOI](https://doi.org/10.1016/S2542-5196(22)00200-5))
-* [凍結胚移植での妊娠は高血圧リスクが増加。 (American Heart Association)](https://www.ahajournals.org/doi/10.1161/HYPERTENSIONAHA.122.19689)
+* [凍結胚移植での妊娠は高血圧リスクが増加。 (Norwegian University)](https://doi.org/10.1161/HYPERTENSIONAHA.122.19689)
 
 [\[22-09\]](2209.md)
 * [精子にとってより好ましい環境を作り出す検体採取カップ。 (RSI Technologies)](https://rsifertility.com/) ([開発時の参加プログラム元のブログ記事](https://www.depts.ttu.edu/research/research-park/hustle/posts/2019/08/rsi-blog-article.php))
