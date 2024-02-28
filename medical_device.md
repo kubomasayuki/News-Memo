@@ -53,7 +53,7 @@
 [\[22-11\]](2211.md)
 
 [\[22-10\]](2210.md)
-* [乳児用ウェアラブルデバイス。 (University of Illinois Urbana Champaign)](https://littlebeats.hdfs.illinois.edu/about-littlebeats/)
+* [乳幼児向けウェアラブルデバイス。 (University of Illinois Urbana Champaign)](https://littlebeats.hdfs.illinois.edu/about-littlebeats/)
 
 [\[22-09\]](2209.md)
 * [個人や遠隔医療向けエコー機器レンタル。 (ポケマム)](https://pockemam.com/)
