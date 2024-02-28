@@ -98,7 +98,7 @@
 [\[21-10\]](2110.md)
 * [魚やナッツ、オリーブ油の摂取で(過剰にあると認知機能が低下すると推測されている)脳内の鉄の沈着を抑制できる？ (University of Kentucky)](https://uknow.uky.edu/research/uk-study-healthy-dietary-intake-associated-lower-brain-iron-better-cognition-older-adults) ([論文](https://www.sciencedirect.com/science/article/pii/S0197458021002104))
 * [うつ(過剰なストレス)が海馬を委縮させるホルモンの産生を増加し、認知症のリスクを増加する。 (University of California San Francisco)](https://www.ucsf.edu/news/2021/09/421506/happiness-early-adulthood-may-protect-against-dementia) ([論文](https://content.iospress.com/articles/journal-of-alzheimers-disease/jad210588))
-* [PM2.5曝露は脳卒中や認知症のリスクを高め、長期的な曝露や汚染度が高い地域の方がリスクが高い。 (香港バプテスト大学)](https://cpro.hkbu.edu.hk/en/press_release/detail/HKBU-study-finds-strong-association-between-PM2.5-and-neurological-disorders/) ([論文](https://www.sciencedirect.com/science/article/abs/pii/S0048969718345741))
+* [PM2.5曝露は脳卒中や認知症のリスクを高め、長期的な曝露や汚染度が高い地域の方がリスクが高い。 (香港バプテスト大学)](https://cpro.hkbu.edu.hk/en/press_release/detail/HKBU-study-finds-strong-association-between-PM2.5-and-neurological-disorders/) ([DOI](https://doi.org/10.1016/j.scitotenv.2018.11.218))
 
 [\[21-09\]](2109.md)
 * [母親の読み聞かせは他人よりも脳内ネットワーク強度が向上。 (金沢大学)](https://www.kanazawa-u.ac.jp/rd/94730) ([論文](https://www.sciencedirect.com/science/article/pii/S1053811921006650))
