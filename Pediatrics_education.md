@@ -121,6 +121,7 @@
 * [IoT対応の育児・授乳ブース (Trim)](https://mamaro.trim-inc.com/) (過去の調査：[21-07-27 簡易組み立て式授乳ブース。 (株式会社MISTRAL)](2105.md))
 * [社会的孤立と悲しみに関連する子供の不安行動は、後の人生で不安障害を発症するリスクを伴う。 (University of Otago)](https://www.otago.ac.nz/news/news/otago833202.html) ([DOI](https://doi.org/10.1017/S0033291721002889))
 * [赤血球の提供を受ける超低出生体重児は、男性ドナーよりも女性ドナー(特に年齢の高い女性)の場合に炎症のリスクが低下。 (Emory and Children’s Healthcare)](https://news.emory.edu/stories/2021/09/preterm_infants_transfusion/index.html) ([論文](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2783715))
+* [子どもの睡眠障害と母親のメンタルヘルスの問題に相関あり。 (The University of Melbourne)](https://findanexpert.unimelb.edu.au/scholarlywork/1567444-bidirectional-associations-between-maternal-mental-health-and-child-sleep-problems-in-children-with-adhd--a-longitudinal-study) ([論文](https://journals.sagepub.com/doi/10.1177/1087054720923083))
 
 [\[21-09\]](2109.md)
 * [母親の読み聞かせは他人よりも脳内ネットワーク強度が向上。 (金沢大学)](https://www.kanazawa-u.ac.jp/rd/94730) ([論文](https://www.sciencedirect.com/science/article/pii/S1053811921006650))
