@@ -90,7 +90,7 @@
 [\[21-10\]](2110.md)
 * [新生児の良質な睡眠は生後6ヶ月時点の肥満の予防と相関。 (Brigham and Women's Hospital)](https://www.brighamandwomens.org/about-bwh/newsroom/research-briefs-detail?id=4009) ([DOI](https://doi.org/10.1093/sleep/zsab243))
 * [激しい運動でも、夜型の人で、就寝2時間前までに終え、同じ時間に行う習慣があれば、きちんと眠れる。 (Concordia University)](https://www.concordia.ca/news/stories/2021/09/28/intense-workouts-before-bedtime-wont-guarantee-a-good-nights-rest-new-research-shows.html) ([論文](https://pubmed.ncbi.nlm.nih.gov/34416428/))
-* [子どもの睡眠障害と母親のメンタルヘルスの問題に相関あり。 (The University of Melbourne)](https://findanexpert.unimelb.edu.au/scholarlywork/1567444-bidirectional-associations-between-maternal-mental-health-and-child-sleep-problems-in-children-with-adhd--a-longitudinal-study) ([論文](https://journals.sagepub.com/doi/10.1177/1087054720923083))
+* [子どもの睡眠障害と母親のメンタルヘルスの問題に相関あり。 (The University of Melbourne)](https://findanexpert.unimelb.edu.au/scholarlywork/1567444-bidirectional-associations-between-maternal-mental-health-and-child-sleep-problems-in-children-with-adhd--a-longitudinal-study) ([DOI](https://doi.org/10.1177/1087054720923083))
 * [スマートガラスでオフィス内に光を足すことで概日リズムが改善。 (Mount Sinai)](https://medicalxpress.com/news/2021-09-brighter-days-nights.html) ([研究](https://www.theevolvstudy.com/)、[論文](https://www.mdpi.com/1660-4601/18/19/9980))
 
 [\[21-09\]](2109.md)
