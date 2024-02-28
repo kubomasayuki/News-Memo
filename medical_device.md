@@ -1,7 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) \[medical_device\] [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[reproduction\]](reproduction.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
 [\[24-02\]](2402.md)
-* [新興国向け胎児心拍数モニター。 (Laerdal)](https://shop.laerdalglobalhealth.com/product/moyo/) ([聴診器、手持ちドプラとの比較](https://doi.org/10.1186/s12884-018-1746-9))
+* [新興国向け胎児心拍数モニター。 (Laerdal)](https://shop.laerdalglobalhealth.com/product/moyo/) ([聴診器、手持ちドプラと比べて胎児心拍数の異常を検出。 (University of Stavanger)](https://doi.org/10.1186/s12884-018-1746-9))
 * [イヤホン型デバイスで心臓由来の信号(心電図ライクの信号)を取得。 (Imperial College London)](https://www.imperial.ac.uk/news/183152/prototype-plug-sensor-could-improve-monitoring/) ([DOI](https://doi.org/10.1098/rsos.171214))
 * [パーキンソン病などの手の震えを抑えるグローブ。 (GyroGear)](https://gyrogear.co/)
 * [体内で振動することで食欲を減退させるカプセル。 (MIT)](https://news.mit.edu/2023/engineers-develop-vibrating-ingestible-capsule-1222) ([DOI](https://doi.org/10.1126/sciadv.adj3003)、過去の記事：[23-03-20 カプセル型振動デバイスが便秘を改善。 (Augusta University)](2303.md))
