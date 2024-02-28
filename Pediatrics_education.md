@@ -69,7 +69,6 @@
 * [テレビゲームは子供の認知能力を向上させる可能性。 (Karolinska Institutet)](https://news.ki.se/video-games-can-help-boost-childrens-intelligence) ([DOI](https://doi.org/10.1038/s41598-022-11341-2))
 * [親のネガティブな感情は子供の言語発達の遅れに影響する。 (Max Planck Institute)](https://www.mpg.de/19345204/how-the-mother-s-mood-influences-her-baby-s-ability-to-speak) ([DOI](https://doi.org/10.1001/jamanetworkopen.2022.32672))
 * [乳幼児向けウェアラブルデバイス。 (University of Illinois Urbana Champaign)](https://littlebeats.hdfs.illinois.edu/about-littlebeats/)
-* [出生後の脳損傷により発症する脳性麻痺について、3日以内の抗炎症薬投与で回復できる可能性。 (University of Auckland)](https://www.auckland.ac.nz/en/news/2022/09/23/study-offers-hope-for-preventing-cerebral-palsy.html) ([DOI](https://doi.org/10.1093/brain/awac331))
 
 [\[22-09\]](2209.md)
 * [子供のテレビ視聴は親と一緒、対象年齢などの条件が揃えば有益である。 (University of Portsmouth)](https://www.port.ac.uk/news-events-and-blogs/news/study-suggests-watching-tv-with-your-child-can-help-their-cognitive-development) ([DOI](https://doi.org/10.3389/fpsyg.2022.923370))
