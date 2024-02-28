@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[Pediatrics_education\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[Perinatology\]](Perinatology.md) [\[reproduction\]](reproduction.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
 [\[24-02\]](2402.md)
+* [1歳で魚や野菜の摂取量が多く、砂糖飲料の摂取量が少ないと、炎症性腸疾患を予防できる。 (University of Gothenburg)](https://www.gu.se/en/news/healthy-diet-early-in-life-seems-to-protect-against-inflammatory-bowel-disease) ([DOI](https://doi.org/10.1136/gutjnl-2023-330971))
 * [体験型食育に参加した子供は、将来の食生活が健康的になりやすい。 (George Washington University)](https://publichealth.gwu.edu/school-based-gardening-and-food-programs-may-support-healthier-food-attitudes-later-life) ([DOI](https://doi.org/10.1016/j.jneb.2023.10.012))
 
 [\[24-01\]](2401.md)
