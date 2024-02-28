@@ -39,25 +39,24 @@
 [\[23-03\]](2303.md)
 
 [\[23-02\]](2302.md)
-* [中年期の禁煙は認知機能低下予防になる。 (Ohio State University)](https://cph.osu.edu/news/2022/12/smoking-increases-chances-mid-life-memory-loss-confusion) ([DOI](https://dx.doi.org/10.3233/JAD-220501))
+* [中年期の禁煙は認知機能低下予防になる。 (Ohio State University)](https://cph.osu.edu/news/2022/12/smoking-increases-chances-mid-life-memory-loss-confusion) ([DOI](https://doi.org/10.3233/JAD-220501))
 
 [\[23-01\]](2301.md)
 * [非認知症患者は魚介類、きのこ、大豆製品、コーヒーの摂取割合が高い。 (国立長寿医療研究センター)](https://www.ncgg.go.jp/hospital/monowasure/news/20211025.html) ([DOI](https://doi.org/10.1016/j.nut.2021.111524))
 * [体重が減少3.5kg以上減少した高齢者は認知症リスクが高い。 (東北大学、大崎市民コホート2006研究)](http://www.pbhealth.med.tohoku.ac.jp/publication/pdf/2020/2020_7.pdf) ([DOI](https://doi.org/10.2188/jea.JE20200260))
-* [運動やマインドフルネスによって、認知症の予防はできるが、認知機能は改善しない。 (Washington University School of Medicine)](https://medicine.wustl.edu/news/exercise-mindfulness-dont-appear-to-boost-cognitive-function-in-older-adults/) ([DOI](https://dx.doi.org/10.1001/jama.2022.21680))
+* [運動やマインドフルネスによって、認知症の予防はできるが、認知機能は改善しない。 (Washington University School of Medicine)](https://medicine.wustl.edu/news/exercise-mindfulness-dont-appear-to-boost-cognitive-function-in-older-adults/) ([DOI](https://doi.org/10.1001/jama.2022.21680))
 
 [\[22-12\]](2212.md)
 
 [\[22-11\]](2211.md)
-* [鼻をほじると認知症のリスクが上昇？ (Griffith University)](https://news.griffith.edu.au/2022/10/28/new-research-suggests-nose-picking-could-increase-risk-for-alzheimers-and-dementia/) ([DOI](https://dx.doi.org/10.1038/s41598-022-20674-x))
+* [鼻をほじると認知症のリスクが上昇？ (Griffith University)](https://news.griffith.edu.au/2022/10/28/new-research-suggests-nose-picking-could-increase-risk-for-alzheimers-and-dementia/) ([DOI](https://doi.org/10.1038/s41598-022-20674-x))
 
 [\[22-10\]](2210.md)
-* [テレビゲームは子供の認知能力を向上させる可能性。 (Karolinska Institutet)](https://news.ki.se/video-games-can-help-boost-childrens-intelligence) ([DOI](https://dx.doi.org/10.1038/s41598-022-11341-2))
+* [テレビゲームは子供の認知能力を向上させる可能性。 (Karolinska Institutet)](https://news.ki.se/video-games-can-help-boost-childrens-intelligence) ([DOI](https://doi.org/10.1038/s41598-022-11341-2))
 * [うつ病の早期介入(治療)により将来の認知症リスクが軽減する可能性。 (復旦大学)](https://www.eurekalert.org/news-releases/968160) ([DOI](https://doi.org/10.1016/j.biopsych.2022.08.026))
-* [親のネガティブな感情は子供の言語発達の遅れに影響する。 (Max Planck Institute)](https://www.mpg.de/19345204/how-the-mother-s-mood-influences-her-baby-s-ability-to-speak) ([DOI](https://dx.doi.org/10.1001/jamanetworkopen.2022.32672))
 
 [\[22-09\]](2209.md)
-* [概日リズムの安定はうつ病や認知機能低下の予防になる。 (University of Pittsburgh)](https://www.upmc.com/media/news/091322-cognitivetests) ([DOI](http://dx.doi.org/10.1038/nsmb.3331))
+* [概日リズムの安定はうつ病や認知機能低下の予防になる。 (University of Pittsburgh)](https://www.upmc.com/media/news/091322-cognitivetests) ([DOI](http://doi.org/10.1038/nsmb.3331))
 
 [\[22-08\]](2208.md)
 * [10歳以下の喫煙は著しい認知能力低下と脳容積縮小を起こす。 (MedPage Today)](https://www.medpagetoday.com/pediatrics/preventivecare/100164) ([DOI 1](https://doi.org/10.1001/jamanetworkopen.2022.25991)、[DOI 2](https://doi.org/10.1001/jamanetworkopen.2022.26001))
