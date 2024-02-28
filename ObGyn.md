@@ -2,7 +2,6 @@
 
 [\[22-10\]](2210.md)
 * [1本の繊維の縫合糸はより合わせた縫合糸より帝王切開後の感染リスクが低い。 (University of Birmingham)](https://www.birmingham.ac.uk/news/2022/single-stranded-suture-threads-could-prevent-pregnancy-infection-complications-c-stich-trial-finds) ([DOI](https://doi.org/10.1016/S0140-6736(22)01808-6))
-* [凍結胚移植での妊娠は高血圧リスクが増加。 (Norwegian University)](https://doi.org/10.1161/HYPERTENSIONAHA.122.19689)
 
 [\[22-09\]](2209.md)
 * [妊婦の食習慣は胎児の食べ物の好き嫌いに影響？ (Durham University)](https://www.durham.ac.uk/research/current/research-news/fetuses-react-to-taste-and-smell-in-the-womb/) ([DOI](https://doi.org/10.1177/09567976221105460))
