@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) \[alcohol\] [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[reproduction\]](reproduction.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
 [\[24-02\]](2402.md)
+* [アルコール摂取により、腸からのヒ素の吸収量が増加するが、腎臓からの排泄量も増加する。 (南京環境科学研究所)](https://doi.org/10.1016/j.eehl.2023.06.003)
 
 [\[24-01\]](2401.md)
 
