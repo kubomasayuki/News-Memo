@@ -69,6 +69,7 @@
 * [バルーンカテーテルによる分娩誘発は効果的なだけでなく、児にとってより安全。 (Monach University)](https://www.monash.edu/news/articles/balloon-labour-induction-safer-for-babies,-melbourne-researchers-find) ([DOI](https://doi.org/10.1016/S0140-6736(22)01845-1))
 
 [\[22-10\]](2210.md)
+* [1本の繊維の縫合糸はより合わせた縫合糸より帝王切開後の感染リスクが低い。 (University of Birmingham)](https://www.birmingham.ac.uk/news/2022/single-stranded-suture-threads-could-prevent-pregnancy-infection-complications-c-stich-trial-finds) ([DOI](https://doi.org/10.1016/S0140-6736(22)01808-6))
 * [凍結胚移植での妊娠は高血圧リスクが増加。 (Norwegian University)](https://doi.org/10.1161/HYPERTENSIONAHA.122.19689)
 * [出生後の脳損傷により発症する脳性麻痺について、3日以内の抗炎症薬投与で回復できる可能性。 (University of Auckland)](https://www.auckland.ac.nz/en/news/2022/09/23/study-offers-hope-for-preventing-cerebral-palsy.html) ([DOI](https://doi.org/10.1093/brain/awac331))
 
