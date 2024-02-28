@@ -1,8 +1,5 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[Pediatrics_education\]](Pediatrics_education.md) \[pediatrics_neonatology\] [\[Perinatology\]](Perinatology.md) [\[reproduction\]](reproduction.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
-[\[22-10\]](2210.md)
-* [出生後の脳損傷により発症する脳性麻痺について、3日以内の抗炎症薬投与で回復できる可能性。 (University of Auckland)](https://www.auckland.ac.nz/en/news/2022/09/23/study-offers-hope-for-preventing-cerebral-palsy.html) ([DOI](https://dx.doi.org/10.1093/brain/awac331))
-
 [\[22-09\]](2209.md)
 * [子供のテレビ視聴は親と一緒、対象年齢などの条件が揃えば有益である。 (University of Portsmouth)](https://www.port.ac.uk/news-events-and-blogs/news/study-suggests-watching-tv-with-your-child-can-help-their-cognitive-development) ([DOI](https://doi.org/10.3389/fpsyg.2022.923370))
 * [小さい頃にスポーツに取り組むことで忍耐力が養われ、将来の成功につながる気質を育てる。 (Ohio State University)](https://news.osu.edu/sports-help-kids-develop-important-trait-linked-to-adult-success/) ([DOI](https://doi.org/10.1080/01490400.2022.2090037))
