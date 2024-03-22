@@ -1,6 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) \[medical_device\] [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[reproduction\]](reproduction.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
 [\[24-03\]](2403.md)
+* [途上国向けWHO推奨医療機器要覧。 (WHO)](https://iris.who.int/bitstream/handle/10665/355162/9789240049505-eng.pdf)
 * [腹壁誘導型の胎児モニター。 (INNACCEL)](https://innaccel.com/products/fetal-lite/)
 
 [\[24-02\]](2402.md)
