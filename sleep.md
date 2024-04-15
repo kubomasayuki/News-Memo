@@ -1,5 +1,10 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[reproduction\]](reproduction.md) \[sleep\] [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
+[\[24-04\]](2404.md)
+* [睡眠中にリラックスできる言葉を聞くと心拍数が減少する。 (University of Liège)](https://www.giga.uliege.be/cms/c_12409181/en/hearing-relaxing-words-in-your-sleep-slows-your-heart-down) ([DOI](https://doi.org/10.1111/jsr.14160))
+
+[\[24-03\]](2403.md)
+
 [\[24-02\]](2402.md)
 
 [\[24-01\]](2401.md)
