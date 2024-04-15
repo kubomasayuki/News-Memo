@@ -1,5 +1,9 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) \[diet\] [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[reproduction\]](reproduction.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
+[\[24-04\]](2404.md)
+
+[\[24-03\]](2403.md)
+
 [\[24-02\]](2402.md)
 * [1歳で魚や野菜の摂取量が多く、砂糖飲料の摂取量が少ないと、炎症性腸疾患を予防できる。 (University of Gothenburg)](https://www.gu.se/en/news/healthy-diet-early-in-life-seems-to-protect-against-inflammatory-bowel-disease) ([DOI](https://doi.org/10.1136/gutjnl-2023-330971))
 * [炎症スコアが低い食事の高齢者は高い食事の高齢者より筋肉量と筋力が高い。 (University of the Sunshine Coast)](https://www.usc.edu.au/about/unisc-news/news-archive/2024/january/avoid-inflammatory-food-to-help-save-ageing-muscles-new-research) ([DOI](https://doi.org/10.3390/nu14245319)、過去の調査：[21-11-16 炎症スコアの高い食品が偶発的な認知症発症と相関。 (National and Kapodistrian University of Athens Medical School)](2111.md))
