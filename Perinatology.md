@@ -1,7 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[Pediatrics_education\]](Pediatrics_education.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) \[Perinatology\] [\[reproduction\]](reproduction.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
 [\[24-04\]](2404.md)
-* [韓国の周産期メーカー (JW Bioscience)](https://www.jw-bioscience.co.kr/bioscience/en/main.jsp)
+* [韓国の周産期メーカー (JW Bio Science)](https://www.jw-bioscience.co.kr/bioscience/en/main.jsp)
 
 [\[24-03\]](2403.md)
 * [妊娠中の妊婦のHRV(出産7週前に最も小さくなる)が安定しないことが早産マーカー。 (West Virginia University)](https://medicalxpress.com/news/2024-02-differences-heart-variability-pregnant-women.html) ([DOI](https://doi.org/10.1371/journal.pone.0295899))
