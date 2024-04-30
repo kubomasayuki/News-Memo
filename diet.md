@@ -4,6 +4,7 @@
 * [未熟児に対して、牛の初乳は未熟児では不足しがちなアミノ酸レベルを増加させ、また免疫系を強化させた。 (University of CopenHagen)](https://healthsciences.ku.dk/newsfaculty-news/2023/10/for-prematurely-born-infants-cow-colostrum-can-be-used-to-supplement-mothers-own-milk) ([DOI 1](https://doi.org/10.1016/j.clnu.2023.06.024)、[DOI 2](https://doi.org/10.1016/j.clnu.2023.03.008)、過去の調査：[20-08-14 牛乳由来の栄養より母乳由来の栄養の方が未熟児の予後を改善。 (University of Missouri)](2008.md))
 * [健康的な食習慣であっても短時間睡眠は糖尿病リスクが高い。 (Uppsala Universitet)](https://www.uu.se/en/press/press-releases/2024/2024-03-06-too-little-sleep-raises-risk-of-type-2-diabetes) ([DOI](https://doi.org/10.1001/jamanetworkopen.2024.1147))
 * [拒食(低栄養)でも脂肪肝疾患発症。 (日本生化学会)](https://seikagaku.jbsoc.or.jp/10.14952/SEIKAGAKU.2021.930035/data/index.html)
+* [1日の食事時間を8時間以下に制限すると心血管死のリスクが91％増加。 (American Heart Association)](https://newsroom.heart.org/news/8-hour-time-restricted-eating-linked-to-a-91-higher-risk-of-cardiovascular-death)
 
 [\[24-03\]](2403.md)
 
