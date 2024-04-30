@@ -3,10 +3,6 @@
 [\[24-02\]](2402.md)
 * [炎症スコアが低い食事の高齢者は高い食事の高齢者より筋肉量と筋力が高い。 (University of the Sunshine Coast)](https://www.usc.edu.au/about/unisc-news/news-archive/2024/january/avoid-inflammatory-food-to-help-save-ageing-muscles-new-research) ([DOI](https://doi.org/10.3390/nu14245319)、過去の調査：[21-11-16 炎症スコアの高い食品が偶発的な認知症発症と相関。 (National and Kapodistrian University of Athens Medical School)](2111.md))
 
-[\[24-01\]](2401.md)
-
-[\[23-12\]](2312.md)
-
 [\[23-11\]](2311.md)
 * [ウォーミングアップすることで骨格筋の反応が1.6倍に上昇。 (大阪大学)](http://www.protein.osaka-u.ac.jp/achievements/20231024/) ([DOI](https://doi.org/10.1085/jgp.202313414))
 * [若年期の心肺機能の高さは後年のがん発症リスクと逆相関。 (University of Gothenburg)](https://www.gu.se/en/news/good-fitness-levels-in-youth-linked-to-lower-cancer-risk) ([DOI](https://doi.org/10.1136/bjsports-2022-106617)、過去の調査：[23-07-31 心肺持久力ががん死亡率低下の予測因子。 (University of Regensburg)](2307.md))
@@ -27,19 +23,13 @@
 * [心肺持久力ががん死亡率低下の予測因子。 (University of Regensburg)](https://doi.org/10.1093/annonc/mdu250)
 * [筋内脂肪蓄積はサルコペニアや運動機能低下と相関。 (名古屋大学)](https://www.nagoya-u.ac.jp/about-nu/public-relations/researchinfo/upload_images/20170209_htc.pdf) ([DOI](https://doi.org/10.1016/j.archger.2017.01.014))
 
-[\[23-06\]](2306.md)
-
 [\[23-05\]](2305.md)
 * [高強度の運動は睡眠時間が死亡リスクに影響しない。 (European Society of Cardiology)](https://www.escardio.org/The-ESC/Press-Office/Press-releases/exercise-may-reduce-negative-effects-of-unhealthy-sleep-duration-on-longevity) ([DOI](https://doi.org/10.1093/eurjpc/zwad060))
-
-[\[23-04\]](2304.md)
 
 [\[23-03\]](2303.md)
 * [瘦せていても筋肉が少ないと脂肪肝になりやすい。 (筑波大学)](https://www.tsukuba.ac.jp/journal/images/pdf/200727-2shoda.pdf) ([DOI](https://doi.org/10.1111/hepr.13543))
 * [運動の30時間前にビーツジュースを飲むと高強度運動のパフォーマンスが向上。 (University of Exeter)](http://sshs.exeter.ac.uk/news/newsarchive2013-15/articles/beetrootjuicethewinningfo.html) ([DOI](https://doi.org/10.1007/s00421-013-2589-8))
 * [運動前にビーツジュースを飲むとスタミナが向上。 (University of Exeter)](http://sshs.exeter.ac.uk/news/newsarchive2013-15/articles/whyalittlebeetitgoesalong.html) ([DOI](https://doi.org/10.1007/s00421-015-3166-0))
-
-[\[23-02\]](2302.md)
 
 [\[23-01\]](2301.md)
 * [運動の代わりにガーデニング。 (University of Colorado at Boulder)](https://www.colorado.edu/today/2023/01/05/scientific-reasons-you-should-resolve-start-gardening-2023) ([DOI](https://dx.doi.org/10.1016/S2542-5196(22)00303-5))
@@ -66,8 +56,6 @@
 [\[22-07\]](2207.md)
 * [片足立ちが10秒間できない高齢者はできる高齢者より死亡リスクが2倍近く高い。 (CLINIMEX (Exercise Medicine Clinic) Exercise cohort)](https://www.bristol.ac.uk/news/2022/june/tne-second-one-legged-stance.html) ([DOI](http://dx.doi.org/10.1136/bjsports-2021-105360))
 
-[\[22-06\]](2206.md)
-
 [\[22-05\]](2205.md)
 * [着圧ウェアに筋力回復効果はない。(疲労軽減効果はある？) (東北大学)](https://www.tohoku.ac.jp/en/press/do_compression_garments_facilitate_muscle_recoverey.html) ([DOI](https://doi.org/10.1007/s40279-022-01681-4))
 * [日本人中高年においては中強度の身体活動量が多い方が認知症発症リスクが低い。 (JPHC Study)](https://epi.ncc.go.jp/jphc/outcome/8908.html) ([DOI](https://doi.org/10.1001/jamanetworkopen.2022.4590))
@@ -76,15 +64,11 @@
 [\[22-04\]](2204.md)
 * [アキレス腱断裂時の手術と保存療法では1年後の転帰に有意差なし。 (University of Gothenburg)](https://doi.org/10.1177/0363546510376052)
 
-[\[22-03\]](2203.md)
-
 [\[22-02\]](2202.md)
 * [高強度インターバルトレーニング(HIIT)でも長距離インターバルトレーニングでもアスリートのパフォーマンスを改善したが、休息が重要である。 (University of Jyväskylä)](https://www.jyu.fi/en/current/archive/2022/01/farther-or-faster-both-improve-distance-running-performance) ([DOI](https://doi.org/10.1249/mss.0000000000002861))
 
 [\[22-01\]](2201.md)
 * [定期的な運動は肺炎のリスクと死亡を減らす。 (University of Bristol)](http://bristol.ac.uk/news/2021/december/exercise-pneumonia.html) ([DOI](https://doi.org/10.1007/s11357-021-00491-2))
-
-[\[21-12\]](2112.md)
 
 [\[21-11\]](2111.md)
 * [運動により増加した内在性カンナビノイド(大麻の成分)と腸内細菌叢によって生成される抗炎症物質に相関がある。 (University of Nottingham)](https://www.nottingham.ac.uk/news/exercise-increases-the-bodys-own-cannabis)
@@ -114,58 +98,18 @@
 [\[21-04\]](2104.md)
 * [ラグビーのピッチ上で唾液から脳震盪の有無を判断する。 (Rugby World)](https://www.rugbyworld.com/news/saliva-test-94-accurate-in-head-injury-study-123235) ([論文](https://bjsm.bmj.com/content/early/2021/02/09/bjsports-2020-103274)、[University of Birmingham](https://www.birmingham.ac.uk/news/latest/2021/03/rugby-concussion-saliva-test-research.aspx))
 
-[\[21-03\]](2103.md)
-
-[\[21-02\]](2102.md)
-
-[\[21-01\]](2101.md)
-
-[\[20-12\]](2012.md)
-
 [\[20-11\]](2011.md)
 * [ウェアラブルセンサと機械学習でアスリートの故障を予測。 (Vanderbilt University)](https://engineering.vanderbilt.edu/news/2020/wearable-sensor-algorithms-powered-by-machine-learning-could-be-key-to-preventing-runners-injuries/)
-
-[\[20-10\]](2010.md)
-
-[\[20-09\]](2009.md)
-
-[\[20-08\]](2008.md)
-
-[\[20-07\]](2007.md)
-
-[\[20-06\]](2006.md)
 
 [\[20-05\]](2005.md)
 * [太ももの筋力が弱い過体重や肥満の人は高血圧になりやすい。 (Healthday News)](http://www.healthday.com/hdlite/pb/pb_article.htm?CID=19EEB8AB&NFID=P&articleId=756480)
 * [心肺機能の評価を追加すると健康予測の精度が向上。 (Elsevier)](https://www.elsevier.com/about/press-releases/research-and-journals/cardiorespiratory-fitness-assessment-improves-accuracy-of-health-predictions)
 * [運動の頻度に関わらず、長時間の座位はがん罹患リスク増か？ (国立がん研究センター)](https://epi.ncc.go.jp/jphc/outcome/8485.html)
 
-[\[20-04\]](2004.md)
-
-[\[20-03\]](2003.md)
-
-[\[20-02\]](2002.md)
-
-[\[20-01\]](2001.md)
-
-[\[19-12\]](1912.md)
-
-[\[19-11\]](1911.md)
-
 [\[19-10\]](1910.md)
 * [ランニング効率を高めるためのもう1つの腱 (science alert)](https://www.sciencealert.com/a-simple-jogging-hack-could-allow-you-to-run-longer-and-faster-than-ever-before)
 
-[\[19-09\]](1909.md)
-
 [\[19-08\]](1908.md)
 * [ハーバード大がランニングが楽になるショーツを開発 (CNet Japan)](https://japan.cnet.com/article/35141573/)
-
-[\[19-07\]](1907.md)
-
-[\[19-06\]](1906.md)
-
-[\[19-05\]](1905.md)
-
-[\[19-04\]](1904.md)
 
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) \[fitness\] [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[reproduction\]](reproduction.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
