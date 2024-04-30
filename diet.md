@@ -193,7 +193,7 @@
 * [ジャンクフード(栄養価が低くカフェインやエネルギー密度が高い食事)と睡眠障害の関係が明らかに。 (University of Queensland)](https://www.uq.edu.au/news/article/2020/12/junk-food-linked-sleep-problems-teens)
 
 [\[20-11\]](2011.md)
-* [肉を食べないと骨折リスクが上昇。 (University of Oxford)](https://www.ceu.ox.ac.uk/news/results-show-higher-fracture-risks-for-vegans-vegetarians-and-pescatarians-than-meat-eaters) ([論文](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-020-01815-3))
+* [肉を食べないと骨折リスクが上昇。 (University of Oxford)](https://www.ceu.ox.ac.uk/news/results-show-higher-fracture-risks-for-vegans-vegetarians-and-pescatarians-than-meat-eaters) ([DOI](https://doi.org/10.1186/s12916-020-01815-3))
 
 [\[20-10\]](2010.md)
 * [授乳中の母親の砂糖入り飲料摂取は子供の認知発達機能の低下につながる可能性。 (Children's Hospital, Los Angeles)](https://medicalxpress.com/news/2020-10-sugary-beverages-consumed-breastfeeding-affect.html) ([DOI](https://doi.org/10.1093/ajcn/nqaa255))
