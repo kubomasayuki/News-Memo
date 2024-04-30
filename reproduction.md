@@ -1,5 +1,10 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) \[reproduction\] [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
+[\[24-04\]](2404.md)
+* [座りっぱなしの余暇時間が勃起不全リスクと相関。 (Naval Medical University)](https://doi.org/10.1111/andr.13611)
+
+[\[24-03\]](2403.md)
+
 [\[24-02\]](2402.md)
 
 [\[24-01\]](2401.md)
