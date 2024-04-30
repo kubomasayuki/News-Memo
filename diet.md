@@ -6,8 +6,6 @@
 * [拒食(低栄養)でも脂肪肝疾患発症。 (日本生化学会)](https://seikagaku.jbsoc.or.jp/10.14952/SEIKAGAKU.2021.930035/data/index.html)
 * [1日の食事時間を8時間以下に制限すると心血管死のリスクが91％増加。 (American Heart Association)](https://newsroom.heart.org/news/8-hour-time-restricted-eating-linked-to-a-91-higher-risk-of-cardiovascular-death)
 
-[\[24-03\]](2403.md)
-
 [\[24-02\]](2402.md)
 * [1歳で魚や野菜の摂取量が多く、砂糖飲料の摂取量が少ないと、炎症性腸疾患を予防できる。 (University of Gothenburg)](https://www.gu.se/en/news/healthy-diet-early-in-life-seems-to-protect-against-inflammatory-bowel-disease) ([DOI](https://doi.org/10.1136/gutjnl-2023-330971))
 * [炎症スコアが低い食事の高齢者は高い食事の高齢者より筋肉量と筋力が高い。 (University of the Sunshine Coast)](https://www.usc.edu.au/about/unisc-news/news-archive/2024/january/avoid-inflammatory-food-to-help-save-ageing-muscles-new-research) ([DOI](https://doi.org/10.3390/nu14245319)、過去の調査：[21-11-16 炎症スコアの高い食品が偶発的な認知症発症と相関。 (National and Kapodistrian University of Athens Medical School)](2111.md))
@@ -24,8 +22,6 @@
 [\[23-11\]](2311.md)
 * [子供がグズった時に食べ物でなだめるので、ネガティブな感情の時により多く食べるようになる？ (Aston University)](https://www.aston.ac.uk/latest-news/children-young-four-eat-more-when-bored) ([DOI](https://doi.org/10.1016/j.foodqual.2023.105008))
 * [乳化剤の成分であるカルボキシメチルセルロースは腸内で炎症物質であるフラジェリンを増殖させる。 (Georgia State University)](http://doi.org/10.1136/gutjnl-2016-313099) (過去の調査：[21-11-16 炎症スコアの高い食品が偶発的な認知症発症と相関。 (National and Kapodistrian University of Athens Medical School)](2111.md))
-
-[\[23-10\]](2310.md) 
 
 [\[23-09\]](2309.md)
 * [高齢者の日常的なマルチビタミンの摂取で記憶力が改善。 (Columbia University)](https://www.cuimc.columbia.edu/news/multivitamin-improves-memory-older-adults-study-finds) ([DOI](https://doi.org/10.1016/j.ajcnut.2023.05.011))
@@ -107,8 +103,6 @@
 [\[22-05\]](2205.md)
 * [アスパルテームやアセスルファムKなどの人工甘味料を多く摂取するとがん発症リスク上昇の可能性。 (French National Institute of Health and Medical Research)](https://www.inrae.fr/en/news/artificial-sweeteners-possible-link-increased-cancer-risk) ([DOI](https://doi.org/10.1371/journal.pmed.1003950))
 
-[\[22-04\]](2204.md)
-
 [\[22-03\]](2203.md)
 * [なぜ人工塩味料は作れないのか。 (SciShow ‐ YouTube)](https://www.youtube.com/watch?v=UubWXQna0oc)
 * [糖分の長期間の過剰摂取は自己免疫疾患と慢性炎症の発症リスクが増加。 (Universität Würzburg)](https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/wie-zucker-entzuendungen-foerdert/) ([DOI](https://doi.org/10.1016/j.cmet.2022.02.015))
@@ -187,10 +181,6 @@
 * [きのこ摂取により乳がん発症リスクは有意に低下し、他のがんの発症リスクも低下する可能性。 (ケアネット)](https://www.carenet.com/news/general/carenet/51905) ([論文](https://academic.oup.com/advances/advance-article-abstract/doi/10.1093/advances/nmab015/6174025))
 * [温かい食べ物の方が食事の満足度(満腹度)が高いので、補完的な食事が減る。 (Rutgers University Camden)](https://news.camden.rutgers.edu/2021/02/consumers-buy-more-food-when-they-order-cold-meals-and-drinks/) ([ジャーナル記事](https://www.sciencedirect.com/science/article/abs/pii/S0195666320316913))
 
-[\[21-02\]](2102.md)
-
-[\[21-01\]](2101.md)
-
 [\[20-12\]](2012.md)
 * [ジャンクフード(栄養価が低くカフェインやエネルギー密度が高い食事)と睡眠障害の関係が明らかに。 (University of Queensland)](https://www.uq.edu.au/news/article/2020/12/junk-food-linked-sleep-problems-teens)
 
@@ -200,18 +190,12 @@
 [\[20-10\]](2010.md)
 * [授乳中の母親の砂糖入り飲料摂取は子供の認知発達機能の低下につながる可能性。 (Children's Hospital, Los Angeles)](https://medicalxpress.com/news/2020-10-sugary-beverages-consumed-breastfeeding-affect.html) ([DOI](https://doi.org/10.1093/ajcn/nqaa255))
 
-[\[20-09\]](2009.md)
-
 [\[20-08\]](2008.md)
 * [牛乳由来の栄養より母乳由来の栄養の方が未熟児の予後を改善。 (University of Missouri)](https://news.missouri.edu/2020/got-milk-human-milk-based-fortifiers-improve-health-outcomes-for-the-smallest-premature-babies/) ([記事](https://www.neonatologytoday.net/newsletters/nt-jul20.pdf))
 
 [\[20-07\]](2007.md)
 * [食前のレモン果汁摂取で食後の血糖値上昇を抑制。 (ポッカサッポロ)](https://www.pokkasapporo-fb.jp/company/news/release/200716_01.html)
 * [妊娠中の早食いで妊娠糖尿病発症のリスク増。 (ケアネット)](https://www.carenet.com/news/general/hdnj/50238) ([論文](https://www.mdpi.com/2072-6643/12/5/1296)、[エコチル調査](http://www.env.go.jp/chemi/ceh/index.html))
-
-[\[20-06\]](2006.md)
-
-[\[20-05\]](2005.md)
 
 [\[20-04\]](2004.md)
 * [フィルターでろ過したコーヒーを1日1～4杯飲む人が最も健康。 (Norwegian Institute of Public Health)](https://medicalxpress.com/news/2020-04-healthiest-coffee-science.html) ([DOI](https://doi.org/10.1177/2047487320914443))
@@ -224,27 +208,9 @@
 * [中年以上の日常的な糖質摂取は脂質異常症発症リスクが上昇 (Tufts Now)](https://now.tufts.edu/news-releases/sugary-drinks-sour-choice-adults-trying-maintain-normal-cholesterol-levels)
 * [ジャンクフードは依存性や健康上の問題だけでなく記憶力低下も (Daily Mail)](https://www.dailymail.co.uk/health/article-8016945/)
 
-[\[20-01\]](2001.md)
-
-[\[19-12\]](1912.md)
-
-[\[19-11\]](1911.md)
-
 [\[19-10\]](1910.md)
 * [食事による脈波パターンの変化を利用して糖質代謝状態を推定するデバイス (京セラ)](https://www.kyocera.co.jp/news/2019/1008_apbc.html)
 * [日本の学校給食は子供たちの栄養バランスに貢献する世界でも珍しいシステム (Channel News Asia)](https://www.channelnewsasia.com/news/asia/japan-children-nutrition-obesity-health-unicef-list-12000780)
 * [甘いものは適量を活動期に (名古屋大学)](http://www.nagoya-u.ac.jp/about-nu/public-relations/researchinfo/upload_images/20190912_agr1.pdf)
-
-[\[19-09\]](1909.md)
-
-[\[19-08\]](1908.md)
-
-[\[19-07\]](1907.md)
-
-[\[19-06\]](1906.md)
-
-[\[19-05\]](1905.md)
-
-[\[19-04\]](1904.md)
 
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) \[diet\] [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[reproduction\]](reproduction.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
