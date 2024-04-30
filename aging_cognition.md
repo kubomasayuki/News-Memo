@@ -1,11 +1,5 @@
 \[aging_cognition\] [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[Pediatrics_education\]](Pediatrics_education.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[Perinatology\]](Perinatology.md) [\[reproduction\]](reproduction.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
-[\[24-04\]](2404.md)
-
-[\[24-03\]](2403.md)
-
-[\[24-02\]](2402.md)
-
 [\[24-01\]](2401.md)
 * [善玉コレステロール(HDL-C)レベルが異常に高いと認知症リスクが上昇。 (Monach University)](https://www.monash.edu/news/articles/very-high-levels-of-good-cholesterol-may-be-associated-with-dementia-risk-study) ([DOI](https://doi.org/10.1016/j.lanwpc.2023.100963))
 * [不規則な睡眠サイクルは認知症リスク上昇。 (Monash University)](https://www.monash.edu/news/articles/highly-irregular-sleep-patterns-may-increase-dementia-risk-study) ([DOI](https://doi.org/10.1212/WNL.0000000000208029)、[22-09-20 概日リズムの安定はうつ病や認知機能低下の予防になる。 (University of Pittsburgh)](2209.md))
@@ -35,12 +29,8 @@
 [\[23-06\]](2306.md)
 * [母親の認知症は男女ともに子供の認知症リスクと相関。 (Sungkyunkwan University)](https://www.carenet.com/news/general/carenet/56531) ([DOI](https://doi.org/10.1111/pcn.13561))
 
-[\[23-05\]](2305.md)
-
 [\[23-04\]](2304.md)
 * [食事でマグネシウム摂取を増やすと老化に伴う認知機能低下を予防できる。 (Australian National University)](https://nceph.anu.edu.au/news-events/news/higher-dose-magnesium-each-day-keeps-dementia-bay) ([DOI](https://doi.org/10.1007/s00394-023-03123-x))
-
-[\[23-03\]](2303.md)
 
 [\[23-02\]](2302.md)
 * [中年期の禁煙は認知機能低下予防になる。 (Ohio State University)](https://cph.osu.edu/news/2022/12/smoking-increases-chances-mid-life-memory-loss-confusion) ([DOI](https://doi.org/10.3233/JAD-220501))
@@ -49,8 +39,6 @@
 * [非認知症患者は魚介類、きのこ、大豆製品、コーヒーの摂取割合が高い。 (国立長寿医療研究センター)](https://www.ncgg.go.jp/hospital/monowasure/news/20211025.html) ([DOI](https://doi.org/10.1016/j.nut.2021.111524))
 * [体重が減少3.5kg以上減少した高齢者は認知症リスクが高い。 (東北大学、大崎市民コホート2006研究)](http://www.pbhealth.med.tohoku.ac.jp/publication/pdf/2020/2020_7.pdf) ([DOI](https://doi.org/10.2188/jea.JE20200260))
 * [運動やマインドフルネスによって、認知症の予防はできるが、認知機能は改善しない。 (Washington University School of Medicine)](https://medicine.wustl.edu/news/exercise-mindfulness-dont-appear-to-boost-cognitive-function-in-older-adults/) ([DOI](https://doi.org/10.1001/jama.2022.21680))
-
-[\[22-12\]](2212.md)
 
 [\[22-11\]](2211.md)
 * [鼻をほじると認知症のリスクが上昇？ (Griffith University)](https://news.griffith.edu.au/2022/10/28/new-research-suggests-nose-picking-could-increase-risk-for-alzheimers-and-dementia/) ([DOI](https://doi.org/10.1038/s41598-022-20674-x))
@@ -80,13 +68,9 @@
 [\[22-04\]](2204.md)
 * [図書館や体育館などが少ない地域に住むことは認知症リスクの増加と関連。 (Monach University)](https://www.monash.edu/news/articles/where-you-live-is-a-factor-in-your-dementia-risk) ([DOI](https://doi.org/10.1001/jamanetworkopen.2022.4071))
 
-[\[22-03\]](2203.md)
-
 [\[22-02\]](2202.md)
 * [PM2.5曝露が多く、緑地が少ない子供はADHD発症リスクが増加。 (Barcelona Institute for Global Health, University of British Columbia)](https://www.med.ubc.ca/news/reduce-adhd-with-more-parks-less-pollution/) ([DOI](https://doi.org/10.1016/j.envint.2022.107120))
 * [水溶性食物繊維の多い食事は認知症のリスクを下げる。 (筑波大学)](https://www.tsukuba.ac.jp/en/research-news/20220210140000.html) ([DOI](https://doi.org/10.1080/1028415X.2022.2027592))
-
-[\[22-01\]](2201.md)
 
 [\[21-12\]](2112.md)
 * [安静時心拍数が高いと認知症リスクが上昇。 (Karolinska Institutet)](https://news.ki.se/elevated-heart-rate-linked-to-increased-risk-of-dementia) ([DOI](https://doi.org/10.1002/alz.12495))
@@ -136,50 +120,10 @@
 [\[21-02\]](2102.md)
 * [体罰や育児放棄が発達指数(DQ)の低下と相関。 (Science Daily)](https://www.sciencedaily.com/releases/2021/02/210205192202.htm) ([原文](https://jaacap.org/article/S0890-8567(20)30163-5/fulltext))
 
-[\[21-01\]](2101.md)
-
 [\[20-12\]](2012.md)
 * [父親との接点が多い子供は落ち着きがあり、問題行動が少ない。 (Rutgers University)](https://www.rutgers.edu/news/engaged-dads-can-reduce-adolescent-behavioral-problems-improve-well-being)
 
-[\[20-11\]](2011.md)
-
-[\[20-10\]](2010.md)
-
-[\[20-09\]](2009.md)
-
-[\[20-08\]](2008.md)
-
-[\[20-07\]](2007.md)
-
-[\[20-06\]](2006.md)
-
-[\[20-05\]](2005.md)
-
-[\[20-04\]](2004.md)
-
-[\[20-03\]](2003.md)
-
 [\[20-02\]](2002.md)
 * [ジャンクフードは依存性や健康上の問題だけでなく記憶力低下も (Daily Mail)](https://www.dailymail.co.uk/health/article-8016945/)
-
-[\[20-01\]](2001.md)
-
-[\[19-12\]](1912.md)
-
-[\[19-11\]](1911.md)
-
-[\[19-10\]](1910.md)
-
-[\[19-09\]](1909.md)
-
-[\[19-08\]](1908.md)
-
-[\[19-07\]](1907.md)
-
-[\[19-06\]](1906.md)
-
-[\[19-05\]](1905.md)
-
-[\[19-04\]](1904.md)
 
 \[aging_cognition\] [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[Pediatrics_education\]](Pediatrics_education.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[Perinatology\]](Perinatology.md) [\[reproduction\]](reproduction.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
