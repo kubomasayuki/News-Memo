@@ -1,5 +1,7 @@
 [\[aging_cognition\]](aging_cognition.md) \[alcohol\] [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[reproduction\]](reproduction.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
+[\[24-04\]](2404.md)
+
 [\[24-03\]](2403.md)
 * [アルコール障害を減少させるための行動計画。 (WHO)](https://www.who.int/publications/m/item/global-alcohol-action-plan-second-draft-unedited)
 
