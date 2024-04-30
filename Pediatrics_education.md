@@ -1,5 +1,8 @@
 [\[aging_cognition\]](aging_cognition.md) [\[alcohol\]](alcohol.md) [\[Dentistry\]](Dentistry.md) [\[diet\]](diet.md) [\[fitness\]](fitness.md) [\[Gynecology\]](Gynecology.md) [\[medical_device\]](medical_device.md) [\[ObGyn\]](ObGyn.md) \[Pediatrics_education\] [\[pediatrics_neonatology\]](pediatrics_neonatology.md) [\[Perinatology\]](Perinatology.md) [\[reproduction\]](reproduction.md) [\[sleep\]](sleep.md) [\[smoke\]](smoke.md) [\[vital_signs\]](vital_signs.md)
 
+[\[24-04\]](2404.md)
+* [両親(養親)の関係が肯定的である方が子供の社会的、行動的適応が良好だった。 (Ohio State University)](https://www.osu.edu/impact/now-at-ohio-state/co-parenting)
+
 [\[24-03\]](2403.md)
 * [3歳時点の就寝時間の早さが就学後の学力や非認知能力と関連。 (神戸大学)](https://doi.org/10.1038/s41598-023-48280-5)
 
