@@ -12,15 +12,11 @@
 * [体内で振動することで食欲を減退させるカプセル。 (MIT)](https://news.mit.edu/2023/engineers-develop-vibrating-ingestible-capsule-1222) ([DOI](https://doi.org/10.1126/sciadv.adj3003)、過去の記事：[23-03-20 カプセル型振動デバイスが便秘を改善。 (Augusta University)](2303.md))
 * [腫瘍の大きさを監視するデバイス。 (Stanford University)](https://cheme.stanford.edu/new-wearable-device-measures-changing-size-tumors-below-skin) ([DOI](https://doi.org/10.1126/sciadv.abn6550))
 
-[\[24-01\]](2401.md)
-
 [\[23-12\]](2312.md)
 * [AI＋クラウド＋胎児心電計。 (クラウドセンス)](http://cloud-sense.co.jp/service.html)
 
 [\[23-11\]](2311.md) 
 * [聴覚刺激によって深い睡眠を得るデバイス。 (ETH Zurich)](https://ethz.ch/en/news-and-events/eth-news/news/2017/11/get-a-better-nights-sleep.ethz_search.html)
-
-[\[23-10\]](2310.md) 
 
 [\[23-09\]](2309.md)
 * [令和4年のGCP省令改正について。 (厚生労働省)](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000179749_00006.html)
@@ -56,8 +52,6 @@
 [\[22-12\]](2212.md)
 * [電気皮膚反応を計測する電子タトゥー。 (University of Texas at Austin)](https://cockrell.utexas.edu/news/archive/9620-palm-e-tattoo-can-tell-when-you-re-stressed-out) ([DOI](https://doi.org/10.1038/s41467-022-34406-2))
 
-[\[22-11\]](2211.md)
-
 [\[22-10\]](2210.md)
 * [乳幼児向けウェアラブルデバイス。 (University of Illinois Urbana Champaign)](https://littlebeats.hdfs.illinois.edu/about-littlebeats/)
 
@@ -70,8 +64,6 @@
 * [少量の発汗で動作可能なウェアラブルバイオセンサー。 (California Institute of Technology)](https://www.caltech.edu/about/news/new-wearable-sensor-detects-even-more-compounds-in-human-sweat) ([DOI](https://doi.org/10.1038/s41551-022-00916-z)、過去の調査：[22-02-08
  汗中コルチゾールを測定し、ストレスの度合いを測定するウェアラブルデバイス。 (UCLA)](2202.md))
 * [心拍数と呼吸数の継続監視により床ずれを検出するデバイス。 (University of South Australia)](https://www.unisa.edu.au/media-centre/Releases/2022/tiny-optical-sensors-could-put-an-end-to-hospital-bed-sores/) ([DOI](https://doi.org/10.1117/1.JBO.27.6.067002))
-
-[\[22-07\]](2207.md)
 
 [\[22-06\]](2206.md)
 * [立ち上がれる電動車いす。 (permobil)](https://permobilkk.jp/products/f5vs)
@@ -91,13 +83,9 @@
 [\[22-02\]](2202.md)
 * [汗中コルチゾールを測定し、ストレスの度合いを測定するウェアラブルデバイス。 (UCLA)](https://newsroom.ucla.edu/releases/cortisol-sensing-smartwatch) ([DOI](https://doi.org/10.1126/sciadv.abk0967))
 
-[\[22-01\]](2201.md)
-
 [\[21-12\]](2112.md)
 * [ポータブル心拍変動測定器 (TRYTECH)](https://www.trytech.co.jp/checkmyheart/glossary.html)
 * [靴下型ベビーモニタ(医療機器でないと謳いFDA未承認)はFDAの警告を受け、販売を停止。 (Owlet)](https://owletcare.com/pages/fda-response)
-
-[\[21-11\]](2111.md)
 
 [\[21-10\]](2110.md)
 * [日台薬事規制協力取り決めについて (公益財団法人交流協会)](https://www.koryu.or.jp/Portals/0/images/news/20131105/yakujikiji.pdf)
@@ -108,8 +96,6 @@
 * [肺移植の成否をバイオセンサーで検知。 (European Lung Foundation)](https://www.eurekalert.org/news-releases/927276)
 * [パッチタイプの肌表面のpHセンサ。 (McGill University)](https://www.mcgill.ca/newsroom/channels/news/skin-crawling-treatment-acne-332924) ([DOI](https://doi.org/10.1126/sciadv.abf5695))
 * [超音波を利用した頭蓋内圧スキャナ。 (Nisonic)](https://nisonic.com/)
-
-[\[21-08\]](2108.md)
 
 [\[21-07\]](2107.md)
 * [ワイヤレスで摘出術不要な一時的なペースメーカー。 (Northwestern University)](https://news.northwestern.edu/stories/2021/06/first-ever-transient-pacemaker-harmlessly-dissolves-in-body/) ([DOI](https://doi.org/10.1038/s41587-021-00948-x))
@@ -154,16 +140,12 @@
 * [新生児の脳性麻痺などの兆候を見つける為のウェアラブルカフ。 (Imperial College London)](https://www.imperial.ac.uk/news/209073/new-non-invasive-technology-could-spot-early/)
 * [ウェアラブルセンサと機械学習でアスリートの故障を予測。 (Vanderbilt University)](https://engineering.vanderbilt.edu/news/2020/wearable-sensor-algorithms-powered-by-machine-learning-could-be-key-to-preventing-runners-injuries/)
 
-[\[20-10\]](2010.md)
-
 [\[20-09\]](2009.md)
 * [Apple Watchの心電図機能が解禁。クラスII医療機器でも管理医療機器営業管理者の配置は不要。 (ケータイWatch)](https://k-tai.watch.impress.co.jp/docs/news/1276663.html)
 
 [\[20-08\]](2008.md)
 * [医療機器へのサイバー攻撃対策にAIを活用。 (Medical AI Times)](https://aitimes.media/2020/08/31/5921/?6598)
 * [胎児・新生児向けウェアラブルバイタルモニタ装置の開発とその臨床評価。 (KAKEN)](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-25289121/)
-
-[\[20-07\]](2007.md)
 
 [\[20-06\]](2006.md)
 * [非侵襲胎児酸素飽和度モニタ (カリフォルニア大デービス校)](https://www.ucdavis.edu/news/noninvasive-fetal-oxygen-monitor-could-make-safer-deliveries) ([論文](https://www.ajog.org/article/S0002-9378(19)31484-X/fulltext))
@@ -184,17 +166,11 @@
 [\[20-02\]](2002.md)
 * [ポータブルMRIがFDA承認取得 (Medgadget)](https://www.medgadget.com/2020/02/worlds-first-portable-mri-cleared-by-fda.html)
 
-[\[20-01\]](2001.md)
-
-[\[19-12\]](1912.md)
-
 [\[19-11\]](1911.md)
 * [30％軽量化した電子聴診器 (medgadget)](https://www.medgadget.com/2019/11/eko-releases-new-core-digital-stethoscope-offerings.html)
 
 [\[19-10\]](1910.md)
 * [食事による脈波パターンの変化を利用して糖質代謝状態を推定するデバイス (京セラ)](https://www.kyocera.co.jp/news/2019/1008_apbc.html)
-
-[\[19-09\]](1909.md)
 
 [\[19-08\]](1908.md)
 * [スタンフォード大とバークレー大がそれぞれ産み出した伸縮性のあるワイヤレスバイタルセンサー](https://jp.techcrunch.com/2019/08/20/2019-08-16-flexible-stick-on-sensors-could-wirelessly-monitor-your-sweat-and-pulse/)
